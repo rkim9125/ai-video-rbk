@@ -3,7 +3,6 @@ import os
 from pydub import AudioSegment
 from pydub.silence import detect_silence
 
-# 프로젝트 루트로 이동 (어디서 실행해도 output/audio 를 찾도록)
 ROOT = Path(__file__).resolve().parent.parent
 os.chdir(ROOT)
 
@@ -22,7 +21,7 @@ def ms_to_timestamp(ms: int) -> str:
 
 wav_files = list(AUDIO_DIR.glob("*.wav"))
 if not wav_files:
-    raise SystemExit(f"WAV 파일이 없습니다: {AUDIO_DIR.absolute()} (먼저 python3 src/extract_audio.py 실행)")
+    raise SystemExit(f"WAV files not found: {AUDIO_DIR.absolute()} (run python3 src/extract_audio.py first)")
 
 for wav_file in wav_files:
     audio = AudioSegment.from_wav(wav_file)
