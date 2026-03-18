@@ -1,0 +1,11 @@
+00:00:23  Recap and Administrative Updates
+00:04:18  Project Team Formation and Collaboration
+00:12:32  Engineers' Role in Autonomous Systems
+00:15:50  Data Representation and Mathematical Foundations of ML
+00:24:49  Machine Learning Paradigms (Supervised vs Unsupervised)
+00:29:27  Classification and Decision Making
+00:44:32  Model Confidence and Prediction Metrics
+00:58:20  Activation Functions and Model Outputs
+01:16:57  Model Evaluation (ROC/AUC)
+01:29:42  Hyperparameters and Training Process
+01:34:20  Demonstration and Q&A

@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Project: exclude large media and generated audio
+silence_baseline/data/
+silence_baseline/output/audio/
+
+# Optional: keep prediction txts but ignore other heavy artifacts
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mkv
+*.mov

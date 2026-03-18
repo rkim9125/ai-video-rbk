@@ -1,0 +1,7086 @@
+WEBVTT
+
+00:00:12.510 --> 00:00:16.239
+<v Speaker 0>And the way Collecting the data is really the biggest
+
+NOTE CONF {"raw":[74,77,41,99,99,99,99,99,99,99]}
+
+00:00:16.239 --> 00:00:20.120
+<v Speaker 0>challenge in a lot of cases, right, especially with label
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,97]}
+
+00:00:20.120 --> 00:00:20.670
+<v Speaker 0>data.
+
+NOTE CONF {"raw":[99]}
+
+00:00:21.079 --> 00:00:24.719
+<v Speaker 0>Right, so using last week's analogy, we talked about using
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:00:24.719 --> 00:00:27.479
+<v Speaker 0>Apple, right, if you have a 100 apple, you've got
+
+NOTE CONF {"raw":[53,99,98,99,99,86,99,99,99,99]}
+
+00:00:27.479 --> 00:00:30.200
+<v Speaker 0>the dimension of each of those apples, size and the
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,99,99,99]}
+
+00:00:30.200 --> 00:00:33.880
+<v Speaker 0>retinas, and then taste those 100 apples and determine if
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:00:33.880 --> 00:00:34.869
+<v Speaker 0>it's tasty or not.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:00:35.459 --> 00:00:38.979
+<v Speaker 0>Right, and then subsequently with that with that set of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:00:38.979 --> 00:00:41.770
+<v Speaker 0>data, which is a labelled data, then you can train
+
+NOTE CONF {"raw":[99,99,99,99,90,99,99,99,99,99]}
+
+00:00:41.770 --> 00:00:46.580
+<v Speaker 0>a potentially a machine learning algorithm that predicts, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:00:46.659 --> 00:00:51.369
+<v Speaker 0>in the next 100, um, apples, whether or not it's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:00:51.369 --> 00:00:51.900
+<v Speaker 0>tasty or not.
+
+NOTE CONF {"raw":[97,99,99]}
+
+00:00:53.290 --> 00:00:56.930
+<v Speaker 0>Collecting that is obviously a challenge, um, but then in,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:00:56.970 --> 00:01:00.080
+<v Speaker 0>in the sense, right, if you develop this algorithm correctly,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:00.209 --> 00:01:03.450
+<v Speaker 0>it can actually self-modify, right, which is really the benefit
+
+NOTE CONF {"raw":[99,99,99,86,97,99,99,99,99,99]}
+
+00:01:03.450 --> 00:01:07.120
+<v Speaker 0>of why machine learning is really the um the approach
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:07.370 --> 00:01:10.889
+<v Speaker 0>to a lot of this uh modern day challenges.
+
+NOTE CONF {"raw":[99,99,99,99,99,76,99,99,99]}
+
+00:01:12.540 --> 00:01:15.069
+<v Speaker 0>So I talked about the uh it depends on data
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:01:15.069 --> 00:01:19.029
+<v Speaker 0>set, right, generating good data set, representative data set is
+
+NOTE CONF {"raw":[99,99,92,99,99,99,99,99,99,99]}
+
+00:01:19.029 --> 00:01:21.220
+<v Speaker 0>really the challenge, um.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:01:22.650 --> 00:01:25.300
+<v Speaker 0>And then we talked about the um the the training
+
+NOTE CONF {"raw":[99,99,99,99,99,89,99,99,99,99]}
+
+00:01:25.300 --> 00:01:28.819
+<v Speaker 0>process, right, for a supervised set of data, you need
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:01:28.819 --> 00:01:32.809
+<v Speaker 0>about, you know, a good 60 to 80% of your
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:32.809 --> 00:01:33.220
+<v Speaker 0>data set.
+
+NOTE CONF {"raw":[99,99]}
+
+00:01:33.300 --> 00:01:36.569
+<v Speaker 0>Now depending on the number of roles you have, um,
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99,99,99]}
+
+00:01:36.750 --> 00:01:40.139
+<v Speaker 0>to, to be used as training and then and the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:40.139 --> 00:01:42.580
+<v Speaker 0>remaining to be used as a verification.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:01:43.779 --> 00:01:47.690
+<v Speaker 0>There are other ways of um getting more efficiency around
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:47.690 --> 00:01:50.989
+<v Speaker 0>your existing data set, right, so those are things like
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:01:50.989 --> 00:01:55.819
+<v Speaker 0>the Kal approach, um, the KO cross validation where you
+
+NOTE CONF {"raw":[99,18,99,99,99,32,99,99,99,99]}
+
+00:01:55.819 --> 00:02:00.300
+<v Speaker 0>chunk them into, into bits, and then you you evolve
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:00.300 --> 00:02:01.019
+<v Speaker 0>it around.
+
+NOTE CONF {"raw":[99,99]}
+
+00:02:01.099 --> 00:02:04.660
+<v Speaker 0>So imagine 20% of your data set, you know, being
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:04.660 --> 00:02:07.569
+<v Speaker 0>the testing and then the, the remaining 80 is your,
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:02:07.620 --> 00:02:08.449
+<v Speaker 0>is your training.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:02:08.789 --> 00:02:11.679
+<v Speaker 0>And then you slowly move that little window across, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:11.679 --> 00:02:16.479
+<v Speaker 0>you could get some better um generalisation uh out of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,96,99,99]}
+
+00:02:16.479 --> 00:02:17.468
+<v Speaker 0>that process.
+
+NOTE CONF {"raw":[99,99]}
+
+00:02:18.039 --> 00:02:21.078
+<v Speaker 0>Now this is to really avoid the, the common problem
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:21.078 --> 00:02:24.468
+<v Speaker 0>of over and underfitting in all your algos, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99]}
+
+00:02:24.748 --> 00:02:27.559
+<v Speaker 0>If you fit it too closely to every single data
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:27.559 --> 00:02:32.158
+<v Speaker 0>point, then you capture the signal and the noise, right,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,92]}
+
+00:02:32.238 --> 00:02:35.199
+<v Speaker 0>if you underfit that too much, then you don't get
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:02:35.199 --> 00:02:36.768
+<v Speaker 0>the signal, you just get the noise.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:02:37.350 --> 00:02:40.309
+<v Speaker 0>So really all this is a fine balance between.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:02:41.160 --> 00:02:44.160
+<v Speaker 0>How much you you used to, you know, how much
+
+NOTE CONF {"raw":[99,99,99,99,93,99,99,99,99,99]}
+
+00:02:44.160 --> 00:02:46.800
+<v Speaker 0>of your limited data set you use to train, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:02:46.800 --> 00:02:49.639
+<v Speaker 0>then how, what's the best efficiency you can get to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:49.639 --> 00:02:53.000
+<v Speaker 0>a good enough model that can predict most of the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:02:53.000 --> 00:02:56.000
+<v Speaker 0>cases with high degrees of accuracy.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:02:57.699 --> 00:03:01.339
+<v Speaker 0>Um, we talked about categorization, right, as a, as a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:01.339 --> 00:03:05.429
+<v Speaker 0>model category, um, so basically putting things into class, right,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:05.470 --> 00:03:10.020
+<v Speaker 0>and most situations when you determine, uh, classes, they can
+
+NOTE CONF {"raw":[92,99,99,99,99,99,95,99,99,99]}
+
+00:03:10.020 --> 00:03:13.389
+<v Speaker 0>be thought through as a binary system, either good or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:13.389 --> 00:03:16.949
+<v Speaker 0>not good or not good yet, right, and then you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:16.949 --> 00:03:20.990
+<v Speaker 0>sub to fight that problem set into further uh binary
+
+NOTE CONF {"raw":[99,82,99,99,99,99,99,99,58,99]}
+
+00:03:20.990 --> 00:03:22.960
+<v Speaker 0>um sorting methods.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:03:23.649 --> 00:03:27.250
+<v Speaker 0>Uh, we talked about confusion matrix, right, uh, and how
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,90,99,99]}
+
+00:03:27.250 --> 00:03:31.009
+<v Speaker 0>to evaluate the performance of each of those, um, models
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:31.009 --> 00:03:32.050
+<v Speaker 0>that you create, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:03:32.210 --> 00:03:35.729
+<v Speaker 0>So, namely you have, you have scoring factors such as
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:03:35.729 --> 00:03:41.649
+<v Speaker 0>the accuracy, specificity, recall values, and sensitivity, um, and really
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:41.649 --> 00:03:45.970
+<v Speaker 0>using all those to compute the, uh, ROC curve, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:45.970 --> 00:03:48.410
+<v Speaker 0>the area under the curve is really then what you're
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:03:48.410 --> 00:03:50.770
+<v Speaker 0>looking at post that point.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:03:51.300 --> 00:03:54.699
+<v Speaker 0>Uh, generally speaking, F1 scores is a better way of
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:03:54.699 --> 00:03:59.529
+<v Speaker 0>getting a fine balance between precision and recall, right, so
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:03:59.529 --> 00:04:03.529
+<v Speaker 0>recall, remember that we talked about, uh, the F1 score
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:04:03.529 --> 00:04:08.809
+<v Speaker 0>being the harmonic average of those values, and you want
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:08.809 --> 00:04:12.050
+<v Speaker 0>to have a system that can, you know, not give
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:12.050 --> 00:04:15.970
+<v Speaker 0>too many false values or false positive, um, but yet
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:15.970 --> 00:04:17.118
+<v Speaker 0>selective enough.
+
+NOTE CONF {"raw":[99,99]}
+
+00:04:17.368 --> 00:04:17.838
+<v Speaker 0>Right.
+
+NOTE CONF {"raw":[99]}
+
+00:04:18.329 --> 00:04:19.690
+<v Speaker 0>So that's really your job.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:04:20.200 --> 00:04:24.869
+<v Speaker 0>As a machine scientist or machine engineer or whatever, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:25.570 --> 00:04:28.619
+<v Speaker 0>Um, to go through that process and apply the thinking
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:28.619 --> 00:04:33.279
+<v Speaker 0>and the selectivity and the judgement behind your model creation.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:33.820 --> 00:04:37.250
+<v Speaker 0>So whilst that, you know, everything can be automated now
+
+NOTE CONF {"raw":[99,96,99,99,99,99,99,99,99,99]}
+
+00:04:37.250 --> 00:04:39.950
+<v Speaker 0>and very much so when you do your project, that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:39.950 --> 00:04:42.859
+<v Speaker 0>will be what kind of is expected as well, right?
+
+NOTE CONF {"raw":[99,99,99,76,91,99,99,99,99,99]}
+
+00:04:42.940 --> 00:04:45.459
+<v Speaker 0>You use a lot of packages, you pull out from
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:04:45.459 --> 00:04:49.649
+<v Speaker 0>the libraries, but then the determination comes from you guys.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:50.260 --> 00:04:52.420
+<v Speaker 0>So, you know, if you don't have a good understanding
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:52.420 --> 00:04:55.350
+<v Speaker 0>of the problem set, Then really you don't know what
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:04:55.350 --> 00:04:57.420
+<v Speaker 0>you're really working with, OK?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:04:58.519 --> 00:05:01.320
+<v Speaker 0>Just a recap, this is the the table that we
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,97]}
+
+00:05:01.320 --> 00:05:04.549
+<v Speaker 0>used to create the ROC curve effectively.
+
+NOTE CONF {"raw":[98,99,99,99,99,93,99]}
+
+00:05:04.959 --> 00:05:09.079
+<v Speaker 0>Um, you can see the, the colour shade shaded boxes,
+
+NOTE CONF {"raw":[75,99,99,99,99,99,99,67,78,99]}
+
+00:05:09.250 --> 00:05:12.320
+<v Speaker 0>right, remembering that there's a ground truth, right, whether or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:12.320 --> 00:05:16.149
+<v Speaker 0>not something's tasty or not in that Apple example, um,
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,88,99,99]}
+
+00:05:16.200 --> 00:05:18.920
+<v Speaker 0>and then your model predicting if it, if that's true
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:18.920 --> 00:05:19.390
+<v Speaker 0>or not.
+
+NOTE CONF {"raw":[99,99]}
+
+00:05:19.809 --> 00:05:23.320
+<v Speaker 0>So you will have two situations where it can predict
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:23.619 --> 00:05:27.980
+<v Speaker 0>correctly, right, true positive, or it can predict correctly in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:27.980 --> 00:05:30.260
+<v Speaker 0>the negative sense, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:05:30.540 --> 00:05:33.899
+<v Speaker 0>And then conversely, you have the false positive and false
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:05:33.899 --> 00:05:34.609
+<v Speaker 0>negative.
+
+NOTE CONF {"raw":[99]}
+
+00:05:36.119 --> 00:05:40.220
+<v Speaker 0>Under under certain circumstances, you do not want to have,
+
+NOTE CONF {"raw":[92,97,99,98,99,99,99,99,99,99]}
+
+00:05:41.160 --> 00:05:45.500
+<v Speaker 0>Um, I mean the cost of, the cost of false
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:45.500 --> 00:05:48.980
+<v Speaker 0>prediction is a lot higher than others, right, so I'd
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,70]}
+
+00:05:48.980 --> 00:05:53.540
+<v Speaker 0>often use the medical um situation where you think someone
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:05:53.540 --> 00:05:58.410
+<v Speaker 0>has uh cancer, but just because that false positive situation,
+
+NOTE CONF {"raw":[99,96,99,99,99,99,99,99,99,99]}
+
+00:05:58.929 --> 00:05:59.420
+<v Speaker 0>um.
+
+NOTE CONF {"raw":[99]}
+
+00:06:00.119 --> 00:06:03.010
+<v Speaker 0>You know, result in them being hospitalised and being biopsied
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:06:03.010 --> 00:06:04.070
+<v Speaker 0>and everything else.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:06:04.320 --> 00:06:08.600
+<v Speaker 0>So the cost for mislabeling is quite high compared to
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:06:08.600 --> 00:06:12.760
+<v Speaker 0>just a sales process on Amazon, you know, bad recommendation
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:06:12.760 --> 00:06:15.559
+<v Speaker 0>for a product placement, right, so those are pretty low
+
+NOTE CONF {"raw":[99,92,99,99,97,99,99,99,99,99]}
+
+00:06:15.559 --> 00:06:18.640
+<v Speaker 0>cost environment, you wanna optimise it for a very different
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:06:18.640 --> 00:06:19.190
+<v Speaker 0>reasons.
+
+NOTE CONF {"raw":[99]}
+
+00:06:21.209 --> 00:06:24.450
+<v Speaker 0>Now the optimisation process and the threshold, there was uh
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,95]}
+
+00:06:24.450 --> 00:06:27.130
+<v Speaker 0>some question yes um from last time, like, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:06:27.250 --> 00:06:28.839
+<v Speaker 0>how do you determine this?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:06:29.179 --> 00:06:35.260
+<v Speaker 0>Well, remember that we basically, Assign a probability, right, to
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:06:35.260 --> 00:06:38.980
+<v Speaker 0>an outcome based on a certain math equation, right, from
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99,99]}
+
+00:06:38.980 --> 00:06:40.140
+<v Speaker 0>the training of the data set.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:06:41.140 --> 00:06:44.250
+<v Speaker 0>The threshold of that is then capped between 0 and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:06:44.250 --> 00:06:45.570
+<v Speaker 0>1, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:06:45.660 --> 00:06:49.010
+<v Speaker 0>And depending on that probability, you can class it as
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99,99,99,99]}
+
+00:06:49.010 --> 00:06:50.809
+<v Speaker 0>either class 1 or class 2.
+
+NOTE CONF {"raw":[99,99,98,99,99,89]}
+
+00:06:51.799 --> 00:06:54.980
+<v Speaker 0>Now you set that boundary, basically that is the threshold
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:06:54.980 --> 00:06:55.510
+<v Speaker 0>value.
+
+NOTE CONF {"raw":[99]}
+
+00:06:55.920 --> 00:06:57.760
+<v Speaker 0>And there was a bit of confusion as to how
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:06:57.760 --> 00:07:02.399
+<v Speaker 0>that threshold value was, was basically being modified, right, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:02.399 --> 00:07:04.839
+<v Speaker 0>that's your job to so I go, OK, well, in
+
+NOTE CONF {"raw":[99,99,99,99,80,61,99,99,99,99]}
+
+00:07:04.839 --> 00:07:07.730
+<v Speaker 0>the default case, it is 0.5, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98]}
+
+00:07:08.160 --> 00:07:10.799
+<v Speaker 0>In a situation where I get a value that says,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:10.920 --> 00:07:13.589
+<v Speaker 0>you know, 0.7, well then it must be in the
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:07:13.589 --> 00:07:16.640
+<v Speaker 0>latter class, right, between class 1 and class 2.
+
+NOTE CONF {"raw":[97,99,99,99,99,81,99,99,91]}
+
+00:07:17.290 --> 00:07:21.049
+<v Speaker 0>Because it's greater than 0.5, so you yourself, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,78,94,99,99]}
+
+00:07:21.089 --> 00:07:22.070
+<v Speaker 0>round the 2.
+
+NOTE CONF {"raw":[99,97,89]}
+
+00:07:22.570 --> 00:07:24.670
+<v Speaker 0>but you can also set it so then it's not
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:24.670 --> 00:07:30.070
+<v Speaker 0>0.5, it's 0.3, it's 0.8, which has a higher criteria,
+
+NOTE CONF {"raw":[99,99,98,99,98,99,99,99,99,99]}
+
+00:07:30.329 --> 00:07:33.140
+<v Speaker 0>you know, you need to be more certain before you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:33.140 --> 00:07:34.399
+<v Speaker 0>class that as.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:07:34.929 --> 00:07:39.450
+<v Speaker 0>So, we've moved away from a deterministic approach to seeing
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:39.450 --> 00:07:43.049
+<v Speaker 0>a lot of these problem sets and problems to a
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:07:43.049 --> 00:07:46.049
+<v Speaker 0>more probabilistic one where there's a confidence interval.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:07:46.730 --> 00:07:51.089
+<v Speaker 0>Right, you know, you're kind of sure versus you're really
+
+NOTE CONF {"raw":[99,97,99,99,97,89,99,99,98,99]}
+
+00:07:51.089 --> 00:07:54.410
+<v Speaker 0>sure, makes a big difference in, in how you determine
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:54.410 --> 00:07:57.130
+<v Speaker 0>whether or not, you know, that the apple is tasty
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:07:57.130 --> 00:07:58.089
+<v Speaker 0>or not, right?
+
+NOTE CONF {"raw":[99,99,98]}
+
+00:07:58.250 --> 00:08:01.489
+<v Speaker 0>So that's a, that's a bit of a, um, gear
+
+NOTE CONF {"raw":[98,99,97,99,99,99,99,99,99,99]}
+
+00:08:01.489 --> 00:08:04.630
+<v Speaker 0>shift in terms of mindset in in determining things.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:08:04.970 --> 00:08:08.529
+<v Speaker 0>Um, you can see that with the variables, you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,97,99,99]}
+
+00:08:08.529 --> 00:08:12.690
+<v Speaker 0>basically get a lot of different, uh, decision boundaries, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:12.809 --> 00:08:16.290
+<v Speaker 0>So here's 4 different graphs of different colours.
+
+NOTE CONF {"raw":[98,99,86,99,99,96,99,99]}
+
+00:08:16.820 --> 00:08:21.380
+<v Speaker 0>Just based on using different models, right, you can reclassify
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:08:21.380 --> 00:08:23.209
+<v Speaker 0>some of those thoughts in a very different way.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:08:23.899 --> 00:08:26.750
+<v Speaker 0>So what is the correct way, right, that's really the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:26.750 --> 00:08:30.000
+<v Speaker 0>challenge, especially at those boundary conditions.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:08:30.589 --> 00:08:34.059
+<v Speaker 0>So that, that comes down with trial and error unfortunately,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:34.349 --> 00:08:37.309
+<v Speaker 0>um, and perhaps, you know, there will be systems where
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:37.309 --> 00:08:40.900
+<v Speaker 0>you want an ensemble of those those criteria to then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:41.070 --> 00:08:43.140
+<v Speaker 0>give you a better response.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:08:44.258 --> 00:08:47.299
+<v Speaker 0>Um, the, the curve here, the purple curve on the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:08:47.299 --> 00:08:48.098
+<v Speaker 0>ROC curve.
+
+NOTE CONF {"raw":[99,99]}
+
+00:08:48.809 --> 00:08:51.909
+<v Speaker 0>You can see that it's the perfect situation where it's
+
+NOTE CONF {"raw":[99,99,99,99,97,99,99,99,99,99]}
+
+00:08:51.909 --> 00:08:54.109
+<v Speaker 0>on the edge, but that never occurs.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:08:54.309 --> 00:08:57.950
+<v Speaker 0>So in reality, all the actual curves has a knee
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:08:57.950 --> 00:09:03.150
+<v Speaker 0>point, right, between certain, um, between a certain range of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,52,99,99,99]}
+
+00:09:03.150 --> 00:09:07.590
+<v Speaker 0>threshold, you know, certain determination would be, would be more
+
+NOTE CONF {"raw":[99,99,99,99,99,91,99,91,99,99]}
+
+00:09:07.590 --> 00:09:12.469
+<v Speaker 0>probable, um, and obviously at the very diagonal layer, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:12.469 --> 00:09:15.750
+<v Speaker 0>just have a random classifier, which doesn't actually give you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:15.750 --> 00:09:18.390
+<v Speaker 0>any true information, it's pretty much a flip of a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:18.390 --> 00:09:18.669
+<v Speaker 0>coin.
+
+NOTE CONF {"raw":[99]}
+
+00:09:22.760 --> 00:09:26.869
+<v Speaker 0>OK, so, um, this week, week 3, now.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:09:27.549 --> 00:09:30.739
+<v Speaker 0>I was going to talk about, um, the activities that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:30.739 --> 00:09:33.690
+<v Speaker 0>happens in class as well, in the tutorial, but, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:34.020 --> 00:09:37.159
+<v Speaker 0>you, you do know that there is a quiz on.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:37.179 --> 00:09:41.489
+<v Speaker 0>So last night, I posted a post on Canvas, um,
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,98,99]}
+
+00:09:41.500 --> 00:09:44.179
+<v Speaker 0>to indicate that you can, you can do a practise
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:44.179 --> 00:09:45.229
+<v Speaker 0>quiz, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:09:45.340 --> 00:09:48.900
+<v Speaker 0>That practise quiz just gives you some some expectation as
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:09:48.900 --> 00:09:51.500
+<v Speaker 0>to how the real quiz will occur, um.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:09:52.070 --> 00:09:55.000
+<v Speaker 0>And it also sort of hints on the different topics
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:09:55.000 --> 00:09:56.469
+<v Speaker 0>that we'll be talking about.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:09:56.679 --> 00:09:57.830
+<v Speaker 0>It's very simple.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:09:58.080 --> 00:10:02.000
+<v Speaker 0>You've got 3 attempts for the uh practise quiz, but
+
+NOTE CONF {"raw":[99,99,99,99,99,99,90,99,99,99]}
+
+00:10:02.000 --> 00:10:04.179
+<v Speaker 0>only 1 attempt for the actual quiz.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:10:04.520 --> 00:10:06.719
+<v Speaker 0>That's an early feedback task that we have for you
+
+NOTE CONF {"raw":[99,99,99,99,97,99,99,99,99,99]}
+
+00:10:06.719 --> 00:10:09.760
+<v Speaker 0>guys, um, and you'll be expected to do that in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:10:09.760 --> 00:10:10.419
+<v Speaker 0>class.
+
+NOTE CONF {"raw":[99]}
+
+00:10:10.760 --> 00:10:13.549
+<v Speaker 0>So if you, if your class isn't, you know, today.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:10:13.830 --> 00:10:15.140
+<v Speaker 0>It's later down the wick.
+
+NOTE CONF {"raw":[99,99,99,99,98]}
+
+00:10:15.419 --> 00:10:18.419
+<v Speaker 0>The advice is to just do that practise quiz, try
+
+NOTE CONF {"raw":[84,81,99,99,99,99,99,99,99,98]}
+
+00:10:18.419 --> 00:10:20.900
+<v Speaker 0>an error, see, see how it goes, you know, it's
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:10:20.900 --> 00:10:23.820
+<v Speaker 0>the same sort of testing condition, then, then you won't
+
+NOTE CONF {"raw":[99,99,79,99,99,99,99,99,99,99]}
+
+00:10:23.820 --> 00:10:26.820
+<v Speaker 0>be coming in worrying about, you know, what sort of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,93,59]}
+
+00:10:26.820 --> 00:10:29.840
+<v Speaker 0>question needs to happen, um, and so forth.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:10:29.979 --> 00:10:31.900
+<v Speaker 0>It's only 15 minute long so you don't have to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:10:31.900 --> 00:10:32.770
+<v Speaker 0>stress over it.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:10:33.059 --> 00:10:36.880
+<v Speaker 0>Um, obviously the practise is at home anywhere you want,
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99,99,99,99]}
+
+00:10:37.140 --> 00:10:39.020
+<v Speaker 0>there's a, you can just open book that.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99]}
+
+00:10:39.309 --> 00:10:42.150
+<v Speaker 0>Um, but unfortunately for the actual one, it's not so
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:10:42.150 --> 00:10:44.900
+<v Speaker 0>open book, so hence we're doing it in class.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:10:46.510 --> 00:10:49.500
+<v Speaker 0>Aside from that, you'll be asked to form your groups,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:10:49.630 --> 00:10:52.309
+<v Speaker 0>um, this week, so we're starting to move into the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:10:52.309 --> 00:10:56.570
+<v Speaker 0>phase where we're gonna go through and, um, and self-describe
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,17]}
+
+00:10:56.570 --> 00:10:59.219
+<v Speaker 0>what project you and your team members want to work
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:10:59.219 --> 00:11:03.869
+<v Speaker 0>on, um, and obviously that, that actual task of describing
+
+NOTE CONF {"raw":[99,71,99,99,99,99,99,99,99,99]}
+
+00:11:03.869 --> 00:11:07.950
+<v Speaker 0>your full project comes down in later, um, what, week
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:07.950 --> 00:11:11.429
+<v Speaker 0>6 or 8, right, that's around the, the point of
+
+NOTE CONF {"raw":[99,99,99,93,99,99,99,99,99,99]}
+
+00:11:11.429 --> 00:11:13.270
+<v Speaker 0>submission for the project scope.
+
+NOTE CONF {"raw":[99,99,99,99,98]}
+
+00:11:13.830 --> 00:11:16.760
+<v Speaker 0>Um, your job, your task is really to find out
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:16.760 --> 00:11:20.789
+<v Speaker 0>an interesting problem, find out where the dataset could come
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,41,99,99]}
+
+00:11:20.789 --> 00:11:24.640
+<v Speaker 0>from, and then go off and determine a machine learning
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:24.640 --> 00:11:28.950
+<v Speaker 0>model, um, that fulfils this and solve a societal problem,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:29.200 --> 00:11:29.679
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:11:29.929 --> 00:11:32.830
+<v Speaker 0>And I say societal very loosely because you can be
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:33.080 --> 00:11:37.280
+<v Speaker 0>very constrained into the environment, like the engineering environment that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:37.280 --> 00:11:41.169
+<v Speaker 0>you have, um, so if you're, You know, for civil
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:11:41.169 --> 00:11:45.530
+<v Speaker 0>students, civil engineering students, you could find out asset management
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:45.530 --> 00:11:49.169
+<v Speaker 0>data set that could then determine how to best utilise
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:11:49.169 --> 00:11:53.390
+<v Speaker 0>the, the, um, the building, right, assets that you have,
+
+NOTE CONF {"raw":[99,99,98,99,99,99,97,99,99,99]}
+
+00:11:53.489 --> 00:11:54.559
+<v Speaker 0>uh, on your books.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:11:54.809 --> 00:11:55.960
+<v Speaker 0>That's one example.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:11:56.330 --> 00:11:58.890
+<v Speaker 0>Um, there are many other examples, so feel free to
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:11:58.890 --> 00:12:00.450
+<v Speaker 0>talk to your tutors about that.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:12:00.770 --> 00:12:03.570
+<v Speaker 0>Ask them what's their thoughts, perhaps ask them for the
+
+NOTE CONF {"raw":[55,99,99,99,99,99,99,99,99,99]}
+
+00:12:03.570 --> 00:12:06.890
+<v Speaker 0>different, um, data, data websites.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:12:07.010 --> 00:12:09.739
+<v Speaker 0>Um, we have good.
+
+NOTE CONF {"raw":[87,99,99,52]}
+
+00:12:10.130 --> 00:12:12.299
+<v Speaker 0>Yeah, are we, are we recording in any way?
+
+NOTE CONF {"raw":[99,72,96,99,99,99,99,99,99]}
+
+00:12:12.349 --> 00:12:13.469
+<v Speaker 0>I think we are right.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:12:15.119 --> 00:12:16.150
+<v Speaker 0>Light isn't.
+
+NOTE CONF {"raw":[97,96]}
+
+00:12:17.250 --> 00:12:19.200
+<v Speaker 0>Uh, I need to click something.
+
+NOTE CONF {"raw":[90,99,99,99,99,99]}
+
+00:12:25.010 --> 00:12:27.059
+<v Speaker 0>I don't think that is actually on.
+
+NOTE CONF {"raw":[97,44,99,99,99,99,99]}
+
+00:12:28.580 --> 00:12:28.919
+<v Speaker 0>Huh?
+
+NOTE CONF {"raw":[51]}
+
+00:12:29.510 --> 00:12:30.169
+<v Speaker 0>It's on.
+
+NOTE CONF {"raw":[94,99]}
+
+00:12:31.840 --> 00:12:32.789
+<v Speaker 0>Should be going, OK.
+
+NOTE CONF {"raw":[74,99,99,99]}
+
+00:12:34.130 --> 00:12:35.669
+<v Speaker 0>Yeah, there's no light, that song.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:12:42.049 --> 00:12:42.969
+<v Speaker 0>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:12:43.330 --> 00:12:44.960
+<v Speaker 0>I am just gonna continue.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:12:54.219 --> 00:12:56.500
+<v Speaker 1>Yeah, can you, um, do you use, do you use
+
+NOTE CONF {"raw":[99,53,93,99,99,99,99,91,96,89]}
+
+00:12:56.500 --> 00:12:56.609
+<v Speaker 1>hair?
+
+NOTE CONF {"raw":[73]}
+
+00:12:57.070 --> 00:12:58.219
+<v Speaker 1>Which one do you use?
+
+NOTE CONF {"raw":[64,99,99,99,99]}
+
+00:12:58.960 --> 00:13:00.380
+<v Speaker 0>I never touched it actually.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:13:00.590 --> 00:13:01.979
+<v Speaker 0>I, I just, I just rock up.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98]}
+
+00:13:03.270 --> 00:13:03.969
+<v Speaker 0>Let's get going.
+
+NOTE CONF {"raw":[9,47,99]}
+
+00:13:04.099 --> 00:13:05.330
+<v Speaker 0>OK, all right, sweet.
+
+NOTE CONF {"raw":[99,89,98,99]}
+
+00:13:07.669 --> 00:13:08.690
+<v Speaker 0>I'll have a look at that.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:13:08.890 --> 00:13:09.539
+<v Speaker 0>Yeah, thanks.
+
+NOTE CONF {"raw":[99,99]}
+
+00:13:20.159 --> 00:13:23.320
+<v Speaker 0>OK, um, it's good that I'm trying to record this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:23.320 --> 00:13:25.239
+<v Speaker 0>on on Zoom as well, so we'll see how that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:25.239 --> 00:13:25.830
+<v Speaker 0>works.
+
+NOTE CONF {"raw":[99]}
+
+00:13:26.130 --> 00:13:30.400
+<v Speaker 0>Um, so this week we are doing.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:13:31.130 --> 00:13:32.159
+<v Speaker 0>These few things.
+
+NOTE CONF {"raw":[99,96,99]}
+
+00:13:32.450 --> 00:13:34.450
+<v Speaker 0>So aside from what I just mentioned with the project
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:13:34.450 --> 00:13:37.809
+<v Speaker 0>that will be expected to happen in class, um, forming
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:37.809 --> 00:13:41.090
+<v Speaker 0>that, putting your groups on art canvas, there's also the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:13:41.090 --> 00:13:44.729
+<v Speaker 0>quiz, do the practise quiz beforehand, um, and you should
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:44.729 --> 00:13:45.250
+<v Speaker 0>be fine.
+
+NOTE CONF {"raw":[99,99]}
+
+00:13:45.989 --> 00:13:50.619
+<v Speaker 0>Um, this week we're talking about the K nearest neighbour
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:13:50.619 --> 00:13:53.630
+<v Speaker 0>classifiers, right, so KNN for short.
+
+NOTE CONF {"raw":[98,99,96,79,99,99]}
+
+00:13:53.960 --> 00:13:56.400
+<v Speaker 0>Uh, we'll look at the weighted version of that as
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:13:56.400 --> 00:13:59.460
+<v Speaker 0>well, just to show, you know, what are the differences,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,23]}
+
+00:13:59.599 --> 00:14:02.500
+<v Speaker 0>how, how is the compute that happens in the backdrop,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:02.799 --> 00:14:06.469
+<v Speaker 0>you know, what limitations, maybe what to be concerned of,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:07.080 --> 00:14:09.440
+<v Speaker 0>um, pre-processing of data sets.
+
+NOTE CONF {"raw":[99,97,99,99,99]}
+
+00:14:10.010 --> 00:14:14.059
+<v Speaker 0>Um, and also how do you turn a categorical value
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:14.059 --> 00:14:17.539
+<v Speaker 0>into numerical value and vice versa, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,86]}
+
+00:14:19.280 --> 00:14:21.650
+<v Speaker 0>So there's a, there's a few diagrams here, I think
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:21.650 --> 00:14:25.539
+<v Speaker 0>that's sort of generally represent the the few topics here,
+
+NOTE CONF {"raw":[45,82,62,99,99,99,99,99,99,99]}
+
+00:14:26.210 --> 00:14:28.729
+<v Speaker 0>um, we might as well just get on with that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:28.729 --> 00:14:29.010
+<v Speaker 0>one.
+
+NOTE CONF {"raw":[99]}
+
+00:14:30.179 --> 00:14:30.679
+<v Speaker 0>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:14:31.799 --> 00:14:36.049
+<v Speaker 0>So for a supervised learning model, you have something, a,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:36.090 --> 00:14:40.609
+<v Speaker 0>a category of machine learning class uh called KNNs and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,93,99,91,99]}
+
+00:14:40.609 --> 00:14:44.450
+<v Speaker 0>basically it is trying to classify each of the dots
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:44.450 --> 00:14:48.049
+<v Speaker 0>that you have in your system, especially an unknown dot,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:14:48.090 --> 00:14:51.039
+<v Speaker 0>right, so into a certain class.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:14:52.530 --> 00:14:56.729
+<v Speaker 0>Now remember you have this as a uh supervised situation,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,95,99,99]}
+
+00:14:56.890 --> 00:14:58.630
+<v Speaker 0>so meaning that you already have some label.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:14:59.330 --> 00:15:02.210
+<v Speaker 0>So you have 100% of your data set, you cut
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:02.210 --> 00:15:05.409
+<v Speaker 0>up, say 70%, use it for training, right?
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99]}
+
+00:15:05.489 --> 00:15:09.010
+<v Speaker 0>The 70% should be generally representative for the two different
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99,99,99]}
+
+00:15:09.010 --> 00:15:11.929
+<v Speaker 0>classes or however many classes that you have.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:15:13.150 --> 00:15:16.590
+<v Speaker 0>And then from that point onwards, That sort of denote
+
+NOTE CONF {"raw":[99,99,99,99,99,99,49,61,96,98]}
+
+00:15:16.590 --> 00:15:20.590
+<v Speaker 0>it as your represented in the blue box and also
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:15:20.590 --> 00:15:24.929
+<v Speaker 0>the um red triangle, and then in your very final
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:25.510 --> 00:15:28.869
+<v Speaker 0>um testing set, you put in the green dot and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:28.869 --> 00:15:31.260
+<v Speaker 0>you ask the question, which class should it be?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:15:32.340 --> 00:15:34.719
+<v Speaker 0>Right, and really that just goes through on and on
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:34.719 --> 00:15:35.390
+<v Speaker 0>and on.
+
+NOTE CONF {"raw":[99,99]}
+
+00:15:36.119 --> 00:15:39.429
+<v Speaker 0>Now how does the algorithm determine what class something is?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:39.640 --> 00:15:42.979
+<v Speaker 0>Right, remember it's got labels and, and so forth.
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99,99,99]}
+
+00:15:43.250 --> 00:15:48.190
+<v Speaker 0>So here you can see that I've thrown two circles.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:48.640 --> 00:15:52.799
+<v Speaker 0>OK, the two circles basically say, OK, in the closest
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:15:52.799 --> 00:15:56.630
+<v Speaker 0>neighbour, what, what are, what, what are their classes?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:15:56.960 --> 00:15:59.669
+<v Speaker 0>And if you're very close to them, then the chance
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:15:59.669 --> 00:16:01.919
+<v Speaker 0>of you being in that same class is pretty high.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:16:02.799 --> 00:16:05.500
+<v Speaker 0>So you can see for the, for the solid line
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:16:05.500 --> 00:16:09.059
+<v Speaker 0>one, there are 4 dots in the circle, one being
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,91,99]}
+
+00:16:09.059 --> 00:16:10.330
+<v Speaker 0>green, 2 being red.
+
+NOTE CONF {"raw":[99,98,99,99]}
+
+00:16:10.859 --> 00:16:15.010
+<v Speaker 0>The, the final conclusion that machine learning algorithms should have,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,92,99,99]}
+
+00:16:15.380 --> 00:16:18.340
+<v Speaker 0>or the green dot is that it should belong into
+
+NOTE CONF {"raw":[83,99,99,99,99,99,99,99,99,99]}
+
+00:16:18.340 --> 00:16:20.250
+<v Speaker 0>the red triangle class.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:16:20.580 --> 00:16:24.219
+<v Speaker 0>Now, strangely, if you expand that circle to a higher
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:16:24.219 --> 00:16:29.270
+<v Speaker 0>number, say for example, 5, Which then includes 2 more
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,80,99]}
+
+00:16:29.270 --> 00:16:30.070
+<v Speaker 0>blue boxes.
+
+NOTE CONF {"raw":[99,99]}
+
+00:16:30.849 --> 00:16:34.900
+<v Speaker 0>The actual green circle would be classed as a blue
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:16:34.900 --> 00:16:36.289
+<v Speaker 0>box, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:16:36.729 --> 00:16:39.690
+<v Speaker 0>So now you have this varying situation where depending on
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:16:39.690 --> 00:16:43.380
+<v Speaker 0>how big your K is, right, which is a which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,96]}
+
+00:16:43.380 --> 00:16:47.140
+<v Speaker 0>is a parameter, you are free to vary uh vary,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,97,99]}
+
+00:16:47.979 --> 00:16:51.570
+<v Speaker 0>will make a big difference into the classifying process.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:16:52.020 --> 00:16:53.940
+<v Speaker 0>Right, so there's a parameter you can tweak.
+
+NOTE CONF {"raw":[99,99,66,99,99,99,99,99]}
+
+00:17:00.280 --> 00:17:03.979
+<v Speaker 0>So here's basically what I just said, um, with the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:03.979 --> 00:17:07.459
+<v Speaker 0>parameter K set to an odd value, say 5, you
+
+NOTE CONF {"raw":[99,99,99,99,99,84,99,99,99,99]}
+
+00:17:07.459 --> 00:17:11.060
+<v Speaker 0>get one determination, and then if you set it, say
+
+NOTE CONF {"raw":[99,70,99,99,99,99,99,99,99,99]}
+
+00:17:11.060 --> 00:17:13.130
+<v Speaker 0>for 3, then that's a different one.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:17:15.979 --> 00:17:19.579
+<v Speaker 0>Now this is um for each of these factors, uh
+
+NOTE CONF {"raw":[99,99,99,79,99,99,99,99,99,96]}
+
+00:17:19.579 --> 00:17:25.430
+<v Speaker 0>feature factors X, you compute the distance between those values.
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,99,99,99]}
+
+00:17:25.540 --> 00:17:28.420
+<v Speaker 0>So it's not just the, the number of occurrences, it's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:28.420 --> 00:17:32.410
+<v Speaker 0>also the average distance you have with them, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:17:32.819 --> 00:17:37.510
+<v Speaker 0>And depending on um obviously, A, how you compute the
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:17:37.510 --> 00:17:41.109
+<v Speaker 0>distance, it may give you a very different representation, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:41.150 --> 00:17:44.099
+<v Speaker 0>but B, how you compute the averaging of that effect.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:44.750 --> 00:17:45.239
+<v Speaker 0>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:17:45.589 --> 00:17:49.739
+<v Speaker 0>So in a normal KNN situation, you would sort them
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:17:49.739 --> 00:17:51.910
+<v Speaker 0>from the smallest to the largest and note that the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:17:51.910 --> 00:17:55.989
+<v Speaker 0>K value would then um sort of maps, and you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:17:55.989 --> 00:17:59.150
+<v Speaker 0>want to see a situation where the class stays generally
+
+NOTE CONF {"raw":[87,81,99,99,99,99,99,99,99,99]}
+
+00:17:59.150 --> 00:18:01.780
+<v Speaker 0>the same and then there's a very big variability.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,58,99,99]}
+
+00:18:02.150 --> 00:18:05.449
+<v Speaker 0>Now if you have a very small K value, You
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:05.449 --> 00:18:09.449
+<v Speaker 0>basically are limiting your environment to the closest, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:09.599 --> 00:18:12.689
+<v Speaker 0>field dots, and then you can run into a situation
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,99,99,99]}
+
+00:18:12.689 --> 00:18:14.479
+<v Speaker 0>where you overfit your data set.
+
+NOTE CONF {"raw":[99,99,99,99,99,95]}
+
+00:18:15.250 --> 00:18:17.469
+<v Speaker 0>But if you have a very large K value, you'll
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:17.469 --> 00:18:21.619
+<v Speaker 0>be very generalised and you can't be too sure, especially
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:21.619 --> 00:18:26.530
+<v Speaker 0>around the grain boundaries or the um, Their data boundaries,
+
+NOTE CONF {"raw":[99,99,58,99,99,99,99,97,99,99]}
+
+00:18:26.900 --> 00:18:29.569
+<v Speaker 0>um, what, what classes they are.
+
+NOTE CONF {"raw":[94,99,99,99,99,99]}
+
+00:18:29.819 --> 00:18:33.170
+<v Speaker 0>So that needs to just be, um, just be remembered
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:18:33.170 --> 00:18:35.829
+<v Speaker 0>uh as a, as a challenge.
+
+NOTE CONF {"raw":[97,99,99,99,99,99]}
+
+00:18:36.770 --> 00:18:40.709
+<v Speaker 0>Um, they, the classified generally then outputs the class labels
+
+NOTE CONF {"raw":[99,99,99,92,99,99,99,99,99,98]}
+
+00:18:40.709 --> 00:18:43.869
+<v Speaker 0>of the highest count, OK, so.
+
+NOTE CONF {"raw":[99,99,99,99,99,91]}
+
+00:18:45.410 --> 00:18:49.060
+<v Speaker 0>Now there's something called compute, you know, power in this
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99,99]}
+
+00:18:49.060 --> 00:18:50.849
+<v Speaker 0>uh environment where.
+
+NOTE CONF {"raw":[88,99,99]}
+
+00:18:51.550 --> 00:18:55.599
+<v Speaker 0>Depending on the parameters that you set, it may drastically
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:18:55.599 --> 00:18:56.699
+<v Speaker 0>slow down your compute.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:18:57.839 --> 00:19:02.760
+<v Speaker 0>Um, now, fortunately for the, for this KNN situation, changing
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:02.760 --> 00:19:08.239
+<v Speaker 0>your cases will not affect your, uh, computational complexity.
+
+NOTE CONF {"raw":[99,39,99,99,99,99,97,99,99]}
+
+00:19:08.910 --> 00:19:15.500
+<v Speaker 0>Right, because the KNN process involves computing all the distances
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:19:15.500 --> 00:19:19.170
+<v Speaker 0>between all the all the verb uh points you have,
+
+NOTE CONF {"raw":[99,99,99,99,99,95,93,99,99,99]}
+
+00:19:19.739 --> 00:19:23.219
+<v Speaker 0>and then actually using that then as a baseline to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:23.219 --> 00:19:26.939
+<v Speaker 0>compute, right, it is then the averaging effect that it's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:26.939 --> 00:19:28.329
+<v Speaker 0>really calculating.
+
+NOTE CONF {"raw":[99,99]}
+
+00:19:28.619 --> 00:19:32.579
+<v Speaker 0>So irrespective of what K you use, you know, your
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:19:32.579 --> 00:19:36.180
+<v Speaker 0>computational complexity is determined by the number of ends you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:36.180 --> 00:19:36.569
+<v Speaker 0>have.
+
+NOTE CONF {"raw":[99]}
+
+00:19:37.180 --> 00:19:39.739
+<v Speaker 0>So if you have a lot of data points, right,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:39.859 --> 00:19:43.510
+<v Speaker 0>then it's gonna take a lot longer um than something
+
+NOTE CONF {"raw":[99,99,96,99,99,99,99,99,99,99]}
+
+00:19:43.510 --> 00:19:44.699
+<v Speaker 0>that's smaller set.
+
+NOTE CONF {"raw":[97,99,99]}
+
+00:19:44.979 --> 00:19:48.300
+<v Speaker 0>But in the, in the two cases, your compute time
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:19:48.300 --> 00:19:51.550
+<v Speaker 0>will not vary a lot um based on the the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:51.550 --> 00:19:53.050
+<v Speaker 0>K value that you choose.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:19:54.599 --> 00:19:58.510
+<v Speaker 0>So as I said here, the complexity grows with N,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:19:58.739 --> 00:19:59.260
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[85]}
+
+00:19:59.380 --> 00:20:03.140
+<v Speaker 0>Best to not use too many training samples, um, but
+
+NOTE CONF {"raw":[67,99,99,99,99,99,99,99,99,99]}
+
+00:20:03.140 --> 00:20:05.849
+<v Speaker 0>you know, a variety of that training sample.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:20:06.180 --> 00:20:09.130
+<v Speaker 0>So you can imagine if this was added with yes
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:09.130 --> 00:20:12.619
+<v Speaker 0>last week's topic, you might want to use a, a
+
+NOTE CONF {"raw":[99,99,99,99,99,84,94,99,99,99]}
+
+00:20:12.619 --> 00:20:14.969
+<v Speaker 0>cross validation process, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:20:14.979 --> 00:20:19.689
+<v Speaker 0>You, you only select, You know, maybe like 50% or
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,99]}
+
+00:20:19.689 --> 00:20:23.810
+<v Speaker 0>even slightly lower, um, training set, but then move through
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:23.810 --> 00:20:27.290
+<v Speaker 0>the system by shifting that window across to get a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:27.290 --> 00:20:32.930
+<v Speaker 0>good representation of, you know, your, um, your diagram, right,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:33.010 --> 00:20:34.130
+<v Speaker 0>your, your class model.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:20:36.709 --> 00:20:39.319
+<v Speaker 0>This is not always the same with uh say neural
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,95,98,99]}
+
+00:20:39.319 --> 00:20:41.989
+<v Speaker 0>networks, you might in some neural networks, you do want
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,89]}
+
+00:20:41.989 --> 00:20:45.180
+<v Speaker 0>to pump in as much training data set as possible,
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:20:45.430 --> 00:20:48.270
+<v Speaker 0>um, you know, and that's why in a very different
+
+NOTE CONF {"raw":[99,99,99,99,99,99,71,35,99,99]}
+
+00:20:48.270 --> 00:20:49.189
+<v Speaker 0>approaches, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:20:49.349 --> 00:20:52.229
+<v Speaker 0>This is actually quite fast compared to one of those
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:52.229 --> 00:20:54.989
+<v Speaker 0>neural network built, it could actually do the job very
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:20:54.989 --> 00:20:58.660
+<v Speaker 0>quickly with a very limited number of data points, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:20:58.670 --> 00:21:03.040
+<v Speaker 0>because of this, of this, um, I guess condition.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:21:05.540 --> 00:21:09.900
+<v Speaker 0>So the distance measured is also not, you know, purely
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:09.900 --> 00:21:12.819
+<v Speaker 0>just one type of distance calculation.
+
+NOTE CONF {"raw":[99,99,99,99,98,99]}
+
+00:21:12.859 --> 00:21:16.260
+<v Speaker 0>You can use a Euclidean uh approach, but there's also
+
+NOTE CONF {"raw":[94,99,99,99,99,98,99,99,99,99]}
+
+00:21:16.260 --> 00:21:20.300
+<v Speaker 0>other things like, uh, absolute values, um, so those are
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:21:20.300 --> 00:21:24.180
+<v Speaker 0>parameter parameters that you can set within the, within the
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:21:24.180 --> 00:21:26.939
+<v Speaker 0>function call, right, and you need to look at what
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:21:26.939 --> 00:21:30.300
+<v Speaker 0>the default is, right, so when you actually do this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:30.300 --> 00:21:33.930
+<v Speaker 0>work in, In class, you will have to go into
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:33.930 --> 00:21:37.790
+<v Speaker 0>documentation, just note that the parameters that you can change,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:38.000 --> 00:21:40.640
+<v Speaker 0>what you don't change is really the default, and if
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:40.640 --> 00:21:42.069
+<v Speaker 0>that is really what you want.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:21:42.239 --> 00:21:45.109
+<v Speaker 0>OK, there's some subtleties, you might want to play around
+
+NOTE CONF {"raw":[99,98,99,99,99,99,96,98,99,99]}
+
+00:21:45.109 --> 00:21:50.040
+<v Speaker 0>with just those two, say, distance calculation, distance followers, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:50.040 --> 00:21:52.640
+<v Speaker 0>see how it affects the outcome, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:21:53.119 --> 00:21:55.880
+<v Speaker 0>Um, and obviously when you're trying to compute which one
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:55.880 --> 00:21:58.680
+<v Speaker 0>is better, you go back to, you go back to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:21:58.680 --> 00:22:03.199
+<v Speaker 0>the classifiers, um, you know, precision scores and F1 scores
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:03.199 --> 00:22:06.130
+<v Speaker 0>to see if actually it is good or not.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:22:10.569 --> 00:22:13.020
+<v Speaker 0>Now, in the real, in the real world, right, there's
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:13.020 --> 00:22:16.859
+<v Speaker 0>often, there's often imbalance of data sets.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:22:16.979 --> 00:22:20.180
+<v Speaker 0>So basically, you get more positive representation.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,82]}
+
+00:22:20.300 --> 00:22:24.380
+<v Speaker 0>So for example, you know, in Sydney, you might actually
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:24.380 --> 00:22:28.010
+<v Speaker 0>have more days that are sunny than raining.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:22:28.260 --> 00:22:30.859
+<v Speaker 0>And so if you're computing something along the lines of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:30.859 --> 00:22:35.140
+<v Speaker 0>weather patterns, um, you may actually get more blue dots
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:35.140 --> 00:22:37.180
+<v Speaker 0>representing, I don't know, sunny day.
+
+NOTE CONF {"raw":[99,99,98,99,99,99]}
+
+00:22:38.099 --> 00:22:41.380
+<v Speaker 0>And then the orange dots would be your raining days,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:41.540 --> 00:22:42.050
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:22:42.579 --> 00:22:46.790
+<v Speaker 0>So, in a situation like this, The, you know, in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:46.790 --> 00:22:50.430
+<v Speaker 0>the hypothetical, what happens to this yellow triangle?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:22:51.449 --> 00:22:53.869
+<v Speaker 0>Would it be classed as orange, or should it be
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:22:53.869 --> 00:22:55.199
+<v Speaker 0>classed as blue?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:22:55.689 --> 00:22:59.250
+<v Speaker 0>Right, knowing that there's quite a lot of representation around
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:22:59.250 --> 00:23:01.010
+<v Speaker 0>the boundary with the blue dots.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:23:01.689 --> 00:23:01.699
+<v Speaker 0>Right.
+
+NOTE CONF {"raw":[99]}
+
+00:23:02.969 --> 00:23:06.689
+<v Speaker 0>Now based on those, based on the averaging values, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:06.689 --> 00:23:11.489
+<v Speaker 0>could actually class that yellow dot as blue, right, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:23:11.489 --> 00:23:15.130
+<v Speaker 0>in fact we'll show a little um sample of the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:15.130 --> 00:23:15.569
+<v Speaker 0>compute.
+
+NOTE CONF {"raw":[99]}
+
+00:23:16.550 --> 00:23:19.790
+<v Speaker 0>In, in saying, you know, how they come to this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:19.790 --> 00:23:20.500
+<v Speaker 0>conclusion.
+
+NOTE CONF {"raw":[99]}
+
+00:23:20.869 --> 00:23:23.489
+<v Speaker 0>But if you were to change this, using a very
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:23:23.489 --> 00:23:28.900
+<v Speaker 0>different, um, model, say a weighted nearest neighbour, instead of,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:29.189 --> 00:23:32.670
+<v Speaker 0>uh, K nearest neighbour, um, then the end result will
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:23:32.670 --> 00:23:35.109
+<v Speaker 0>actually be a orange instead.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:23:36.109 --> 00:23:37.719
+<v Speaker 0>So we can look at that.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:23:37.989 --> 00:23:41.380
+<v Speaker 0>This actually occurs a lot more than um a lot,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:41.550 --> 00:23:43.670
+<v Speaker 0>yeah, a lot more than um.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:23:44.630 --> 00:23:46.020
+<v Speaker 0>Quite frequently, I should say.
+
+NOTE CONF {"raw":[24,99,99,99,99]}
+
+00:23:46.790 --> 00:23:50.609
+<v Speaker 0>Um, because that's how we, we generally capture data.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:23:50.790 --> 00:23:51.869
+<v Speaker 0>There's always a bias in there.
+
+NOTE CONF {"raw":[94,99,99,99,99,96]}
+
+00:23:53.109 --> 00:23:56.530
+<v Speaker 0>OK, so to precisely calculate, um, there's a formula we
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:23:56.530 --> 00:23:58.800
+<v Speaker 0>can just, yep, wait to.
+
+NOTE CONF {"raw":[99,99,64,99,99]}
+
+00:23:59.880 --> 00:24:03.000
+<v Speaker 0>OK, so basically it is just an inversion, inversion of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:03.000 --> 00:24:04.890
+<v Speaker 0>the distance, OK?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:24:05.239 --> 00:24:08.880
+<v Speaker 0>I don't think this actual slide makes a good case,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:09.000 --> 00:24:10.150
+<v Speaker 0>but this one does.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:24:11.199 --> 00:24:15.489
+<v Speaker 0>So you can see that, right, using that previous uh
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,95]}
+
+00:24:15.489 --> 00:24:16.479
+<v Speaker 0>example.
+
+NOTE CONF {"raw":[99]}
+
+00:24:16.819 --> 00:24:19.849
+<v Speaker 0>If you were to compute the class using this K
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:24:19.849 --> 00:24:23.089
+<v Speaker 0>and N approach, you will get this outcome.
+
+NOTE CONF {"raw":[99,81,99,99,98,99,99,99]}
+
+00:24:23.219 --> 00:24:28.449
+<v Speaker 0>So, obviously you calculate the distance between triangle and square,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:28.780 --> 00:24:29.810
+<v Speaker 0>you plot that out.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:24:30.020 --> 00:24:34.000
+<v Speaker 0>The first line here is really your KNN approach.
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,84,99]}
+
+00:24:35.270 --> 00:24:38.630
+<v Speaker 0>But if you were to reverse, so, if you were
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:24:38.630 --> 00:24:41.229
+<v Speaker 0>to sum those two up, you can see one being
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:24:41.229 --> 00:24:46.520
+<v Speaker 0>0.9, right, in the first class, class 0, it's 0.9,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97,99,99,99]}
+
+00:24:46.949 --> 00:24:49.150
+<v Speaker 0>and then the class one, which is the blue one,
+
+NOTE CONF {"raw":[99,99,99,99,95,99,99,98,99,99]}
+
+00:24:49.229 --> 00:24:50.739
+<v Speaker 0>is actually 3.3.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:24:51.109 --> 00:24:54.630
+<v Speaker 0>So the largest of those two is actually output of
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:24:54.630 --> 00:24:58.579
+<v Speaker 0>class one, right, that's using the KNN approach for this
+
+NOTE CONF {"raw":[99,97,96,98,99,99,99,99,99,99]}
+
+00:24:58.869 --> 00:25:01.849
+<v Speaker 0>imbalanced data set um challenge.
+
+NOTE CONF {"raw":[98,99,99,99,99]}
+
+00:25:02.959 --> 00:25:07.910
+<v Speaker 0>The weighted, uh, the weighted nearest neighbour approach, which is
+
+NOTE CONF {"raw":[99,98,98,99,98,99,99,99,99,99]}
+
+00:25:07.910 --> 00:25:12.069
+<v Speaker 0>inversing the distance, gives you a very different outlook.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:25:12.520 --> 00:25:15.119
+<v Speaker 0>So if you inverse 0.5, you get 2, if you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:25:15.119 --> 00:25:18.790
+<v Speaker 0>inverse 0.4, you get 2.5, and so forth.
+
+NOTE CONF {"raw":[99,77,99,99,99,99,99,99]}
+
+00:25:19.079 --> 00:25:21.630
+<v Speaker 0>You compute that, you add that together.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99]}
+
+00:25:22.449 --> 00:25:26.239
+<v Speaker 0>And then the final answer is actually a class 0.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:25:27.219 --> 00:25:31.239
+<v Speaker 0>So it's putting more weighting in this quadrant than this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:25:31.239 --> 00:25:33.310
+<v Speaker 0>other quadrant, right?
+
+NOTE CONF {"raw":[99,99,89]}
+
+00:25:33.520 --> 00:25:35.199
+<v Speaker 0>And this makes a big difference, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:25:35.359 --> 00:25:38.479
+<v Speaker 0>Do you want to have a um do you want
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,95]}
+
+00:25:38.479 --> 00:25:42.400
+<v Speaker 0>to synthesise the data so it's balanced, and then then
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:25:42.400 --> 00:25:44.550
+<v Speaker 0>you can use the KNN approach?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:25:44.920 --> 00:25:47.079
+<v Speaker 0>Or do you want to just acknowledge that this is
+
+NOTE CONF {"raw":[98,99,99,92,98,99,99,99,99,99]}
+
+00:25:47.079 --> 00:25:51.449
+<v Speaker 0>a imbalanced data set and that a weighted nearest neighbour,
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,98,99,99]}
+
+00:25:51.839 --> 00:25:55.400
+<v Speaker 0>uh approach is actually more correct, you know, more accurate
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:25:55.400 --> 00:25:56.319
+<v Speaker 0>in predicting.
+
+NOTE CONF {"raw":[99,99]}
+
+00:25:56.750 --> 00:25:59.910
+<v Speaker 0>Um, the, the value, right, that you're in question.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:26:08.760 --> 00:26:12.849
+<v Speaker 0>OK, so, um, very often we, we're interested in knowing
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:12.849 --> 00:26:16.439
+<v Speaker 0>the probability, not just what class it it comes in,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:16.880 --> 00:26:21.839
+<v Speaker 0>um, and so we use often this notation, the, It
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,63]}
+
+00:26:21.839 --> 00:26:26.000
+<v Speaker 0>basically the conditional probability notation where.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:26:26.739 --> 00:26:31.000
+<v Speaker 0>You know, given a class, right, where class I denotes
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:31.000 --> 00:26:34.660
+<v Speaker 0>as the I class, and that X is the vector
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,73]}
+
+00:26:34.660 --> 00:26:36.650
+<v Speaker 0>of the input feature.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:26:37.180 --> 00:26:40.880
+<v Speaker 0>And how you read this generally is the probability of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:40.880 --> 00:26:46.300
+<v Speaker 0>a correct class being class A, B, C, given the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:26:46.300 --> 00:26:48.329
+<v Speaker 0>observed feature uh X.
+
+NOTE CONF {"raw":[93,99,41,99]}
+
+00:26:48.819 --> 00:26:52.219
+<v Speaker 0>So this little statement, whilst it's kind of concluded, you
+
+NOTE CONF {"raw":[99,99,62,99,89,99,87,90,99,99]}
+
+00:26:52.219 --> 00:26:55.479
+<v Speaker 0>know, in a, in a literal sense.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:26:55.959 --> 00:27:01.040
+<v Speaker 0>Is how we often describe the probability of a um
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:27:01.040 --> 00:27:04.959
+<v Speaker 0>result, given the occurrence of something, right, so what's the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,94,99,99,99]}
+
+00:27:04.959 --> 00:27:09.319
+<v Speaker 0>probability of today raining, given the clouds are, or the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:27:09.319 --> 00:27:13.800
+<v Speaker 0>sky is cloudy, and you can actually compute um this
+
+NOTE CONF {"raw":[99,99,99,92,99,99,99,99,99,99]}
+
+00:27:13.800 --> 00:27:19.109
+<v Speaker 0>sort of probability and the, And the likelihood, right, of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:19.109 --> 00:27:20.339
+<v Speaker 0>a certain result.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:27:20.949 --> 00:27:24.510
+<v Speaker 0>Um, we'll talk more about this conditional probability next week
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,88,99,99]}
+
+00:27:24.510 --> 00:27:28.949
+<v Speaker 0>because that's when the base in naive based approach, generally
+
+NOTE CONF {"raw":[99,99,99,99,78,74,99,43,99,99]}
+
+00:27:28.949 --> 00:27:33.540
+<v Speaker 0>known as your spam, your email spam philtre, uh, approach,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:33.949 --> 00:27:38.069
+<v Speaker 0>they look for certain occurrences of features, and with a
+
+NOTE CONF {"raw":[99,99,99,99,99,59,99,99,99,99]}
+
+00:27:38.069 --> 00:27:41.910
+<v Speaker 0>long list of that occurrences, they make a very simplistic
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:41.910 --> 00:27:45.510
+<v Speaker 0>determination of like, well, you know, if it quacks like
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,93,99]}
+
+00:27:45.510 --> 00:27:46.270
+<v Speaker 0>a darken.
+
+NOTE CONF {"raw":[99,45]}
+
+00:27:46.910 --> 00:27:49.829
+<v Speaker 0>Wattles like a duck and, you know, floats like a
+
+NOTE CONF {"raw":[84,99,99,99,76,99,99,99,99,99]}
+
+00:27:49.829 --> 00:27:51.420
+<v Speaker 0>duck, then it must be a duck.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:27:51.739 --> 00:27:54.949
+<v Speaker 0>So you know, there's all these additional conditions that could
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:54.949 --> 00:27:58.989
+<v Speaker 0>give you a very highly probable, um, you know, classifying
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:27:58.989 --> 00:28:00.520
+<v Speaker 0>or a uh prediction.
+
+NOTE CONF {"raw":[99,99,94,99]}
+
+00:28:00.829 --> 00:28:04.989
+<v Speaker 0>And that's actually very powerful because, you know, it, it,
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:28:05.030 --> 00:28:10.030
+<v Speaker 0>I think it mirrors exactly what, generally everyday world events
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:10.030 --> 00:28:13.050
+<v Speaker 0>are, you know, if you see one occurrences of something,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,96,99,99]}
+
+00:28:13.109 --> 00:28:16.920
+<v Speaker 0>you might doubt it, but if you see multiple, Um
+
+NOTE CONF {"raw":[99,99,99,99,76,99,99,99,99,99]}
+
+00:28:17.939 --> 00:28:23.949
+<v Speaker 0>You know, Examples or multiple uh suggestions that it it
+
+NOTE CONF {"raw":[99,99,98,99,99,97,99,99,98,98]}
+
+00:28:23.959 --> 00:28:26.880
+<v Speaker 0>it is the case, and you're gonna trust that with
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:26.880 --> 00:28:28.239
+<v Speaker 0>high degrees of conviction.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:28:29.069 --> 00:28:29.540
+<v Speaker 0>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:28:30.729 --> 00:28:34.010
+<v Speaker 0>Now both of these uh classifiers, you can, you can
+
+NOTE CONF {"raw":[99,99,99,99,90,99,99,99,99,99]}
+
+00:28:34.010 --> 00:28:38.290
+<v Speaker 0>use this approach, um, but then you simply just, Use
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:38.290 --> 00:28:41.449
+<v Speaker 0>that formula set, right, so you in both KNN and
+
+NOTE CONF {"raw":[99,96,91,99,99,99,99,99,99,99]}
+
+00:28:41.449 --> 00:28:44.930
+<v Speaker 0>WNN which is weighted, uh, we can argue that the
+
+NOTE CONF {"raw":[99,99,99,99,92,99,99,99,99,99]}
+
+00:28:44.930 --> 00:28:51.030
+<v Speaker 0>conditional probability of N, uh, over the sum of NKs.
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99,98]}
+
+00:28:51.489 --> 00:28:55.770
+<v Speaker 0>OK, so N being either weighted or unweighted count of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:28:55.770 --> 00:28:56.689
+<v Speaker 0>the neighbours.
+
+NOTE CONF {"raw":[99,99]}
+
+00:28:56.729 --> 00:29:00.319
+<v Speaker 0>So you basically just the um divide this by the
+
+NOTE CONF {"raw":[95,99,99,99,95,99,99,99,99,99]}
+
+00:29:00.319 --> 00:29:01.729
+<v Speaker 0>number of occurrences.
+
+NOTE CONF {"raw":[99,99,98]}
+
+00:29:04.339 --> 00:29:06.280
+<v Speaker 0>So using that example again.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:29:07.160 --> 00:29:09.010
+<v Speaker 0>You can see the conditional probability.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:29:09.930 --> 00:29:13.760
+<v Speaker 0>Is that So you would say, you know, to, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:13.770 --> 00:29:17.729
+<v Speaker 0>with the weighted nearest net network, estimation of the probability
+
+NOTE CONF {"raw":[99,99,99,99,85,99,99,99,99,99]}
+
+00:29:17.729 --> 00:29:21.300
+<v Speaker 0>of the two classes, the first class is 0.6.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:29:21.489 --> 00:29:26.880
+<v Speaker 0>OK, so that triangle being in plus one is 0.6,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,39,97,99,99]}
+
+00:29:27.050 --> 00:29:28.770
+<v Speaker 0>so 60%, right?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:29:28.890 --> 00:29:32.250
+<v Speaker 0>It's not very high, but if your threshold is, if
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:32.250 --> 00:29:34.930
+<v Speaker 0>your threshold is 0.5, then it's enough to do the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:34.930 --> 00:29:37.170
+<v Speaker 0>job already because it's more than 0.5.
+
+NOTE CONF {"raw":[99,99,69,98,99,99,99]}
+
+00:29:37.790 --> 00:29:40.910
+<v Speaker 0>Right, whereas in the other, in the other class it's
+
+NOTE CONF {"raw":[99,76,99,99,99,99,99,99,99,97]}
+
+00:29:40.910 --> 00:29:46.619
+<v Speaker 0>just 0.4, like 40%, 39.4%. Now if your threshold is
+
+NOTE CONF {"raw":[99,98,99,98,98,99,99,99,99,99]}
+
+00:29:46.619 --> 00:29:49.699
+<v Speaker 0>below that, say, you know, you're quite loose at it,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:49.780 --> 00:29:53.050
+<v Speaker 0>I don't really care, we're just making sales recommendation on,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:53.339 --> 00:29:57.140
+<v Speaker 0>on Amazon, um, you know, a 0.2% will be sufficed
+
+NOTE CONF {"raw":[99,99,99,99,99,99,39,96,99,92]}
+
+00:29:57.140 --> 00:29:59.770
+<v Speaker 0>to do that, then it could be classed as a,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:29:59.780 --> 00:30:01.060
+<v Speaker 0>um, the second class instead.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:30:02.729 --> 00:30:06.920
+<v Speaker 0>And so extending this to back to the KNN situation,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:30:07.180 --> 00:30:10.979
+<v Speaker 0>you can again also compute the probability, um, the two
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:10.979 --> 00:30:15.660
+<v Speaker 0>probabilities are 0 40% and 60% respectively, but you can
+
+NOTE CONF {"raw":[99,99,85,97,99,99,99,99,99,99]}
+
+00:30:15.660 --> 00:30:18.219
+<v Speaker 0>see there the there's an inversion there, right?
+
+NOTE CONF {"raw":[99,92,95,99,99,99,99,99]}
+
+00:30:18.540 --> 00:30:21.209
+<v Speaker 0>No longer is the default if you have a 0.5
+
+NOTE CONF {"raw":[99,99,99,95,99,99,99,99,99,99]}
+
+00:30:21.209 --> 00:30:25.849
+<v Speaker 0>threshold, yeah, you, you could get a class one outcome
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:26.180 --> 00:30:27.180
+<v Speaker 0>as a by default.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:30:28.750 --> 00:30:31.160
+<v Speaker 0>So if you use some of the classifiers, the the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,78,99]}
+
+00:30:31.160 --> 00:30:34.040
+<v Speaker 0>estimated probability will be different again, it's very hard to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:34.040 --> 00:30:36.430
+<v Speaker 0>argue which one's more accurate.
+
+NOTE CONF {"raw":[99,99,98,99,99]}
+
+00:30:36.640 --> 00:30:38.410
+<v Speaker 0>It is the collective.
+
+NOTE CONF {"raw":[97,99,99,99]}
+
+00:30:38.680 --> 00:30:42.069
+<v Speaker 0>If um, if you run and deploy your algorithm, and
+
+NOTE CONF {"raw":[96,99,99,99,99,99,97,99,99,99]}
+
+00:30:42.069 --> 00:30:44.319
+<v Speaker 0>then you find out that most of your prediction is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:44.319 --> 00:30:45.300
+<v Speaker 0>actually incorrect.
+
+NOTE CONF {"raw":[99,99]}
+
+00:30:45.520 --> 00:30:48.199
+<v Speaker 0>I mean that's in the good case, right, if you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,92,99]}
+
+00:30:48.199 --> 00:30:51.640
+<v Speaker 0>can find, if it's that obvious, then it's an easy
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:51.640 --> 00:30:52.109
+<v Speaker 0>fix.
+
+NOTE CONF {"raw":[99]}
+
+00:30:52.640 --> 00:30:54.910
+<v Speaker 0>But the trouble is that it may not be as
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:54.910 --> 00:30:57.479
+<v Speaker 0>obvious and that you really need to then play around.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:30:57.930 --> 00:31:00.400
+<v Speaker 0>Um, and make your own decision at that point.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:31:01.540 --> 00:31:04.310
+<v Speaker 0>So there's a lot of explanation, there's a lot of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:04.310 --> 00:31:08.349
+<v Speaker 0>research, therefore on um explainable AI's, you know, how does
+
+NOTE CONF {"raw":[99,99,99,99,99,77,99,99,99,99]}
+
+00:31:08.349 --> 00:31:14.010
+<v Speaker 0>something give a outcome that is trustworthy or not trustworthy,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:14.109 --> 00:31:14.660
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:31:15.069 --> 00:31:17.910
+<v Speaker 0>And, you know, in a world where we are moving
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:17.910 --> 00:31:20.479
+<v Speaker 0>away from being able to explain things and just trust
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:20.479 --> 00:31:25.339
+<v Speaker 0>that probability instead, um, this is sort of a ongoing
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:25.339 --> 00:31:27.199
+<v Speaker 0>research and uh alignment process.
+
+NOTE CONF {"raw":[99,99,55,99,99]}
+
+00:31:27.569 --> 00:31:30.349
+<v Speaker 0>So this actually falls into the worlds of ethics, right,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:30.430 --> 00:31:34.229
+<v Speaker 0>you often hear about AI alignment, you know, how do
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:31:34.229 --> 00:31:37.989
+<v Speaker 0>we know this hallucination is true or not true, or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:37.989 --> 00:31:40.869
+<v Speaker 0>is it good enough for the job, um.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,97]}
+
+00:31:42.609 --> 00:31:44.989
+<v Speaker 0>And yeah, like, your, your biggest challenge is being able
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:31:44.989 --> 00:31:47.869
+<v Speaker 0>to explain this because right now this is still explainable
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:47.869 --> 00:31:50.939
+<v Speaker 0>very simplistically by diagram here and there.
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99]}
+
+00:31:51.229 --> 00:31:54.949
+<v Speaker 0>But when you move into decision trees and random forests
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:31:54.949 --> 00:31:58.829
+<v Speaker 0>and ensemble systems, it's really just trusting the mathematics in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:31:58.829 --> 00:32:01.829
+<v Speaker 0>there and then averaging out and then saying, OK, well,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:01.949 --> 00:32:04.670
+<v Speaker 0>this, this value tends to be higher all the time,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97,99,99,99]}
+
+00:32:04.989 --> 00:32:09.430
+<v Speaker 0>and this particular pathway is how it goes to categorise
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:09.430 --> 00:32:09.839
+<v Speaker 0>something.
+
+NOTE CONF {"raw":[99]}
+
+00:32:10.119 --> 00:32:14.189
+<v Speaker 0>It's less explainable, it's less clear cut into why something
+
+NOTE CONF {"raw":[99,99,99,99,99,88,99,99,99,99]}
+
+00:32:14.189 --> 00:32:16.270
+<v Speaker 0>does happen that that particular way.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:32:21.079 --> 00:32:25.479
+<v Speaker 0>Now be very mindful how, um, those features that you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:25.479 --> 00:32:26.859
+<v Speaker 0>do put on, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:32:27.000 --> 00:32:30.300
+<v Speaker 0>So that axis that you saw, right, in the previous,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:30.599 --> 00:32:34.119
+<v Speaker 0>um, diagram, you have the feature one, feature one being
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:32:34.119 --> 00:32:35.680
+<v Speaker 0>your dimensions, right?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:32:35.959 --> 00:32:38.890
+<v Speaker 0>And then feature two being another dimension, they could be
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:32:38.890 --> 00:32:40.839
+<v Speaker 0>a very different unit scales.
+
+NOTE CONF {"raw":[52,99,99,99,99]}
+
+00:32:41.630 --> 00:32:43.660
+<v Speaker 0>If you have very different unit scales, you're gonna run
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,97,99,99]}
+
+00:32:43.660 --> 00:32:46.839
+<v Speaker 0>into a problem where the data set's really skewed, right,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,96,99,98,99]}
+
+00:32:46.969 --> 00:32:52.290
+<v Speaker 0>so imagine you're plotting engine capacity versus year models.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:32:52.609 --> 00:32:54.770
+<v Speaker 0>The year model will be very compressed because, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:54.849 --> 00:32:58.609
+<v Speaker 0>if you're buying a car, Chances of that car ranging
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:32:58.609 --> 00:33:01.839
+<v Speaker 0>from 0 years to 15 years is pretty high, but
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:33:01.839 --> 00:33:04.000
+<v Speaker 0>from 15 years onwards it's pretty low.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:33:04.400 --> 00:33:05.599
+<v Speaker 0>It's quite compressed.
+
+NOTE CONF {"raw":[86,99,99]}
+
+00:33:05.810 --> 00:33:09.130
+<v Speaker 0>But then the engine capacity, um, if you're quoting in
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+00:33:09.130 --> 00:33:12.609
+<v Speaker 0>CCs, right, it could range from, I don't know.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99]}
+
+00:33:14.130 --> 00:33:19.329
+<v Speaker 0>1000 cc to 4.5, so, you know, the spacing between
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99,98,99]}
+
+00:33:19.329 --> 00:33:21.410
+<v Speaker 0>that is actually a lot, lot more.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:33:21.959 --> 00:33:26.260
+<v Speaker 0>So in those situations, now other situations also occurs in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:33:26.260 --> 00:33:30.569
+<v Speaker 0>say, demographic datas, you have age in years and height
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:33:30.569 --> 00:33:33.209
+<v Speaker 0>in centimetres, uh, and so forth.
+
+NOTE CONF {"raw":[99,99,96,99,99,99]}
+
+00:33:33.890 --> 00:33:37.579
+<v Speaker 0>In those situations you really need to normalise your dataset,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,62]}
+
+00:33:37.939 --> 00:33:38.329
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:33:38.579 --> 00:33:41.619
+<v Speaker 0>So these are part of the pre-processing that we mentioned
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:33:41.619 --> 00:33:42.609
+<v Speaker 0>and talk about.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:33:42.979 --> 00:33:46.260
+<v Speaker 0>Um, it's really just putting it as a ratio to
+
+NOTE CONF {"raw":[85,99,99,99,99,99,99,99,99,99]}
+
+00:33:46.260 --> 00:33:48.969
+<v Speaker 0>the extreme end, right, so you try and look at
+
+NOTE CONF {"raw":[99,99,99,98,96,82,99,99,99,99]}
+
+00:33:48.969 --> 00:33:52.380
+<v Speaker 0>those formulas, not as a way of just memorising what
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:33:52.380 --> 00:33:53.020
+<v Speaker 0>is happening.
+
+NOTE CONF {"raw":[99,99]}
+
+00:33:53.540 --> 00:33:57.500
+<v Speaker 0>But trying to understand, OK, why did the denominator is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,67,76,97,99]}
+
+00:33:57.790 --> 00:33:59.989
+<v Speaker 0>max minus the mean, right?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:34:00.069 --> 00:34:02.349
+<v Speaker 0>OK, well that that's the scale that I'm trying to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:02.349 --> 00:34:05.109
+<v Speaker 0>play with, and the top is just really the scale
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:05.109 --> 00:34:07.859
+<v Speaker 0>from one end to that other end.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:34:08.148 --> 00:34:10.898
+<v Speaker 0>If you fit in the numbers, obviously it's gonna be,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:11.148 --> 00:34:14.388
+<v Speaker 0>you know, very large value, uh, ranging to small value,
+
+NOTE CONF {"raw":[99,99,99,99,99,92,99,99,99,99]}
+
+00:34:14.429 --> 00:34:16.378
+<v Speaker 0>but at least it's in that scale range.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:34:16.989 --> 00:34:20.790
+<v Speaker 0>So we normalise the data, right, for all the features
+
+NOTE CONF {"raw":[99,99,99,68,99,99,99,99,99,99]}
+
+00:34:20.790 --> 00:34:21.439
+<v Speaker 0>in general.
+
+NOTE CONF {"raw":[99,99]}
+
+00:34:22.148 --> 00:34:25.510
+<v Speaker 0>And then you can plot them on the KNN um
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:34:25.510 --> 00:34:29.830
+<v Speaker 0>framework or the weighted nearest neighbour, and then you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:29.830 --> 00:34:31.780
+<v Speaker 0>basically do your classing that way.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:34:32.729 --> 00:34:35.679
+<v Speaker 0>And again we use functions to to do all this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:35.679 --> 00:34:38.888
+<v Speaker 0>work, so you don't have to manually do it, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:39.138 --> 00:34:44.320
+<v Speaker 0>but the function inykile is really just that, pre-processing, right,
+
+NOTE CONF {"raw":[99,99,99,57,99,99,99,99,97,99]}
+
+00:34:44.419 --> 00:34:45.260
+<v Speaker 0>normalisation.
+
+NOTE CONF {"raw":[99]}
+
+00:34:51.188 --> 00:34:55.877
+<v Speaker 0>And so the, the actual, um, documentation can be found
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:34:55.877 --> 00:34:59.418
+<v Speaker 0>online, obviously, um, but you can see here, you can
+
+NOTE CONF {"raw":[99,99,95,99,99,99,99,99,99,99]}
+
+00:34:59.418 --> 00:35:02.249
+<v Speaker 0>have different ways of computing, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:35:02.408 --> 00:35:06.208
+<v Speaker 0>You can either have a uniform approach or a distance
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:06.208 --> 00:35:10.368
+<v Speaker 0>approach where it is the, the inversion, um, the weighted,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:10.569 --> 00:35:15.168
+<v Speaker 0>the weighted, um, nearest neighbour, uh compute, uh, and so
+
+NOTE CONF {"raw":[99,99,99,99,99,95,99,99,99,99]}
+
+00:35:15.168 --> 00:35:15.448
+<v Speaker 0>forth.
+
+NOTE CONF {"raw":[99]}
+
+00:35:15.489 --> 00:35:19.799
+<v Speaker 0>And you wanna range your neighbours, so the K value
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+00:35:20.208 --> 00:35:21.019
+<v Speaker 0>from 3.
+
+NOTE CONF {"raw":[99,99]}
+
+00:35:21.570 --> 00:35:24.040
+<v Speaker 0>To say 10, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:35:24.370 --> 00:35:27.719
+<v Speaker 0>Given that range, you can then sample, OK, how effective
+
+NOTE CONF {"raw":[77,99,99,99,99,99,99,99,99,99]}
+
+00:35:27.719 --> 00:35:28.459
+<v Speaker 0>is your model.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:35:34.090 --> 00:35:36.590
+<v Speaker 0>So these are just general steps you might want to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,89,96]}
+
+00:35:36.590 --> 00:35:40.239
+<v Speaker 0>implement, you have your fit, right, so creating an object
+
+NOTE CONF {"raw":[99,96,99,99,92,99,97,99,99,99]}
+
+00:35:40.239 --> 00:35:43.080
+<v Speaker 0>for the actual algorithm to occur, that's a, that's just
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,97]}
+
+00:35:43.080 --> 00:35:48.270
+<v Speaker 0>a class representation, um, and then using the fit, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,92,99]}
+
+00:35:48.290 --> 00:35:52.379
+<v Speaker 0>method, you can then train your model and then predict,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:35:52.709 --> 00:35:52.929
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:35:53.030 --> 00:35:55.500
+<v Speaker 0>Predict would then give you a certain class.
+
+NOTE CONF {"raw":[81,99,99,99,99,99,99,99]}
+
+00:35:55.830 --> 00:35:57.870
+<v Speaker 0>But if you wanted to know the probability of each
+
+NOTE CONF {"raw":[59,98,99,99,99,99,99,99,99,99]}
+
+00:35:57.870 --> 00:36:01.629
+<v Speaker 0>of those classes, you use predict, you know, underscore proper.
+
+NOTE CONF {"raw":[99,99,59,99,99,99,99,99,89,99]}
+
+00:36:02.250 --> 00:36:06.330
+<v Speaker 0>Uh, and that will give you the actual probability of
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:36:06.330 --> 00:36:09.120
+<v Speaker 0>those classes, giving you some sort of certainty.
+
+NOTE CONF {"raw":[99,99,99,99,96,89,99,99]}
+
+00:36:09.370 --> 00:36:11.389
+<v Speaker 0>You can then look at that manually, you can compute
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:11.389 --> 00:36:14.209
+<v Speaker 0>that subsequently, you can do other things with that.
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99]}
+
+00:36:14.530 --> 00:36:17.300
+<v Speaker 0>Uh, and then obviously you compare and contrast the different,
+
+NOTE CONF {"raw":[93,99,99,99,99,98,66,99,99,99]}
+
+00:36:17.689 --> 00:36:20.639
+<v Speaker 0>uh, accuracy of the algorithm using the metrics function.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:36:21.129 --> 00:36:23.199
+<v Speaker 0>OK, so these are all methods that you can just
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,99,99,99]}
+
+00:36:23.199 --> 00:36:24.229
+<v Speaker 0>easily call.
+
+NOTE CONF {"raw":[99,99]}
+
+00:36:24.610 --> 00:36:27.290
+<v Speaker 0>And when you all put them all together, this is
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:36:27.290 --> 00:36:28.919
+<v Speaker 0>generally the pipeline that you have.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:36:29.370 --> 00:36:32.030
+<v Speaker 0>You can, You know, the reason why I'm telling you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:32.030 --> 00:36:35.110
+<v Speaker 0>all this, you can obviously find it in any, any
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:35.110 --> 00:36:39.790
+<v Speaker 0>sort of web pages, but very often you stick to
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99,99]}
+
+00:36:39.790 --> 00:36:43.909
+<v Speaker 0>their way of representation, right, and you don't really know
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:43.909 --> 00:36:44.550
+<v Speaker 0>what you're doing.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:36:45.199 --> 00:36:47.699
+<v Speaker 0>And so the whole point here is to describe what
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:47.699 --> 00:36:50.419
+<v Speaker 0>you're trying to do, and here's an example of how
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:36:50.419 --> 00:36:51.149
+<v Speaker 0>you do it.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:36:51.419 --> 00:36:54.860
+<v Speaker 0>So then when you read other um representations, right, if
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:54.860 --> 00:36:58.340
+<v Speaker 0>you read other tutorial sets or other notes, you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:36:58.340 --> 00:37:00.979
+<v Speaker 0>see, oh, right, this maps to how I want to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,96,95]}
+
+00:37:00.979 --> 00:37:03.530
+<v Speaker 0>do my bit and this is how they did it,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:03.820 --> 00:37:05.379
+<v Speaker 0>and so forth, right?
+
+NOTE CONF {"raw":[99,99,99,98]}
+
+00:37:06.419 --> 00:37:09.250
+<v Speaker 0>I'm sure you all have been looking at the tutorial
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:09.250 --> 00:37:13.050
+<v Speaker 0>answers, right, the tutorial answers is a way for you
+
+NOTE CONF {"raw":[99,99,95,99,99,99,99,99,99,99]}
+
+00:37:13.050 --> 00:37:16.570
+<v Speaker 0>to learn the best practise of how to represent, how
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:16.570 --> 00:37:20.199
+<v Speaker 0>to code, how to comment, um, you know, you should
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:20.199 --> 00:37:24.409
+<v Speaker 0>also be following and developing that ability for your, for
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:24.409 --> 00:37:27.610
+<v Speaker 0>your own work, right, when you're self-coding, this is, this
+
+NOTE CONF {"raw":[99,99,99,99,99,96,98,99,99,99]}
+
+00:37:27.610 --> 00:37:29.010
+<v Speaker 0>is the commentary that you make.
+
+NOTE CONF {"raw":[99,97,99,99,99,99]}
+
+00:37:29.439 --> 00:37:31.600
+<v Speaker 0>So all this is a stylistic thing.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:37:31.770 --> 00:37:35.560
+<v Speaker 0>Now, the more you comment in your code, the better
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:37:35.560 --> 00:37:37.889
+<v Speaker 0>it is for other people to read your code, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:37.889 --> 00:37:41.050
+<v Speaker 0>also for you to decipher what happened, you know, if
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:41.050 --> 00:37:44.169
+<v Speaker 0>there's something that doesn't work, and how can you improve
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:37:44.169 --> 00:37:47.479
+<v Speaker 0>on that particular um process.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:37:50.530 --> 00:37:52.080
+<v Speaker 0>Any questions so far?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:37:52.570 --> 00:37:55.399
+<v Speaker 0>No, no, not no discussion on this?
+
+NOTE CONF {"raw":[99,89,99,99,99,99,99]}
+
+00:37:55.669 --> 00:37:56.479
+<v Speaker 0>No questions?
+
+NOTE CONF {"raw":[99,99]}
+
+00:37:56.689 --> 00:37:57.010
+<v Speaker 0>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:37:57.959 --> 00:37:58.540
+<v Speaker 0>All right.
+
+NOTE CONF {"raw":[93,87]}
+
+00:38:00.320 --> 00:38:03.510
+<v Speaker 0>So if you were to do exactly that, right, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:03.659 --> 00:38:06.820
+<v Speaker 0>you can pump this in Python and then see what
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:38:06.820 --> 00:38:10.620
+<v Speaker 0>the test data, um, of the two predictions, right, of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:10.620 --> 00:38:13.540
+<v Speaker 0>the two approaches to the predictions, uh, you can then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,77,99,99,99]}
+
+00:38:13.540 --> 00:38:15.729
+<v Speaker 0>plot that and then you can compare.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:38:16.139 --> 00:38:19.459
+<v Speaker 0>You can compare which model, which compute, gives you better
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:19.459 --> 00:38:22.379
+<v Speaker 0>recall values, precision values, and accuracy values.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:38:22.919 --> 00:38:25.439
+<v Speaker 0>Right, even though the accuracy is the same, you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:25.439 --> 00:38:29.620
+<v Speaker 0>see in one situation, the recall is very different, right,
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:38:29.800 --> 00:38:32.870
+<v Speaker 0>whereas the precision is also very similar.
+
+NOTE CONF {"raw":[88,99,99,99,99,99,99]}
+
+00:38:33.280 --> 00:38:36.679
+<v Speaker 0>So, you know, when you choose a model, do you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:36.679 --> 00:38:41.149
+<v Speaker 0>want the KNN approach or the um weighted nearest neighbour
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:41.149 --> 00:38:41.629
+<v Speaker 0>approach?
+
+NOTE CONF {"raw":[99]}
+
+00:38:41.919 --> 00:38:44.570
+<v Speaker 0>Well it depends on what you're trying to optimise, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:44.760 --> 00:38:48.959
+<v Speaker 0>You're trying to optimise the precision versus recall, then maybe
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:38:48.959 --> 00:38:50.389
+<v Speaker 0>a KNN is good enough.
+
+NOTE CONF {"raw":[96,99,99,99,99]}
+
+00:38:50.810 --> 00:38:53.419
+<v Speaker 0>But if you know, if, if it's a flat line
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:38:53.419 --> 00:38:57.300
+<v Speaker 0>that you you want it to be uh agnostic, which
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,94,99,99]}
+
+00:38:57.300 --> 00:39:01.889
+<v Speaker 0>is basically, you know, random classifiers, then you, you wanna,
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:39:02.060 --> 00:39:03.169
+<v Speaker 0>you wanna have the other one.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:39:10.080 --> 00:39:10.679
+<v Speaker 0>OK.
+
+NOTE CONF {"raw":[99]}
+
+00:39:11.760 --> 00:39:15.969
+<v Speaker 0>So how is this used in a generalised machine learning?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:16.169 --> 00:39:19.010
+<v Speaker 0>Um, well, a lot of the times we're trying to
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:39:19.010 --> 00:39:22.290
+<v Speaker 0>classify things, so, so that's what we're trying to compute
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:22.290 --> 00:39:25.600
+<v Speaker 0>the mapping function between the output and the input class.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:26.250 --> 00:39:29.500
+<v Speaker 0>Um, so the input features and the output class.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99]}
+
+00:39:31.570 --> 00:39:35.090
+<v Speaker 0>So this corresponds to the input value where theta is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:39:35.090 --> 00:39:36.169
+<v Speaker 0>the parameter factor.
+
+NOTE CONF {"raw":[99,99,75]}
+
+00:39:36.929 --> 00:39:39.810
+<v Speaker 0>Um, there's no obvious parameters to optimise.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:39:39.939 --> 00:39:43.129
+<v Speaker 0>Instead, the training data is used to create decision regions.
+
+NOTE CONF {"raw":[85,99,99,99,99,99,99,99,99,99]}
+
+00:39:43.459 --> 00:39:45.770
+<v Speaker 0>So we want to play around with how to represent
+
+NOTE CONF {"raw":[99,84,67,90,99,99,99,99,99,99]}
+
+00:39:45.770 --> 00:39:47.629
+<v Speaker 0>the data set, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:39:47.780 --> 00:39:51.219
+<v Speaker 0>Whether or not you use a Kold cross validation, you
+
+NOTE CONF {"raw":[88,99,99,99,99,99,69,99,99,99]}
+
+00:39:51.219 --> 00:39:56.219
+<v Speaker 0>know, 10 versus 5 versus 20, um, what's the percentage
+
+NOTE CONF {"raw":[99,99,98,99,99,99,98,99,99,99]}
+
+00:39:56.219 --> 00:39:57.409
+<v Speaker 0>of your training set?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:39:57.699 --> 00:40:01.780
+<v Speaker 0>Is it 50%, is it 80%, um, you know, and,
+
+NOTE CONF {"raw":[99,99,99,97,99,99,94,99,99,99]}
+
+00:40:01.929 --> 00:40:03.050
+<v Speaker 0>and vary that range.
+
+NOTE CONF {"raw":[99,97,99,99]}
+
+00:40:03.260 --> 00:40:04.500
+<v Speaker 0>That's your decision.
+
+NOTE CONF {"raw":[97,99,99]}
+
+00:40:05.020 --> 00:40:06.409
+<v Speaker 0>Variation space.
+
+NOTE CONF {"raw":[98,99]}
+
+00:40:06.860 --> 00:40:10.179
+<v Speaker 0>So if you're talking about experiments, right, you've got your
+
+NOTE CONF {"raw":[99,99,62,99,99,99,99,99,99,99]}
+
+00:40:10.179 --> 00:40:11.939
+<v Speaker 0>experimental factors, right?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:40:12.060 --> 00:40:15.489
+<v Speaker 0>So what values to change in a, in a box
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:40:15.489 --> 00:40:18.939
+<v Speaker 0>and then compute how that actually corresponds to accuracy.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:40:21.060 --> 00:40:23.909
+<v Speaker 0>You can consider the decision boundaries, right, so you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:23.909 --> 00:40:27.629
+<v Speaker 0>play around with the various parameters such as thresholds as
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:27.629 --> 00:40:28.379
+<v Speaker 0>well.
+
+NOTE CONF {"raw":[99]}
+
+00:40:28.750 --> 00:40:33.179
+<v Speaker 0>Um, the parameter K, the nearest neighbour, is a hyperparameter,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,75]}
+
+00:40:33.510 --> 00:40:37.310
+<v Speaker 0>and it doesn't, um, it determines the exact form of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:37.310 --> 00:40:38.429
+<v Speaker 0>the model, OK?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:40:38.469 --> 00:40:42.429
+<v Speaker 0>It's not actually related in the optimisation, right?
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99]}
+
+00:40:42.550 --> 00:40:47.030
+<v Speaker 0>So hyperparametters are not learned, um, or updated during the
+
+NOTE CONF {"raw":[97,85,99,99,97,99,99,99,99,99]}
+
+00:40:47.030 --> 00:40:48.260
+<v Speaker 0>optimisation process.
+
+NOTE CONF {"raw":[99,99]}
+
+00:40:48.270 --> 00:40:49.510
+<v Speaker 0>It is set beforehand.
+
+NOTE CONF {"raw":[91,99,99,99]}
+
+00:40:49.860 --> 00:40:52.439
+<v Speaker 0>So irrespective of what it is, you can just set
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:52.439 --> 00:40:55.959
+<v Speaker 0>and tune it, and then, you know, that gives you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:55.959 --> 00:40:59.080
+<v Speaker 0>a different outcome, not because of your data set, not
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:40:59.080 --> 00:41:01.800
+<v Speaker 0>because of the optimisation, but because you just set it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,82,99,99]}
+
+00:41:01.800 --> 00:41:02.310
+<v Speaker 0>differently.
+
+NOTE CONF {"raw":[99]}
+
+00:41:03.000 --> 00:41:06.439
+<v Speaker 0>OK, which is a, a kind of new concept, um.
+
+NOTE CONF {"raw":[99,99,99,99,99,96,97,99,99,99]}
+
+00:41:07.100 --> 00:41:10.620
+<v Speaker 0>But that little fixed value do determine the overall architecture
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:10.620 --> 00:41:11.969
+<v Speaker 0>and the behaviour of the model.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:41:12.489 --> 00:41:14.260
+<v Speaker 0>So you need to like play around with that a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:14.260 --> 00:41:19.020
+<v Speaker 0>lot and really see how that plays it plays out.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,55,99,99]}
+
+00:41:22.449 --> 00:41:27.239
+<v Speaker 0>OK, um, so we've mentioned a lot about these two
+
+NOTE CONF {"raw":[99,99,99,40,99,99,99,99,99,99]}
+
+00:41:27.590 --> 00:41:30.280
+<v Speaker 0>models, which, um, you'll probably use a lot.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:41:30.689 --> 00:41:33.300
+<v Speaker 0>Um, in this week, I think we have some transport
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:41:33.300 --> 00:41:37.120
+<v Speaker 0>data that you will be classing things out.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:41:37.570 --> 00:41:42.050
+<v Speaker 0>Um, but when you receive that particular data set, there's
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:41:42.050 --> 00:41:43.949
+<v Speaker 0>a lot you need to do beforehand.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:41:44.370 --> 00:41:48.929
+<v Speaker 0>In that process, we generally call it pre-processing, right, as
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,96,99,99]}
+
+00:41:48.929 --> 00:41:49.689
+<v Speaker 0>the name suggests.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:41:51.989 --> 00:41:53.590
+<v Speaker 0>So in the real world you capture a lot of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:53.590 --> 00:41:56.540
+<v Speaker 0>things, for example, the time and date of something happening,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:41:56.830 --> 00:42:00.590
+<v Speaker 0>the actual reading from sensors perhaps, but then there's always
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:42:00.590 --> 00:42:03.429
+<v Speaker 0>one or two categories that may just not have data
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:03.429 --> 00:42:03.709
+<v Speaker 0>in there.
+
+NOTE CONF {"raw":[99,89]}
+
+00:42:04.469 --> 00:42:06.199
+<v Speaker 0>Do you delete the whole role?
+
+NOTE CONF {"raw":[99,99,99,99,99,83]}
+
+00:42:06.459 --> 00:42:08.850
+<v Speaker 0>Do you, do you fill that in with something?
+
+NOTE CONF {"raw":[99,99,99,99,96,99,99,99,99]}
+
+00:42:09.070 --> 00:42:09.610
+<v Speaker 0>What?
+
+NOTE CONF {"raw":[99]}
+
+00:42:09.739 --> 00:42:11.379
+<v Speaker 0>And how do you deal with them?
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99]}
+
+00:42:11.899 --> 00:42:14.419
+<v Speaker 0>I think those are, those make a big difference if
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:14.419 --> 00:42:17.850
+<v Speaker 0>a lot of your data has holes in them, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:18.020 --> 00:42:19.570
+<v Speaker 0>You know, they're not always complete.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:42:20.010 --> 00:42:23.939
+<v Speaker 0>Especially when you're merging between two data sets, right, because
+
+NOTE CONF {"raw":[64,99,99,99,99,99,99,99,99,99]}
+
+00:42:23.939 --> 00:42:28.379
+<v Speaker 0>maybe like one company collects sensors from those sensors, right,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98,99]}
+
+00:42:28.459 --> 00:42:33.219
+<v Speaker 0>heat sensors, temperature sensors, you know, vibration sensors, but then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:33.219 --> 00:42:37.719
+<v Speaker 0>Company B, Same problem there, they they only capture two.
+
+NOTE CONF {"raw":[26,99,99,99,69,93,99,99,99,99]}
+
+00:42:38.169 --> 00:42:41.370
+<v Speaker 0>So then now you have a missing dimension or maybe
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:42:41.370 --> 00:42:44.370
+<v Speaker 0>parts of the sensors just sort of doesn't work and
+
+NOTE CONF {"raw":[99,99,99,90,96,99,99,99,99,99]}
+
+00:42:44.370 --> 00:42:46.320
+<v Speaker 0>so you have gaps in those data.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:42:46.570 --> 00:42:50.120
+<v Speaker 0>Um, when you merge them into two, sure you can
+
+NOTE CONF {"raw":[96,99,99,99,99,54,99,99,99,99]}
+
+00:42:50.439 --> 00:42:54.179
+<v Speaker 0>sort them by, you know, time, you can sort them
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:54.179 --> 00:42:58.449
+<v Speaker 0>by the actual, Um, device that you have, but then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:42:58.449 --> 00:43:01.169
+<v Speaker 0>there'll also be those empty gaps, and so you need
+
+NOTE CONF {"raw":[77,99,99,99,99,98,99,99,99,99]}
+
+00:43:01.169 --> 00:43:04.169
+<v Speaker 0>to think about how to deal with those empty data
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:43:04.169 --> 00:43:04.610
+<v Speaker 0>sets.
+
+NOTE CONF {"raw":[99]}
+
+00:43:07.159 --> 00:43:10.330
+<v Speaker 0>Now Pandas is a tool that we then use to
+
+NOTE CONF {"raw":[99,97,99,99,99,99,99,99,99,99]}
+
+00:43:10.330 --> 00:43:13.149
+<v Speaker 0>um deal with this, so very often when you import
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,98]}
+
+00:43:13.149 --> 00:43:18.189
+<v Speaker 0>import your CSV you use Pandas import read CSV, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,74,90,91,99,99]}
+
+00:43:18.320 --> 00:43:22.070
+<v Speaker 0>you do your pre-processing, and then you use PyitL Learn
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,28,18]}
+
+00:43:22.070 --> 00:43:25.479
+<v Speaker 0>to actually then deal with, um, the, the training of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:43:25.479 --> 00:43:29.959
+<v Speaker 0>the model, and then you use other plotting software, Seborne,
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,76]}
+
+00:43:30.110 --> 00:43:32.750
+<v Speaker 0>and so forth to, to plot it and see how
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:43:32.750 --> 00:43:34.070
+<v Speaker 0>it all works, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:43:34.709 --> 00:43:39.419
+<v Speaker 0>So in Panthers, Um, there's a way of converting, not
+
+NOTE CONF {"raw":[99,99,36,99,99,99,99,99,99,99]}
+
+00:43:39.419 --> 00:43:43.030
+<v Speaker 0>a value, not a number, into something else, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,98]}
+
+00:43:43.149 --> 00:43:46.399
+<v Speaker 0>So any missing data is converted to not a number
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:43:46.830 --> 00:43:49.270
+<v Speaker 0>in the loading of the file, so you get this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97,99,99,99]}
+
+00:43:49.270 --> 00:43:51.219
+<v Speaker 0>NAN value.
+
+NOTE CONF {"raw":[98,99]}
+
+00:43:51.709 --> 00:43:54.469
+<v Speaker 0>You can see it's already creating some sort of issues,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:43:54.550 --> 00:43:58.500
+<v Speaker 0>right, especially when you're getting noticed, when you're just coding,
+
+NOTE CONF {"raw":[99,99,99,99,99,81,99,99,99,99]}
+
+00:43:58.870 --> 00:44:00.439
+<v Speaker 0>type it in, you hit run.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:44:00.860 --> 00:44:02.010
+<v Speaker 0>Then it doesn't work.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:44:02.260 --> 00:44:05.020
+<v Speaker 0>There's a comment, there's a comment that says maybe like
+
+NOTE CONF {"raw":[91,99,99,98,99,99,99,99,99,99]}
+
+00:44:05.020 --> 00:44:07.510
+<v Speaker 0>incorrect types, things like that.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:44:08.020 --> 00:44:10.860
+<v Speaker 0>That's basically saying that, well, not all your roads are
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:44:10.860 --> 00:44:11.969
+<v Speaker 0>of the same type.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:44:12.379 --> 00:44:12.479
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[96]}
+
+00:44:12.540 --> 00:44:16.939
+<v Speaker 0>You can see the timestamp um column should be in
+
+NOTE CONF {"raw":[93,99,99,99,95,99,99,99,99,99]}
+
+00:44:16.939 --> 00:44:21.250
+<v Speaker 0>timestamp format, whereas the power should be in a floating,
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,93,99]}
+
+00:44:21.520 --> 00:44:23.020
+<v Speaker 0>right, floating value format.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:44:23.060 --> 00:44:27.459
+<v Speaker 0>But now you have this not a number situation, which
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:44:27.459 --> 00:44:28.780
+<v Speaker 0>is just a string value.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:44:29.489 --> 00:44:32.590
+<v Speaker 0>So you need to convert this into something else.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:44:33.419 --> 00:44:38.620
+<v Speaker 0>Um, in some cases, those methods will just ignore a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:44:38.620 --> 00:44:41.770
+<v Speaker 0>NAN value and treat that as a zero.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,95]}
+
+00:44:41.939 --> 00:44:45.659
+<v Speaker 0>So in a summing method, in the averaging method, um,
+
+NOTE CONF {"raw":[99,99,98,99,99,99,82,99,99,99]}
+
+00:44:45.739 --> 00:44:48.260
+<v Speaker 0>but this may not always be sensible, because if you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:44:48.260 --> 00:44:51.540
+<v Speaker 0>have a lot of those zeros, um, and you average
+
+NOTE CONF {"raw":[99,99,99,99,99,94,99,99,99,99]}
+
+00:44:51.540 --> 00:44:55.179
+<v Speaker 0>the column, then what you're getting is like uh extremely
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,70,99]}
+
+00:44:55.179 --> 00:44:57.330
+<v Speaker 0>small value which is not representative.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:44:57.739 --> 00:45:00.219
+<v Speaker 0>You might actually want to fill those zeros with the
+
+NOTE CONF {"raw":[99,99,99,99,99,91,99,81,99,99]}
+
+00:45:00.219 --> 00:45:02.139
+<v Speaker 0>average of the other.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:45:02.560 --> 00:45:07.110
+<v Speaker 0>Um, existing values, so there's already two methods of consideration,
+
+NOTE CONF {"raw":[99,99,99,97,99,99,99,99,99,99]}
+
+00:45:07.439 --> 00:45:08.479
+<v Speaker 0>um, to deal with that.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:45:09.340 --> 00:45:12.050
+<v Speaker 0>Now, obviously you can just drop that role if you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:12.260 --> 00:45:13.850
+<v Speaker 0>don't want to deal with it.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:45:14.100 --> 00:45:16.500
+<v Speaker 0>Um, the challenge is if you have a lot of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:16.500 --> 00:45:21.270
+<v Speaker 0>those not a value across multiple dimensions, scattered throughout.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,97,99]}
+
+00:45:21.780 --> 00:45:25.139
+<v Speaker 0>You might end up dropping a good 60% of your
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:25.139 --> 00:45:27.889
+<v Speaker 0>of your data set just because it's missing one value
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:27.889 --> 00:45:28.689
+<v Speaker 0>from that role.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:45:29.679 --> 00:45:32.550
+<v Speaker 0>So, you know, we're back to that same problem.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,89]}
+
+00:45:34.590 --> 00:45:37.139
+<v Speaker 0>So to find out how like the first step to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:37.139 --> 00:45:40.020
+<v Speaker 0>really looking at your data points is to find out
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:40.020 --> 00:45:43.459
+<v Speaker 0>if there's any missing entries, and so you can ask
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:45:43.459 --> 00:45:44.179
+<v Speaker 0>the question.
+
+NOTE CONF {"raw":[93,99]}
+
+00:45:45.020 --> 00:45:48.580
+<v Speaker 0>It is not, you know, is NA function using that
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:48.780 --> 00:45:50.370
+<v Speaker 0>and then basically count that.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:45:50.860 --> 00:45:53.820
+<v Speaker 0>So obviously, you know, you compute this properly, you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:45:53.820 --> 00:45:57.510
+<v Speaker 0>just do a quick search, you import your data set,
+
+NOTE CONF {"raw":[99,99,99,99,99,98,98,99,99,99]}
+
+00:45:57.979 --> 00:46:02.050
+<v Speaker 0>you go, you know, look through this data um um
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:02.260 --> 00:46:06.340
+<v Speaker 0>data frame and count the number of NAs and then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:06.340 --> 00:46:06.860
+<v Speaker 0>report back.
+
+NOTE CONF {"raw":[99,99]}
+
+00:46:07.239 --> 00:46:10.120
+<v Speaker 0>You should be getting zeros, right, for each of the
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:46:10.120 --> 00:46:12.889
+<v Speaker 0>dimensions, but if not, then you can zoom in into
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:46:12.889 --> 00:46:15.439
+<v Speaker 0>the actual column and then try and find a way
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:15.439 --> 00:46:16.239
+<v Speaker 0>to deal with that.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:46:20.129 --> 00:46:22.719
+<v Speaker 0>The opposite can also occur, so you can just look
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:22.719 --> 00:46:26.370
+<v Speaker 0>at how many that actually as a false value, so
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:46:26.370 --> 00:46:27.530
+<v Speaker 0>either way works.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:46:28.810 --> 00:46:32.250
+<v Speaker 0>But assuming that you then identified the column that you
+
+NOTE CONF {"raw":[82,99,99,99,99,99,99,99,99,99]}
+
+00:46:32.250 --> 00:46:36.649
+<v Speaker 0>need to deal with, right, solving those NA values, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:36.649 --> 00:46:41.110
+<v Speaker 0>can then use the um, The F fill approach.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,96,99]}
+
+00:46:41.439 --> 00:46:43.239
+<v Speaker 0>So you can F fill it to any numbers you
+
+NOTE CONF {"raw":[95,99,99,99,99,95,99,99,99,99]}
+
+00:46:43.239 --> 00:46:43.590
+<v Speaker 0>want.
+
+NOTE CONF {"raw":[99]}
+
+00:46:44.179 --> 00:46:46.260
+<v Speaker 0>You can then, so what we did in the very
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:46.260 --> 00:46:49.870
+<v Speaker 0>first tutorial, we asked you to do a average of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:46:50.270 --> 00:46:51.100
+<v Speaker 0>existing things.
+
+NOTE CONF {"raw":[99,99]}
+
+00:46:51.310 --> 00:46:54.899
+<v Speaker 0>So you can isolate the column, right, isolate the column,
+
+NOTE CONF {"raw":[92,98,99,99,99,99,99,99,99,99]}
+
+00:46:55.070 --> 00:46:57.020
+<v Speaker 0>take out the rows that does not have the value,
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:46:57.229 --> 00:47:00.229
+<v Speaker 0>compute the average, that average now goes into all those
+
+NOTE CONF {"raw":[99,99,99,97,99,99,99,99,99,99]}
+
+00:47:00.229 --> 00:47:01.709
+<v Speaker 0>other empty values.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:47:01.790 --> 00:47:05.189
+<v Speaker 0>Right, there's a very common approach to infilling the, the
+
+NOTE CONF {"raw":[88,81,99,99,99,99,99,98,99,99]}
+
+00:47:05.189 --> 00:47:08.590
+<v Speaker 0>gaps because you know, worst case is is it's just
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,77,99,99]}
+
+00:47:08.590 --> 00:47:09.780
+<v Speaker 0>laying on the average.
+
+NOTE CONF {"raw":[97,99,99,99]}
+
+00:47:10.429 --> 00:47:10.790
+<v Speaker 0>OK?
+
+NOTE CONF {"raw":[99]}
+
+00:47:11.689 --> 00:47:13.449
+<v Speaker 0>You don't have deferability anymore.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:47:14.379 --> 00:47:17.340
+<v Speaker 0>So you can use that to just feel everything, and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,95,99,99]}
+
+00:47:17.340 --> 00:47:18.629
+<v Speaker 0>that would generally do that.
+
+NOTE CONF {"raw":[99,82,99,99,99]}
+
+00:47:18.979 --> 00:47:23.330
+<v Speaker 0>Um, I think there's also other, Methods are other subcond
+
+NOTE CONF {"raw":[93,99,99,99,99,99,98,77,99,89]}
+
+00:47:23.330 --> 00:47:25.929
+<v Speaker 0>conditions in that, in that function, you can just go
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:47:25.929 --> 00:47:28.260
+<v Speaker 0>to the page and look at that, um, but you
+
+NOTE CONF {"raw":[99,77,99,99,99,99,99,99,99,99]}
+
+00:47:28.260 --> 00:47:32.209
+<v Speaker 0>can also if feel, Certain rows and columns, right, up
+
+NOTE CONF {"raw":[99,99,53,90,99,99,99,99,99,99]}
+
+00:47:32.209 --> 00:47:35.709
+<v Speaker 0>to say 200 or, you know, pre uh predetermined value.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,58,98,99]}
+
+00:47:39.179 --> 00:47:42.379
+<v Speaker 0>So you, that that's the most common way of um
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:47:42.629 --> 00:47:46.459
+<v Speaker 0>pre-processing that you need to handle manually, unfortunately.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99]}
+
+00:47:46.550 --> 00:47:48.389
+<v Speaker 0>I mean obviously you can script this so then it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:47:48.389 --> 00:47:51.189
+<v Speaker 0>just goes through that process, um but you need to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:47:51.189 --> 00:47:52.370
+<v Speaker 0>pay attention to that.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:47:52.629 --> 00:47:56.100
+<v Speaker 0>But the other more, the less frequent but more probable,
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+00:47:56.189 --> 00:48:02.179
+<v Speaker 0>um, Situations may be needing to transform the signals, right,
+
+NOTE CONF {"raw":[99,99,88,92,99,99,99,99,99,99]}
+
+00:48:02.300 --> 00:48:07.439
+<v Speaker 0>we mentioned briefly about the time domain versus frequency domain,
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:48:07.830 --> 00:48:14.320
+<v Speaker 0>uh conversion, so using a fasterier transform approach to re-represent
+
+NOTE CONF {"raw":[96,99,99,99,98,29,99,99,99,91]}
+
+00:48:14.540 --> 00:48:19.149
+<v Speaker 0>your data set, um, perhaps you might want to translate
+
+NOTE CONF {"raw":[99,99,99,76,99,99,99,95,98,99]}
+
+00:48:19.149 --> 00:48:23.300
+<v Speaker 0>that Cartesian coordinate to a polar coordinate, uh, that could
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,79,99,99]}
+
+00:48:23.300 --> 00:48:24.050
+<v Speaker 0>also work.
+
+NOTE CONF {"raw":[99,99]}
+
+00:48:24.649 --> 00:48:27.899
+<v Speaker 0>So you need to pre-process that, the transformation is quite
+
+NOTE CONF {"raw":[99,99,99,99,97,99,99,99,99,99]}
+
+00:48:27.899 --> 00:48:31.360
+<v Speaker 0>common, especially in engineering uh problems.
+
+NOTE CONF {"raw":[99,99,99,99,95,99]}
+
+00:48:31.969 --> 00:48:34.929
+<v Speaker 0>Uh, you might want to, Take a break from a
+
+NOTE CONF {"raw":[52,99,99,79,91,99,99,99,99,99]}
+
+00:48:34.929 --> 00:48:38.729
+<v Speaker 0>sequence, a long sequence of uh measurements, so using a
+
+NOTE CONF {"raw":[99,99,99,99,99,74,99,98,99,99]}
+
+00:48:38.729 --> 00:48:42.530
+<v Speaker 0>window, so a moving window, like in finance data, right,
+
+NOTE CONF {"raw":[99,99,83,99,99,99,99,99,99,99]}
+
+00:48:42.610 --> 00:48:45.840
+<v Speaker 0>if you're looking at stock price, you know, you're moving
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:48:45.840 --> 00:48:49.370
+<v Speaker 0>a moving window, perhaps then to train, you know, based
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:48:49.370 --> 00:48:52.169
+<v Speaker 0>on the last 3 months, you train something, you predict
+
+NOTE CONF {"raw":[99,99,99,95,99,99,99,99,99,99]}
+
+00:48:52.169 --> 00:48:54.929
+<v Speaker 0>the next day, right, and then the next day comes
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:48:54.929 --> 00:48:58.010
+<v Speaker 0>through, you do that whole process again, in 2 months'
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:48:58.010 --> 00:49:03.090
+<v Speaker 0>time, your model effectively, You know, updates itself to just
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:49:03.090 --> 00:49:05.030
+<v Speaker 0>a new information set.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:49:06.239 --> 00:49:10.260
+<v Speaker 0>Um, you extract the, the features from the time frequency
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:49:10.260 --> 00:49:15.060
+<v Speaker 0>domain, right, that is most representative and most powerful in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:49:15.060 --> 00:49:18.379
+<v Speaker 0>describing the classes, so.
+
+NOTE CONF {"raw":[99,99,99,97]}
+
+00:49:19.229 --> 00:49:23.649
+<v Speaker 0>That is like That's a correlation, right, which feature has
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:49:23.649 --> 00:49:27.729
+<v Speaker 0>the strongest correlation to the actual situation.
+
+NOTE CONF {"raw":[99,99,99,99,64,99,99]}
+
+00:49:28.639 --> 00:49:30.199
+<v Speaker 0>Right, so.
+
+NOTE CONF {"raw":[99,98]}
+
+00:49:31.030 --> 00:49:33.469
+<v Speaker 0>So you know, like I could, I could use this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:49:33.469 --> 00:49:34.989
+<v Speaker 0>classroom as an example.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:49:36.139 --> 00:49:40.419
+<v Speaker 0>Right, whether or not turning up to lectures is a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:49:40.419 --> 00:49:45.260
+<v Speaker 0>function of the student's ability or students uh desire to
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,97,99,99]}
+
+00:49:45.260 --> 00:49:49.449
+<v Speaker 0>learning, or maybe just a function of the night before,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:49:49.860 --> 00:49:52.260
+<v Speaker 0>you know, those are which of those features I want
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,82]}
+
+00:49:52.260 --> 00:49:56.389
+<v Speaker 0>to take to predict the class turn up ratio.
+
+NOTE CONF {"raw":[80,99,99,99,99,99,99,98,99]}
+
+00:49:57.070 --> 00:49:59.669
+<v Speaker 0>Right, sometimes it's not as clear, but you can see
+
+NOTE CONF {"raw":[99,99,99,99,99,98,98,99,99,99]}
+
+00:49:59.669 --> 00:50:03.159
+<v Speaker 0>if I frame it in that format, it's quite relatable,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:03.389 --> 00:50:06.649
+<v Speaker 0>right, what is the most predominant determining factor?
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99]}
+
+00:50:07.399 --> 00:50:11.300
+<v Speaker 0>And when you're going through that analysis, you're effectively performing
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:11.300 --> 00:50:13.010
+<v Speaker 0>a feature selection process.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:50:13.459 --> 00:50:15.260
+<v Speaker 0>Right, I could capture a bunch of stuff from you
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:50:15.260 --> 00:50:19.260
+<v Speaker 0>guys, demographic datas, you know, your scheduling datas, and all
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:19.260 --> 00:50:22.899
+<v Speaker 0>that, put them all together, and then I could say,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:23.020 --> 00:50:27.739
+<v Speaker 0>well, given a student, right, would he or she or
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:27.739 --> 00:50:32.060
+<v Speaker 0>them be more, um, probable in turning up to class
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:32.060 --> 00:50:32.929
+<v Speaker 0>the next day?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:50:33.500 --> 00:50:33.659
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:50:33.820 --> 00:50:35.100
+<v Speaker 0>That's actually quite interesting.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:50:35.709 --> 00:50:37.449
+<v Speaker 0>Um, problem say if you think about it.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:50:38.300 --> 00:50:41.939
+<v Speaker 0>There are many ways of reducing the dimensionality, right, as
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:41.939 --> 00:50:44.770
+<v Speaker 0>we said, if I capture everything about each of you.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:45.510 --> 00:50:48.360
+<v Speaker 0>There's probably like, you know, too many features to really
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:50:48.360 --> 00:50:51.379
+<v Speaker 0>go through, but I'm sure there's only 1 or 2
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,98]}
+
+00:50:51.590 --> 00:50:57.330
+<v Speaker 0>or 3 features that is most determined um most correlated
+
+NOTE CONF {"raw":[99,99,99,99,99,99,27,99,99,99]}
+
+00:50:57.330 --> 00:51:00.300
+<v Speaker 0>to you turning up to class or not, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:51:00.629 --> 00:51:02.500
+<v Speaker 0>And so in that reduction process.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+00:51:02.870 --> 00:51:05.629
+<v Speaker 0>Yes, you can look through them manually, but there's also
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:05.629 --> 00:51:10.060
+<v Speaker 0>other things called PCA analysis, which I briefly mentioned before,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:10.229 --> 00:51:10.629
+<v Speaker 0>right?
+
+NOTE CONF {"raw":[99]}
+
+00:51:10.669 --> 00:51:15.560
+<v Speaker 0>Principal component analysis, which basically maps this whole thing into
+
+NOTE CONF {"raw":[80,99,99,99,99,99,99,99,99,99]}
+
+00:51:15.560 --> 00:51:19.790
+<v Speaker 0>um looking at the correlation between the effects, between the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:19.790 --> 00:51:23.350
+<v Speaker 0>different features, and then pulling saying, OK, well this class
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:23.350 --> 00:51:26.689
+<v Speaker 0>of information and that class of information is about the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:26.689 --> 00:51:28.229
+<v Speaker 0>same, so we'll just take one of the two.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:51:28.590 --> 00:51:31.629
+<v Speaker 0>Instead, right, and then you reduce substantially the number of
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:51:31.629 --> 00:51:34.389
+<v Speaker 0>features, then you can put this into a machine learning
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,93,99,99]}
+
+00:51:34.389 --> 00:51:38.270
+<v Speaker 0>model to then train it effectively without using too much
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:38.270 --> 00:51:38.600
+<v Speaker 0>compute.
+
+NOTE CONF {"raw":[99]}
+
+00:51:40.899 --> 00:51:44.070
+<v Speaker 0>Um, if we simply have an entire signal, yep.
+
+NOTE CONF {"raw":[99,99,99,99,99,86,99,99,59]}
+
+00:51:44.979 --> 00:51:47.219
+<v Speaker 0>A lot of input may be too complex to train,
+
+NOTE CONF {"raw":[76,82,97,99,96,85,99,99,99,99]}
+
+00:51:47.340 --> 00:51:48.739
+<v Speaker 0>so we reduce that, yeah.
+
+NOTE CONF {"raw":[99,99,99,99,98]}
+
+00:51:51.409 --> 00:51:55.169
+<v Speaker 0>And obviously we have this imbalanced situation.
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99]}
+
+00:51:55.540 --> 00:51:57.270
+<v Speaker 0>Now if I were to ask you all to do
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:51:57.270 --> 00:52:00.040
+<v Speaker 0>a survey and then give me that information and I'd
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:52:00.040 --> 00:52:03.620
+<v Speaker 0>do that for 34 weeks, right, all I'm really capturing
+
+NOTE CONF {"raw":[99,99,99,64,99,99,95,99,99,99]}
+
+00:52:03.620 --> 00:52:05.899
+<v Speaker 0>is the representation of those who do show up.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+00:52:06.620 --> 00:52:08.520
+<v Speaker 0>But what about all the other people who don't show
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:52:08.520 --> 00:52:09.489
+<v Speaker 0>up, right?
+
+NOTE CONF {"raw":[99,99]}
+
+00:52:09.879 --> 00:52:11.260
+<v Speaker 0>Is that translatable?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:52:11.840 --> 00:52:11.919
+<v Speaker 0>Right?
+
+NOTE CONF {"raw":[99]}
+
+00:52:12.159 --> 00:52:14.320
+<v Speaker 0>Because in week one we had some students, and in
+
+NOTE CONF {"raw":[98,99,99,98,99,99,99,99,99,92]}
+
+00:52:14.320 --> 00:52:16.310
+<v Speaker 0>week two, we had some students who couldn't make it,
+
+NOTE CONF {"raw":[99,95,99,99,99,99,99,99,99,99]}
+
+00:52:16.600 --> 00:52:17.469
+<v Speaker 0>and so forth.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:52:17.780 --> 00:52:21.199
+<v Speaker 0>But in this whole process, I'm, I'm capturing a lot
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:52:21.199 --> 00:52:24.879
+<v Speaker 0>of, you know, data for, from students who are in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,90,99]}
+
+00:52:24.879 --> 00:52:28.159
+<v Speaker 0>class, but that is not representative of the whole class,
+
+NOTE CONF {"raw":[99,95,99,99,99,99,99,99,99,99]}
+
+00:52:28.280 --> 00:52:30.919
+<v Speaker 0>right, of the, of the, of the course that we
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+00:52:30.919 --> 00:52:31.760
+<v Speaker 0>have here, right?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:52:32.169 --> 00:52:37.500
+<v Speaker 0>So this phenomena of imbalance or unbalanced data is, is
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:52:37.500 --> 00:52:39.739
+<v Speaker 0>really common, as I mentioned.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:52:42.100 --> 00:52:46.040
+<v Speaker 0>Um, Other forms of pre-processing, how do we deal with
+
+NOTE CONF {"raw":[99,99,99,99,97,99,99,99,99,99]}
+
+00:52:46.040 --> 00:52:48.560
+<v Speaker 0>imbalanced data, depends on the cost of making a wrong
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+00:52:48.560 --> 00:52:53.399
+<v Speaker 0>decision, um, the cost favouring one cost over another, we
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,92]}
+
+00:52:53.399 --> 00:52:58.139
+<v Speaker 0>assigned the numerical value, uh, false positive, false negative, talked
+
+NOTE CONF {"raw":[87,99,99,99,99,99,99,99,99,99]}
+
+00:52:58.139 --> 00:53:01.830
+<v Speaker 0>about that, and you can then minimise the overall cost.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,75,99,99]}
+
+00:53:02.860 --> 00:53:08.620
+<v Speaker 0>There's more other um complex scope of uh pre-processing, um.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,91,97,99]}
+
+00:53:09.399 --> 00:53:14.199
+<v Speaker 0>I will upload, I found this, found this, um, medium,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:53:14.629 --> 00:53:15.419
+<v Speaker 0>uh, article.
+
+NOTE CONF {"raw":[99,99]}
+
+00:53:15.870 --> 00:53:20.669
+<v Speaker 0>Um, it quite complex, but also quite understand, right?
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,89]}
+
+00:53:20.679 --> 00:53:21.270
+<v Speaker 0>It's quite long.
+
+NOTE CONF {"raw":[88,99,99]}
+
+00:53:21.389 --> 00:53:25.080
+<v Speaker 0>I'll upload it onto, onto, um, Canvas.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99]}
+
+00:53:25.350 --> 00:53:29.070
+<v Speaker 0>But basically it explains, um, why some situations you want
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:53:29.070 --> 00:53:32.419
+<v Speaker 0>probability calculation and how to deal with that.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:53:33.629 --> 00:53:39.620
+<v Speaker 0>And then The other form is also categorising, um, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:53:39.620 --> 00:53:40.770
+<v Speaker 0>know, your information.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:53:40.989 --> 00:53:45.770
+<v Speaker 0>So very often, right, say, If we want to determine,
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,91,91,99]}
+
+00:53:45.889 --> 00:53:48.429
+<v Speaker 0>if we want to train a machine learning model to
+
+NOTE CONF {"raw":[99,99,87,78,99,99,99,99,99,99]}
+
+00:53:48.429 --> 00:53:51.570
+<v Speaker 0>know who on the, on the train lines takes, you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:53:51.570 --> 00:53:53.979
+<v Speaker 0>know, whatever steps they need to do to hop off
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:53:53.979 --> 00:53:57.889
+<v Speaker 0>at certain stations, you could simply map out, OK, this
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,99,99,99]}
+
+00:53:57.889 --> 00:54:02.489
+<v Speaker 0>person has hopped off of, I don't know, Epping, Strathfield,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,97,99,99,94]}
+
+00:54:02.770 --> 00:54:07.229
+<v Speaker 0>Redfern, Burwood, you've got your categorical data.
+
+NOTE CONF {"raw":[97,99,96,99,99,82,99]}
+
+00:54:07.610 --> 00:54:10.879
+<v Speaker 0>But how can I translate this into something that is
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+00:54:11.250 --> 00:54:13.969
+<v Speaker 0>um numerical, right?
+
+NOTE CONF {"raw":[73,99,99]}
+
+00:54:14.820 --> 00:54:18.419
+<v Speaker 0>So what we do is call a one hot encoding.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,96,99]}
+
+00:54:19.179 --> 00:54:22.419
+<v Speaker 0>Which is basically the same for every single element, right,
+
+NOTE CONF {"raw":[99,99,99,26,99,99,99,99,99,99]}
+
+00:54:22.500 --> 00:54:28.580
+<v Speaker 0>you've got your Epping, Strathfield, Burwood, Redfern stations, you move
+
+NOTE CONF {"raw":[98,99,99,99,99,99,76,99,97,99]}
+
+00:54:28.580 --> 00:54:32.649
+<v Speaker 0>that as a, you transpose that as an individual feature,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,72,99,99]}
+
+00:54:33.020 --> 00:54:36.060
+<v Speaker 0>and for every occurrences that you see that occurs, you
+
+NOTE CONF {"raw":[99,99,99,89,99,99,99,99,99,99]}
+
+00:54:36.060 --> 00:54:38.580
+<v Speaker 0>just put a 1 there, right, and everything else is
+
+NOTE CONF {"raw":[99,99,99,95,99,94,99,99,99,99]}
+
+00:54:38.580 --> 00:54:38.979
+<v Speaker 0>0.
+
+NOTE CONF {"raw":[99]}
+
+00:54:39.860 --> 00:54:43.010
+<v Speaker 0>What you then can compute from that is quite powerful.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:54:43.620 --> 00:54:49.219
+<v Speaker 0>So one hot encoding for categorical uh variables, you would
+
+NOTE CONF {"raw":[99,99,99,99,99,99,96,99,99,99]}
+
+00:54:49.219 --> 00:54:53.179
+<v Speaker 0>have things like labels like airport names, like, you know,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:54:53.459 --> 00:54:57.979
+<v Speaker 0>station names, you can then, Translate that into uh a
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,90,99]}
+
+00:54:57.979 --> 00:54:59.090
+<v Speaker 0>numerical value.
+
+NOTE CONF {"raw":[99,99]}
+
+00:55:00.629 --> 00:55:04.590
+<v Speaker 0>Most machine learning algorithms expects numerical inputs.
+
+NOTE CONF {"raw":[99,99,99,92,99,99,99]}
+
+00:55:04.669 --> 00:55:08.709
+<v Speaker 0>You cannot just like pass through an average value of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,87,99,99,73]}
+
+00:55:08.709 --> 00:55:13.469
+<v Speaker 0>between Redfern and and Burwood, right, because those are actual
+
+NOTE CONF {"raw":[99,58,99,99,99,99,99,99,99,99]}
+
+00:55:13.469 --> 00:55:15.510
+<v Speaker 0>names, those are string values.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:55:15.629 --> 00:55:19.429
+<v Speaker 0>But if you were to say, you, you've categorically mapped
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:55:19.429 --> 00:55:22.830
+<v Speaker 0>them to this one hot encoding, then you put a
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:55:22.830 --> 00:55:26.860
+<v Speaker 0>distance parameter around that, you can now almost, Give a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:55:26.860 --> 00:55:31.370
+<v Speaker 0>probable probabilistic model on like, oh, like for people that
+
+NOTE CONF {"raw":[99,99,99,99,99,98,75,99,99,99]}
+
+00:55:31.560 --> 00:55:35.580
+<v Speaker 0>hops on and off between these two stations, they must
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:55:35.580 --> 00:55:38.899
+<v Speaker 0>be living around this region, right, so it's translatable to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:55:38.899 --> 00:55:39.179
+<v Speaker 0>that.
+
+NOTE CONF {"raw":[99]}
+
+00:55:40.530 --> 00:55:44.409
+<v Speaker 0>Um, that's why you want to map categorical labels into
+
+NOTE CONF {"raw":[99,99,99,99,97,96,99,99,99,99]}
+
+00:55:44.409 --> 00:55:45.610
+<v Speaker 0>numerical labels.
+
+NOTE CONF {"raw":[99,99]}
+
+00:55:46.399 --> 00:55:50.929
+<v Speaker 0>Um, but be sure, it's not always as clear cut
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:55:50.929 --> 00:55:55.770
+<v Speaker 0>because, you know, maybe there's no relationships between those categorical
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:55:55.770 --> 00:55:59.560
+<v Speaker 0>uh label in a, uh, cardinal sense.
+
+NOTE CONF {"raw":[97,99,99,99,97,99,99]}
+
+00:56:01.649 --> 00:56:04.770
+<v Speaker 0>So the most common method for converting such is one
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:56:04.770 --> 00:56:08.580
+<v Speaker 0>hot encoding, we first looked at how many times value
+
+NOTE CONF {"raw":[94,98,99,99,99,99,99,99,99,99]}
+
+00:56:08.580 --> 00:56:12.469
+<v Speaker 0>occurs, uh, and then we create N minus 1 for
+
+NOTE CONF {"raw":[99,95,99,99,99,99,94,98,99,99]}
+
+00:56:12.469 --> 00:56:15.889
+<v Speaker 0>the dummy valuables, uh, with 1 being in the position.
+
+NOTE CONF {"raw":[99,98,99,77,99,97,99,99,99,99]}
+
+00:56:16.830 --> 00:56:21.050
+<v Speaker 0>There's one less of the occurrences, which is quite important.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+00:56:22.949 --> 00:56:25.709
+<v Speaker 0>Because there's a default, there's a default round trip mapped
+
+NOTE CONF {"raw":[99,99,99,98,99,99,99,75,98,99]}
+
+00:56:25.709 --> 00:56:26.550
+<v Speaker 0>in there already.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:56:27.989 --> 00:56:32.370
+<v Speaker 0>So suppose gender is using an example, suppose gender is
+
+NOTE CONF {"raw":[99,99,99,99,99,91,99,99,99,99]}
+
+00:56:32.370 --> 00:56:37.300
+<v Speaker 0>one of the features and allowable, Values are male, female,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+00:56:37.330 --> 00:56:38.330
+<v Speaker 0>and not given.
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:56:39.879 --> 00:56:44.610
+<v Speaker 0>The problem is to estimate the amount uh spent in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:56:44.610 --> 00:56:48.159
+<v Speaker 0>a given shop based on gender or identify.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98]}
+
+00:56:49.330 --> 00:56:53.979
+<v Speaker 0>Um, And then we generate two dummy variables, X1 and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:56:53.979 --> 00:56:57.379
+<v Speaker 0>X2 to represent those two classes, but the third one,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:56:58.199 --> 00:57:00.360
+<v Speaker 0>Is, is the negation of either of them.
+
+NOTE CONF {"raw":[95,99,99,98,99,99,99,99]}
+
+00:57:01.239 --> 00:57:04.679
+<v Speaker 0>So you're reducing, or think about it, you had 3
+
+NOTE CONF {"raw":[99,99,99,30,99,99,99,99,99,99]}
+
+00:57:04.679 --> 00:57:08.429
+<v Speaker 0>different labels, that's effectively 3 dimensions, but now you can
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:57:08.429 --> 00:57:11.000
+<v Speaker 0>reduce that down to slightly less than that.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+00:57:12.110 --> 00:57:14.120
+<v Speaker 0>Um, in the following table, OK.
+
+NOTE CONF {"raw":[99,99,99,94,99,99]}
+
+00:57:15.399 --> 00:57:19.620
+<v Speaker 0>So that's the following table, you would have 12, male,
+
+NOTE CONF {"raw":[90,97,99,99,99,99,98,99,49,99]}
+
+00:57:19.820 --> 00:57:21.620
+<v Speaker 0>yep, yep, and then unknown.
+
+NOTE CONF {"raw":[95,97,99,92,98]}
+
+00:57:23.489 --> 00:57:27.110
+<v Speaker 0>So with this, can you perform a regression or classification?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:57:27.909 --> 00:57:30.510
+<v Speaker 0>Using this new categorization.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:57:32.419 --> 00:57:33.199
+<v Speaker 0>Well, can you?
+
+NOTE CONF {"raw":[99,99,99]}
+
+00:57:35.030 --> 00:57:37.600
+<v Speaker 0>I mean, if you were to, if you were to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:57:37.600 --> 00:57:40.350
+<v Speaker 0>assign 0 to male, 1 to female, and 2 to
+
+NOTE CONF {"raw":[98,37,99,99,99,99,99,99,99,99]}
+
+00:57:40.350 --> 00:57:41.530
+<v Speaker 0>unknown, what would happen?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:57:43.219 --> 00:57:46.149
+<v Speaker 0>Right, so if you did not use the one hot
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:57:46.149 --> 00:57:49.860
+<v Speaker 0>encoding, right, and you use that cardinal value, 1, like
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,97,99]}
+
+00:57:49.860 --> 00:57:54.409
+<v Speaker 0>01 and 2, what you're effectively doing is saying there
+
+NOTE CONF {"raw":[65,99,99,99,99,99,99,99,99,99]}
+
+00:57:54.409 --> 00:58:00.300
+<v Speaker 0>is a uh ordinal relationship between the, the sexes, right,
+
+NOTE CONF {"raw":[99,99,96,98,99,99,99,99,99,99]}
+
+00:58:00.379 --> 00:58:01.060
+<v Speaker 0>the genders.
+
+NOTE CONF {"raw":[99,99]}
+
+00:58:01.929 --> 00:58:03.419
+<v Speaker 0>But there isn't, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+00:58:03.590 --> 00:58:06.429
+<v Speaker 0>You can't get a 0.5, you can't get a 1.5
+
+NOTE CONF {"raw":[89,99,99,99,57,99,99,99,99,99]}
+
+00:58:06.429 --> 00:58:10.709
+<v Speaker 0>between female and unknown or you know, undescribed or something.
+
+NOTE CONF {"raw":[99,15,99,99,99,99,99,96,99,99]}
+
+00:58:11.229 --> 00:58:14.959
+<v Speaker 0>So you have to be very careful with, You know,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:58:15.120 --> 00:58:18.600
+<v Speaker 0>just mapping something as 123, as to as to the
+
+NOTE CONF {"raw":[99,99,99,99,49,99,99,99,99,99]}
+
+00:58:18.600 --> 00:58:19.389
+<v Speaker 0>new approach.
+
+NOTE CONF {"raw":[99,99]}
+
+00:58:19.719 --> 00:58:23.310
+<v Speaker 0>Um, that's why we have the one hot encoding uh
+
+NOTE CONF {"raw":[92,99,99,99,99,99,99,99,99,98]}
+
+00:58:23.310 --> 00:58:27.000
+<v Speaker 0>process where you're mapping one for one category and 2
+
+NOTE CONF {"raw":[99,99,99,99,63,99,99,99,99,76]}
+
+00:58:27.000 --> 00:58:30.719
+<v Speaker 0>for another one, but then if both cases are zero,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,95]}
+
+00:58:30.959 --> 00:58:33.389
+<v Speaker 0>then it is that odd case, right?
+
+NOTE CONF {"raw":[99,99,99,99,95,99,99]}
+
+00:58:38.379 --> 00:58:39.360
+<v Speaker 0>So it is quite simple.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:58:39.469 --> 00:58:42.350
+<v Speaker 0>Again, you pull, you pull this from, um, you put
+
+NOTE CONF {"raw":[46,99,99,99,99,99,99,99,99,99]}
+
+00:58:42.350 --> 00:58:45.830
+<v Speaker 0>this on Panthers, um, PD, right?
+
+NOTE CONF {"raw":[99,99,97,99,99,94]}
+
+00:58:45.939 --> 00:58:48.790
+<v Speaker 0>And then you just say one hot encoding, using the
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+00:58:48.790 --> 00:58:52.270
+<v Speaker 0>fee encode function, the encode fit transform, then you can
+
+NOTE CONF {"raw":[68,94,99,83,96,98,99,99,99,99]}
+
+00:58:52.270 --> 00:58:54.830
+<v Speaker 0>map it to an array, and that array then gives
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:58:54.830 --> 00:58:56.649
+<v Speaker 0>you categorization.
+
+NOTE CONF {"raw":[99,87]}
+
+00:58:57.070 --> 00:58:59.989
+<v Speaker 0>Um, so using this example with the, with the light
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+00:58:59.989 --> 00:59:03.909
+<v Speaker 0>duty um car vehicles, you can see that once you
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:59:03.909 --> 00:59:08.080
+<v Speaker 0>map that, You will just basically get columns, mostly zeros,
+
+NOTE CONF {"raw":[99,99,99,95,99,99,99,99,99,98]}
+
+00:59:08.239 --> 00:59:11.560
+<v Speaker 0>but then there are sparse ones here and there, right?
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:59:11.679 --> 00:59:15.719
+<v Speaker 0>There's also really the start to like sparse matrix, where
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,92]}
+
+00:59:15.719 --> 00:59:18.550
+<v Speaker 0>most of your data set tends to just be zeros,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+00:59:18.959 --> 00:59:21.590
+<v Speaker 0>because you have so many different parameters down the track,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,9,99]}
+
+00:59:21.919 --> 00:59:24.560
+<v Speaker 0>and there are ways of compressing this data, handling this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:59:24.560 --> 00:59:25.110
+<v Speaker 0>data.
+
+NOTE CONF {"raw":[99]}
+
+00:59:25.360 --> 00:59:27.040
+<v Speaker 0>In fact, if you look at, say, some of the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:59:27.040 --> 00:59:29.919
+<v Speaker 0>large language model, that is what happens.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+00:59:30.080 --> 00:59:34.080
+<v Speaker 0>Most of the words, right, in the human uh vocabulary.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,90,99]}
+
+00:59:34.709 --> 00:59:36.179
+<v Speaker 0>Are zero occurrences.
+
+NOTE CONF {"raw":[63,90,99]}
+
+00:59:36.810 --> 00:59:39.969
+<v Speaker 0>There will only be so many instances, right, in a
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+00:59:39.969 --> 00:59:42.010
+<v Speaker 0>sentence that one word occurs.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+00:59:42.770 --> 00:59:45.760
+<v Speaker 0>And you know, how do you then treat that and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+00:59:45.760 --> 00:59:48.810
+<v Speaker 0>look through that lookup map effectively.
+
+NOTE CONF {"raw":[99,99,99,94,99,99]}
+
+00:59:52.870 --> 00:59:55.340
+<v Speaker 0>So once you, once you've gone through this mapping process,
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+00:59:55.520 --> 00:59:57.479
+<v Speaker 0>uses the um to encode it.
+
+NOTE CONF {"raw":[99,99,99,92,84,93]}
+
+00:59:58.310 --> 01:00:00.709
+<v Speaker 0>If we uncommon the last two lines, we get this
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:00:00.709 --> 01:00:03.870
+<v Speaker 0>dummy valuable in the in the thing, so the last
+
+NOTE CONF {"raw":[98,10,99,99,99,99,99,99,99,99]}
+
+01:00:03.870 --> 01:00:04.669
+<v Speaker 0>two lines.
+
+NOTE CONF {"raw":[99,99]}
+
+01:00:07.139 --> 01:00:07.459
+<v Speaker 0>Yeah.
+
+NOTE CONF {"raw":[92]}
+
+01:00:08.550 --> 01:00:11.239
+<v Speaker 0>And then that becomes your table input.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+01:00:11.649 --> 01:00:15.610
+<v Speaker 0>So you've downloaded your CSV, you've gone through the process
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:00:15.610 --> 01:00:20.250
+<v Speaker 0>of looking at what's NA and then done some processing
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:00:20.250 --> 01:00:20.879
+<v Speaker 0>to them.
+
+NOTE CONF {"raw":[99,99]}
+
+01:00:21.179 --> 01:00:25.050
+<v Speaker 0>For any category, categorical data, you're gonna go through and
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,99,99]}
+
+01:00:25.050 --> 01:00:29.290
+<v Speaker 0>map it, right, using the one hot encoding, encoded I
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,57,99]}
+
+01:00:29.290 --> 01:00:32.199
+<v Speaker 0>should say, to a new feature.
+
+NOTE CONF {"raw":[99,99,99,99,93,99]}
+
+01:00:32.689 --> 01:00:35.929
+<v Speaker 0>And then extract this out to form your final data
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+01:00:35.929 --> 01:00:36.219
+<v Speaker 0>set.
+
+NOTE CONF {"raw":[99]}
+
+01:00:36.580 --> 01:00:38.530
+<v Speaker 0>That then you can pass into.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+01:00:39.179 --> 01:00:42.409
+<v Speaker 0>Right, Iit learn for training, right, you do the split,
+
+NOTE CONF {"raw":[99,23,99,99,99,99,99,99,99,99]}
+
+01:00:42.580 --> 01:00:47.129
+<v Speaker 0>a 30, 70 split, maybe you run through some K-fault
+
+NOTE CONF {"raw":[97,99,98,99,99,99,99,99,99,91]}
+
+01:00:47.139 --> 01:00:50.899
+<v Speaker 0>cross validation process, and then you train your models, then
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+01:00:50.899 --> 01:00:54.300
+<v Speaker 0>you go through the process of looking at how effective
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:00:54.300 --> 01:00:57.020
+<v Speaker 0>that model is by the scores, and then you change
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:00:57.020 --> 01:00:58.340
+<v Speaker 0>parameters.
+
+NOTE CONF {"raw":[99]}
+
+01:00:58.459 --> 01:01:01.379
+<v Speaker 0>So you can already imagine, right, the the summary right
+
+NOTE CONF {"raw":[99,99,99,99,99,99,81,99,99,99]}
+
+01:01:01.379 --> 01:01:03.879
+<v Speaker 0>now is there is so many different layers there.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+01:01:04.229 --> 01:01:06.530
+<v Speaker 0>Right, you've got your pre-processing, how do you encode.
+
+NOTE CONF {"raw":[90,89,99,99,95,99,94,99,99]}
+
+01:01:06.979 --> 01:01:11.300
+<v Speaker 0>Right, all that requires judgement, determination, and then, um, you
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+01:01:11.300 --> 01:01:12.139
+<v Speaker 0>know, then the training.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+01:01:17.040 --> 01:01:23.350
+<v Speaker 0>So The introduction, um, is a summary, introduced the two
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,83,99,99]}
+
+01:01:23.350 --> 01:01:26.760
+<v Speaker 0>operations carried out, um, using psychicLearn obviously.
+
+NOTE CONF {"raw":[99,99,99,99,99,36,99]}
+
+01:01:27.340 --> 01:01:32.360
+<v Speaker 0>one hot encoding for pre-processing or categorical data, um, the
+
+NOTE CONF {"raw":[84,80,99,99,87,99,99,99,99,99]}
+
+01:01:32.360 --> 01:01:35.270
+<v Speaker 0>key nearest neighbour for supervised classification.
+
+NOTE CONF {"raw":[89,99,99,99,99,99]}
+
+01:01:35.679 --> 01:01:40.310
+<v Speaker 0>You also have the weighted nearest neighbour for imbalanced data
+
+NOTE CONF {"raw":[94,99,99,97,89,99,99,99,98,99]}
+
+01:01:40.310 --> 01:01:41.399
+<v Speaker 0>and handling of that.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+01:01:42.030 --> 01:01:46.239
+<v Speaker 0>Um, then you wanna, yeah, we introduced the usual steps
+
+NOTE CONF {"raw":[99,99,99,99,93,99,98,99,99,99]}
+
+01:01:46.239 --> 01:01:49.510
+<v Speaker 0>used in psychic Learn to train and test and supervise,
+
+NOTE CONF {"raw":[99,99,39,44,99,99,99,99,99,99]}
+
+01:01:49.939 --> 01:01:53.280
+<v Speaker 0>um, machine learning methods, um.
+
+NOTE CONF {"raw":[99,99,99,99,97]}
+
+01:01:53.979 --> 01:01:57.169
+<v Speaker 0>Introduce the methods in how to deal with missing datas
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+01:01:57.399 --> 01:02:03.709
+<v Speaker 0>and feature selection through using either transforming or dwindling, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,96,99]}
+
+01:02:03.889 --> 01:02:06.560
+<v Speaker 0>you know, of your data set, but you can imagine,
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,99]}
+
+01:02:06.639 --> 01:02:11.560
+<v Speaker 0>you can further process this using um PCA and other
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:02:11.560 --> 01:02:13.949
+<v Speaker 0>just manual selection, right?
+
+NOTE CONF {"raw":[99,99,99,96]}
+
+01:02:14.600 --> 01:02:17.679
+<v Speaker 0>Dumping more data into a machine learning model or training
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+01:02:17.679 --> 01:02:19.879
+<v Speaker 0>process is not always more efficient.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+01:02:20.409 --> 01:02:23.239
+<v Speaker 0>Sometimes you can confuse it and you cannot optimise it.
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99,99,99]}
+
+01:02:23.449 --> 01:02:27.370
+<v Speaker 0>What your best outcome should be is, as I mentioned
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+01:02:27.370 --> 01:02:30.639
+<v Speaker 0>in day one, right, an MVP approach to all this,
+
+NOTE CONF {"raw":[99,99,99,99,98,99,99,99,99,99]}
+
+01:02:31.010 --> 01:02:34.090
+<v Speaker 0>find a few features that is most correlated to the
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+01:02:34.090 --> 01:02:37.669
+<v Speaker 0>system, train that, and then you get an outcome.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+01:02:38.010 --> 01:02:42.800
+<v Speaker 0>That perhaps is 80% or 90% um accurate in terms
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+01:02:42.800 --> 01:02:45.360
+<v Speaker 0>of predicting what um what happens.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+01:02:45.570 --> 01:02:48.969
+<v Speaker 0>And then you add more values, you add more dimensionality.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:02:49.310 --> 01:02:52.209
+<v Speaker 0>You add more information to see if you can finesse
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:02:52.209 --> 01:02:54.479
+<v Speaker 0>that and actually give you a better result.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+01:02:55.360 --> 01:03:01.320
+<v Speaker 0>Um, And yeah, that's basically today, this week.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+01:03:01.689 --> 01:03:06.649
+<v Speaker 0>Um, any questions so far with what has happened since
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+01:03:06.649 --> 01:03:07.439
+<v Speaker 0>day one?
+
+NOTE CONF {"raw":[99,99]}
+
+01:03:07.810 --> 01:03:10.770
+<v Speaker 0>We're slowly giving you more and more tools to then
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:03:10.770 --> 01:03:13.439
+<v Speaker 0>be able to carry on with your project.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+01:03:13.770 --> 01:03:16.969
+<v Speaker 0>Um, and next week we'll be talking about the naive
+
+NOTE CONF {"raw":[89,99,99,99,99,99,99,99,99,99]}
+
+01:03:16.969 --> 01:03:18.199
+<v Speaker 0>based approach.
+
+NOTE CONF {"raw":[20,99]}
+
+01:03:18.530 --> 01:03:22.969
+<v Speaker 0>So basically how do you recreate your email spam philtres?
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+01:03:23.389 --> 01:03:26.489
+<v Speaker 0>Um, but for now, I think this is a good
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:03:26.489 --> 01:03:28.979
+<v Speaker 0>sort of touch point, uh, end point for this week.
+
+NOTE CONF {"raw":[99,99,99,99,94,99,99,99,99,99]}
+
+01:03:29.669 --> 01:03:31.709
+<v Speaker 0>Please make sure to go through it and do the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98,99,99,99]}
+
+01:03:31.709 --> 01:03:35.699
+<v Speaker 0>practise quiz just before you go into your tutorials, um,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:03:35.889 --> 01:03:37.989
+<v Speaker 0>because, you know, you just don't want to go in
+
+NOTE CONF {"raw":[99,99,99,99,99,99,77,90,99,99]}
+
+01:03:37.989 --> 01:03:39.780
+<v Speaker 0>and like, oh, what is this?
+
+NOTE CONF {"raw":[99,99,97,99,99,99]}
+
+01:03:39.830 --> 01:03:41.379
+<v Speaker 0>I need to select things.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+01:03:41.469 --> 01:03:43.750
+<v Speaker 0>I'm, I'm sure most of you know how to use
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+01:03:43.750 --> 01:03:45.949
+<v Speaker 0>Canvas, but, you know, just go through that as well.
+
+NOTE CONF {"raw":[88,99,99,99,99,99,99,99,99,99]}
+
+01:03:46.370 --> 01:03:48.129
+<v Speaker 0>Um, and try and form your groups.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+01:03:48.300 --> 01:03:50.739
+<v Speaker 0>We'll, we'll tell you more about, you know, the group
+
+NOTE CONF {"raw":[97,98,99,99,99,99,99,99,99,99]}
+
+01:03:50.739 --> 01:03:54.179
+<v Speaker 0>formation and how do you effectively work with your group
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:03:54.179 --> 01:03:55.010
+<v Speaker 0>over time.
+
+NOTE CONF {"raw":[99,99]}
+
+01:03:55.300 --> 01:03:57.649
+<v Speaker 0>But from now on, um, just form your groups.
+
+NOTE CONF {"raw":[98,99,99,34,99,99,99,99,99]}
+
+01:03:57.780 --> 01:04:00.810
+<v Speaker 0>Add that into a new group in canvas.
+
+NOTE CONF {"raw":[59,99,99,99,99,99,99,96]}
+
+01:04:01.040 --> 01:04:04.100
+<v Speaker 0>You should be able to click, you know, add new
+
+NOTE CONF {"raw":[95,99,99,99,99,99,99,99,99,99]}
+
+01:04:04.100 --> 01:04:08.209
+<v Speaker 0>group, change your name, um, and then add in the
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:04:08.209 --> 01:04:09.540
+<v Speaker 0>4 members, right?
+
+NOTE CONF {"raw":[48,99,95]}
+
+01:04:09.659 --> 01:04:11.620
+<v Speaker 0>If you can't do that, then talk to our tutors
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+01:04:11.620 --> 01:04:12.340
+<v Speaker 0>and they'll help you.
+
+NOTE CONF {"raw":[99,96,99,99]}
+
+01:04:13.139 --> 01:04:14.060
+<v Speaker 0>All right, cool.
+
+NOTE CONF {"raw":[99,98,99]}
+
+01:04:15.360 --> 01:04:17.280
+<v Speaker 0>If you have any questions, just come down or shout
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:04:17.280 --> 01:04:18.590
+<v Speaker 0>or whatever, yeah?
+
+NOTE CONF {"raw":[99,99,96]}
+
+01:04:34.479 --> 01:04:42.260
+<v Speaker 0>I clarify, so the K parameter, hyperparameter doesn't affect combinational
+
+NOTE CONF {"raw":[86,88,78,99,99,98,19,98,99,18]}
+
+01:04:42.260 --> 01:04:42.689
+<v Speaker 0>complexity.
+
+NOTE CONF {"raw":[98]}
+
+01:04:43.100 --> 01:04:43.469
+<v Speaker 0>No.
+
+NOTE CONF {"raw":[99]}
+
+01:04:43.959 --> 01:04:48.169
+<v Speaker 0>It, um, because it's basically calculating all the distances first
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+01:04:48.540 --> 01:04:50.530
+<v Speaker 0>between all your N dots, right.
+
+NOTE CONF {"raw":[99,99,99,83,98,99]}
+
+01:04:50.800 --> 01:04:53.899
+<v Speaker 0>And then it's saying, OK, well, the final output needs
+
+NOTE CONF {"raw":[96,99,98,99,99,99,99,99,99,99]}
+
+01:04:53.899 --> 01:04:55.729
+<v Speaker 0>to be some output, right?
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+01:04:56.189 --> 01:04:58.870
+<v Speaker 0>I'm just gonna grab 3 of this and then compute
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:04:59.350 --> 01:05:00.830
+<v Speaker 0>within each of those circles.
+
+NOTE CONF {"raw":[99,99,99,99,98]}
+
+01:05:01.030 --> 01:05:03.649
+<v Speaker 0>Oh, so each dot then gets like a 3 circle
+
+NOTE CONF {"raw":[73,99,99,99,99,99,99,99,99,99]}
+
+01:05:03.870 --> 01:05:05.989
+<v Speaker 0>and they'll compute, OK, between these 3, this is the
+
+NOTE CONF {"raw":[99,82,99,99,99,99,87,99,99,99]}
+
+01:05:05.989 --> 01:05:09.500
+<v Speaker 0>value, so for this dot, this is the, the, the,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:05:09.739 --> 01:05:13.590
+<v Speaker 0>the average value, average distance of their neighbours, and then
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,99,99,99]}
+
+01:05:13.590 --> 01:05:15.709
+<v Speaker 0>from that point they'll say, OK, this is class 1
+
+NOTE CONF {"raw":[99,99,99,89,99,99,99,99,99,91]}
+
+01:05:15.709 --> 01:05:16.820
+<v Speaker 0>or class 2 or whatever.
+
+NOTE CONF {"raw":[99,99,98,96,99]}
+
+01:05:17.270 --> 01:05:19.469
+<v Speaker 0>And then they will then compute and sweep through all
+
+NOTE CONF {"raw":[90,99,99,99,99,99,99,98,99,99]}
+
+01:05:19.469 --> 01:05:20.260
+<v Speaker 0>your data points.
+
+NOTE CONF {"raw":[99,99,99]}
+
+01:05:21.090 --> 01:05:25.290
+<v Speaker 0>Right, so, so the complexity doesn't come from the K,
+
+NOTE CONF {"raw":[99,68,99,99,99,99,99,99,99,99]}
+
+01:05:25.409 --> 01:05:28.459
+<v Speaker 0>it comes from the number of nearest neighbour in it.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,97]}
+
+01:05:29.149 --> 01:05:34.600
+<v Speaker 0>So it it it's sort of uh each every end
+
+NOTE CONF {"raw":[99,97,82,77,96,98,91,99,99,99]}
+
+01:05:34.600 --> 01:05:37.379
+<v Speaker 1>every point is completed.
+
+NOTE CONF {"raw":[97,99,99,25]}
+
+01:05:38.510 --> 01:05:41.280
+<v Speaker 0>Yeah, so you can imagine if you have like 100
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:05:41.280 --> 01:05:44.639
+<v Speaker 0>dots, you have 100 dots here and 100 dots here,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:05:44.850 --> 01:05:47.750
+<v Speaker 0>and it's comparing the values for everything.
+
+NOTE CONF {"raw":[98,83,99,99,99,99,99]}
+
+01:05:47.909 --> 01:05:50.080
+<v Speaker 0>So that's already, you know, 10,000.
+
+NOTE CONF {"raw":[94,99,99,99,99,98]}
+
+01:05:50.110 --> 01:05:50.659
+<v Speaker 0>0, OK.
+
+NOTE CONF {"raw":[82,99]}
+
+01:05:51.030 --> 01:05:53.500
+<v Speaker 0>And then from that they say, OK, the nearest one.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,96]}
+
+01:05:53.709 --> 01:05:56.429
+<v Speaker 0>Why, sorry, why, why do you need to compete for
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,30,99]}
+
+01:05:56.429 --> 01:05:56.989
+<v Speaker 1>every end?
+
+NOTE CONF {"raw":[99,99]}
+
+01:05:57.030 --> 01:05:59.050
+<v Speaker 1>I thought you already knew what every, oh you're doing
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,66,99,99]}
+
+01:05:59.050 --> 01:05:59.840
+<v Speaker 0>a scan.
+
+NOTE CONF {"raw":[99,98]}
+
+01:06:00.189 --> 01:06:02.229
+<v Speaker 0>If you're doing a scan, that's how it would be.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,96,99]}
+
+01:06:02.989 --> 01:06:05.350
+<v Speaker 0>Right, because you, you can't just settle on one key
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,66]}
+
+01:06:05.350 --> 01:06:06.600
+<v Speaker 0>value, you don't really know.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+01:06:06.949 --> 01:06:08.629
+<v Speaker 0>If it should be 7, it should be 8, it
+
+NOTE CONF {"raw":[99,99,99,99,99,60,99,99,99,61]}
+
+01:06:08.629 --> 01:06:11.030
+<v Speaker 0>should be 9, should be 11.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+01:06:11.300 --> 01:06:13.709
+<v Speaker 0>So you want to compute like N being up to
+
+NOTE CONF {"raw":[93,99,93,91,99,99,99,99,99,99]}
+
+01:06:13.709 --> 01:06:14.229
+<v Speaker 0>say 20.
+
+NOTE CONF {"raw":[99,99]}
+
+01:06:15.060 --> 01:06:15.739
+<v Speaker 0>And then map it out.
+
+NOTE CONF {"raw":[99,99,90,75,79]}
+
+01:06:15.750 --> 01:06:15.760
+<v Speaker 0>OK.
+
+NOTE CONF {"raw":[90]}
+
+01:06:22.010 --> 01:06:27.129
+<v Speaker 0>Which K value gives you the most representative um classification.
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,98]}
+
+01:06:27.409 --> 01:06:29.449
+<v Speaker 0>Oh yeah, so you're using all the known values to
+
+NOTE CONF {"raw":[80,98,96,85,99,98,99,97,98,99]}
+
+01:06:29.449 --> 01:06:29.639
+<v Speaker 1>decide.
+
+NOTE CONF {"raw":[99]}
+
+01:06:29.800 --> 01:06:32.899
+<v Speaker 1>Yeah, yeah, cool, no worries.
+
+NOTE CONF {"raw":[70,66,93,99,98]}
+
+01:06:35.479 --> 01:06:37.810
+<v Speaker 0>Yeah, yeah, it's a closed book.
+
+NOTE CONF {"raw":[99,94,43,61,94,98]}
+
+01:06:40.629 --> 01:06:42.389
+<v Speaker 0>It's uh it's closed book.
+
+NOTE CONF {"raw":[98,92,99,95,99]}
+
+01:06:43.189 --> 01:06:43.389
+<v Speaker 0>Yeah.
+
+NOTE CONF {"raw":[85]}
+
+01:06:44.149 --> 01:06:46.929
+<v Speaker 0>It's a pretty simple, you can take a pen and
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:06:46.929 --> 01:06:48.540
+<v Speaker 0>a paper to note things.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+01:06:49.260 --> 01:06:52.149
+<v Speaker 0>But there's no hardcore, you know, like what's the syntax
+
+NOTE CONF {"raw":[98,99,99,98,99,99,99,99,99,98]}
+
+01:06:52.149 --> 01:06:52.810
+<v Speaker 0>of this.
+
+NOTE CONF {"raw":[98,99]}
+
+01:06:53.570 --> 01:07:02.840
+<v Speaker 0>Yes 12 of probabilities of.
+
+NOTE CONF {"raw":[47,95,30,98,70]}
+
+01:07:04.000 --> 01:07:07.429
+<v Speaker 2>Um, it's that like he's using the problem he's like
+
+NOTE CONF {"raw":[99,63,99,99,94,99,99,51,29,99]}
+
+01:07:07.429 --> 01:07:07.629
+<v Speaker 2>in.
+
+NOTE CONF {"raw":[95]}
+
+01:07:10.590 --> 01:07:15.889
+<v Speaker 0>It's an alternative alternative measure or way of reporting the
+
+NOTE CONF {"raw":[99,99,94,98,99,99,99,99,99,99]}
+
+01:07:15.889 --> 01:07:16.879
+<v Speaker 0>uh class.
+
+NOTE CONF {"raw":[98,99]}
+
+01:07:17.139 --> 01:07:19.580
+<v Speaker 0>So instead of just saying, OK, well, you know, this
+
+NOTE CONF {"raw":[99,82,93,99,99,99,99,99,99,99]}
+
+01:07:19.580 --> 01:07:24.219
+<v Speaker 0>is ACMO, it's like this is 60% AC 40% more.
+
+NOTE CONF {"raw":[99,37,98,99,98,99,99,94,99,60]}
+
+01:07:25.159 --> 01:07:28.280
+<v Speaker 0>Depends on your threshold, you can then further determine if
+
+NOTE CONF {"raw":[98,99,99,99,99,99,99,99,99,99]}
+
+01:07:28.280 --> 01:07:30.270
+<v Speaker 0>it's not good enough for sale.
+
+NOTE CONF {"raw":[99,99,99,99,99,96]}
+
+01:07:30.840 --> 01:07:31.679
+<v Speaker 2>So if you didn't.
+
+NOTE CONF {"raw":[93,98,98,89]}
+
+01:07:33.989 --> 01:07:37.790
+<v Speaker 0>We'll just give you like the classes for education, yeah.
+
+NOTE CONF {"raw":[21,99,99,99,99,99,99,98,95,99]}
+
+01:07:39.280 --> 01:07:42.889
+<v Speaker 0>You think getting a probability could be useful in downstream
+
+NOTE CONF {"raw":[96,88,99,99,99,99,99,99,99,99]}
+
+01:07:42.889 --> 01:07:43.290
+<v Speaker 0>processing.
+
+NOTE CONF {"raw":[89]}
+
+01:07:45.830 --> 01:07:49.280
+<v Speaker 0>Um, Well, like, for example, if you want to tweak
+
+NOTE CONF {"raw":[99,92,99,99,99,96,99,98,99,93]}
+
+01:07:49.280 --> 01:07:50.360
+<v Speaker 0>the the threshold.
+
+NOTE CONF {"raw":[99,99,98]}
+
+01:07:51.370 --> 01:07:53.530
+<v Speaker 0>You wanted to play around with the thresholds and how
+
+NOTE CONF {"raw":[93,99,99,99,99,99,99,99,99,99]}
+
+01:07:53.530 --> 01:07:54.280
+<v Speaker 0>sensitive something.
+
+NOTE CONF {"raw":[98,99]}
+
+01:07:55.370 --> 01:07:56.399
+<v Speaker 0>Right, you can do that.
+
+NOTE CONF {"raw":[93,90,99,99,99]}
+
+01:07:56.689 --> 01:08:00.330
+<v Speaker 0>Um, you can just say categorically, you know.
+
+NOTE CONF {"raw":[77,99,99,99,99,99,99,99]}
+
+01:08:01.209 --> 01:08:03.560
+<v Speaker 0>It's like the likelihood and the confidence is what you're
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:08:03.560 --> 01:08:05.239
+<v Speaker 0>giving people the information.
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+01:08:06.199 --> 01:08:09.379
+<v Speaker 0>Yeah Because if I ask you, is it gonna rain
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:08:09.379 --> 01:08:09.659
+<v Speaker 0>today?
+
+NOTE CONF {"raw":[99]}
+
+01:08:10.620 --> 01:08:12.780
+<v Speaker 0>You can, you can either say yes, no.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99]}
+
+01:08:13.669 --> 01:08:15.510
+<v Speaker 0>But like it, it wouldn't be better if I say,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:08:15.629 --> 01:08:18.500
+<v Speaker 0>yeah, between the hours of, you know, 12 and 1,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:08:18.548 --> 01:08:19.430
+<v Speaker 0>probably gonna spring.
+
+NOTE CONF {"raw":[88,98,88]}
+
+01:08:20.750 --> 01:08:22.620
+<v Speaker 0>And you're like, oh well, I'm just gonna not go
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99,99,99,96]}
+
+01:08:22.620 --> 01:08:26.370
+<v Speaker 0>out that, like, you know, you can make other determination
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,99,98,99]}
+
+01:08:26.778 --> 01:08:28.350
+<v Speaker 0>because you now have the confidence in.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,98]}
+
+01:08:30.609 --> 01:08:32.088
+<v Speaker 2>Um, and then with the things.
+
+NOTE CONF {"raw":[96,99,99,99,99,27]}
+
+01:08:33.399 --> 01:08:36.318
+<v Speaker 2>So, um, is this the method that you have to
+
+NOTE CONF {"raw":[99,99,99,99,99,99,89,99,99,99]}
+
+01:08:36.318 --> 01:08:37.479
+<v Speaker 2>sum the distances?
+
+NOTE CONF {"raw":[71,99,98]}
+
+01:08:37.540 --> 01:08:38.890
+<v Speaker 0>This is what happens in the backdrop.
+
+NOTE CONF {"raw":[99,99,99,99,99,98,98]}
+
+01:08:39.459 --> 01:08:41.359
+<v Speaker 0>When you call the function, it just does some compute.
+
+NOTE CONF {"raw":[92,99,99,99,99,80,88,95,99,83]}
+
+01:08:42.108 --> 01:08:45.409
+<v Speaker 0>But like knowing this actually gives you some understanding oh
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,68,25,76]}
+
+01:08:45.409 --> 01:08:49.099
+<v Speaker 0>it's like these are the nearest neighbour, it's computing the
+
+NOTE CONF {"raw":[83,97,99,99,99,99,99,91,98,99]}
+
+01:08:49.099 --> 01:08:49.918
+<v Speaker 0>distances if you wanna make it so you can just
+
+NOTE CONF {"raw":[98,83,98,68,98,96,41,90,99,99]}
+
+01:08:49.918 --> 01:08:50.047
+<v Speaker 0>run and loop function for all in value or within
+
+NOTE CONF {"raw":[99,97,95,99,98,98,94,99,84,99]}
+
+01:08:50.047 --> 01:09:02.329
+<v Speaker 0>the range, you know, compute distance, average time.
+
+NOTE CONF {"raw":[99,98,99,99,99,99,99,99]}
+
+01:09:04.450 --> 01:09:07.660
+<v Speaker 2>Um, so it's with the canon, it's not like which
+
+NOTE CONF {"raw":[97,99,99,99,99,99,99,99,99,99]}
+
+01:09:07.660 --> 01:09:08.508
+<v Speaker 2>one has the.
+
+NOTE CONF {"raw":[99,99,99]}
+
+01:09:09.749 --> 01:09:11.588
+<v Speaker 2>Like once it's like you have to sum it up.
+
+NOTE CONF {"raw":[99,99,98,99,99,99,99,98,99,99]}
+
+01:09:11.749 --> 01:09:15.108
+<v Speaker 1>It's a distance, yeah, it's always a distance, not just
+
+NOTE CONF {"raw":[75,99,99,99,97,99,87,99,99,99]}
+
+01:09:15.108 --> 01:09:15.949
+<v Speaker 0>number of parts.
+
+NOTE CONF {"raw":[99,95,87]}
+
+01:09:17.990 --> 01:09:20.490
+<v Speaker 0>Because if that's a, if that's the case, then you
+
+NOTE CONF {"raw":[99,99,98,69,99,99,96,99,99,99]}
+
+01:09:20.490 --> 01:09:24.200
+<v Speaker 0>will have effectively every single value map to.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,92,99]}
+
+01:09:25.160 --> 01:09:27.700
+<v Speaker 0>You know, that class it was simple because if you
+
+NOTE CONF {"raw":[99,99,99,54,82,93,95,96,95,99]}
+
+01:09:27.700 --> 01:09:30.359
+<v Speaker 0>show it and ask it one extra one like, well,
+
+NOTE CONF {"raw":[99,93,99,99,94,92,99,98,67,98]}
+
+01:09:30.479 --> 01:09:32.439
+<v Speaker 0>if it's 3, it must be you must be you
+
+NOTE CONF {"raw":[92,81,99,98,99,99,99,99,99,99]}
+
+01:09:32.439 --> 01:09:34.390
+<v Speaker 0>must be you and you're like, yeah.
+
+NOTE CONF {"raw":[99,99,99,94,55,99,99]}
+
+01:09:40.088 --> 01:09:40.100
+<v Speaker 1>No.
+
+NOTE CONF {"raw":[92]}
+
+01:09:41.459 --> 01:09:44.609
+<v Speaker 0>Yeah, so it's just basically racial, right, you look at
+
+NOTE CONF {"raw":[99,99,99,99,99,99,95,99,99,99]}
+
+01:09:44.609 --> 01:09:47.278
+<v Speaker 0>like between he and he, right?
+
+NOTE CONF {"raw":[99,99,98,99,99,99]}
+
+01:09:48.160 --> 01:09:48.950
+<v Speaker 0>Like this point is here.
+
+NOTE CONF {"raw":[99,99,99,99,91]}
+
+01:09:49.959 --> 01:09:51.830
+<v Speaker 0>And this is like, you know, in the scale of
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:09:52.169 --> 01:09:57.259
+<v Speaker 0>metres, whereas in another situation, the scale is like millimetres.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,96]}
+
+01:09:57.770 --> 01:09:59.930
+<v Speaker 0>The scale is very different, but if I map it
+
+NOTE CONF {"raw":[98,99,99,99,99,97,99,99,99,99]}
+
+01:09:59.930 --> 01:10:02.250
+<v Speaker 0>between the biggest point in my data set and then.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,95]}
+
+01:10:03.069 --> 01:10:05.950
+<v Speaker 0>Smallest point, then it's always gonna be in the range
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+01:10:05.950 --> 01:10:09.240
+<v Speaker 0>of one, right, if the, if the biggest point is
+
+NOTE CONF {"raw":[99,98,97,62,90,99,99,99,99,99]}
+
+01:10:09.240 --> 01:10:09.509
+<v Speaker 0>here.
+
+NOTE CONF {"raw":[99]}
+
+01:10:10.200 --> 01:10:12.859
+<v Speaker 0>And you're asking, well instead of reporting a number, give
+
+NOTE CONF {"raw":[63,87,99,99,99,99,99,99,99,99]}
+
+01:10:12.859 --> 01:10:17.169
+<v Speaker 0>me the ratio of something then we mean that normalised.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,89]}
+
+01:10:18.589 --> 01:10:20.669
+<v Speaker 2>So it's like when you're unknown, it's like a different
+
+NOTE CONF {"raw":[81,98,99,99,96,93,98,99,98,99]}
+
+01:10:20.669 --> 01:10:25.220
+<v Speaker 0>s I were to map like students age to students
+
+NOTE CONF {"raw":[84,99,99,99,99,99,99,99,99,99]}
+
+01:10:25.220 --> 01:10:25.759
+<v Speaker 0>marks.
+
+NOTE CONF {"raw":[98]}
+
+01:10:26.589 --> 01:10:28.649
+<v Speaker 0>Maybe the mark range from between.
+
+NOTE CONF {"raw":[99,99,98,99,99,99]}
+
+01:10:29.430 --> 01:10:32.439
+<v Speaker 1>100 to 30 But then students like.
+
+NOTE CONF {"raw":[98,99,99,99,99,93,83]}
+
+01:10:34.220 --> 01:10:39.410
+<v Speaker 1>25 to 16, not like obviously it's not a great
+
+NOTE CONF {"raw":[99,99,99,82,99,99,95,99,43,99]}
+
+01:10:39.410 --> 01:10:39.629
+<v Speaker 0>example.
+
+NOTE CONF {"raw":[99]}
+
+01:10:40.450 --> 01:10:42.850
+<v Speaker 0>But you you want to normalise it so it doesn't
+
+NOTE CONF {"raw":[56,94,99,99,99,99,99,99,99,99]}
+
+01:10:42.850 --> 01:10:43.509
+<v Speaker 0>just always.
+
+NOTE CONF {"raw":[99,99]}
+
+01:10:45.299 --> 01:10:48.140
+<v Speaker 0>Maybe like number of months, so age reported not in
+
+NOTE CONF {"raw":[99,99,99,99,99,85,84,99,99,99]}
+
+01:10:48.140 --> 01:10:49.120
+<v Speaker 0>years but months.
+
+NOTE CONF {"raw":[93,98,91]}
+
+01:10:49.580 --> 01:10:49.859
+<v Speaker 0>Yeah.
+
+NOTE CONF {"raw":[75]}
+
+01:10:50.790 --> 01:10:53.790
+<v Speaker 0>You can change the unit, um, but sometimes you lose
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:10:53.790 --> 01:10:54.470
+<v Speaker 1>synchronise.
+
+NOTE CONF {"raw":[0]}
+
+01:11:09.270 --> 01:11:10.700
+<v Speaker 2>Do you understand like what.
+
+NOTE CONF {"raw":[21,89,99,99,99]}
+
+01:11:20.209 --> 01:11:22.609
+<v Speaker 0>So if you're measuring, if you're measuring things, um.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99]}
+
+01:11:23.379 --> 01:11:26.379
+<v Speaker 0>In the frequency domain by like sound.
+
+NOTE CONF {"raw":[99,99,99,99,77,99,99]}
+
+01:11:27.700 --> 01:11:30.859
+<v Speaker 0>You know, that, that more information is captured in the,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:11:30.979 --> 01:11:33.919
+<v Speaker 0>in the frequency domain, not in the sound or not
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,96,45,96]}
+
+01:11:33.919 --> 01:11:36.870
+<v Speaker 0>in the time domain, so you can keep pictures, right.
+
+NOTE CONF {"raw":[99,99,99,99,97,99,99,87,76,99]}
+
+01:11:37.629 --> 01:11:40.950
+<v Speaker 0>There's a base value that you hear base, but then
+
+NOTE CONF {"raw":[99,99,99,99,98,97,98,96,99,99]}
+
+01:11:40.950 --> 01:11:42.339
+<v Speaker 0>maybe there's a hum to the base.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+01:11:43.470 --> 01:11:45.910
+<v Speaker 0>Right, you want to extract that information, so what you
+
+NOTE CONF {"raw":[99,99,81,89,99,99,99,99,99,99]}
+
+01:11:45.910 --> 01:11:47.350
+<v Speaker 0>do is a fast fury transformer.
+
+NOTE CONF {"raw":[99,99,99,99,47,99]}
+
+01:11:48.200 --> 01:11:52.100
+<v Speaker 0>So it's just a re-representation instead standard procedures, but you
+
+NOTE CONF {"raw":[99,98,99,99,93,98,99,98,97,99]}
+
+01:11:52.100 --> 01:11:54.250
+<v Speaker 0>should know your problems set enough to go, oh well,
+
+NOTE CONF {"raw":[99,99,99,95,99,99,99,99,99,99]}
+
+01:11:54.259 --> 01:11:57.620
+<v Speaker 0>this makes more sense if it's represented in the frequency
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:11:57.620 --> 01:12:02.169
+<v Speaker 0>domain because there's a, there's a purity to it right.
+
+NOTE CONF {"raw":[97,99,99,99,99,99,97,99,99,99]}
+
+01:12:03.580 --> 01:12:05.259
+<v Speaker 0>What engineering background in software?
+
+NOTE CONF {"raw":[99,99,99,77,98]}
+
+01:12:06.080 --> 01:12:08.899
+<v Speaker 0>Yeah, so Bal met, you would have to, there's a
+
+NOTE CONF {"raw":[96,95,51,54,99,99,99,99,99,99]}
+
+01:12:08.899 --> 01:12:12.490
+<v Speaker 0>lot of cases where like breathing apprati, you know, imagine
+
+NOTE CONF {"raw":[99,99,99,99,99,99,52,89,78,99]}
+
+01:12:12.490 --> 01:12:12.899
+<v Speaker 0>there's a.
+
+NOTE CONF {"raw":[98,99]}
+
+01:12:14.169 --> 01:12:17.560
+<v Speaker 0>cyclical feature to it and those things should be best
+
+NOTE CONF {"raw":[86,99,99,99,99,99,99,99,99,99]}
+
+01:12:17.560 --> 01:12:19.229
+<v Speaker 0>mapped in frequency.
+
+NOTE CONF {"raw":[87,99,98]}
+
+01:12:19.250 --> 01:12:23.529
+<v Speaker 1>So that's I was just about like um the pre-processing.
+
+NOTE CONF {"raw":[98,63,17,99,99,99,99,99,99,62]}
+
+01:12:26.700 --> 01:12:26.709
+<v Speaker 2>Yeah.
+
+NOTE CONF {"raw":[0]}
+
+01:12:28.319 --> 01:12:30.870
+<v Speaker 0>Yeah, you, you want to pre-trick your data so you
+
+NOTE CONF {"raw":[99,95,99,93,96,94,99,99,99,99]}
+
+01:12:30.870 --> 01:12:33.029
+<v Speaker 0>just don't dump it in and it looks the same.
+
+NOTE CONF {"raw":[99,93,99,99,99,57,95,95,98,98]}
+
+01:12:33.279 --> 01:12:36.120
+<v Speaker 0>You wanna say, OK, I've represented in this fashion, it
+
+NOTE CONF {"raw":[96,99,99,99,38,50,99,99,99,99]}
+
+01:12:36.120 --> 01:12:39.439
+<v Speaker 0>actually shows me more information about.
+
+NOTE CONF {"raw":[99,99,99,99,99,99]}
+
+01:12:41.200 --> 01:12:43.700
+<v Speaker 0>So in last week or the week before, there was
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:12:43.700 --> 01:12:46.500
+<v Speaker 0>a mention of, you know, like certain dots laid out
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:12:46.500 --> 01:12:47.330
+<v Speaker 0>in a circle.
+
+NOTE CONF {"raw":[99,98,99]}
+
+01:12:47.709 --> 01:12:50.750
+<v Speaker 0>It doesn't look to the machine learning system, there, there,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,43,85]}
+
+01:12:50.819 --> 01:12:54.779
+<v Speaker 0>it's two different classes because there's XY variations just as
+
+NOTE CONF {"raw":[98,99,99,99,99,99,87,99,98,97]}
+
+01:12:54.779 --> 01:12:54.790
+<v Speaker 0>funny.
+
+NOTE CONF {"raw":[59]}
+
+01:12:55.620 --> 01:12:59.060
+<v Speaker 0>But there was actually a centroid to where most of
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99,99,99,99]}
+
+01:12:59.060 --> 01:13:00.140
+<v Speaker 0>the colours were, right?
+
+NOTE CONF {"raw":[99,99,99,99]}
+
+01:13:00.240 --> 01:13:01.890
+<v Speaker 0>It's like, um, concentric so.
+
+NOTE CONF {"raw":[95,99,98,99,93]}
+
+01:13:02.339 --> 01:13:05.870
+<v Speaker 0>So if you map that to a polar coordinate system,
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,99]}
+
+01:13:05.979 --> 01:13:07.970
+<v Speaker 0>then you'll actually get that variability.
+
+NOTE CONF {"raw":[99,73,99,99,99,94]}
+
+01:13:08.490 --> 01:13:09.779
+<v Speaker 0>Uh, it's like the angle.
+
+NOTE CONF {"raw":[30,97,99,99,99]}
+
+01:13:10.169 --> 01:13:11.339
+<v Speaker 0>But well, it's a distance.
+
+NOTE CONF {"raw":[85,99,99,99,99]}
+
+01:13:12.129 --> 01:13:13.580
+<v Speaker 1>Uh, to some, some central.
+
+NOTE CONF {"raw":[63,98,99,99,75]}
+
+01:13:19.069 --> 01:13:21.620
+<v Speaker 2>And for this one but I got a question about
+
+NOTE CONF {"raw":[97,88,99,97,60,99,64,97,99,99]}
+
+01:13:21.620 --> 01:13:22.779
+<v Speaker 2>the here from last week.
+
+NOTE CONF {"raw":[94,28,99,48,12]}
+
+01:13:24.209 --> 01:13:27.080
+<v Speaker 2>I didn't understand like why.
+
+NOTE CONF {"raw":[99,99,99,99,99]}
+
+01:13:29.189 --> 01:13:33.649
+<v Speaker 2>Uh For the error probability is.
+
+NOTE CONF {"raw":[97,11,98,79,96,86]}
+
+01:13:37.319 --> 01:13:40.859
+<v Speaker 0>The Er probably is not useful in regression, so in
+
+NOTE CONF {"raw":[98,27,96,98,99,99,99,98,94,99]}
+
+01:13:40.859 --> 01:13:41.259
+<v Speaker 0>the.
+
+NOTE CONF {"raw":[95]}
+
+01:13:57.040 --> 01:14:00.279
+<v Speaker 0>Because it depends on the line that you're, you're not
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,94,96,99]}
+
+01:14:00.279 --> 01:14:00.839
+<v Speaker 1>passing.
+
+NOTE CONF {"raw":[88]}
+
+01:14:01.709 --> 01:14:04.950
+<v Speaker 0>Right, the, the confidence interval comes from the actual regression
+
+NOTE CONF {"raw":[99,98,99,84,99,99,99,99,99,98]}
+
+01:14:04.950 --> 01:14:05.529
+<v Speaker 0>line that you put.
+
+NOTE CONF {"raw":[99,99,99,97]}
+
+01:14:06.529 --> 01:14:09.560
+<v Speaker 0>You know, if you're using the least uh square method.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,98,99,99]}
+
+01:14:10.299 --> 01:14:12.259
+<v Speaker 0>As a way of determining the prediction.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99]}
+
+01:14:13.600 --> 01:14:15.990
+<v Speaker 1>That distance that should be.
+
+NOTE CONF {"raw":[77,98,94,99,99]}
+
+01:14:18.419 --> 01:14:22.220
+<v Speaker 0>Not for rep or not because that absolution comes from
+
+NOTE CONF {"raw":[80,98,77,49,99,99,99,90,99,99]}
+
+01:14:22.220 --> 01:14:23.899
+<v Speaker 0>categorization processes.
+
+NOTE CONF {"raw":[99,98]}
+
+01:14:25.250 --> 01:14:27.189
+<v Speaker 0>So have a look at the um the one that
+
+NOTE CONF {"raw":[96,99,99,99,99,99,99,99,99,99]}
+
+01:14:27.189 --> 01:14:31.620
+<v Speaker 0>was uploaded in terms of the solution there should be
+
+NOTE CONF {"raw":[99,96,99,99,99,99,99,77,99,94]}
+
+01:14:31.620 --> 01:14:31.629
+<v Speaker 2>some.
+
+NOTE CONF {"raw":[54]}
+
+01:14:32.779 --> 01:14:34.700
+<v Speaker 2>So they're saying like airports is.
+
+NOTE CONF {"raw":[99,97,99,99,20,99]}
+
+01:14:38.319 --> 01:14:40.080
+<v Speaker 1>Yeah, it's like it's not confusion.
+
+NOTE CONF {"raw":[99,68,99,29,67,98]}
+
+01:14:44.390 --> 01:14:46.520
+<v Speaker 1>Well, it was just showing the difference between the way
+
+NOTE CONF {"raw":[51,86,97,94,99,66,99,99,96,68]}
+
+01:14:46.520 --> 01:14:51.000
+<v Speaker 1>the age and um it was saying that when they
+
+NOTE CONF {"raw":[51,48,95,97,77,99,99,99,99,92]}
+
+01:14:51.000 --> 01:14:51.020
+<v Speaker 1>in summer.
+
+NOTE CONF {"raw":[75,63]}
+
+01:14:56.410 --> 01:14:58.089
+<v Speaker 1>or the that's happen.
+
+NOTE CONF {"raw":[69,94,33,70]}
+
+01:14:59.259 --> 01:15:00.979
+<v Speaker 1>Yeah, it's just a total sum of.
+
+NOTE CONF {"raw":[99,97,99,99,99,81,52]}
+
+01:15:02.870 --> 01:15:06.109
+<v Speaker 1>So you've got 6 nearest neighbourhoods that you're using to
+
+NOTE CONF {"raw":[99,99,99,99,99,97,99,98,99,99]}
+
+01:15:06.109 --> 01:15:11.660
+<v Speaker 1>determine your your your question your question sum up the
+
+NOTE CONF {"raw":[98,98,99,99,99,99,99,99,99,99]}
+
+01:15:11.660 --> 01:15:14.220
+<v Speaker 1>distance that we do is with those 68 based on
+
+NOTE CONF {"raw":[99,99,85,32,91,99,99,99,99,99]}
+
+01:15:14.220 --> 01:15:18.390
+<v Speaker 1>those those values.
+
+NOTE CONF {"raw":[99,99,99]}
+
+01:15:19.060 --> 01:15:23.069
+<v Speaker 1>Must be It wasn't that doesn't.
+
+NOTE CONF {"raw":[36,99,72,98,99,87]}
+
+01:15:31.580 --> 01:15:33.299
+<v Speaker 1>No, that was the weighted one.
+
+NOTE CONF {"raw":[81,99,99,99,97,99]}
+
+01:15:36.529 --> 01:15:38.620
+<v Speaker 1>And it was like it was just a song.
+
+NOTE CONF {"raw":[59,91,99,66,99,99,99,99,99]}
+
+01:15:40.379 --> 01:15:40.930
+<v Speaker 1>That's not.
+
+NOTE CONF {"raw":[56,92]}
+
+01:15:44.490 --> 01:15:46.500
+<v Speaker 1>Yeah, yeah, yeah, yeah, um.
+
+NOTE CONF {"raw":[73,93,99,99,99]}
+
+01:15:48.939 --> 01:15:51.589
+<v Speaker 0>Safe is, it's it's actually if you look at it,
+
+NOTE CONF {"raw":[31,54,95,98,99,99,99,99,99,99]}
+
+01:15:51.609 --> 01:15:53.529
+<v Speaker 0>it's actually the no minimal of that.
+
+NOTE CONF {"raw":[92,99,99,90,98,97,99]}
+
+01:15:54.209 --> 01:15:56.850
+<v Speaker 1>The max anything else.
+
+NOTE CONF {"raw":[80,63,41,66]}
+
+01:16:00.009 --> 01:16:03.240
+<v Speaker 1>So, so, yeah, just note that if you're following it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,99,98]}
+
+01:16:03.240 --> 01:16:05.120
+<v Speaker 1>through, then there will be a computer.
+
+NOTE CONF {"raw":[99,99,99,99,99,79,74]}
+
+01:16:06.709 --> 01:16:13.490
+<v Speaker 1>How Right, so, yeah, yeah, in principle it does value,
+
+NOTE CONF {"raw":[48,56,91,99,98,99,99,99,99,99]}
+
+01:16:13.529 --> 01:16:18.109
+<v Speaker 1>it does, um, yeah, it does suit one type thing.
+
+NOTE CONF {"raw":[99,99,99,98,94,97,99,99,99,70]}
+
+01:16:19.069 --> 01:16:21.649
+<v Speaker 0>That's why you use that same method and you saw
+
+NOTE CONF {"raw":[94,99,99,99,99,99,99,99,99,99]}
+
+01:16:21.649 --> 01:16:23.970
+<v Speaker 1>one of the graphs, right, it actually give you a
+
+NOTE CONF {"raw":[99,99,99,79,99,90,99,99,99,99]}
+
+01:16:23.970 --> 01:16:33.939
+<v Speaker 1>different response right then you know how there's red.
+
+NOTE CONF {"raw":[99,99,70,97,99,99,99,57,72]}
+
+01:16:34.770 --> 01:16:39.830
+<v Speaker 0>It's because of how you, how you approach is very
+
+NOTE CONF {"raw":[94,99,99,99,99,98,74,99,20,93]}
+
+01:16:39.830 --> 01:16:39.839
+<v Speaker 1>different.
+
+NOTE CONF {"raw":[97]}
+
+01:16:41.580 --> 01:16:44.540
+<v Speaker 1>Trivial in in nature, I do something different.
+
+NOTE CONF {"raw":[98,99,99,99,98,98,99,99]}
+
+01:16:46.540 --> 01:16:50.419
+<v Speaker 1>Right, but the point is like the the determination is
+
+NOTE CONF {"raw":[99,93,99,99,99,99,92,98,98,99]}
+
+01:16:50.419 --> 01:16:53.729
+<v Speaker 0>like so hinge on your understanding.
+
+NOTE CONF {"raw":[99,99,96,99,99,99]}
+
+01:16:54.479 --> 01:16:56.549
+<v Speaker 0>Not so much as the absolute truth.
+
+NOTE CONF {"raw":[99,99,99,99,99,98,99]}
+
+01:16:58.040 --> 01:16:58.839
+<v Speaker 1>Chain, not chain.
+
+NOTE CONF {"raw":[83,99,56]}
+
+01:16:59.549 --> 01:17:02.759
+<v Speaker 0>Depends on how you use Dots are not, you know,
+
+NOTE CONF {"raw":[40,95,99,97,99,32,99,99,99,80]}
+
+01:17:02.919 --> 01:17:05.759
+<v Speaker 0>simply that fast, depends on how you determine.
+
+NOTE CONF {"raw":[82,95,97,65,99,99,98,99]}
+
+01:17:09.680 --> 01:17:09.689
+<v Speaker 1>Right.
+
+NOTE CONF {"raw":[45]}
+
+01:17:12.419 --> 01:17:12.430
+<v Speaker 1>what.
+
+NOTE CONF {"raw":[34]}
+
+01:17:15.700 --> 01:17:15.709
+<v Speaker 1>Uh.
+
+NOTE CONF {"raw":[84]}
+
+01:17:20.410 --> 01:17:24.410
+<v Speaker 1>Uh supervisor, no, it's it's not the.
+
+NOTE CONF {"raw":[71,58,99,98,56,98,94]}
+
+01:17:25.569 --> 01:17:35.250
+<v Speaker 1>But and then it's the all the I I always
+
+NOTE CONF {"raw":[99,81,99,27,15,43,59,3,79,59]}
+
+01:17:35.250 --> 01:17:35.569
+<v Speaker 1>have one.
+
+NOTE CONF {"raw":[8,52]}
+
+01:17:37.569 --> 01:17:38.529
+<v Speaker 1>Unless you use the.
+
+NOTE CONF {"raw":[99,99,98,92]}
+
+01:17:45.029 --> 01:17:54.930
+<v Speaker 1>I No, that parameter is trying to select what to
+
+NOTE CONF {"raw":[4,99,99,99,99,99,99,99,99,99]}
+
+01:17:54.930 --> 01:17:56.330
+<v Speaker 0>compute some.
+
+NOTE CONF {"raw":[99,83]}
+
+01:17:57.680 --> 01:18:07.890
+<v Speaker 1>So I'm if I'm selecting say a 3, then I'm
+
+NOTE CONF {"raw":[84,98,99,99,99,99,66,99,99,99]}
+
+01:18:07.890 --> 01:18:08.049
+<v Speaker 1>looking at only the closest 3, not everything, and then
+
+NOTE CONF {"raw":[99,99,99,99,94,95,99,99,85,99]}
+
+01:18:08.049 --> 01:18:08.060
+<v Speaker 1>why.
+
+NOTE CONF {"raw":[95]}
+
+01:18:12.770 --> 01:18:16.399
+<v Speaker 1>So not because the squares are actually.
+
+NOTE CONF {"raw":[75,94,99,99,98,99,99]}
+
+01:18:19.490 --> 01:18:21.060
+<v Speaker 1>A feature one or feature two.
+
+NOTE CONF {"raw":[52,99,59,99,99,97]}
+
+01:18:21.339 --> 01:18:25.100
+<v Speaker 1>The distance of that dots, two dots is not exactly
+
+NOTE CONF {"raw":[95,99,99,94,96,83,95,99,99,99]}
+
+01:18:25.100 --> 01:18:25.419
+<v Speaker 1>a certain.
+
+NOTE CONF {"raw":[79,75]}
+
+01:18:26.330 --> 01:18:32.560
+<v Speaker 1>Yeah, I want to be like yeah but then there's
+
+NOTE CONF {"raw":[99,90,55,53,98,87,91,98,96,98]}
+
+01:18:32.560 --> 01:18:33.600
+<v Speaker 1>another sort of like.
+
+NOTE CONF {"raw":[99,81,80,49]}
+
+01:18:36.000 --> 01:18:36.270
+<v Speaker 1>Uh.
+
+NOTE CONF {"raw":[98]}
+
+01:18:38.220 --> 01:18:41.270
+<v Speaker 1>And I will determine this unknown doctor in passing that.
+
+NOTE CONF {"raw":[95,99,99,98,99,98,68,63,43,24]}
+
+01:18:42.520 --> 01:18:47.959
+<v Speaker 1>And And So you can just play around, it's so
+
+NOTE CONF {"raw":[94,79,99,99,99,99,99,99,98,99]}
+
+01:18:47.959 --> 01:18:49.680
+<v Speaker 0>much easier to just like play around and be it
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,60,98,93]}
+
+01:18:49.680 --> 01:18:53.160
+<v Speaker 0>would be plot, so I'm using P equals 23 for
+
+NOTE CONF {"raw":[99,91,19,90,99,99,97,89,43,99]}
+
+01:18:53.160 --> 01:18:54.279
+<v Speaker 1>both P and N.
+
+NOTE CONF {"raw":[99,99,99,85]}
+
+01:18:55.910 --> 01:18:58.060
+<v Speaker 1>And then I'll see how it comes out better.
+
+NOTE CONF {"raw":[99,99,99,99,99,99,99,99,81]}
+
+01:18:59.379 --> 01:19:04.250
+<v Speaker 1>And then obviously some some classical you see well given
+
+NOTE CONF {"raw":[99,99,99,99,99,83,78,98,26,96]}
+
+01:19:04.250 --> 01:19:07.850
+<v Speaker 1>that value if you use a class.
+
+NOTE CONF {"raw":[99,99,99,99,99,61,97]}
+
+01:19:10.669 --> 01:19:11.490
+<v Speaker 1>If you be give you different.
+
+NOTE CONF {"raw":[64,67,58,95,50,99]}
+
+01:19:12.250 --> 01:19:13.600
+<v Speaker 0>And that's like, all right.
+
+NOTE CONF {"raw":[99,99,99,95,99]}
+
+01:19:18.419 --> 01:19:43.520
+<v Speaker 1>Uh Um, maybe I could recreate this.
+
+NOTE CONF {"raw":[11,99,99,99,71,33,93]}
+
+01:19:45.890 --> 01:19:54.439
+<v Speaker 1>free Um OK, well, um, I, I'm going to.
+
+NOTE CONF {"raw":[69,2,98,97,93,97,63,66,30]}
+
+01:20:04.290 --> 01:20:04.299
+<v Speaker 1>Yeah.
+
+NOTE CONF {"raw":[52]}
+
+01:20:16.069 --> 01:20:16.080
+<v Speaker 1>Yeah
+
+NOTE CONF {"raw":[7]}

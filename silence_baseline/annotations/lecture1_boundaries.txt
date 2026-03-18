@@ -1,0 +1,9 @@
+00:00:12 Introduction and Administrative Overview 
+00:05:36 Technical Infrastructure and Prerequisite Review 
+00:09:44 Project Roadmap and Team Formation 
+00:15:30 Design Principles and MVP Approach 
+00:23:44 Interactive Discussion and Problem Definition 
+00:46:09 Fundamentals of Generative AI 
+00:57:15 Machine Learning Paradigms and Generalization 
+01:03:39 Self-adaptive Systems and Complexity 
+01:09:57 Data Quality and Engineering Judgment 
