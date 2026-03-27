@@ -1,0 +1,73 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 129,
+  "TP": 6,
+  "FP": 123,
+  "FN": 3,
+  "precision": 0.046511627906976744,
+  "recall": 0.6666666666666666,
+  "f1": 0.08695652173913045,
+  "matches": [
+    {
+      "gt_index": 1,
+      "gt_time": 336,
+      "gt_time_str": "00:05:36",
+      "gt_title": "Technical Infrastructure and Prerequisite Review",
+      "pred_index": 10,
+      "pred_time": 361.029,
+      "pred_similarity": 0.43820875883102417,
+      "abs_error_sec": 25.028999999999996
+    },
+    {
+      "gt_index": 2,
+      "gt_time": 584,
+      "gt_time_str": "00:09:44",
+      "gt_title": "Project Roadmap and Team Formation",
+      "pred_index": 17,
+      "pred_time": 595.63,
+      "pred_similarity": 0.531536340713501,
+      "abs_error_sec": 11.629999999999995
+    },
+    {
+      "gt_index": 4,
+      "gt_time": 1424,
+      "gt_time_str": "00:23:44",
+      "gt_title": "Interactive Discussion and Problem Definition",
+      "pred_index": 36,
+      "pred_time": 1450.979,
+      "pred_similarity": 0.48386648297309875,
+      "abs_error_sec": 26.979000000000042
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 2769,
+      "gt_time_str": "00:46:09",
+      "gt_title": "Fundamentals of Generative AI",
+      "pred_index": 71,
+      "pred_time": 2742.379,
+      "pred_similarity": 0.4699525535106659,
+      "abs_error_sec": 26.621000000000095
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 3435,
+      "gt_time_str": "00:57:15",
+      "gt_title": "Machine Learning Paradigms and Generalization",
+      "pred_index": 85,
+      "pred_time": 3427.84,
+      "pred_similarity": 0.49339815974235535,
+      "abs_error_sec": 7.1599999999998545
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 3819,
+      "gt_time_str": "01:03:39",
+      "gt_title": "Self-adaptive Systems and Complexity",
+      "pred_index": 95,
+      "pred_time": 3822.6,
+      "pred_similarity": 0.4337000250816345,
+      "abs_error_sec": 3.599999999999909
+    }
+  ]
+}

@@ -1,0 +1,5339 @@
+[
+  {
+    "left_window_id": 0,
+    "right_window_id": 1,
+    "left_start": 12.489,
+    "left_end": 22.489,
+    "right_start": 22.489,
+    "right_end": 32.489000000000004,
+    "similarity": 0.7290117144584656
+  },
+  {
+    "left_window_id": 1,
+    "right_window_id": 2,
+    "left_start": 22.489,
+    "left_end": 32.489000000000004,
+    "right_start": 32.489000000000004,
+    "right_end": 42.489000000000004,
+    "similarity": 0.7375341057777405
+  },
+  {
+    "left_window_id": 2,
+    "right_window_id": 3,
+    "left_start": 32.489000000000004,
+    "left_end": 42.489000000000004,
+    "right_start": 42.489000000000004,
+    "right_end": 52.489000000000004,
+    "similarity": 0.784111738204956
+  },
+  {
+    "left_window_id": 3,
+    "right_window_id": 4,
+    "left_start": 42.489000000000004,
+    "left_end": 52.489000000000004,
+    "right_start": 52.489000000000004,
+    "right_end": 62.489000000000004,
+    "similarity": 0.7723790407180786
+  },
+  {
+    "left_window_id": 4,
+    "right_window_id": 5,
+    "left_start": 52.489000000000004,
+    "left_end": 62.489000000000004,
+    "right_start": 62.489000000000004,
+    "right_end": 72.489,
+    "similarity": 0.5487509369850159
+  },
+  {
+    "left_window_id": 5,
+    "right_window_id": 6,
+    "left_start": 62.489000000000004,
+    "left_end": 72.489,
+    "right_start": 72.489,
+    "right_end": 82.489,
+    "similarity": 0.6273452639579773
+  },
+  {
+    "left_window_id": 6,
+    "right_window_id": 7,
+    "left_start": 72.489,
+    "left_end": 82.489,
+    "right_start": 82.489,
+    "right_end": 92.489,
+    "similarity": 0.6884065866470337
+  },
+  {
+    "left_window_id": 7,
+    "right_window_id": 8,
+    "left_start": 82.489,
+    "left_end": 92.489,
+    "right_start": 92.489,
+    "right_end": 102.489,
+    "similarity": 0.8049604892730713
+  },
+  {
+    "left_window_id": 8,
+    "right_window_id": 9,
+    "left_start": 92.489,
+    "left_end": 102.489,
+    "right_start": 102.489,
+    "right_end": 112.489,
+    "similarity": 0.654714822769165
+  },
+  {
+    "left_window_id": 9,
+    "right_window_id": 10,
+    "left_start": 102.489,
+    "left_end": 112.489,
+    "right_start": 112.489,
+    "right_end": 122.489,
+    "similarity": 0.7692906856536865
+  },
+  {
+    "left_window_id": 10,
+    "right_window_id": 11,
+    "left_start": 112.489,
+    "left_end": 122.489,
+    "right_start": 122.489,
+    "right_end": 132.489,
+    "similarity": 0.7245089411735535
+  },
+  {
+    "left_window_id": 11,
+    "right_window_id": 12,
+    "left_start": 122.489,
+    "left_end": 132.489,
+    "right_start": 132.489,
+    "right_end": 142.489,
+    "similarity": 0.7889470458030701
+  },
+  {
+    "left_window_id": 12,
+    "right_window_id": 13,
+    "left_start": 132.489,
+    "left_end": 142.489,
+    "right_start": 142.489,
+    "right_end": 152.489,
+    "similarity": 0.7578089833259583
+  },
+  {
+    "left_window_id": 13,
+    "right_window_id": 14,
+    "left_start": 142.489,
+    "left_end": 152.489,
+    "right_start": 152.489,
+    "right_end": 162.489,
+    "similarity": 0.6786383986473083
+  },
+  {
+    "left_window_id": 14,
+    "right_window_id": 15,
+    "left_start": 152.489,
+    "left_end": 162.489,
+    "right_start": 162.489,
+    "right_end": 172.489,
+    "similarity": 0.5157044529914856
+  },
+  {
+    "left_window_id": 15,
+    "right_window_id": 16,
+    "left_start": 162.489,
+    "left_end": 172.489,
+    "right_start": 172.489,
+    "right_end": 182.489,
+    "similarity": 0.7133219838142395
+  },
+  {
+    "left_window_id": 16,
+    "right_window_id": 17,
+    "left_start": 172.489,
+    "left_end": 182.489,
+    "right_start": 182.489,
+    "right_end": 192.489,
+    "similarity": 0.6854010224342346
+  },
+  {
+    "left_window_id": 17,
+    "right_window_id": 18,
+    "left_start": 182.489,
+    "left_end": 192.489,
+    "right_start": 192.489,
+    "right_end": 202.489,
+    "similarity": 0.6700665950775146
+  },
+  {
+    "left_window_id": 18,
+    "right_window_id": 19,
+    "left_start": 192.489,
+    "left_end": 202.489,
+    "right_start": 202.489,
+    "right_end": 212.489,
+    "similarity": 0.7925821542739868
+  },
+  {
+    "left_window_id": 19,
+    "right_window_id": 20,
+    "left_start": 202.489,
+    "left_end": 212.489,
+    "right_start": 212.489,
+    "right_end": 222.489,
+    "similarity": 0.7462874054908752
+  },
+  {
+    "left_window_id": 20,
+    "right_window_id": 21,
+    "left_start": 212.489,
+    "left_end": 222.489,
+    "right_start": 222.489,
+    "right_end": 232.489,
+    "similarity": 0.5740031599998474
+  },
+  {
+    "left_window_id": 21,
+    "right_window_id": 22,
+    "left_start": 222.489,
+    "left_end": 232.489,
+    "right_start": 232.489,
+    "right_end": 242.489,
+    "similarity": 0.7716078162193298
+  },
+  {
+    "left_window_id": 22,
+    "right_window_id": 23,
+    "left_start": 232.489,
+    "left_end": 242.489,
+    "right_start": 242.489,
+    "right_end": 252.489,
+    "similarity": 0.46584609150886536
+  },
+  {
+    "left_window_id": 23,
+    "right_window_id": 24,
+    "left_start": 242.489,
+    "left_end": 252.489,
+    "right_start": 252.489,
+    "right_end": 262.48900000000003,
+    "similarity": 0.8316164016723633
+  },
+  {
+    "left_window_id": 24,
+    "right_window_id": 25,
+    "left_start": 252.489,
+    "left_end": 262.48900000000003,
+    "right_start": 262.48900000000003,
+    "right_end": 272.48900000000003,
+    "similarity": 0.6888589859008789
+  },
+  {
+    "left_window_id": 25,
+    "right_window_id": 26,
+    "left_start": 262.48900000000003,
+    "left_end": 272.48900000000003,
+    "right_start": 272.48900000000003,
+    "right_end": 282.48900000000003,
+    "similarity": 0.7128024101257324
+  },
+  {
+    "left_window_id": 26,
+    "right_window_id": 27,
+    "left_start": 272.48900000000003,
+    "left_end": 282.48900000000003,
+    "right_start": 282.48900000000003,
+    "right_end": 292.48900000000003,
+    "similarity": 0.7118041515350342
+  },
+  {
+    "left_window_id": 27,
+    "right_window_id": 28,
+    "left_start": 282.48900000000003,
+    "left_end": 292.48900000000003,
+    "right_start": 292.48900000000003,
+    "right_end": 302.48900000000003,
+    "similarity": 0.7386482954025269
+  },
+  {
+    "left_window_id": 28,
+    "right_window_id": 29,
+    "left_start": 292.48900000000003,
+    "left_end": 302.48900000000003,
+    "right_start": 302.48900000000003,
+    "right_end": 312.48900000000003,
+    "similarity": 0.6367455720901489
+  },
+  {
+    "left_window_id": 29,
+    "right_window_id": 30,
+    "left_start": 302.48900000000003,
+    "left_end": 312.48900000000003,
+    "right_start": 312.48900000000003,
+    "right_end": 322.48900000000003,
+    "similarity": 0.6922871470451355
+  },
+  {
+    "left_window_id": 30,
+    "right_window_id": 31,
+    "left_start": 312.48900000000003,
+    "left_end": 322.48900000000003,
+    "right_start": 322.48900000000003,
+    "right_end": 332.48900000000003,
+    "similarity": 0.599661111831665
+  },
+  {
+    "left_window_id": 31,
+    "right_window_id": 32,
+    "left_start": 322.48900000000003,
+    "left_end": 332.48900000000003,
+    "right_start": 332.48900000000003,
+    "right_end": 342.48900000000003,
+    "similarity": 0.8635072708129883
+  },
+  {
+    "left_window_id": 32,
+    "right_window_id": 33,
+    "left_start": 332.48900000000003,
+    "left_end": 342.48900000000003,
+    "right_start": 342.48900000000003,
+    "right_end": 352.48900000000003,
+    "similarity": 0.7825080156326294
+  },
+  {
+    "left_window_id": 33,
+    "right_window_id": 34,
+    "left_start": 342.48900000000003,
+    "left_end": 352.48900000000003,
+    "right_start": 352.48900000000003,
+    "right_end": 362.48900000000003,
+    "similarity": 0.6149625182151794
+  },
+  {
+    "left_window_id": 34,
+    "right_window_id": 35,
+    "left_start": 352.48900000000003,
+    "left_end": 362.48900000000003,
+    "right_start": 362.48900000000003,
+    "right_end": 372.48900000000003,
+    "similarity": 0.5289709568023682
+  },
+  {
+    "left_window_id": 35,
+    "right_window_id": 36,
+    "left_start": 362.48900000000003,
+    "left_end": 372.48900000000003,
+    "right_start": 372.48900000000003,
+    "right_end": 382.48900000000003,
+    "similarity": 0.8023587465286255
+  },
+  {
+    "left_window_id": 36,
+    "right_window_id": 37,
+    "left_start": 372.48900000000003,
+    "left_end": 382.48900000000003,
+    "right_start": 382.48900000000003,
+    "right_end": 392.48900000000003,
+    "similarity": 0.6971871852874756
+  },
+  {
+    "left_window_id": 37,
+    "right_window_id": 38,
+    "left_start": 382.48900000000003,
+    "left_end": 392.48900000000003,
+    "right_start": 392.48900000000003,
+    "right_end": 402.48900000000003,
+    "similarity": 0.8362833857536316
+  },
+  {
+    "left_window_id": 38,
+    "right_window_id": 39,
+    "left_start": 392.48900000000003,
+    "left_end": 402.48900000000003,
+    "right_start": 402.48900000000003,
+    "right_end": 412.48900000000003,
+    "similarity": 0.5901760458946228
+  },
+  {
+    "left_window_id": 39,
+    "right_window_id": 40,
+    "left_start": 402.48900000000003,
+    "left_end": 412.48900000000003,
+    "right_start": 412.48900000000003,
+    "right_end": 422.48900000000003,
+    "similarity": 0.9080948829650879
+  },
+  {
+    "left_window_id": 40,
+    "right_window_id": 41,
+    "left_start": 412.48900000000003,
+    "left_end": 422.48900000000003,
+    "right_start": 422.48900000000003,
+    "right_end": 432.48900000000003,
+    "similarity": 0.7724937200546265
+  },
+  {
+    "left_window_id": 41,
+    "right_window_id": 42,
+    "left_start": 422.48900000000003,
+    "left_end": 432.48900000000003,
+    "right_start": 432.48900000000003,
+    "right_end": 442.48900000000003,
+    "similarity": 0.6294131875038147
+  },
+  {
+    "left_window_id": 42,
+    "right_window_id": 43,
+    "left_start": 432.48900000000003,
+    "left_end": 442.48900000000003,
+    "right_start": 442.48900000000003,
+    "right_end": 452.48900000000003,
+    "similarity": 0.4660252630710602
+  },
+  {
+    "left_window_id": 43,
+    "right_window_id": 44,
+    "left_start": 442.48900000000003,
+    "left_end": 452.48900000000003,
+    "right_start": 452.48900000000003,
+    "right_end": 462.48900000000003,
+    "similarity": 0.7251805663108826
+  },
+  {
+    "left_window_id": 44,
+    "right_window_id": 45,
+    "left_start": 452.48900000000003,
+    "left_end": 462.48900000000003,
+    "right_start": 462.48900000000003,
+    "right_end": 472.48900000000003,
+    "similarity": 0.6691046953201294
+  },
+  {
+    "left_window_id": 45,
+    "right_window_id": 46,
+    "left_start": 462.48900000000003,
+    "left_end": 472.48900000000003,
+    "right_start": 472.48900000000003,
+    "right_end": 482.48900000000003,
+    "similarity": 0.7075108885765076
+  },
+  {
+    "left_window_id": 46,
+    "right_window_id": 47,
+    "left_start": 472.48900000000003,
+    "left_end": 482.48900000000003,
+    "right_start": 482.48900000000003,
+    "right_end": 492.48900000000003,
+    "similarity": 0.7976188659667969
+  },
+  {
+    "left_window_id": 47,
+    "right_window_id": 48,
+    "left_start": 482.48900000000003,
+    "left_end": 492.48900000000003,
+    "right_start": 492.48900000000003,
+    "right_end": 502.48900000000003,
+    "similarity": 0.7467691898345947
+  },
+  {
+    "left_window_id": 48,
+    "right_window_id": 49,
+    "left_start": 492.48900000000003,
+    "left_end": 502.48900000000003,
+    "right_start": 502.48900000000003,
+    "right_end": 512.489,
+    "similarity": 0.7100719213485718
+  },
+  {
+    "left_window_id": 49,
+    "right_window_id": 50,
+    "left_start": 502.48900000000003,
+    "left_end": 512.489,
+    "right_start": 512.489,
+    "right_end": 522.489,
+    "similarity": 0.5183846950531006
+  },
+  {
+    "left_window_id": 50,
+    "right_window_id": 51,
+    "left_start": 512.489,
+    "left_end": 522.489,
+    "right_start": 522.489,
+    "right_end": 532.489,
+    "similarity": 0.7942086458206177
+  },
+  {
+    "left_window_id": 51,
+    "right_window_id": 52,
+    "left_start": 522.489,
+    "left_end": 532.489,
+    "right_start": 532.489,
+    "right_end": 542.489,
+    "similarity": 0.6231145858764648
+  },
+  {
+    "left_window_id": 52,
+    "right_window_id": 53,
+    "left_start": 532.489,
+    "left_end": 542.489,
+    "right_start": 542.489,
+    "right_end": 552.489,
+    "similarity": 0.8294807076454163
+  },
+  {
+    "left_window_id": 53,
+    "right_window_id": 54,
+    "left_start": 542.489,
+    "left_end": 552.489,
+    "right_start": 552.489,
+    "right_end": 562.489,
+    "similarity": 0.7406343221664429
+  },
+  {
+    "left_window_id": 54,
+    "right_window_id": 55,
+    "left_start": 552.489,
+    "left_end": 562.489,
+    "right_start": 562.489,
+    "right_end": 572.489,
+    "similarity": 0.5110902786254883
+  },
+  {
+    "left_window_id": 55,
+    "right_window_id": 56,
+    "left_start": 562.489,
+    "left_end": 572.489,
+    "right_start": 572.489,
+    "right_end": 582.489,
+    "similarity": 0.5718703269958496
+  },
+  {
+    "left_window_id": 56,
+    "right_window_id": 57,
+    "left_start": 572.489,
+    "left_end": 582.489,
+    "right_start": 582.489,
+    "right_end": 592.489,
+    "similarity": 0.6070283651351929
+  },
+  {
+    "left_window_id": 57,
+    "right_window_id": 58,
+    "left_start": 582.489,
+    "left_end": 592.489,
+    "right_start": 592.489,
+    "right_end": 602.489,
+    "similarity": 0.7386311888694763
+  },
+  {
+    "left_window_id": 58,
+    "right_window_id": 59,
+    "left_start": 592.489,
+    "left_end": 602.489,
+    "right_start": 602.489,
+    "right_end": 612.489,
+    "similarity": 0.5695002675056458
+  },
+  {
+    "left_window_id": 59,
+    "right_window_id": 60,
+    "left_start": 602.489,
+    "left_end": 612.489,
+    "right_start": 612.489,
+    "right_end": 622.489,
+    "similarity": 0.7159885168075562
+  },
+  {
+    "left_window_id": 60,
+    "right_window_id": 61,
+    "left_start": 612.489,
+    "left_end": 622.489,
+    "right_start": 622.489,
+    "right_end": 632.489,
+    "similarity": 0.8273308873176575
+  },
+  {
+    "left_window_id": 61,
+    "right_window_id": 62,
+    "left_start": 622.489,
+    "left_end": 632.489,
+    "right_start": 632.489,
+    "right_end": 642.489,
+    "similarity": 0.5420563220977783
+  },
+  {
+    "left_window_id": 62,
+    "right_window_id": 63,
+    "left_start": 632.489,
+    "left_end": 642.489,
+    "right_start": 642.489,
+    "right_end": 652.489,
+    "similarity": 0.5534005761146545
+  },
+  {
+    "left_window_id": 63,
+    "right_window_id": 64,
+    "left_start": 642.489,
+    "left_end": 652.489,
+    "right_start": 652.489,
+    "right_end": 662.489,
+    "similarity": 0.8161839842796326
+  },
+  {
+    "left_window_id": 64,
+    "right_window_id": 65,
+    "left_start": 652.489,
+    "left_end": 662.489,
+    "right_start": 662.489,
+    "right_end": 672.489,
+    "similarity": 0.682552695274353
+  },
+  {
+    "left_window_id": 65,
+    "right_window_id": 66,
+    "left_start": 662.489,
+    "left_end": 672.489,
+    "right_start": 672.489,
+    "right_end": 682.489,
+    "similarity": 0.579588770866394
+  },
+  {
+    "left_window_id": 66,
+    "right_window_id": 67,
+    "left_start": 672.489,
+    "left_end": 682.489,
+    "right_start": 682.489,
+    "right_end": 692.489,
+    "similarity": 0.6344699859619141
+  },
+  {
+    "left_window_id": 67,
+    "right_window_id": 68,
+    "left_start": 682.489,
+    "left_end": 692.489,
+    "right_start": 692.489,
+    "right_end": 702.489,
+    "similarity": 0.660615086555481
+  },
+  {
+    "left_window_id": 68,
+    "right_window_id": 69,
+    "left_start": 692.489,
+    "left_end": 702.489,
+    "right_start": 702.489,
+    "right_end": 712.489,
+    "similarity": 0.805600643157959
+  },
+  {
+    "left_window_id": 69,
+    "right_window_id": 70,
+    "left_start": 702.489,
+    "left_end": 712.489,
+    "right_start": 712.489,
+    "right_end": 722.489,
+    "similarity": 0.664110541343689
+  },
+  {
+    "left_window_id": 70,
+    "right_window_id": 71,
+    "left_start": 712.489,
+    "left_end": 722.489,
+    "right_start": 722.489,
+    "right_end": 732.489,
+    "similarity": 0.5999080538749695
+  },
+  {
+    "left_window_id": 71,
+    "right_window_id": 72,
+    "left_start": 722.489,
+    "left_end": 732.489,
+    "right_start": 732.489,
+    "right_end": 742.489,
+    "similarity": 0.7787743806838989
+  },
+  {
+    "left_window_id": 72,
+    "right_window_id": 73,
+    "left_start": 732.489,
+    "left_end": 742.489,
+    "right_start": 742.489,
+    "right_end": 752.489,
+    "similarity": 0.7988176345825195
+  },
+  {
+    "left_window_id": 73,
+    "right_window_id": 74,
+    "left_start": 742.489,
+    "left_end": 752.489,
+    "right_start": 752.489,
+    "right_end": 762.489,
+    "similarity": 0.6782425045967102
+  },
+  {
+    "left_window_id": 74,
+    "right_window_id": 75,
+    "left_start": 752.489,
+    "left_end": 762.489,
+    "right_start": 762.489,
+    "right_end": 772.489,
+    "similarity": 0.4866463840007782
+  },
+  {
+    "left_window_id": 75,
+    "right_window_id": 76,
+    "left_start": 762.489,
+    "left_end": 772.489,
+    "right_start": 772.489,
+    "right_end": 782.489,
+    "similarity": 0.7251082062721252
+  },
+  {
+    "left_window_id": 76,
+    "right_window_id": 77,
+    "left_start": 772.489,
+    "left_end": 782.489,
+    "right_start": 782.489,
+    "right_end": 792.489,
+    "similarity": 0.6372142434120178
+  },
+  {
+    "left_window_id": 77,
+    "right_window_id": 78,
+    "left_start": 782.489,
+    "left_end": 792.489,
+    "right_start": 792.489,
+    "right_end": 802.489,
+    "similarity": 0.5515312552452087
+  },
+  {
+    "left_window_id": 78,
+    "right_window_id": 79,
+    "left_start": 792.489,
+    "left_end": 802.489,
+    "right_start": 802.489,
+    "right_end": 812.489,
+    "similarity": 0.46303698420524597
+  },
+  {
+    "left_window_id": 79,
+    "right_window_id": 80,
+    "left_start": 802.489,
+    "left_end": 812.489,
+    "right_start": 812.489,
+    "right_end": 822.489,
+    "similarity": 0.7436641454696655
+  },
+  {
+    "left_window_id": 80,
+    "right_window_id": 81,
+    "left_start": 812.489,
+    "left_end": 822.489,
+    "right_start": 822.489,
+    "right_end": 832.489,
+    "similarity": 0.6590016484260559
+  },
+  {
+    "left_window_id": 81,
+    "right_window_id": 82,
+    "left_start": 822.489,
+    "left_end": 832.489,
+    "right_start": 832.489,
+    "right_end": 842.489,
+    "similarity": 0.7273619174957275
+  },
+  {
+    "left_window_id": 82,
+    "right_window_id": 83,
+    "left_start": 832.489,
+    "left_end": 842.489,
+    "right_start": 842.489,
+    "right_end": 852.489,
+    "similarity": 0.5491859316825867
+  },
+  {
+    "left_window_id": 83,
+    "right_window_id": 84,
+    "left_start": 842.489,
+    "left_end": 852.489,
+    "right_start": 852.489,
+    "right_end": 862.489,
+    "similarity": 0.7510894536972046
+  },
+  {
+    "left_window_id": 84,
+    "right_window_id": 85,
+    "left_start": 852.489,
+    "left_end": 862.489,
+    "right_start": 862.489,
+    "right_end": 872.489,
+    "similarity": 0.6900182366371155
+  },
+  {
+    "left_window_id": 85,
+    "right_window_id": 86,
+    "left_start": 862.489,
+    "left_end": 872.489,
+    "right_start": 872.489,
+    "right_end": 882.489,
+    "similarity": 0.871770441532135
+  },
+  {
+    "left_window_id": 86,
+    "right_window_id": 87,
+    "left_start": 872.489,
+    "left_end": 882.489,
+    "right_start": 882.489,
+    "right_end": 892.489,
+    "similarity": 0.643170177936554
+  },
+  {
+    "left_window_id": 87,
+    "right_window_id": 88,
+    "left_start": 882.489,
+    "left_end": 892.489,
+    "right_start": 892.489,
+    "right_end": 902.489,
+    "similarity": 0.8551983833312988
+  },
+  {
+    "left_window_id": 88,
+    "right_window_id": 89,
+    "left_start": 892.489,
+    "left_end": 902.489,
+    "right_start": 902.489,
+    "right_end": 912.489,
+    "similarity": 0.5345667600631714
+  },
+  {
+    "left_window_id": 89,
+    "right_window_id": 90,
+    "left_start": 902.489,
+    "left_end": 912.489,
+    "right_start": 912.489,
+    "right_end": 922.489,
+    "similarity": 0.8334855437278748
+  },
+  {
+    "left_window_id": 90,
+    "right_window_id": 91,
+    "left_start": 912.489,
+    "left_end": 922.489,
+    "right_start": 922.489,
+    "right_end": 932.489,
+    "similarity": 0.7787244319915771
+  },
+  {
+    "left_window_id": 91,
+    "right_window_id": 92,
+    "left_start": 922.489,
+    "left_end": 932.489,
+    "right_start": 932.489,
+    "right_end": 942.489,
+    "similarity": 0.7956913113594055
+  },
+  {
+    "left_window_id": 92,
+    "right_window_id": 93,
+    "left_start": 932.489,
+    "left_end": 942.489,
+    "right_start": 942.489,
+    "right_end": 952.489,
+    "similarity": 0.7442023158073425
+  },
+  {
+    "left_window_id": 93,
+    "right_window_id": 94,
+    "left_start": 942.489,
+    "left_end": 952.489,
+    "right_start": 952.489,
+    "right_end": 962.489,
+    "similarity": 0.6312024593353271
+  },
+  {
+    "left_window_id": 94,
+    "right_window_id": 95,
+    "left_start": 952.489,
+    "left_end": 962.489,
+    "right_start": 962.489,
+    "right_end": 972.489,
+    "similarity": 0.7071760892868042
+  },
+  {
+    "left_window_id": 95,
+    "right_window_id": 96,
+    "left_start": 962.489,
+    "left_end": 972.489,
+    "right_start": 972.489,
+    "right_end": 982.489,
+    "similarity": 0.7138455510139465
+  },
+  {
+    "left_window_id": 96,
+    "right_window_id": 97,
+    "left_start": 972.489,
+    "left_end": 982.489,
+    "right_start": 982.489,
+    "right_end": 992.489,
+    "similarity": 0.6744083762168884
+  },
+  {
+    "left_window_id": 97,
+    "right_window_id": 98,
+    "left_start": 982.489,
+    "left_end": 992.489,
+    "right_start": 992.489,
+    "right_end": 1002.489,
+    "similarity": 0.6198554635047913
+  },
+  {
+    "left_window_id": 98,
+    "right_window_id": 99,
+    "left_start": 992.489,
+    "left_end": 1002.489,
+    "right_start": 1002.489,
+    "right_end": 1012.489,
+    "similarity": 0.7713176608085632
+  },
+  {
+    "left_window_id": 99,
+    "right_window_id": 100,
+    "left_start": 1002.489,
+    "left_end": 1012.489,
+    "right_start": 1012.489,
+    "right_end": 1022.489,
+    "similarity": 0.7249605655670166
+  },
+  {
+    "left_window_id": 100,
+    "right_window_id": 101,
+    "left_start": 1012.489,
+    "left_end": 1022.489,
+    "right_start": 1022.489,
+    "right_end": 1032.489,
+    "similarity": 0.671343207359314
+  },
+  {
+    "left_window_id": 101,
+    "right_window_id": 102,
+    "left_start": 1022.489,
+    "left_end": 1032.489,
+    "right_start": 1032.489,
+    "right_end": 1042.489,
+    "similarity": 0.6574491262435913
+  },
+  {
+    "left_window_id": 102,
+    "right_window_id": 103,
+    "left_start": 1032.489,
+    "left_end": 1042.489,
+    "right_start": 1042.489,
+    "right_end": 1052.489,
+    "similarity": 0.7259879112243652
+  },
+  {
+    "left_window_id": 103,
+    "right_window_id": 104,
+    "left_start": 1042.489,
+    "left_end": 1052.489,
+    "right_start": 1052.489,
+    "right_end": 1062.489,
+    "similarity": 0.5541694164276123
+  },
+  {
+    "left_window_id": 104,
+    "right_window_id": 105,
+    "left_start": 1052.489,
+    "left_end": 1062.489,
+    "right_start": 1062.489,
+    "right_end": 1072.489,
+    "similarity": 0.8308953046798706
+  },
+  {
+    "left_window_id": 105,
+    "right_window_id": 106,
+    "left_start": 1062.489,
+    "left_end": 1072.489,
+    "right_start": 1072.489,
+    "right_end": 1082.489,
+    "similarity": 0.7947368621826172
+  },
+  {
+    "left_window_id": 106,
+    "right_window_id": 107,
+    "left_start": 1072.489,
+    "left_end": 1082.489,
+    "right_start": 1082.489,
+    "right_end": 1092.489,
+    "similarity": 0.7354896068572998
+  },
+  {
+    "left_window_id": 107,
+    "right_window_id": 108,
+    "left_start": 1082.489,
+    "left_end": 1092.489,
+    "right_start": 1092.489,
+    "right_end": 1102.489,
+    "similarity": 0.6552157998085022
+  },
+  {
+    "left_window_id": 108,
+    "right_window_id": 109,
+    "left_start": 1092.489,
+    "left_end": 1102.489,
+    "right_start": 1102.489,
+    "right_end": 1112.489,
+    "similarity": 0.7140820622444153
+  },
+  {
+    "left_window_id": 109,
+    "right_window_id": 110,
+    "left_start": 1102.489,
+    "left_end": 1112.489,
+    "right_start": 1112.489,
+    "right_end": 1122.489,
+    "similarity": 0.5409517884254456
+  },
+  {
+    "left_window_id": 110,
+    "right_window_id": 111,
+    "left_start": 1112.489,
+    "left_end": 1122.489,
+    "right_start": 1122.489,
+    "right_end": 1132.489,
+    "similarity": 0.8738930821418762
+  },
+  {
+    "left_window_id": 111,
+    "right_window_id": 112,
+    "left_start": 1122.489,
+    "left_end": 1132.489,
+    "right_start": 1132.489,
+    "right_end": 1142.489,
+    "similarity": 0.6388468742370605
+  },
+  {
+    "left_window_id": 112,
+    "right_window_id": 113,
+    "left_start": 1132.489,
+    "left_end": 1142.489,
+    "right_start": 1142.489,
+    "right_end": 1152.489,
+    "similarity": 0.7875393033027649
+  },
+  {
+    "left_window_id": 113,
+    "right_window_id": 114,
+    "left_start": 1142.489,
+    "left_end": 1152.489,
+    "right_start": 1152.489,
+    "right_end": 1162.489,
+    "similarity": 0.7914263010025024
+  },
+  {
+    "left_window_id": 114,
+    "right_window_id": 115,
+    "left_start": 1152.489,
+    "left_end": 1162.489,
+    "right_start": 1162.489,
+    "right_end": 1172.489,
+    "similarity": 0.5840697884559631
+  },
+  {
+    "left_window_id": 115,
+    "right_window_id": 116,
+    "left_start": 1162.489,
+    "left_end": 1172.489,
+    "right_start": 1172.489,
+    "right_end": 1182.489,
+    "similarity": 0.5537342429161072
+  },
+  {
+    "left_window_id": 116,
+    "right_window_id": 117,
+    "left_start": 1172.489,
+    "left_end": 1182.489,
+    "right_start": 1182.489,
+    "right_end": 1192.489,
+    "similarity": 0.7258443832397461
+  },
+  {
+    "left_window_id": 117,
+    "right_window_id": 118,
+    "left_start": 1182.489,
+    "left_end": 1192.489,
+    "right_start": 1192.489,
+    "right_end": 1202.489,
+    "similarity": 0.6156802177429199
+  },
+  {
+    "left_window_id": 118,
+    "right_window_id": 119,
+    "left_start": 1192.489,
+    "left_end": 1202.489,
+    "right_start": 1202.489,
+    "right_end": 1212.489,
+    "similarity": 0.8124455213546753
+  },
+  {
+    "left_window_id": 119,
+    "right_window_id": 120,
+    "left_start": 1202.489,
+    "left_end": 1212.489,
+    "right_start": 1212.489,
+    "right_end": 1222.489,
+    "similarity": 0.8098641633987427
+  },
+  {
+    "left_window_id": 120,
+    "right_window_id": 121,
+    "left_start": 1212.489,
+    "left_end": 1222.489,
+    "right_start": 1222.489,
+    "right_end": 1232.489,
+    "similarity": 0.7665508389472961
+  },
+  {
+    "left_window_id": 121,
+    "right_window_id": 122,
+    "left_start": 1222.489,
+    "left_end": 1232.489,
+    "right_start": 1232.489,
+    "right_end": 1242.489,
+    "similarity": 0.7112168669700623
+  },
+  {
+    "left_window_id": 122,
+    "right_window_id": 123,
+    "left_start": 1232.489,
+    "left_end": 1242.489,
+    "right_start": 1242.489,
+    "right_end": 1252.489,
+    "similarity": 0.6228733062744141
+  },
+  {
+    "left_window_id": 123,
+    "right_window_id": 124,
+    "left_start": 1242.489,
+    "left_end": 1252.489,
+    "right_start": 1252.489,
+    "right_end": 1262.489,
+    "similarity": 0.6979616284370422
+  },
+  {
+    "left_window_id": 124,
+    "right_window_id": 125,
+    "left_start": 1252.489,
+    "left_end": 1262.489,
+    "right_start": 1262.489,
+    "right_end": 1272.489,
+    "similarity": 0.7662076354026794
+  },
+  {
+    "left_window_id": 125,
+    "right_window_id": 126,
+    "left_start": 1262.489,
+    "left_end": 1272.489,
+    "right_start": 1272.489,
+    "right_end": 1282.489,
+    "similarity": 0.6191110610961914
+  },
+  {
+    "left_window_id": 126,
+    "right_window_id": 127,
+    "left_start": 1272.489,
+    "left_end": 1282.489,
+    "right_start": 1282.489,
+    "right_end": 1292.489,
+    "similarity": 0.6956109404563904
+  },
+  {
+    "left_window_id": 127,
+    "right_window_id": 128,
+    "left_start": 1282.489,
+    "left_end": 1292.489,
+    "right_start": 1292.489,
+    "right_end": 1302.489,
+    "similarity": 0.7309271097183228
+  },
+  {
+    "left_window_id": 128,
+    "right_window_id": 129,
+    "left_start": 1292.489,
+    "left_end": 1302.489,
+    "right_start": 1302.489,
+    "right_end": 1312.489,
+    "similarity": 0.4630706012248993
+  },
+  {
+    "left_window_id": 129,
+    "right_window_id": 130,
+    "left_start": 1302.489,
+    "left_end": 1312.489,
+    "right_start": 1312.489,
+    "right_end": 1322.489,
+    "similarity": 0.6871393918991089
+  },
+  {
+    "left_window_id": 130,
+    "right_window_id": 131,
+    "left_start": 1312.489,
+    "left_end": 1322.489,
+    "right_start": 1322.489,
+    "right_end": 1332.489,
+    "similarity": 0.8172508478164673
+  },
+  {
+    "left_window_id": 131,
+    "right_window_id": 132,
+    "left_start": 1322.489,
+    "left_end": 1332.489,
+    "right_start": 1332.489,
+    "right_end": 1342.489,
+    "similarity": 0.6407454609870911
+  },
+  {
+    "left_window_id": 132,
+    "right_window_id": 133,
+    "left_start": 1332.489,
+    "left_end": 1342.489,
+    "right_start": 1342.489,
+    "right_end": 1352.489,
+    "similarity": 0.6088197231292725
+  },
+  {
+    "left_window_id": 133,
+    "right_window_id": 134,
+    "left_start": 1342.489,
+    "left_end": 1352.489,
+    "right_start": 1352.489,
+    "right_end": 1362.489,
+    "similarity": 0.8204135894775391
+  },
+  {
+    "left_window_id": 134,
+    "right_window_id": 135,
+    "left_start": 1352.489,
+    "left_end": 1362.489,
+    "right_start": 1362.489,
+    "right_end": 1372.489,
+    "similarity": 0.5453948974609375
+  },
+  {
+    "left_window_id": 135,
+    "right_window_id": 136,
+    "left_start": 1362.489,
+    "left_end": 1372.489,
+    "right_start": 1372.489,
+    "right_end": 1382.489,
+    "similarity": 0.6302707195281982
+  },
+  {
+    "left_window_id": 136,
+    "right_window_id": 137,
+    "left_start": 1372.489,
+    "left_end": 1382.489,
+    "right_start": 1382.489,
+    "right_end": 1392.489,
+    "similarity": 0.7508336305618286
+  },
+  {
+    "left_window_id": 137,
+    "right_window_id": 138,
+    "left_start": 1382.489,
+    "left_end": 1392.489,
+    "right_start": 1392.489,
+    "right_end": 1402.489,
+    "similarity": 0.5640466213226318
+  },
+  {
+    "left_window_id": 138,
+    "right_window_id": 139,
+    "left_start": 1392.489,
+    "left_end": 1402.489,
+    "right_start": 1402.489,
+    "right_end": 1412.489,
+    "similarity": 0.5790283679962158
+  },
+  {
+    "left_window_id": 139,
+    "right_window_id": 140,
+    "left_start": 1402.489,
+    "left_end": 1412.489,
+    "right_start": 1412.489,
+    "right_end": 1422.489,
+    "similarity": 0.8044837713241577
+  },
+  {
+    "left_window_id": 140,
+    "right_window_id": 141,
+    "left_start": 1412.489,
+    "left_end": 1422.489,
+    "right_start": 1422.489,
+    "right_end": 1432.489,
+    "similarity": 0.5833475589752197
+  },
+  {
+    "left_window_id": 141,
+    "right_window_id": 142,
+    "left_start": 1422.489,
+    "left_end": 1432.489,
+    "right_start": 1432.489,
+    "right_end": 1442.489,
+    "similarity": 0.7337748408317566
+  },
+  {
+    "left_window_id": 142,
+    "right_window_id": 143,
+    "left_start": 1432.489,
+    "left_end": 1442.489,
+    "right_start": 1442.489,
+    "right_end": 1452.489,
+    "similarity": 0.7120519280433655
+  },
+  {
+    "left_window_id": 143,
+    "right_window_id": 144,
+    "left_start": 1442.489,
+    "left_end": 1452.489,
+    "right_start": 1452.489,
+    "right_end": 1462.489,
+    "similarity": 0.7027359008789062
+  },
+  {
+    "left_window_id": 144,
+    "right_window_id": 145,
+    "left_start": 1452.489,
+    "left_end": 1462.489,
+    "right_start": 1462.489,
+    "right_end": 1472.489,
+    "similarity": 0.7144091129302979
+  },
+  {
+    "left_window_id": 145,
+    "right_window_id": 146,
+    "left_start": 1462.489,
+    "left_end": 1472.489,
+    "right_start": 1472.489,
+    "right_end": 1482.489,
+    "similarity": 0.7716985940933228
+  },
+  {
+    "left_window_id": 146,
+    "right_window_id": 147,
+    "left_start": 1472.489,
+    "left_end": 1482.489,
+    "right_start": 1482.489,
+    "right_end": 1492.489,
+    "similarity": 0.7368646860122681
+  },
+  {
+    "left_window_id": 147,
+    "right_window_id": 148,
+    "left_start": 1482.489,
+    "left_end": 1492.489,
+    "right_start": 1492.489,
+    "right_end": 1502.489,
+    "similarity": 0.6037511825561523
+  },
+  {
+    "left_window_id": 148,
+    "right_window_id": 149,
+    "left_start": 1492.489,
+    "left_end": 1502.489,
+    "right_start": 1502.489,
+    "right_end": 1512.489,
+    "similarity": 0.6792280673980713
+  },
+  {
+    "left_window_id": 149,
+    "right_window_id": 150,
+    "left_start": 1502.489,
+    "left_end": 1512.489,
+    "right_start": 1512.489,
+    "right_end": 1522.489,
+    "similarity": 0.7822169661521912
+  },
+  {
+    "left_window_id": 150,
+    "right_window_id": 151,
+    "left_start": 1512.489,
+    "left_end": 1522.489,
+    "right_start": 1522.489,
+    "right_end": 1532.489,
+    "similarity": 0.6974955201148987
+  },
+  {
+    "left_window_id": 151,
+    "right_window_id": 152,
+    "left_start": 1522.489,
+    "left_end": 1532.489,
+    "right_start": 1532.489,
+    "right_end": 1542.489,
+    "similarity": 0.6182157397270203
+  },
+  {
+    "left_window_id": 152,
+    "right_window_id": 153,
+    "left_start": 1532.489,
+    "left_end": 1542.489,
+    "right_start": 1542.489,
+    "right_end": 1552.489,
+    "similarity": 0.6868500709533691
+  },
+  {
+    "left_window_id": 153,
+    "right_window_id": 154,
+    "left_start": 1542.489,
+    "left_end": 1552.489,
+    "right_start": 1552.489,
+    "right_end": 1562.489,
+    "similarity": 0.7715314626693726
+  },
+  {
+    "left_window_id": 154,
+    "right_window_id": 155,
+    "left_start": 1552.489,
+    "left_end": 1562.489,
+    "right_start": 1562.489,
+    "right_end": 1572.489,
+    "similarity": 0.7273154258728027
+  },
+  {
+    "left_window_id": 155,
+    "right_window_id": 156,
+    "left_start": 1562.489,
+    "left_end": 1572.489,
+    "right_start": 1572.489,
+    "right_end": 1582.489,
+    "similarity": 0.7375112771987915
+  },
+  {
+    "left_window_id": 156,
+    "right_window_id": 157,
+    "left_start": 1572.489,
+    "left_end": 1582.489,
+    "right_start": 1582.489,
+    "right_end": 1592.489,
+    "similarity": 0.6929121017456055
+  },
+  {
+    "left_window_id": 157,
+    "right_window_id": 158,
+    "left_start": 1582.489,
+    "left_end": 1592.489,
+    "right_start": 1592.489,
+    "right_end": 1602.489,
+    "similarity": 0.571620523929596
+  },
+  {
+    "left_window_id": 158,
+    "right_window_id": 159,
+    "left_start": 1592.489,
+    "left_end": 1602.489,
+    "right_start": 1602.489,
+    "right_end": 1612.489,
+    "similarity": 0.626249372959137
+  },
+  {
+    "left_window_id": 159,
+    "right_window_id": 160,
+    "left_start": 1602.489,
+    "left_end": 1612.489,
+    "right_start": 1612.489,
+    "right_end": 1622.489,
+    "similarity": 0.7672772407531738
+  },
+  {
+    "left_window_id": 160,
+    "right_window_id": 161,
+    "left_start": 1612.489,
+    "left_end": 1622.489,
+    "right_start": 1622.489,
+    "right_end": 1632.489,
+    "similarity": 0.4977247714996338
+  },
+  {
+    "left_window_id": 161,
+    "right_window_id": 162,
+    "left_start": 1622.489,
+    "left_end": 1632.489,
+    "right_start": 1632.489,
+    "right_end": 1642.489,
+    "similarity": 0.5736724734306335
+  },
+  {
+    "left_window_id": 162,
+    "right_window_id": 163,
+    "left_start": 1632.489,
+    "left_end": 1642.489,
+    "right_start": 1642.489,
+    "right_end": 1652.489,
+    "similarity": 0.7409775853157043
+  },
+  {
+    "left_window_id": 163,
+    "right_window_id": 164,
+    "left_start": 1642.489,
+    "left_end": 1652.489,
+    "right_start": 1652.489,
+    "right_end": 1662.489,
+    "similarity": 0.6038941144943237
+  },
+  {
+    "left_window_id": 164,
+    "right_window_id": 165,
+    "left_start": 1652.489,
+    "left_end": 1662.489,
+    "right_start": 1662.489,
+    "right_end": 1672.489,
+    "similarity": 0.5890142321586609
+  },
+  {
+    "left_window_id": 165,
+    "right_window_id": 166,
+    "left_start": 1662.489,
+    "left_end": 1672.489,
+    "right_start": 1672.489,
+    "right_end": 1682.489,
+    "similarity": 0.5673907995223999
+  },
+  {
+    "left_window_id": 166,
+    "right_window_id": 167,
+    "left_start": 1672.489,
+    "left_end": 1682.489,
+    "right_start": 1682.489,
+    "right_end": 1692.489,
+    "similarity": 0.7466373443603516
+  },
+  {
+    "left_window_id": 167,
+    "right_window_id": 168,
+    "left_start": 1682.489,
+    "left_end": 1692.489,
+    "right_start": 1702.489,
+    "right_end": 1712.489,
+    "similarity": 0.6816954612731934
+  },
+  {
+    "left_window_id": 168,
+    "right_window_id": 169,
+    "left_start": 1702.489,
+    "left_end": 1712.489,
+    "right_start": 1712.489,
+    "right_end": 1722.489,
+    "similarity": 0.6863949298858643
+  },
+  {
+    "left_window_id": 169,
+    "right_window_id": 170,
+    "left_start": 1712.489,
+    "left_end": 1722.489,
+    "right_start": 1722.489,
+    "right_end": 1732.489,
+    "similarity": 0.910984218120575
+  },
+  {
+    "left_window_id": 170,
+    "right_window_id": 171,
+    "left_start": 1722.489,
+    "left_end": 1732.489,
+    "right_start": 1732.489,
+    "right_end": 1742.489,
+    "similarity": 0.8845878839492798
+  },
+  {
+    "left_window_id": 171,
+    "right_window_id": 172,
+    "left_start": 1732.489,
+    "left_end": 1742.489,
+    "right_start": 1742.489,
+    "right_end": 1752.489,
+    "similarity": 0.7398824095726013
+  },
+  {
+    "left_window_id": 172,
+    "right_window_id": 173,
+    "left_start": 1742.489,
+    "left_end": 1752.489,
+    "right_start": 1752.489,
+    "right_end": 1762.489,
+    "similarity": 0.7047374248504639
+  },
+  {
+    "left_window_id": 173,
+    "right_window_id": 174,
+    "left_start": 1752.489,
+    "left_end": 1762.489,
+    "right_start": 1762.489,
+    "right_end": 1772.489,
+    "similarity": 0.5678316950798035
+  },
+  {
+    "left_window_id": 174,
+    "right_window_id": 175,
+    "left_start": 1762.489,
+    "left_end": 1772.489,
+    "right_start": 1772.489,
+    "right_end": 1782.489,
+    "similarity": 0.7303934693336487
+  },
+  {
+    "left_window_id": 175,
+    "right_window_id": 176,
+    "left_start": 1772.489,
+    "left_end": 1782.489,
+    "right_start": 1782.489,
+    "right_end": 1792.489,
+    "similarity": 0.6542313694953918
+  },
+  {
+    "left_window_id": 176,
+    "right_window_id": 177,
+    "left_start": 1782.489,
+    "left_end": 1792.489,
+    "right_start": 1792.489,
+    "right_end": 1802.489,
+    "similarity": 0.4677574634552002
+  },
+  {
+    "left_window_id": 177,
+    "right_window_id": 178,
+    "left_start": 1792.489,
+    "left_end": 1802.489,
+    "right_start": 1802.489,
+    "right_end": 1812.489,
+    "similarity": 0.49298095703125
+  },
+  {
+    "left_window_id": 178,
+    "right_window_id": 179,
+    "left_start": 1802.489,
+    "left_end": 1812.489,
+    "right_start": 1812.489,
+    "right_end": 1822.489,
+    "similarity": 0.7066595554351807
+  },
+  {
+    "left_window_id": 179,
+    "right_window_id": 180,
+    "left_start": 1812.489,
+    "left_end": 1822.489,
+    "right_start": 1822.489,
+    "right_end": 1832.489,
+    "similarity": 0.7842119932174683
+  },
+  {
+    "left_window_id": 180,
+    "right_window_id": 181,
+    "left_start": 1822.489,
+    "left_end": 1832.489,
+    "right_start": 1832.489,
+    "right_end": 1842.489,
+    "similarity": 0.5987583994865417
+  },
+  {
+    "left_window_id": 181,
+    "right_window_id": 182,
+    "left_start": 1832.489,
+    "left_end": 1842.489,
+    "right_start": 1842.489,
+    "right_end": 1852.489,
+    "similarity": 0.4749588668346405
+  },
+  {
+    "left_window_id": 182,
+    "right_window_id": 183,
+    "left_start": 1842.489,
+    "left_end": 1852.489,
+    "right_start": 1852.489,
+    "right_end": 1862.489,
+    "similarity": 0.6223502159118652
+  },
+  {
+    "left_window_id": 183,
+    "right_window_id": 184,
+    "left_start": 1852.489,
+    "left_end": 1862.489,
+    "right_start": 1862.489,
+    "right_end": 1872.489,
+    "similarity": 0.7875325679779053
+  },
+  {
+    "left_window_id": 184,
+    "right_window_id": 185,
+    "left_start": 1862.489,
+    "left_end": 1872.489,
+    "right_start": 1872.489,
+    "right_end": 1882.489,
+    "similarity": 0.6235314011573792
+  },
+  {
+    "left_window_id": 185,
+    "right_window_id": 186,
+    "left_start": 1872.489,
+    "left_end": 1882.489,
+    "right_start": 1882.489,
+    "right_end": 1892.489,
+    "similarity": 0.6305850148200989
+  },
+  {
+    "left_window_id": 186,
+    "right_window_id": 187,
+    "left_start": 1882.489,
+    "left_end": 1892.489,
+    "right_start": 1892.489,
+    "right_end": 1902.489,
+    "similarity": 0.7911599278450012
+  },
+  {
+    "left_window_id": 187,
+    "right_window_id": 188,
+    "left_start": 1892.489,
+    "left_end": 1902.489,
+    "right_start": 1902.489,
+    "right_end": 1912.489,
+    "similarity": 0.7678146362304688
+  },
+  {
+    "left_window_id": 188,
+    "right_window_id": 189,
+    "left_start": 1902.489,
+    "left_end": 1912.489,
+    "right_start": 1912.489,
+    "right_end": 1922.489,
+    "similarity": 0.7727307081222534
+  },
+  {
+    "left_window_id": 189,
+    "right_window_id": 190,
+    "left_start": 1912.489,
+    "left_end": 1922.489,
+    "right_start": 1922.489,
+    "right_end": 1932.489,
+    "similarity": 0.7885037660598755
+  },
+  {
+    "left_window_id": 190,
+    "right_window_id": 191,
+    "left_start": 1922.489,
+    "left_end": 1932.489,
+    "right_start": 1932.489,
+    "right_end": 1942.489,
+    "similarity": 0.7409688830375671
+  },
+  {
+    "left_window_id": 191,
+    "right_window_id": 192,
+    "left_start": 1932.489,
+    "left_end": 1942.489,
+    "right_start": 1942.489,
+    "right_end": 1952.489,
+    "similarity": 0.6969460248947144
+  },
+  {
+    "left_window_id": 192,
+    "right_window_id": 193,
+    "left_start": 1942.489,
+    "left_end": 1952.489,
+    "right_start": 1952.489,
+    "right_end": 1962.489,
+    "similarity": 0.713712215423584
+  },
+  {
+    "left_window_id": 193,
+    "right_window_id": 194,
+    "left_start": 1952.489,
+    "left_end": 1962.489,
+    "right_start": 1962.489,
+    "right_end": 1972.489,
+    "similarity": 0.5478698015213013
+  },
+  {
+    "left_window_id": 194,
+    "right_window_id": 195,
+    "left_start": 1962.489,
+    "left_end": 1972.489,
+    "right_start": 1972.489,
+    "right_end": 1982.489,
+    "similarity": 0.7930731177330017
+  },
+  {
+    "left_window_id": 195,
+    "right_window_id": 196,
+    "left_start": 1972.489,
+    "left_end": 1982.489,
+    "right_start": 1982.489,
+    "right_end": 1992.489,
+    "similarity": 0.5891957879066467
+  },
+  {
+    "left_window_id": 196,
+    "right_window_id": 197,
+    "left_start": 1982.489,
+    "left_end": 1992.489,
+    "right_start": 1992.489,
+    "right_end": 2002.489,
+    "similarity": 0.8871214389801025
+  },
+  {
+    "left_window_id": 197,
+    "right_window_id": 198,
+    "left_start": 1992.489,
+    "left_end": 2002.489,
+    "right_start": 2002.489,
+    "right_end": 2012.489,
+    "similarity": 0.6175059080123901
+  },
+  {
+    "left_window_id": 198,
+    "right_window_id": 199,
+    "left_start": 2002.489,
+    "left_end": 2012.489,
+    "right_start": 2012.489,
+    "right_end": 2022.489,
+    "similarity": 0.6558513641357422
+  },
+  {
+    "left_window_id": 199,
+    "right_window_id": 200,
+    "left_start": 2012.489,
+    "left_end": 2022.489,
+    "right_start": 2022.489,
+    "right_end": 2032.489,
+    "similarity": 0.7333709001541138
+  },
+  {
+    "left_window_id": 200,
+    "right_window_id": 201,
+    "left_start": 2022.489,
+    "left_end": 2032.489,
+    "right_start": 2032.489,
+    "right_end": 2042.489,
+    "similarity": 0.597225546836853
+  },
+  {
+    "left_window_id": 201,
+    "right_window_id": 202,
+    "left_start": 2032.489,
+    "left_end": 2042.489,
+    "right_start": 2042.489,
+    "right_end": 2052.489,
+    "similarity": 0.7938537001609802
+  },
+  {
+    "left_window_id": 202,
+    "right_window_id": 203,
+    "left_start": 2042.489,
+    "left_end": 2052.489,
+    "right_start": 2052.489,
+    "right_end": 2062.489,
+    "similarity": 0.5503395795822144
+  },
+  {
+    "left_window_id": 203,
+    "right_window_id": 204,
+    "left_start": 2052.489,
+    "left_end": 2062.489,
+    "right_start": 2062.489,
+    "right_end": 2072.489,
+    "similarity": 0.5548561811447144
+  },
+  {
+    "left_window_id": 204,
+    "right_window_id": 205,
+    "left_start": 2062.489,
+    "left_end": 2072.489,
+    "right_start": 2072.489,
+    "right_end": 2082.489,
+    "similarity": 0.6803844571113586
+  },
+  {
+    "left_window_id": 205,
+    "right_window_id": 206,
+    "left_start": 2072.489,
+    "left_end": 2082.489,
+    "right_start": 2082.489,
+    "right_end": 2092.489,
+    "similarity": 0.6795019507408142
+  },
+  {
+    "left_window_id": 206,
+    "right_window_id": 207,
+    "left_start": 2082.489,
+    "left_end": 2092.489,
+    "right_start": 2092.489,
+    "right_end": 2102.489,
+    "similarity": 0.6716182827949524
+  },
+  {
+    "left_window_id": 207,
+    "right_window_id": 208,
+    "left_start": 2092.489,
+    "left_end": 2102.489,
+    "right_start": 2102.489,
+    "right_end": 2112.489,
+    "similarity": 0.5959303975105286
+  },
+  {
+    "left_window_id": 208,
+    "right_window_id": 209,
+    "left_start": 2102.489,
+    "left_end": 2112.489,
+    "right_start": 2112.489,
+    "right_end": 2122.489,
+    "similarity": 0.698718249797821
+  },
+  {
+    "left_window_id": 209,
+    "right_window_id": 210,
+    "left_start": 2112.489,
+    "left_end": 2122.489,
+    "right_start": 2122.489,
+    "right_end": 2132.489,
+    "similarity": 0.5529981255531311
+  },
+  {
+    "left_window_id": 210,
+    "right_window_id": 211,
+    "left_start": 2122.489,
+    "left_end": 2132.489,
+    "right_start": 2132.489,
+    "right_end": 2142.489,
+    "similarity": 0.7291136980056763
+  },
+  {
+    "left_window_id": 211,
+    "right_window_id": 212,
+    "left_start": 2132.489,
+    "left_end": 2142.489,
+    "right_start": 2142.489,
+    "right_end": 2152.489,
+    "similarity": 0.6708847880363464
+  },
+  {
+    "left_window_id": 212,
+    "right_window_id": 213,
+    "left_start": 2142.489,
+    "left_end": 2152.489,
+    "right_start": 2152.489,
+    "right_end": 2162.489,
+    "similarity": 0.6967906355857849
+  },
+  {
+    "left_window_id": 213,
+    "right_window_id": 214,
+    "left_start": 2152.489,
+    "left_end": 2162.489,
+    "right_start": 2162.489,
+    "right_end": 2172.489,
+    "similarity": 0.6587594747543335
+  },
+  {
+    "left_window_id": 214,
+    "right_window_id": 215,
+    "left_start": 2162.489,
+    "left_end": 2172.489,
+    "right_start": 2172.489,
+    "right_end": 2182.489,
+    "similarity": 0.6689882874488831
+  },
+  {
+    "left_window_id": 215,
+    "right_window_id": 216,
+    "left_start": 2172.489,
+    "left_end": 2182.489,
+    "right_start": 2182.489,
+    "right_end": 2192.489,
+    "similarity": 0.6682589650154114
+  },
+  {
+    "left_window_id": 216,
+    "right_window_id": 217,
+    "left_start": 2182.489,
+    "left_end": 2192.489,
+    "right_start": 2192.489,
+    "right_end": 2202.489,
+    "similarity": 0.5868695974349976
+  },
+  {
+    "left_window_id": 217,
+    "right_window_id": 218,
+    "left_start": 2192.489,
+    "left_end": 2202.489,
+    "right_start": 2202.489,
+    "right_end": 2212.489,
+    "similarity": 0.6996525526046753
+  },
+  {
+    "left_window_id": 218,
+    "right_window_id": 219,
+    "left_start": 2202.489,
+    "left_end": 2212.489,
+    "right_start": 2212.489,
+    "right_end": 2222.489,
+    "similarity": 0.7508307099342346
+  },
+  {
+    "left_window_id": 219,
+    "right_window_id": 220,
+    "left_start": 2212.489,
+    "left_end": 2222.489,
+    "right_start": 2222.489,
+    "right_end": 2232.489,
+    "similarity": 0.6902832388877869
+  },
+  {
+    "left_window_id": 220,
+    "right_window_id": 221,
+    "left_start": 2222.489,
+    "left_end": 2232.489,
+    "right_start": 2232.489,
+    "right_end": 2242.489,
+    "similarity": 0.8640567064285278
+  },
+  {
+    "left_window_id": 221,
+    "right_window_id": 222,
+    "left_start": 2232.489,
+    "left_end": 2242.489,
+    "right_start": 2242.489,
+    "right_end": 2252.489,
+    "similarity": 0.701720118522644
+  },
+  {
+    "left_window_id": 222,
+    "right_window_id": 223,
+    "left_start": 2242.489,
+    "left_end": 2252.489,
+    "right_start": 2252.489,
+    "right_end": 2262.489,
+    "similarity": 0.6896682977676392
+  },
+  {
+    "left_window_id": 223,
+    "right_window_id": 224,
+    "left_start": 2252.489,
+    "left_end": 2262.489,
+    "right_start": 2262.489,
+    "right_end": 2272.489,
+    "similarity": 0.7814843654632568
+  },
+  {
+    "left_window_id": 224,
+    "right_window_id": 225,
+    "left_start": 2262.489,
+    "left_end": 2272.489,
+    "right_start": 2272.489,
+    "right_end": 2282.489,
+    "similarity": 0.7166769504547119
+  },
+  {
+    "left_window_id": 225,
+    "right_window_id": 226,
+    "left_start": 2272.489,
+    "left_end": 2282.489,
+    "right_start": 2282.489,
+    "right_end": 2292.489,
+    "similarity": 0.6486436724662781
+  },
+  {
+    "left_window_id": 226,
+    "right_window_id": 227,
+    "left_start": 2282.489,
+    "left_end": 2292.489,
+    "right_start": 2292.489,
+    "right_end": 2302.489,
+    "similarity": 0.7316585183143616
+  },
+  {
+    "left_window_id": 227,
+    "right_window_id": 228,
+    "left_start": 2292.489,
+    "left_end": 2302.489,
+    "right_start": 2302.489,
+    "right_end": 2312.489,
+    "similarity": 0.7607783079147339
+  },
+  {
+    "left_window_id": 228,
+    "right_window_id": 229,
+    "left_start": 2302.489,
+    "left_end": 2312.489,
+    "right_start": 2312.489,
+    "right_end": 2322.489,
+    "similarity": 0.46897467970848083
+  },
+  {
+    "left_window_id": 229,
+    "right_window_id": 230,
+    "left_start": 2312.489,
+    "left_end": 2322.489,
+    "right_start": 2322.489,
+    "right_end": 2332.489,
+    "similarity": 0.6333637833595276
+  },
+  {
+    "left_window_id": 230,
+    "right_window_id": 231,
+    "left_start": 2322.489,
+    "left_end": 2332.489,
+    "right_start": 2332.489,
+    "right_end": 2342.489,
+    "similarity": 0.6806098818778992
+  },
+  {
+    "left_window_id": 231,
+    "right_window_id": 232,
+    "left_start": 2332.489,
+    "left_end": 2342.489,
+    "right_start": 2342.489,
+    "right_end": 2352.489,
+    "similarity": 0.817151665687561
+  },
+  {
+    "left_window_id": 232,
+    "right_window_id": 233,
+    "left_start": 2342.489,
+    "left_end": 2352.489,
+    "right_start": 2352.489,
+    "right_end": 2362.489,
+    "similarity": 0.8032420873641968
+  },
+  {
+    "left_window_id": 233,
+    "right_window_id": 234,
+    "left_start": 2352.489,
+    "left_end": 2362.489,
+    "right_start": 2362.489,
+    "right_end": 2372.489,
+    "similarity": 0.6774352192878723
+  },
+  {
+    "left_window_id": 234,
+    "right_window_id": 235,
+    "left_start": 2362.489,
+    "left_end": 2372.489,
+    "right_start": 2372.489,
+    "right_end": 2382.489,
+    "similarity": 0.7235946655273438
+  },
+  {
+    "left_window_id": 235,
+    "right_window_id": 236,
+    "left_start": 2372.489,
+    "left_end": 2382.489,
+    "right_start": 2382.489,
+    "right_end": 2392.489,
+    "similarity": 0.7544740438461304
+  },
+  {
+    "left_window_id": 236,
+    "right_window_id": 237,
+    "left_start": 2382.489,
+    "left_end": 2392.489,
+    "right_start": 2392.489,
+    "right_end": 2402.489,
+    "similarity": 0.8544415831565857
+  },
+  {
+    "left_window_id": 237,
+    "right_window_id": 238,
+    "left_start": 2392.489,
+    "left_end": 2402.489,
+    "right_start": 2402.489,
+    "right_end": 2412.489,
+    "similarity": 0.4665481746196747
+  },
+  {
+    "left_window_id": 238,
+    "right_window_id": 239,
+    "left_start": 2402.489,
+    "left_end": 2412.489,
+    "right_start": 2412.489,
+    "right_end": 2422.489,
+    "similarity": 0.5862467288970947
+  },
+  {
+    "left_window_id": 239,
+    "right_window_id": 240,
+    "left_start": 2412.489,
+    "left_end": 2422.489,
+    "right_start": 2422.489,
+    "right_end": 2432.489,
+    "similarity": 0.6418110728263855
+  },
+  {
+    "left_window_id": 240,
+    "right_window_id": 241,
+    "left_start": 2422.489,
+    "left_end": 2432.489,
+    "right_start": 2432.489,
+    "right_end": 2442.489,
+    "similarity": 0.7084956169128418
+  },
+  {
+    "left_window_id": 241,
+    "right_window_id": 242,
+    "left_start": 2432.489,
+    "left_end": 2442.489,
+    "right_start": 2442.489,
+    "right_end": 2452.489,
+    "similarity": 0.7023948431015015
+  },
+  {
+    "left_window_id": 242,
+    "right_window_id": 243,
+    "left_start": 2442.489,
+    "left_end": 2452.489,
+    "right_start": 2452.489,
+    "right_end": 2462.489,
+    "similarity": 0.642833948135376
+  },
+  {
+    "left_window_id": 243,
+    "right_window_id": 244,
+    "left_start": 2452.489,
+    "left_end": 2462.489,
+    "right_start": 2462.489,
+    "right_end": 2472.489,
+    "similarity": 0.6652780175209045
+  },
+  {
+    "left_window_id": 244,
+    "right_window_id": 245,
+    "left_start": 2462.489,
+    "left_end": 2472.489,
+    "right_start": 2472.489,
+    "right_end": 2482.489,
+    "similarity": 0.893278181552887
+  },
+  {
+    "left_window_id": 245,
+    "right_window_id": 246,
+    "left_start": 2472.489,
+    "left_end": 2482.489,
+    "right_start": 2482.489,
+    "right_end": 2492.489,
+    "similarity": 0.7589331865310669
+  },
+  {
+    "left_window_id": 246,
+    "right_window_id": 247,
+    "left_start": 2482.489,
+    "left_end": 2492.489,
+    "right_start": 2492.489,
+    "right_end": 2502.489,
+    "similarity": 0.737521231174469
+  },
+  {
+    "left_window_id": 247,
+    "right_window_id": 248,
+    "left_start": 2492.489,
+    "left_end": 2502.489,
+    "right_start": 2502.489,
+    "right_end": 2512.489,
+    "similarity": 0.786901593208313
+  },
+  {
+    "left_window_id": 248,
+    "right_window_id": 249,
+    "left_start": 2502.489,
+    "left_end": 2512.489,
+    "right_start": 2512.489,
+    "right_end": 2522.489,
+    "similarity": 0.6541054844856262
+  },
+  {
+    "left_window_id": 249,
+    "right_window_id": 250,
+    "left_start": 2512.489,
+    "left_end": 2522.489,
+    "right_start": 2522.489,
+    "right_end": 2532.489,
+    "similarity": 0.7355343699455261
+  },
+  {
+    "left_window_id": 250,
+    "right_window_id": 251,
+    "left_start": 2522.489,
+    "left_end": 2532.489,
+    "right_start": 2532.489,
+    "right_end": 2542.489,
+    "similarity": 0.805542528629303
+  },
+  {
+    "left_window_id": 251,
+    "right_window_id": 252,
+    "left_start": 2532.489,
+    "left_end": 2542.489,
+    "right_start": 2542.489,
+    "right_end": 2552.489,
+    "similarity": 0.7362078428268433
+  },
+  {
+    "left_window_id": 252,
+    "right_window_id": 253,
+    "left_start": 2542.489,
+    "left_end": 2552.489,
+    "right_start": 2552.489,
+    "right_end": 2562.489,
+    "similarity": 0.49851033091545105
+  },
+  {
+    "left_window_id": 253,
+    "right_window_id": 254,
+    "left_start": 2552.489,
+    "left_end": 2562.489,
+    "right_start": 2562.489,
+    "right_end": 2572.489,
+    "similarity": 0.5810480713844299
+  },
+  {
+    "left_window_id": 254,
+    "right_window_id": 255,
+    "left_start": 2562.489,
+    "left_end": 2572.489,
+    "right_start": 2572.489,
+    "right_end": 2582.489,
+    "similarity": 0.7485855221748352
+  },
+  {
+    "left_window_id": 255,
+    "right_window_id": 256,
+    "left_start": 2572.489,
+    "left_end": 2582.489,
+    "right_start": 2582.489,
+    "right_end": 2592.489,
+    "similarity": 0.5733848810195923
+  },
+  {
+    "left_window_id": 256,
+    "right_window_id": 257,
+    "left_start": 2582.489,
+    "left_end": 2592.489,
+    "right_start": 2592.489,
+    "right_end": 2602.489,
+    "similarity": 0.7242878675460815
+  },
+  {
+    "left_window_id": 257,
+    "right_window_id": 258,
+    "left_start": 2592.489,
+    "left_end": 2602.489,
+    "right_start": 2602.489,
+    "right_end": 2612.489,
+    "similarity": 0.6470085978507996
+  },
+  {
+    "left_window_id": 258,
+    "right_window_id": 259,
+    "left_start": 2602.489,
+    "left_end": 2612.489,
+    "right_start": 2612.489,
+    "right_end": 2622.489,
+    "similarity": 0.7254501581192017
+  },
+  {
+    "left_window_id": 259,
+    "right_window_id": 260,
+    "left_start": 2612.489,
+    "left_end": 2622.489,
+    "right_start": 2622.489,
+    "right_end": 2632.489,
+    "similarity": 0.6933397650718689
+  },
+  {
+    "left_window_id": 260,
+    "right_window_id": 261,
+    "left_start": 2622.489,
+    "left_end": 2632.489,
+    "right_start": 2632.489,
+    "right_end": 2642.489,
+    "similarity": 0.6849398612976074
+  },
+  {
+    "left_window_id": 261,
+    "right_window_id": 262,
+    "left_start": 2632.489,
+    "left_end": 2642.489,
+    "right_start": 2642.489,
+    "right_end": 2652.489,
+    "similarity": 0.5896568298339844
+  },
+  {
+    "left_window_id": 262,
+    "right_window_id": 263,
+    "left_start": 2642.489,
+    "left_end": 2652.489,
+    "right_start": 2652.489,
+    "right_end": 2662.489,
+    "similarity": 0.583706259727478
+  },
+  {
+    "left_window_id": 263,
+    "right_window_id": 264,
+    "left_start": 2652.489,
+    "left_end": 2662.489,
+    "right_start": 2662.489,
+    "right_end": 2672.489,
+    "similarity": 0.7285482287406921
+  },
+  {
+    "left_window_id": 264,
+    "right_window_id": 265,
+    "left_start": 2662.489,
+    "left_end": 2672.489,
+    "right_start": 2672.489,
+    "right_end": 2682.489,
+    "similarity": 0.7208712697029114
+  },
+  {
+    "left_window_id": 265,
+    "right_window_id": 266,
+    "left_start": 2672.489,
+    "left_end": 2682.489,
+    "right_start": 2682.489,
+    "right_end": 2692.489,
+    "similarity": 0.731435239315033
+  },
+  {
+    "left_window_id": 266,
+    "right_window_id": 267,
+    "left_start": 2682.489,
+    "left_end": 2692.489,
+    "right_start": 2692.489,
+    "right_end": 2702.489,
+    "similarity": 0.8264918327331543
+  },
+  {
+    "left_window_id": 267,
+    "right_window_id": 268,
+    "left_start": 2692.489,
+    "left_end": 2702.489,
+    "right_start": 2702.489,
+    "right_end": 2712.489,
+    "similarity": 0.746722936630249
+  },
+  {
+    "left_window_id": 268,
+    "right_window_id": 269,
+    "left_start": 2702.489,
+    "left_end": 2712.489,
+    "right_start": 2712.489,
+    "right_end": 2722.489,
+    "similarity": 0.7554209232330322
+  },
+  {
+    "left_window_id": 269,
+    "right_window_id": 270,
+    "left_start": 2712.489,
+    "left_end": 2722.489,
+    "right_start": 2722.489,
+    "right_end": 2732.489,
+    "similarity": 0.663576066493988
+  },
+  {
+    "left_window_id": 270,
+    "right_window_id": 271,
+    "left_start": 2722.489,
+    "left_end": 2732.489,
+    "right_start": 2732.489,
+    "right_end": 2742.489,
+    "similarity": 0.863888680934906
+  },
+  {
+    "left_window_id": 271,
+    "right_window_id": 272,
+    "left_start": 2732.489,
+    "left_end": 2742.489,
+    "right_start": 2742.489,
+    "right_end": 2752.489,
+    "similarity": 0.6778501868247986
+  },
+  {
+    "left_window_id": 272,
+    "right_window_id": 273,
+    "left_start": 2742.489,
+    "left_end": 2752.489,
+    "right_start": 2752.489,
+    "right_end": 2762.489,
+    "similarity": 0.7977798581123352
+  },
+  {
+    "left_window_id": 273,
+    "right_window_id": 274,
+    "left_start": 2752.489,
+    "left_end": 2762.489,
+    "right_start": 2762.489,
+    "right_end": 2772.489,
+    "similarity": 0.7672251462936401
+  },
+  {
+    "left_window_id": 274,
+    "right_window_id": 275,
+    "left_start": 2762.489,
+    "left_end": 2772.489,
+    "right_start": 2772.489,
+    "right_end": 2782.489,
+    "similarity": 0.7957909107208252
+  },
+  {
+    "left_window_id": 275,
+    "right_window_id": 276,
+    "left_start": 2772.489,
+    "left_end": 2782.489,
+    "right_start": 2782.489,
+    "right_end": 2792.489,
+    "similarity": 0.6701052188873291
+  },
+  {
+    "left_window_id": 276,
+    "right_window_id": 277,
+    "left_start": 2782.489,
+    "left_end": 2792.489,
+    "right_start": 2792.489,
+    "right_end": 2802.489,
+    "similarity": 0.7677378058433533
+  },
+  {
+    "left_window_id": 277,
+    "right_window_id": 278,
+    "left_start": 2792.489,
+    "left_end": 2802.489,
+    "right_start": 2802.489,
+    "right_end": 2812.489,
+    "similarity": 0.7506641745567322
+  },
+  {
+    "left_window_id": 278,
+    "right_window_id": 279,
+    "left_start": 2802.489,
+    "left_end": 2812.489,
+    "right_start": 2812.489,
+    "right_end": 2822.489,
+    "similarity": 0.44577041268348694
+  },
+  {
+    "left_window_id": 279,
+    "right_window_id": 280,
+    "left_start": 2812.489,
+    "left_end": 2822.489,
+    "right_start": 2822.489,
+    "right_end": 2832.489,
+    "similarity": 0.7921223640441895
+  },
+  {
+    "left_window_id": 280,
+    "right_window_id": 281,
+    "left_start": 2822.489,
+    "left_end": 2832.489,
+    "right_start": 2832.489,
+    "right_end": 2842.489,
+    "similarity": 0.5036347508430481
+  },
+  {
+    "left_window_id": 281,
+    "right_window_id": 282,
+    "left_start": 2832.489,
+    "left_end": 2842.489,
+    "right_start": 2842.489,
+    "right_end": 2852.489,
+    "similarity": 0.7991039156913757
+  },
+  {
+    "left_window_id": 282,
+    "right_window_id": 283,
+    "left_start": 2842.489,
+    "left_end": 2852.489,
+    "right_start": 2852.489,
+    "right_end": 2862.489,
+    "similarity": 0.6385930180549622
+  },
+  {
+    "left_window_id": 283,
+    "right_window_id": 284,
+    "left_start": 2852.489,
+    "left_end": 2862.489,
+    "right_start": 2862.489,
+    "right_end": 2872.489,
+    "similarity": 0.8044775724411011
+  },
+  {
+    "left_window_id": 284,
+    "right_window_id": 285,
+    "left_start": 2862.489,
+    "left_end": 2872.489,
+    "right_start": 2872.489,
+    "right_end": 2882.489,
+    "similarity": 0.6237951517105103
+  },
+  {
+    "left_window_id": 285,
+    "right_window_id": 286,
+    "left_start": 2872.489,
+    "left_end": 2882.489,
+    "right_start": 2882.489,
+    "right_end": 2892.489,
+    "similarity": 0.7368510961532593
+  },
+  {
+    "left_window_id": 286,
+    "right_window_id": 287,
+    "left_start": 2882.489,
+    "left_end": 2892.489,
+    "right_start": 2892.489,
+    "right_end": 2902.489,
+    "similarity": 0.625611424446106
+  },
+  {
+    "left_window_id": 287,
+    "right_window_id": 288,
+    "left_start": 2892.489,
+    "left_end": 2902.489,
+    "right_start": 2902.489,
+    "right_end": 2912.489,
+    "similarity": 0.6834534406661987
+  },
+  {
+    "left_window_id": 288,
+    "right_window_id": 289,
+    "left_start": 2902.489,
+    "left_end": 2912.489,
+    "right_start": 2912.489,
+    "right_end": 2922.489,
+    "similarity": 0.6347275376319885
+  },
+  {
+    "left_window_id": 289,
+    "right_window_id": 290,
+    "left_start": 2912.489,
+    "left_end": 2922.489,
+    "right_start": 2922.489,
+    "right_end": 2932.489,
+    "similarity": 0.7530437707901001
+  },
+  {
+    "left_window_id": 290,
+    "right_window_id": 291,
+    "left_start": 2922.489,
+    "left_end": 2932.489,
+    "right_start": 2932.489,
+    "right_end": 2942.489,
+    "similarity": 0.4373309910297394
+  },
+  {
+    "left_window_id": 291,
+    "right_window_id": 292,
+    "left_start": 2932.489,
+    "left_end": 2942.489,
+    "right_start": 2942.489,
+    "right_end": 2952.489,
+    "similarity": 0.5322909355163574
+  },
+  {
+    "left_window_id": 292,
+    "right_window_id": 293,
+    "left_start": 2942.489,
+    "left_end": 2952.489,
+    "right_start": 2952.489,
+    "right_end": 2962.489,
+    "similarity": 0.7325022220611572
+  },
+  {
+    "left_window_id": 293,
+    "right_window_id": 294,
+    "left_start": 2952.489,
+    "left_end": 2962.489,
+    "right_start": 2962.489,
+    "right_end": 2972.489,
+    "similarity": 0.7404558658599854
+  },
+  {
+    "left_window_id": 294,
+    "right_window_id": 295,
+    "left_start": 2962.489,
+    "left_end": 2972.489,
+    "right_start": 2972.489,
+    "right_end": 2982.489,
+    "similarity": 0.712717592716217
+  },
+  {
+    "left_window_id": 295,
+    "right_window_id": 296,
+    "left_start": 2972.489,
+    "left_end": 2982.489,
+    "right_start": 2982.489,
+    "right_end": 2992.489,
+    "similarity": 0.792646050453186
+  },
+  {
+    "left_window_id": 296,
+    "right_window_id": 297,
+    "left_start": 2982.489,
+    "left_end": 2992.489,
+    "right_start": 2992.489,
+    "right_end": 3002.489,
+    "similarity": 0.7746233344078064
+  },
+  {
+    "left_window_id": 297,
+    "right_window_id": 298,
+    "left_start": 2992.489,
+    "left_end": 3002.489,
+    "right_start": 3002.489,
+    "right_end": 3012.489,
+    "similarity": 0.5398032069206238
+  },
+  {
+    "left_window_id": 298,
+    "right_window_id": 299,
+    "left_start": 3002.489,
+    "left_end": 3012.489,
+    "right_start": 3012.489,
+    "right_end": 3022.489,
+    "similarity": 0.6554213166236877
+  },
+  {
+    "left_window_id": 299,
+    "right_window_id": 300,
+    "left_start": 3012.489,
+    "left_end": 3022.489,
+    "right_start": 3022.489,
+    "right_end": 3032.489,
+    "similarity": 0.7738661170005798
+  },
+  {
+    "left_window_id": 300,
+    "right_window_id": 301,
+    "left_start": 3022.489,
+    "left_end": 3032.489,
+    "right_start": 3032.489,
+    "right_end": 3042.489,
+    "similarity": 0.6555062532424927
+  },
+  {
+    "left_window_id": 301,
+    "right_window_id": 302,
+    "left_start": 3032.489,
+    "left_end": 3042.489,
+    "right_start": 3042.489,
+    "right_end": 3052.489,
+    "similarity": 0.7310359477996826
+  },
+  {
+    "left_window_id": 302,
+    "right_window_id": 303,
+    "left_start": 3042.489,
+    "left_end": 3052.489,
+    "right_start": 3052.489,
+    "right_end": 3062.489,
+    "similarity": 0.6997466087341309
+  },
+  {
+    "left_window_id": 303,
+    "right_window_id": 304,
+    "left_start": 3052.489,
+    "left_end": 3062.489,
+    "right_start": 3062.489,
+    "right_end": 3072.489,
+    "similarity": 0.7545546293258667
+  },
+  {
+    "left_window_id": 304,
+    "right_window_id": 305,
+    "left_start": 3062.489,
+    "left_end": 3072.489,
+    "right_start": 3072.489,
+    "right_end": 3082.489,
+    "similarity": 0.6261849403381348
+  },
+  {
+    "left_window_id": 305,
+    "right_window_id": 306,
+    "left_start": 3072.489,
+    "left_end": 3082.489,
+    "right_start": 3082.489,
+    "right_end": 3092.489,
+    "similarity": 0.8238546252250671
+  },
+  {
+    "left_window_id": 306,
+    "right_window_id": 307,
+    "left_start": 3082.489,
+    "left_end": 3092.489,
+    "right_start": 3092.489,
+    "right_end": 3102.489,
+    "similarity": 0.6769852638244629
+  },
+  {
+    "left_window_id": 307,
+    "right_window_id": 308,
+    "left_start": 3092.489,
+    "left_end": 3102.489,
+    "right_start": 3102.489,
+    "right_end": 3112.489,
+    "similarity": 0.7057929039001465
+  },
+  {
+    "left_window_id": 308,
+    "right_window_id": 309,
+    "left_start": 3102.489,
+    "left_end": 3112.489,
+    "right_start": 3112.489,
+    "right_end": 3122.489,
+    "similarity": 0.7479230761528015
+  },
+  {
+    "left_window_id": 309,
+    "right_window_id": 310,
+    "left_start": 3112.489,
+    "left_end": 3122.489,
+    "right_start": 3122.489,
+    "right_end": 3132.489,
+    "similarity": 0.5716204047203064
+  },
+  {
+    "left_window_id": 310,
+    "right_window_id": 311,
+    "left_start": 3122.489,
+    "left_end": 3132.489,
+    "right_start": 3132.489,
+    "right_end": 3142.489,
+    "similarity": 0.7179006338119507
+  },
+  {
+    "left_window_id": 311,
+    "right_window_id": 312,
+    "left_start": 3132.489,
+    "left_end": 3142.489,
+    "right_start": 3142.489,
+    "right_end": 3152.489,
+    "similarity": 0.6214410662651062
+  },
+  {
+    "left_window_id": 312,
+    "right_window_id": 313,
+    "left_start": 3142.489,
+    "left_end": 3152.489,
+    "right_start": 3152.489,
+    "right_end": 3162.489,
+    "similarity": 0.6387192606925964
+  },
+  {
+    "left_window_id": 313,
+    "right_window_id": 314,
+    "left_start": 3152.489,
+    "left_end": 3162.489,
+    "right_start": 3162.489,
+    "right_end": 3172.489,
+    "similarity": 0.7149888277053833
+  },
+  {
+    "left_window_id": 314,
+    "right_window_id": 315,
+    "left_start": 3162.489,
+    "left_end": 3172.489,
+    "right_start": 3172.489,
+    "right_end": 3182.489,
+    "similarity": 0.7450211644172668
+  },
+  {
+    "left_window_id": 315,
+    "right_window_id": 316,
+    "left_start": 3172.489,
+    "left_end": 3182.489,
+    "right_start": 3182.489,
+    "right_end": 3192.489,
+    "similarity": 0.47017136216163635
+  },
+  {
+    "left_window_id": 316,
+    "right_window_id": 317,
+    "left_start": 3182.489,
+    "left_end": 3192.489,
+    "right_start": 3192.489,
+    "right_end": 3202.489,
+    "similarity": 0.602016806602478
+  },
+  {
+    "left_window_id": 317,
+    "right_window_id": 318,
+    "left_start": 3192.489,
+    "left_end": 3202.489,
+    "right_start": 3202.489,
+    "right_end": 3212.489,
+    "similarity": 0.74986732006073
+  },
+  {
+    "left_window_id": 318,
+    "right_window_id": 319,
+    "left_start": 3202.489,
+    "left_end": 3212.489,
+    "right_start": 3212.489,
+    "right_end": 3222.489,
+    "similarity": 0.6449233889579773
+  },
+  {
+    "left_window_id": 319,
+    "right_window_id": 320,
+    "left_start": 3212.489,
+    "left_end": 3222.489,
+    "right_start": 3222.489,
+    "right_end": 3232.489,
+    "similarity": 0.47438669204711914
+  },
+  {
+    "left_window_id": 320,
+    "right_window_id": 321,
+    "left_start": 3222.489,
+    "left_end": 3232.489,
+    "right_start": 3232.489,
+    "right_end": 3242.489,
+    "similarity": 0.4924601912498474
+  },
+  {
+    "left_window_id": 321,
+    "right_window_id": 322,
+    "left_start": 3232.489,
+    "left_end": 3242.489,
+    "right_start": 3242.489,
+    "right_end": 3252.489,
+    "similarity": 0.5540522336959839
+  },
+  {
+    "left_window_id": 322,
+    "right_window_id": 323,
+    "left_start": 3242.489,
+    "left_end": 3252.489,
+    "right_start": 3252.489,
+    "right_end": 3262.489,
+    "similarity": 0.7378008961677551
+  },
+  {
+    "left_window_id": 323,
+    "right_window_id": 324,
+    "left_start": 3252.489,
+    "left_end": 3262.489,
+    "right_start": 3262.489,
+    "right_end": 3272.489,
+    "similarity": 0.708769679069519
+  },
+  {
+    "left_window_id": 324,
+    "right_window_id": 325,
+    "left_start": 3262.489,
+    "left_end": 3272.489,
+    "right_start": 3272.489,
+    "right_end": 3282.489,
+    "similarity": 0.7073780298233032
+  },
+  {
+    "left_window_id": 325,
+    "right_window_id": 326,
+    "left_start": 3272.489,
+    "left_end": 3282.489,
+    "right_start": 3282.489,
+    "right_end": 3292.489,
+    "similarity": 0.8036150932312012
+  },
+  {
+    "left_window_id": 326,
+    "right_window_id": 327,
+    "left_start": 3282.489,
+    "left_end": 3292.489,
+    "right_start": 3292.489,
+    "right_end": 3302.489,
+    "similarity": 0.6011111736297607
+  },
+  {
+    "left_window_id": 327,
+    "right_window_id": 328,
+    "left_start": 3292.489,
+    "left_end": 3302.489,
+    "right_start": 3302.489,
+    "right_end": 3312.489,
+    "similarity": 0.8694260120391846
+  },
+  {
+    "left_window_id": 328,
+    "right_window_id": 329,
+    "left_start": 3302.489,
+    "left_end": 3312.489,
+    "right_start": 3312.489,
+    "right_end": 3322.489,
+    "similarity": 0.7474585771560669
+  },
+  {
+    "left_window_id": 329,
+    "right_window_id": 330,
+    "left_start": 3312.489,
+    "left_end": 3322.489,
+    "right_start": 3322.489,
+    "right_end": 3332.489,
+    "similarity": 0.7209029793739319
+  },
+  {
+    "left_window_id": 330,
+    "right_window_id": 331,
+    "left_start": 3322.489,
+    "left_end": 3332.489,
+    "right_start": 3332.489,
+    "right_end": 3342.489,
+    "similarity": 0.7817818522453308
+  },
+  {
+    "left_window_id": 331,
+    "right_window_id": 332,
+    "left_start": 3332.489,
+    "left_end": 3342.489,
+    "right_start": 3342.489,
+    "right_end": 3352.489,
+    "similarity": 0.8439140915870667
+  },
+  {
+    "left_window_id": 332,
+    "right_window_id": 333,
+    "left_start": 3342.489,
+    "left_end": 3352.489,
+    "right_start": 3352.489,
+    "right_end": 3362.489,
+    "similarity": 0.5831451416015625
+  },
+  {
+    "left_window_id": 333,
+    "right_window_id": 334,
+    "left_start": 3352.489,
+    "left_end": 3362.489,
+    "right_start": 3362.489,
+    "right_end": 3372.489,
+    "similarity": 0.8491653800010681
+  },
+  {
+    "left_window_id": 334,
+    "right_window_id": 335,
+    "left_start": 3362.489,
+    "left_end": 3372.489,
+    "right_start": 3372.489,
+    "right_end": 3382.489,
+    "similarity": 0.4147825837135315
+  },
+  {
+    "left_window_id": 335,
+    "right_window_id": 336,
+    "left_start": 3372.489,
+    "left_end": 3382.489,
+    "right_start": 3382.489,
+    "right_end": 3392.489,
+    "similarity": 0.650208055973053
+  },
+  {
+    "left_window_id": 336,
+    "right_window_id": 337,
+    "left_start": 3382.489,
+    "left_end": 3392.489,
+    "right_start": 3392.489,
+    "right_end": 3402.489,
+    "similarity": 0.615818440914154
+  },
+  {
+    "left_window_id": 337,
+    "right_window_id": 338,
+    "left_start": 3392.489,
+    "left_end": 3402.489,
+    "right_start": 3402.489,
+    "right_end": 3412.489,
+    "similarity": 0.8431039452552795
+  },
+  {
+    "left_window_id": 338,
+    "right_window_id": 339,
+    "left_start": 3402.489,
+    "left_end": 3412.489,
+    "right_start": 3412.489,
+    "right_end": 3422.489,
+    "similarity": 0.7530350685119629
+  },
+  {
+    "left_window_id": 339,
+    "right_window_id": 340,
+    "left_start": 3412.489,
+    "left_end": 3422.489,
+    "right_start": 3422.489,
+    "right_end": 3432.489,
+    "similarity": 0.7191060781478882
+  },
+  {
+    "left_window_id": 340,
+    "right_window_id": 341,
+    "left_start": 3422.489,
+    "left_end": 3432.489,
+    "right_start": 3432.489,
+    "right_end": 3442.489,
+    "similarity": 0.6245242953300476
+  },
+  {
+    "left_window_id": 341,
+    "right_window_id": 342,
+    "left_start": 3432.489,
+    "left_end": 3442.489,
+    "right_start": 3442.489,
+    "right_end": 3452.489,
+    "similarity": 0.7087675333023071
+  },
+  {
+    "left_window_id": 342,
+    "right_window_id": 343,
+    "left_start": 3442.489,
+    "left_end": 3452.489,
+    "right_start": 3452.489,
+    "right_end": 3462.489,
+    "similarity": 0.7754150032997131
+  },
+  {
+    "left_window_id": 343,
+    "right_window_id": 344,
+    "left_start": 3452.489,
+    "left_end": 3462.489,
+    "right_start": 3462.489,
+    "right_end": 3472.489,
+    "similarity": 0.6349971294403076
+  },
+  {
+    "left_window_id": 344,
+    "right_window_id": 345,
+    "left_start": 3462.489,
+    "left_end": 3472.489,
+    "right_start": 3472.489,
+    "right_end": 3482.489,
+    "similarity": 0.728105366230011
+  },
+  {
+    "left_window_id": 345,
+    "right_window_id": 346,
+    "left_start": 3472.489,
+    "left_end": 3482.489,
+    "right_start": 3482.489,
+    "right_end": 3492.489,
+    "similarity": 0.7912615537643433
+  },
+  {
+    "left_window_id": 346,
+    "right_window_id": 347,
+    "left_start": 3482.489,
+    "left_end": 3492.489,
+    "right_start": 3492.489,
+    "right_end": 3502.489,
+    "similarity": 0.6471071839332581
+  },
+  {
+    "left_window_id": 347,
+    "right_window_id": 348,
+    "left_start": 3492.489,
+    "left_end": 3502.489,
+    "right_start": 3502.489,
+    "right_end": 3512.489,
+    "similarity": 0.812353789806366
+  },
+  {
+    "left_window_id": 348,
+    "right_window_id": 349,
+    "left_start": 3502.489,
+    "left_end": 3512.489,
+    "right_start": 3512.489,
+    "right_end": 3522.489,
+    "similarity": 0.6286196708679199
+  },
+  {
+    "left_window_id": 349,
+    "right_window_id": 350,
+    "left_start": 3512.489,
+    "left_end": 3522.489,
+    "right_start": 3522.489,
+    "right_end": 3532.489,
+    "similarity": 0.651793360710144
+  },
+  {
+    "left_window_id": 350,
+    "right_window_id": 351,
+    "left_start": 3522.489,
+    "left_end": 3532.489,
+    "right_start": 3532.489,
+    "right_end": 3542.489,
+    "similarity": 0.8508564829826355
+  },
+  {
+    "left_window_id": 351,
+    "right_window_id": 352,
+    "left_start": 3532.489,
+    "left_end": 3542.489,
+    "right_start": 3542.489,
+    "right_end": 3552.489,
+    "similarity": 0.7638067007064819
+  },
+  {
+    "left_window_id": 352,
+    "right_window_id": 353,
+    "left_start": 3542.489,
+    "left_end": 3552.489,
+    "right_start": 3552.489,
+    "right_end": 3562.489,
+    "similarity": 0.5140655040740967
+  },
+  {
+    "left_window_id": 353,
+    "right_window_id": 354,
+    "left_start": 3552.489,
+    "left_end": 3562.489,
+    "right_start": 3562.489,
+    "right_end": 3572.489,
+    "similarity": 0.766234278678894
+  },
+  {
+    "left_window_id": 354,
+    "right_window_id": 355,
+    "left_start": 3562.489,
+    "left_end": 3572.489,
+    "right_start": 3572.489,
+    "right_end": 3582.489,
+    "similarity": 0.7510980367660522
+  },
+  {
+    "left_window_id": 355,
+    "right_window_id": 356,
+    "left_start": 3572.489,
+    "left_end": 3582.489,
+    "right_start": 3582.489,
+    "right_end": 3592.489,
+    "similarity": 0.7715896368026733
+  },
+  {
+    "left_window_id": 356,
+    "right_window_id": 357,
+    "left_start": 3582.489,
+    "left_end": 3592.489,
+    "right_start": 3592.489,
+    "right_end": 3602.489,
+    "similarity": 0.7315834164619446
+  },
+  {
+    "left_window_id": 357,
+    "right_window_id": 358,
+    "left_start": 3592.489,
+    "left_end": 3602.489,
+    "right_start": 3602.489,
+    "right_end": 3612.489,
+    "similarity": 0.6193942427635193
+  },
+  {
+    "left_window_id": 358,
+    "right_window_id": 359,
+    "left_start": 3602.489,
+    "left_end": 3612.489,
+    "right_start": 3612.489,
+    "right_end": 3622.489,
+    "similarity": 0.7401747703552246
+  },
+  {
+    "left_window_id": 359,
+    "right_window_id": 360,
+    "left_start": 3612.489,
+    "left_end": 3622.489,
+    "right_start": 3622.489,
+    "right_end": 3632.489,
+    "similarity": 0.6199319362640381
+  },
+  {
+    "left_window_id": 360,
+    "right_window_id": 361,
+    "left_start": 3622.489,
+    "left_end": 3632.489,
+    "right_start": 3632.489,
+    "right_end": 3642.489,
+    "similarity": 0.7054339051246643
+  },
+  {
+    "left_window_id": 361,
+    "right_window_id": 362,
+    "left_start": 3632.489,
+    "left_end": 3642.489,
+    "right_start": 3642.489,
+    "right_end": 3652.489,
+    "similarity": 0.708524227142334
+  },
+  {
+    "left_window_id": 362,
+    "right_window_id": 363,
+    "left_start": 3642.489,
+    "left_end": 3652.489,
+    "right_start": 3652.489,
+    "right_end": 3662.489,
+    "similarity": 0.3704688549041748
+  },
+  {
+    "left_window_id": 363,
+    "right_window_id": 364,
+    "left_start": 3652.489,
+    "left_end": 3662.489,
+    "right_start": 3662.489,
+    "right_end": 3672.489,
+    "similarity": 0.7217756509780884
+  },
+  {
+    "left_window_id": 364,
+    "right_window_id": 365,
+    "left_start": 3662.489,
+    "left_end": 3672.489,
+    "right_start": 3672.489,
+    "right_end": 3682.489,
+    "similarity": 0.6213647723197937
+  },
+  {
+    "left_window_id": 365,
+    "right_window_id": 366,
+    "left_start": 3672.489,
+    "left_end": 3682.489,
+    "right_start": 3682.489,
+    "right_end": 3692.489,
+    "similarity": 0.7114425897598267
+  },
+  {
+    "left_window_id": 366,
+    "right_window_id": 367,
+    "left_start": 3682.489,
+    "left_end": 3692.489,
+    "right_start": 3692.489,
+    "right_end": 3702.489,
+    "similarity": 0.6740186214447021
+  },
+  {
+    "left_window_id": 367,
+    "right_window_id": 368,
+    "left_start": 3692.489,
+    "left_end": 3702.489,
+    "right_start": 3702.489,
+    "right_end": 3712.489,
+    "similarity": 0.857404351234436
+  },
+  {
+    "left_window_id": 368,
+    "right_window_id": 369,
+    "left_start": 3702.489,
+    "left_end": 3712.489,
+    "right_start": 3712.489,
+    "right_end": 3722.489,
+    "similarity": 0.6360023617744446
+  },
+  {
+    "left_window_id": 369,
+    "right_window_id": 370,
+    "left_start": 3712.489,
+    "left_end": 3722.489,
+    "right_start": 3722.489,
+    "right_end": 3732.489,
+    "similarity": 0.5773025751113892
+  },
+  {
+    "left_window_id": 370,
+    "right_window_id": 371,
+    "left_start": 3722.489,
+    "left_end": 3732.489,
+    "right_start": 3732.489,
+    "right_end": 3742.489,
+    "similarity": 0.763467013835907
+  },
+  {
+    "left_window_id": 371,
+    "right_window_id": 372,
+    "left_start": 3732.489,
+    "left_end": 3742.489,
+    "right_start": 3742.489,
+    "right_end": 3752.489,
+    "similarity": 0.7553432583808899
+  },
+  {
+    "left_window_id": 372,
+    "right_window_id": 373,
+    "left_start": 3742.489,
+    "left_end": 3752.489,
+    "right_start": 3752.489,
+    "right_end": 3762.489,
+    "similarity": 0.5741271376609802
+  },
+  {
+    "left_window_id": 373,
+    "right_window_id": 374,
+    "left_start": 3752.489,
+    "left_end": 3762.489,
+    "right_start": 3762.489,
+    "right_end": 3772.489,
+    "similarity": 0.6145222783088684
+  },
+  {
+    "left_window_id": 374,
+    "right_window_id": 375,
+    "left_start": 3762.489,
+    "left_end": 3772.489,
+    "right_start": 3772.489,
+    "right_end": 3782.489,
+    "similarity": 0.8117449283599854
+  },
+  {
+    "left_window_id": 375,
+    "right_window_id": 376,
+    "left_start": 3772.489,
+    "left_end": 3782.489,
+    "right_start": 3782.489,
+    "right_end": 3792.489,
+    "similarity": 0.4731707274913788
+  },
+  {
+    "left_window_id": 376,
+    "right_window_id": 377,
+    "left_start": 3782.489,
+    "left_end": 3792.489,
+    "right_start": 3792.489,
+    "right_end": 3802.489,
+    "similarity": 0.8384021520614624
+  },
+  {
+    "left_window_id": 377,
+    "right_window_id": 378,
+    "left_start": 3792.489,
+    "left_end": 3802.489,
+    "right_start": 3802.489,
+    "right_end": 3812.489,
+    "similarity": 0.6506732702255249
+  },
+  {
+    "left_window_id": 378,
+    "right_window_id": 379,
+    "left_start": 3802.489,
+    "left_end": 3812.489,
+    "right_start": 3812.489,
+    "right_end": 3822.489,
+    "similarity": 0.8489977717399597
+  },
+  {
+    "left_window_id": 379,
+    "right_window_id": 380,
+    "left_start": 3812.489,
+    "left_end": 3822.489,
+    "right_start": 3822.489,
+    "right_end": 3832.489,
+    "similarity": 0.6154183745384216
+  },
+  {
+    "left_window_id": 380,
+    "right_window_id": 381,
+    "left_start": 3822.489,
+    "left_end": 3832.489,
+    "right_start": 3832.489,
+    "right_end": 3842.489,
+    "similarity": 0.8528476357460022
+  },
+  {
+    "left_window_id": 381,
+    "right_window_id": 382,
+    "left_start": 3832.489,
+    "left_end": 3842.489,
+    "right_start": 3842.489,
+    "right_end": 3852.489,
+    "similarity": 0.8038378953933716
+  },
+  {
+    "left_window_id": 382,
+    "right_window_id": 383,
+    "left_start": 3842.489,
+    "left_end": 3852.489,
+    "right_start": 3852.489,
+    "right_end": 3862.489,
+    "similarity": 0.6846218109130859
+  },
+  {
+    "left_window_id": 383,
+    "right_window_id": 384,
+    "left_start": 3852.489,
+    "left_end": 3862.489,
+    "right_start": 3862.489,
+    "right_end": 3872.489,
+    "similarity": 0.6147660613059998
+  },
+  {
+    "left_window_id": 384,
+    "right_window_id": 385,
+    "left_start": 3862.489,
+    "left_end": 3872.489,
+    "right_start": 3872.489,
+    "right_end": 3882.489,
+    "similarity": 0.7826095819473267
+  },
+  {
+    "left_window_id": 385,
+    "right_window_id": 386,
+    "left_start": 3872.489,
+    "left_end": 3882.489,
+    "right_start": 3882.489,
+    "right_end": 3892.489,
+    "similarity": 0.6616008877754211
+  },
+  {
+    "left_window_id": 386,
+    "right_window_id": 387,
+    "left_start": 3882.489,
+    "left_end": 3892.489,
+    "right_start": 3892.489,
+    "right_end": 3902.489,
+    "similarity": 0.7674844264984131
+  },
+  {
+    "left_window_id": 387,
+    "right_window_id": 388,
+    "left_start": 3892.489,
+    "left_end": 3902.489,
+    "right_start": 3902.489,
+    "right_end": 3912.489,
+    "similarity": 0.7961639165878296
+  },
+  {
+    "left_window_id": 388,
+    "right_window_id": 389,
+    "left_start": 3902.489,
+    "left_end": 3912.489,
+    "right_start": 3912.489,
+    "right_end": 3922.489,
+    "similarity": 0.7153378129005432
+  },
+  {
+    "left_window_id": 389,
+    "right_window_id": 390,
+    "left_start": 3912.489,
+    "left_end": 3922.489,
+    "right_start": 3922.489,
+    "right_end": 3932.489,
+    "similarity": 0.5276852250099182
+  },
+  {
+    "left_window_id": 390,
+    "right_window_id": 391,
+    "left_start": 3922.489,
+    "left_end": 3932.489,
+    "right_start": 3932.489,
+    "right_end": 3942.489,
+    "similarity": 0.8567215800285339
+  },
+  {
+    "left_window_id": 391,
+    "right_window_id": 392,
+    "left_start": 3932.489,
+    "left_end": 3942.489,
+    "right_start": 3942.489,
+    "right_end": 3952.489,
+    "similarity": 0.5547980666160583
+  },
+  {
+    "left_window_id": 392,
+    "right_window_id": 393,
+    "left_start": 3942.489,
+    "left_end": 3952.489,
+    "right_start": 3952.489,
+    "right_end": 3962.489,
+    "similarity": 0.6297138929367065
+  },
+  {
+    "left_window_id": 393,
+    "right_window_id": 394,
+    "left_start": 3952.489,
+    "left_end": 3962.489,
+    "right_start": 3962.489,
+    "right_end": 3972.489,
+    "similarity": 0.7649592757225037
+  },
+  {
+    "left_window_id": 394,
+    "right_window_id": 395,
+    "left_start": 3962.489,
+    "left_end": 3972.489,
+    "right_start": 3972.489,
+    "right_end": 3982.489,
+    "similarity": 0.7723156809806824
+  },
+  {
+    "left_window_id": 395,
+    "right_window_id": 396,
+    "left_start": 3972.489,
+    "left_end": 3982.489,
+    "right_start": 3982.489,
+    "right_end": 3992.489,
+    "similarity": 0.6748078465461731
+  },
+  {
+    "left_window_id": 396,
+    "right_window_id": 397,
+    "left_start": 3982.489,
+    "left_end": 3992.489,
+    "right_start": 3992.489,
+    "right_end": 4002.489,
+    "similarity": 0.8160092830657959
+  },
+  {
+    "left_window_id": 397,
+    "right_window_id": 398,
+    "left_start": 3992.489,
+    "left_end": 4002.489,
+    "right_start": 4002.489,
+    "right_end": 4012.489,
+    "similarity": 0.6473340392112732
+  },
+  {
+    "left_window_id": 398,
+    "right_window_id": 399,
+    "left_start": 4002.489,
+    "left_end": 4012.489,
+    "right_start": 4012.489,
+    "right_end": 4022.489,
+    "similarity": 0.5965994000434875
+  },
+  {
+    "left_window_id": 399,
+    "right_window_id": 400,
+    "left_start": 4012.489,
+    "left_end": 4022.489,
+    "right_start": 4022.489,
+    "right_end": 4032.489,
+    "similarity": 0.6231464743614197
+  },
+  {
+    "left_window_id": 400,
+    "right_window_id": 401,
+    "left_start": 4022.489,
+    "left_end": 4032.489,
+    "right_start": 4032.489,
+    "right_end": 4042.489,
+    "similarity": 0.7919077277183533
+  },
+  {
+    "left_window_id": 401,
+    "right_window_id": 402,
+    "left_start": 4032.489,
+    "left_end": 4042.489,
+    "right_start": 4042.489,
+    "right_end": 4052.489,
+    "similarity": 0.6268553137779236
+  },
+  {
+    "left_window_id": 402,
+    "right_window_id": 403,
+    "left_start": 4042.489,
+    "left_end": 4052.489,
+    "right_start": 4052.489,
+    "right_end": 4062.489,
+    "similarity": 0.6414481401443481
+  },
+  {
+    "left_window_id": 403,
+    "right_window_id": 404,
+    "left_start": 4052.489,
+    "left_end": 4062.489,
+    "right_start": 4062.489,
+    "right_end": 4072.489,
+    "similarity": 0.5391082167625427
+  },
+  {
+    "left_window_id": 404,
+    "right_window_id": 405,
+    "left_start": 4062.489,
+    "left_end": 4072.489,
+    "right_start": 4072.489,
+    "right_end": 4082.489,
+    "similarity": 0.6689141988754272
+  },
+  {
+    "left_window_id": 405,
+    "right_window_id": 406,
+    "left_start": 4072.489,
+    "left_end": 4082.489,
+    "right_start": 4082.489,
+    "right_end": 4092.489,
+    "similarity": 0.7101452946662903
+  },
+  {
+    "left_window_id": 406,
+    "right_window_id": 407,
+    "left_start": 4082.489,
+    "left_end": 4092.489,
+    "right_start": 4092.489,
+    "right_end": 4102.489,
+    "similarity": 0.8364297747612
+  },
+  {
+    "left_window_id": 407,
+    "right_window_id": 408,
+    "left_start": 4092.489,
+    "left_end": 4102.489,
+    "right_start": 4102.489,
+    "right_end": 4112.489,
+    "similarity": 0.806732714176178
+  },
+  {
+    "left_window_id": 408,
+    "right_window_id": 409,
+    "left_start": 4102.489,
+    "left_end": 4112.489,
+    "right_start": 4112.489,
+    "right_end": 4122.489,
+    "similarity": 0.6642023921012878
+  },
+  {
+    "left_window_id": 409,
+    "right_window_id": 410,
+    "left_start": 4112.489,
+    "left_end": 4122.489,
+    "right_start": 4122.489,
+    "right_end": 4132.489,
+    "similarity": 0.7804543972015381
+  },
+  {
+    "left_window_id": 410,
+    "right_window_id": 411,
+    "left_start": 4122.489,
+    "left_end": 4132.489,
+    "right_start": 4132.489,
+    "right_end": 4142.489,
+    "similarity": 0.7655530571937561
+  },
+  {
+    "left_window_id": 411,
+    "right_window_id": 412,
+    "left_start": 4132.489,
+    "left_end": 4142.489,
+    "right_start": 4142.489,
+    "right_end": 4152.489,
+    "similarity": 0.7191088795661926
+  },
+  {
+    "left_window_id": 412,
+    "right_window_id": 413,
+    "left_start": 4142.489,
+    "left_end": 4152.489,
+    "right_start": 4152.489,
+    "right_end": 4162.489,
+    "similarity": 0.49896740913391113
+  },
+  {
+    "left_window_id": 413,
+    "right_window_id": 414,
+    "left_start": 4152.489,
+    "left_end": 4162.489,
+    "right_start": 4162.489,
+    "right_end": 4172.489,
+    "similarity": 0.6960763931274414
+  },
+  {
+    "left_window_id": 414,
+    "right_window_id": 415,
+    "left_start": 4162.489,
+    "left_end": 4172.489,
+    "right_start": 4172.489,
+    "right_end": 4182.489,
+    "similarity": 0.8746696710586548
+  },
+  {
+    "left_window_id": 415,
+    "right_window_id": 416,
+    "left_start": 4172.489,
+    "left_end": 4182.489,
+    "right_start": 4182.489,
+    "right_end": 4192.489,
+    "similarity": 0.6033093333244324
+  },
+  {
+    "left_window_id": 416,
+    "right_window_id": 417,
+    "left_start": 4182.489,
+    "left_end": 4192.489,
+    "right_start": 4192.489,
+    "right_end": 4202.489,
+    "similarity": 0.6265270709991455
+  },
+  {
+    "left_window_id": 417,
+    "right_window_id": 418,
+    "left_start": 4192.489,
+    "left_end": 4202.489,
+    "right_start": 4202.489,
+    "right_end": 4212.489,
+    "similarity": 0.7849153280258179
+  },
+  {
+    "left_window_id": 418,
+    "right_window_id": 419,
+    "left_start": 4202.489,
+    "left_end": 4212.489,
+    "right_start": 4212.489,
+    "right_end": 4222.489,
+    "similarity": 0.6473745107650757
+  },
+  {
+    "left_window_id": 419,
+    "right_window_id": 420,
+    "left_start": 4212.489,
+    "left_end": 4222.489,
+    "right_start": 4222.489,
+    "right_end": 4232.489,
+    "similarity": 0.7691389918327332
+  },
+  {
+    "left_window_id": 420,
+    "right_window_id": 421,
+    "left_start": 4222.489,
+    "left_end": 4232.489,
+    "right_start": 4232.489,
+    "right_end": 4242.489,
+    "similarity": 0.5566319227218628
+  },
+  {
+    "left_window_id": 421,
+    "right_window_id": 422,
+    "left_start": 4232.489,
+    "left_end": 4242.489,
+    "right_start": 4242.489,
+    "right_end": 4252.489,
+    "similarity": 0.5829946994781494
+  },
+  {
+    "left_window_id": 422,
+    "right_window_id": 423,
+    "left_start": 4242.489,
+    "left_end": 4252.489,
+    "right_start": 4252.489,
+    "right_end": 4262.489,
+    "similarity": 0.6622969508171082
+  },
+  {
+    "left_window_id": 423,
+    "right_window_id": 424,
+    "left_start": 4252.489,
+    "left_end": 4262.489,
+    "right_start": 4262.489,
+    "right_end": 4272.489,
+    "similarity": 0.8498803377151489
+  },
+  {
+    "left_window_id": 424,
+    "right_window_id": 425,
+    "left_start": 4262.489,
+    "left_end": 4272.489,
+    "right_start": 4272.489,
+    "right_end": 4282.489,
+    "similarity": 0.6675876379013062
+  },
+  {
+    "left_window_id": 425,
+    "right_window_id": 426,
+    "left_start": 4272.489,
+    "left_end": 4282.489,
+    "right_start": 4282.489,
+    "right_end": 4292.489,
+    "similarity": 0.4605162441730499
+  },
+  {
+    "left_window_id": 426,
+    "right_window_id": 427,
+    "left_start": 4282.489,
+    "left_end": 4292.489,
+    "right_start": 4292.489,
+    "right_end": 4302.489,
+    "similarity": 0.7814756631851196
+  },
+  {
+    "left_window_id": 427,
+    "right_window_id": 428,
+    "left_start": 4292.489,
+    "left_end": 4302.489,
+    "right_start": 4302.489,
+    "right_end": 4312.489,
+    "similarity": 0.6638495922088623
+  },
+  {
+    "left_window_id": 428,
+    "right_window_id": 429,
+    "left_start": 4302.489,
+    "left_end": 4312.489,
+    "right_start": 4312.489,
+    "right_end": 4322.489,
+    "similarity": 0.6772654056549072
+  },
+  {
+    "left_window_id": 429,
+    "right_window_id": 430,
+    "left_start": 4312.489,
+    "left_end": 4322.489,
+    "right_start": 4322.489,
+    "right_end": 4332.489,
+    "similarity": 0.6036787629127502
+  },
+  {
+    "left_window_id": 430,
+    "right_window_id": 431,
+    "left_start": 4322.489,
+    "left_end": 4332.489,
+    "right_start": 4332.489,
+    "right_end": 4342.489,
+    "similarity": 0.6247379183769226
+  },
+  {
+    "left_window_id": 431,
+    "right_window_id": 432,
+    "left_start": 4332.489,
+    "left_end": 4342.489,
+    "right_start": 4342.489,
+    "right_end": 4352.489,
+    "similarity": 0.5227184295654297
+  },
+  {
+    "left_window_id": 432,
+    "right_window_id": 433,
+    "left_start": 4342.489,
+    "left_end": 4352.489,
+    "right_start": 4352.489,
+    "right_end": 4362.489,
+    "similarity": 0.6259923577308655
+  },
+  {
+    "left_window_id": 433,
+    "right_window_id": 434,
+    "left_start": 4352.489,
+    "left_end": 4362.489,
+    "right_start": 4362.489,
+    "right_end": 4372.489,
+    "similarity": 0.5173642635345459
+  },
+  {
+    "left_window_id": 434,
+    "right_window_id": 435,
+    "left_start": 4362.489,
+    "left_end": 4372.489,
+    "right_start": 4372.489,
+    "right_end": 4382.489,
+    "similarity": 0.6948515772819519
+  },
+  {
+    "left_window_id": 435,
+    "right_window_id": 436,
+    "left_start": 4372.489,
+    "left_end": 4382.489,
+    "right_start": 4382.489,
+    "right_end": 4392.489,
+    "similarity": 0.7519674301147461
+  },
+  {
+    "left_window_id": 436,
+    "right_window_id": 437,
+    "left_start": 4382.489,
+    "left_end": 4392.489,
+    "right_start": 4392.489,
+    "right_end": 4402.489,
+    "similarity": 0.7923529148101807
+  },
+  {
+    "left_window_id": 437,
+    "right_window_id": 438,
+    "left_start": 4392.489,
+    "left_end": 4402.489,
+    "right_start": 4402.489,
+    "right_end": 4412.489,
+    "similarity": 0.6231372356414795
+  },
+  {
+    "left_window_id": 438,
+    "right_window_id": 439,
+    "left_start": 4402.489,
+    "left_end": 4412.489,
+    "right_start": 4412.489,
+    "right_end": 4422.489,
+    "similarity": 0.7117865681648254
+  },
+  {
+    "left_window_id": 439,
+    "right_window_id": 440,
+    "left_start": 4412.489,
+    "left_end": 4422.489,
+    "right_start": 4422.489,
+    "right_end": 4432.489,
+    "similarity": 0.5968884825706482
+  },
+  {
+    "left_window_id": 440,
+    "right_window_id": 441,
+    "left_start": 4422.489,
+    "left_end": 4432.489,
+    "right_start": 4432.489,
+    "right_end": 4442.489,
+    "similarity": 0.7195526957511902
+  },
+  {
+    "left_window_id": 441,
+    "right_window_id": 442,
+    "left_start": 4432.489,
+    "left_end": 4442.489,
+    "right_start": 4442.489,
+    "right_end": 4452.489,
+    "similarity": 0.7981923222541809
+  },
+  {
+    "left_window_id": 442,
+    "right_window_id": 443,
+    "left_start": 4442.489,
+    "left_end": 4452.489,
+    "right_start": 4452.489,
+    "right_end": 4462.489,
+    "similarity": 0.7705799341201782
+  },
+  {
+    "left_window_id": 443,
+    "right_window_id": 444,
+    "left_start": 4452.489,
+    "left_end": 4462.489,
+    "right_start": 4462.489,
+    "right_end": 4472.489,
+    "similarity": 0.7475166916847229
+  },
+  {
+    "left_window_id": 444,
+    "right_window_id": 445,
+    "left_start": 4462.489,
+    "left_end": 4472.489,
+    "right_start": 4472.489,
+    "right_end": 4482.489,
+    "similarity": 0.7098087072372437
+  },
+  {
+    "left_window_id": 445,
+    "right_window_id": 446,
+    "left_start": 4472.489,
+    "left_end": 4482.489,
+    "right_start": 4482.489,
+    "right_end": 4492.489,
+    "similarity": 0.6981284618377686
+  },
+  {
+    "left_window_id": 446,
+    "right_window_id": 447,
+    "left_start": 4482.489,
+    "left_end": 4492.489,
+    "right_start": 4492.489,
+    "right_end": 4502.489,
+    "similarity": 0.8736467361450195
+  },
+  {
+    "left_window_id": 447,
+    "right_window_id": 448,
+    "left_start": 4492.489,
+    "left_end": 4502.489,
+    "right_start": 4502.489,
+    "right_end": 4512.489,
+    "similarity": 0.6144133806228638
+  },
+  {
+    "left_window_id": 448,
+    "right_window_id": 449,
+    "left_start": 4502.489,
+    "left_end": 4512.489,
+    "right_start": 4512.489,
+    "right_end": 4522.489,
+    "similarity": 0.8096557259559631
+  },
+  {
+    "left_window_id": 449,
+    "right_window_id": 450,
+    "left_start": 4512.489,
+    "left_end": 4522.489,
+    "right_start": 4522.489,
+    "right_end": 4532.489,
+    "similarity": 0.777588963508606
+  },
+  {
+    "left_window_id": 450,
+    "right_window_id": 451,
+    "left_start": 4522.489,
+    "left_end": 4532.489,
+    "right_start": 4532.489,
+    "right_end": 4542.489,
+    "similarity": 0.7538595795631409
+  },
+  {
+    "left_window_id": 451,
+    "right_window_id": 452,
+    "left_start": 4532.489,
+    "left_end": 4542.489,
+    "right_start": 4542.489,
+    "right_end": 4552.489,
+    "similarity": 0.7490662336349487
+  },
+  {
+    "left_window_id": 452,
+    "right_window_id": 453,
+    "left_start": 4542.489,
+    "left_end": 4552.489,
+    "right_start": 4552.489,
+    "right_end": 4562.489,
+    "similarity": 0.6697657108306885
+  },
+  {
+    "left_window_id": 453,
+    "right_window_id": 454,
+    "left_start": 4552.489,
+    "left_end": 4562.489,
+    "right_start": 4562.489,
+    "right_end": 4572.489,
+    "similarity": 0.621294379234314
+  },
+  {
+    "left_window_id": 454,
+    "right_window_id": 455,
+    "left_start": 4562.489,
+    "left_end": 4572.489,
+    "right_start": 4572.489,
+    "right_end": 4582.489,
+    "similarity": 0.7751337289810181
+  },
+  {
+    "left_window_id": 455,
+    "right_window_id": 456,
+    "left_start": 4572.489,
+    "left_end": 4582.489,
+    "right_start": 4582.489,
+    "right_end": 4592.489,
+    "similarity": 0.7932947874069214
+  },
+  {
+    "left_window_id": 456,
+    "right_window_id": 457,
+    "left_start": 4582.489,
+    "left_end": 4592.489,
+    "right_start": 4592.489,
+    "right_end": 4602.489,
+    "similarity": 0.5901437997817993
+  },
+  {
+    "left_window_id": 457,
+    "right_window_id": 458,
+    "left_start": 4592.489,
+    "left_end": 4602.489,
+    "right_start": 4602.489,
+    "right_end": 4612.489,
+    "similarity": 0.7453495264053345
+  },
+  {
+    "left_window_id": 458,
+    "right_window_id": 459,
+    "left_start": 4602.489,
+    "left_end": 4612.489,
+    "right_start": 4612.489,
+    "right_end": 4622.489,
+    "similarity": 0.8728142976760864
+  },
+  {
+    "left_window_id": 459,
+    "right_window_id": 460,
+    "left_start": 4612.489,
+    "left_end": 4622.489,
+    "right_start": 4622.489,
+    "right_end": 4632.489,
+    "similarity": 0.8052281737327576
+  },
+  {
+    "left_window_id": 460,
+    "right_window_id": 461,
+    "left_start": 4622.489,
+    "left_end": 4632.489,
+    "right_start": 4632.489,
+    "right_end": 4642.489,
+    "similarity": 0.752997100353241
+  },
+  {
+    "left_window_id": 461,
+    "right_window_id": 462,
+    "left_start": 4632.489,
+    "left_end": 4642.489,
+    "right_start": 4642.489,
+    "right_end": 4652.489,
+    "similarity": 0.7852103114128113
+  },
+  {
+    "left_window_id": 462,
+    "right_window_id": 463,
+    "left_start": 4642.489,
+    "left_end": 4652.489,
+    "right_start": 4652.489,
+    "right_end": 4662.489,
+    "similarity": 0.796238899230957
+  },
+  {
+    "left_window_id": 463,
+    "right_window_id": 464,
+    "left_start": 4652.489,
+    "left_end": 4662.489,
+    "right_start": 4662.489,
+    "right_end": 4672.489,
+    "similarity": 0.8344761729240417
+  },
+  {
+    "left_window_id": 464,
+    "right_window_id": 465,
+    "left_start": 4662.489,
+    "left_end": 4672.489,
+    "right_start": 4672.489,
+    "right_end": 4682.489,
+    "similarity": 0.8788323998451233
+  },
+  {
+    "left_window_id": 465,
+    "right_window_id": 466,
+    "left_start": 4672.489,
+    "left_end": 4682.489,
+    "right_start": 4682.489,
+    "right_end": 4692.489,
+    "similarity": 0.5261717438697815
+  },
+  {
+    "left_window_id": 466,
+    "right_window_id": 467,
+    "left_start": 4682.489,
+    "left_end": 4692.489,
+    "right_start": 4692.489,
+    "right_end": 4702.489,
+    "similarity": 0.47788697481155396
+  },
+  {
+    "left_window_id": 467,
+    "right_window_id": 468,
+    "left_start": 4692.489,
+    "left_end": 4702.489,
+    "right_start": 4702.489,
+    "right_end": 4712.489,
+    "similarity": 0.6284505724906921
+  },
+  {
+    "left_window_id": 468,
+    "right_window_id": 469,
+    "left_start": 4702.489,
+    "left_end": 4712.489,
+    "right_start": 4712.489,
+    "right_end": 4722.489,
+    "similarity": 0.7348529696464539
+  },
+  {
+    "left_window_id": 469,
+    "right_window_id": 470,
+    "left_start": 4712.489,
+    "left_end": 4722.489,
+    "right_start": 4722.489,
+    "right_end": 4732.489,
+    "similarity": 0.7108798027038574
+  },
+  {
+    "left_window_id": 470,
+    "right_window_id": 471,
+    "left_start": 4722.489,
+    "left_end": 4732.489,
+    "right_start": 4732.489,
+    "right_end": 4742.489,
+    "similarity": 0.5187958478927612
+  },
+  {
+    "left_window_id": 471,
+    "right_window_id": 472,
+    "left_start": 4732.489,
+    "left_end": 4742.489,
+    "right_start": 4742.489,
+    "right_end": 4752.489,
+    "similarity": 0.7304565906524658
+  },
+  {
+    "left_window_id": 472,
+    "right_window_id": 473,
+    "left_start": 4742.489,
+    "left_end": 4752.489,
+    "right_start": 4752.489,
+    "right_end": 4762.489,
+    "similarity": 0.7585928440093994
+  },
+  {
+    "left_window_id": 473,
+    "right_window_id": 474,
+    "left_start": 4752.489,
+    "left_end": 4762.489,
+    "right_start": 4762.489,
+    "right_end": 4772.489,
+    "similarity": 0.6374682784080505
+  },
+  {
+    "left_window_id": 474,
+    "right_window_id": 475,
+    "left_start": 4762.489,
+    "left_end": 4772.489,
+    "right_start": 4772.489,
+    "right_end": 4782.489,
+    "similarity": 0.7606507539749146
+  },
+  {
+    "left_window_id": 475,
+    "right_window_id": 476,
+    "left_start": 4772.489,
+    "left_end": 4782.489,
+    "right_start": 4782.489,
+    "right_end": 4792.489,
+    "similarity": 0.6539852023124695
+  },
+  {
+    "left_window_id": 476,
+    "right_window_id": 477,
+    "left_start": 4782.489,
+    "left_end": 4792.489,
+    "right_start": 4792.489,
+    "right_end": 4802.489,
+    "similarity": 0.5651026964187622
+  },
+  {
+    "left_window_id": 477,
+    "right_window_id": 478,
+    "left_start": 4792.489,
+    "left_end": 4802.489,
+    "right_start": 4802.489,
+    "right_end": 4812.489,
+    "similarity": 0.7847405076026917
+  },
+  {
+    "left_window_id": 478,
+    "right_window_id": 479,
+    "left_start": 4802.489,
+    "left_end": 4812.489,
+    "right_start": 4812.489,
+    "right_end": 4822.489,
+    "similarity": 0.7893972396850586
+  },
+  {
+    "left_window_id": 479,
+    "right_window_id": 480,
+    "left_start": 4812.489,
+    "left_end": 4822.489,
+    "right_start": 4822.489,
+    "right_end": 4832.489,
+    "similarity": 0.799674391746521
+  },
+  {
+    "left_window_id": 480,
+    "right_window_id": 481,
+    "left_start": 4822.489,
+    "left_end": 4832.489,
+    "right_start": 4832.489,
+    "right_end": 4842.489,
+    "similarity": 0.7238040566444397
+  },
+  {
+    "left_window_id": 481,
+    "right_window_id": 482,
+    "left_start": 4832.489,
+    "left_end": 4842.489,
+    "right_start": 4842.489,
+    "right_end": 4852.489,
+    "similarity": 0.793540894985199
+  },
+  {
+    "left_window_id": 482,
+    "right_window_id": 483,
+    "left_start": 4842.489,
+    "left_end": 4852.489,
+    "right_start": 4852.489,
+    "right_end": 4862.489,
+    "similarity": 0.7424755692481995
+  },
+  {
+    "left_window_id": 483,
+    "right_window_id": 484,
+    "left_start": 4852.489,
+    "left_end": 4862.489,
+    "right_start": 4862.489,
+    "right_end": 4872.489,
+    "similarity": 0.6281947493553162
+  },
+  {
+    "left_window_id": 484,
+    "right_window_id": 485,
+    "left_start": 4862.489,
+    "left_end": 4872.489,
+    "right_start": 4872.489,
+    "right_end": 4882.489,
+    "similarity": 0.8449519872665405
+  },
+  {
+    "left_window_id": 485,
+    "right_window_id": 486,
+    "left_start": 4872.489,
+    "left_end": 4882.489,
+    "right_start": 4882.489,
+    "right_end": 4892.489,
+    "similarity": 0.5616132616996765
+  },
+  {
+    "left_window_id": 486,
+    "right_window_id": 487,
+    "left_start": 4882.489,
+    "left_end": 4892.489,
+    "right_start": 4892.489,
+    "right_end": 4902.489,
+    "similarity": 0.7930205464363098
+  },
+  {
+    "left_window_id": 487,
+    "right_window_id": 488,
+    "left_start": 4892.489,
+    "left_end": 4902.489,
+    "right_start": 4902.489,
+    "right_end": 4912.489,
+    "similarity": 0.7685885429382324
+  },
+  {
+    "left_window_id": 488,
+    "right_window_id": 489,
+    "left_start": 4902.489,
+    "left_end": 4912.489,
+    "right_start": 4912.489,
+    "right_end": 4922.489,
+    "similarity": 0.5913975834846497
+  },
+  {
+    "left_window_id": 489,
+    "right_window_id": 490,
+    "left_start": 4912.489,
+    "left_end": 4922.489,
+    "right_start": 4922.489,
+    "right_end": 4932.489,
+    "similarity": 0.648726224899292
+  },
+  {
+    "left_window_id": 490,
+    "right_window_id": 491,
+    "left_start": 4922.489,
+    "left_end": 4932.489,
+    "right_start": 4932.489,
+    "right_end": 4942.489,
+    "similarity": 0.6831387281417847
+  },
+  {
+    "left_window_id": 491,
+    "right_window_id": 492,
+    "left_start": 4932.489,
+    "left_end": 4942.489,
+    "right_start": 4942.489,
+    "right_end": 4952.489,
+    "similarity": 0.7626771330833435
+  },
+  {
+    "left_window_id": 492,
+    "right_window_id": 493,
+    "left_start": 4942.489,
+    "left_end": 4952.489,
+    "right_start": 4952.489,
+    "right_end": 4962.489,
+    "similarity": 0.6379488110542297
+  },
+  {
+    "left_window_id": 493,
+    "right_window_id": 494,
+    "left_start": 4952.489,
+    "left_end": 4962.489,
+    "right_start": 4962.489,
+    "right_end": 4972.489,
+    "similarity": 0.6974936127662659
+  },
+  {
+    "left_window_id": 494,
+    "right_window_id": 495,
+    "left_start": 4962.489,
+    "left_end": 4972.489,
+    "right_start": 4972.489,
+    "right_end": 4982.489,
+    "similarity": 0.6275337338447571
+  },
+  {
+    "left_window_id": 495,
+    "right_window_id": 496,
+    "left_start": 4972.489,
+    "left_end": 4982.489,
+    "right_start": 4982.489,
+    "right_end": 4992.489,
+    "similarity": 0.7787896394729614
+  },
+  {
+    "left_window_id": 496,
+    "right_window_id": 497,
+    "left_start": 4982.489,
+    "left_end": 4992.489,
+    "right_start": 4992.489,
+    "right_end": 5002.489,
+    "similarity": 0.7937122583389282
+  },
+  {
+    "left_window_id": 497,
+    "right_window_id": 498,
+    "left_start": 4992.489,
+    "left_end": 5002.489,
+    "right_start": 5002.489,
+    "right_end": 5012.489,
+    "similarity": 0.7192791104316711
+  },
+  {
+    "left_window_id": 498,
+    "right_window_id": 499,
+    "left_start": 5002.489,
+    "left_end": 5012.489,
+    "right_start": 5012.489,
+    "right_end": 5022.489,
+    "similarity": 0.8371562361717224
+  },
+  {
+    "left_window_id": 499,
+    "right_window_id": 500,
+    "left_start": 5012.489,
+    "left_end": 5022.489,
+    "right_start": 5022.489,
+    "right_end": 5032.489,
+    "similarity": 0.7665765285491943
+  },
+  {
+    "left_window_id": 500,
+    "right_window_id": 501,
+    "left_start": 5022.489,
+    "left_end": 5032.489,
+    "right_start": 5032.489,
+    "right_end": 5042.489,
+    "similarity": 0.6592952013015747
+  },
+  {
+    "left_window_id": 501,
+    "right_window_id": 502,
+    "left_start": 5032.489,
+    "left_end": 5042.489,
+    "right_start": 5042.489,
+    "right_end": 5052.489,
+    "similarity": 0.6997293829917908
+  },
+  {
+    "left_window_id": 502,
+    "right_window_id": 503,
+    "left_start": 5042.489,
+    "left_end": 5052.489,
+    "right_start": 5052.489,
+    "right_end": 5062.489,
+    "similarity": 0.8489710688591003
+  },
+  {
+    "left_window_id": 503,
+    "right_window_id": 504,
+    "left_start": 5052.489,
+    "left_end": 5062.489,
+    "right_start": 5062.489,
+    "right_end": 5072.489,
+    "similarity": 0.5927112698554993
+  },
+  {
+    "left_window_id": 504,
+    "right_window_id": 505,
+    "left_start": 5062.489,
+    "left_end": 5072.489,
+    "right_start": 5072.489,
+    "right_end": 5082.489,
+    "similarity": 0.8895260691642761
+  },
+  {
+    "left_window_id": 505,
+    "right_window_id": 506,
+    "left_start": 5072.489,
+    "left_end": 5082.489,
+    "right_start": 5082.489,
+    "right_end": 5092.489,
+    "similarity": 0.7178777456283569
+  },
+  {
+    "left_window_id": 506,
+    "right_window_id": 507,
+    "left_start": 5082.489,
+    "left_end": 5092.489,
+    "right_start": 5092.489,
+    "right_end": 5102.489,
+    "similarity": 0.7427834868431091
+  },
+  {
+    "left_window_id": 507,
+    "right_window_id": 508,
+    "left_start": 5092.489,
+    "left_end": 5102.489,
+    "right_start": 5102.489,
+    "right_end": 5112.489,
+    "similarity": 0.7841363549232483
+  },
+  {
+    "left_window_id": 508,
+    "right_window_id": 509,
+    "left_start": 5102.489,
+    "left_end": 5112.489,
+    "right_start": 5112.489,
+    "right_end": 5122.489,
+    "similarity": 0.28884196281433105
+  },
+  {
+    "left_window_id": 509,
+    "right_window_id": 510,
+    "left_start": 5112.489,
+    "left_end": 5122.489,
+    "right_start": 5122.489,
+    "right_end": 5132.489,
+    "similarity": 0.605891227722168
+  },
+  {
+    "left_window_id": 510,
+    "right_window_id": 511,
+    "left_start": 5122.489,
+    "left_end": 5132.489,
+    "right_start": 5132.489,
+    "right_end": 5142.489,
+    "similarity": 0.705823540687561
+  },
+  {
+    "left_window_id": 511,
+    "right_window_id": 512,
+    "left_start": 5132.489,
+    "left_end": 5142.489,
+    "right_start": 5142.489,
+    "right_end": 5152.489,
+    "similarity": 0.657781720161438
+  },
+  {
+    "left_window_id": 512,
+    "right_window_id": 513,
+    "left_start": 5142.489,
+    "left_end": 5152.489,
+    "right_start": 5152.489,
+    "right_end": 5162.489,
+    "similarity": 0.6843968033790588
+  },
+  {
+    "left_window_id": 513,
+    "right_window_id": 514,
+    "left_start": 5152.489,
+    "left_end": 5162.489,
+    "right_start": 5162.489,
+    "right_end": 5172.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 514,
+    "right_window_id": 515,
+    "left_start": 5162.489,
+    "left_end": 5172.489,
+    "right_start": 5172.489,
+    "right_end": 5182.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 515,
+    "right_window_id": 516,
+    "left_start": 5172.489,
+    "left_end": 5182.489,
+    "right_start": 5182.489,
+    "right_end": 5192.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 516,
+    "right_window_id": 517,
+    "left_start": 5182.489,
+    "left_end": 5192.489,
+    "right_start": 5192.489,
+    "right_end": 5202.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 517,
+    "right_window_id": 518,
+    "left_start": 5192.489,
+    "left_end": 5202.489,
+    "right_start": 5202.489,
+    "right_end": 5212.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 518,
+    "right_window_id": 519,
+    "left_start": 5202.489,
+    "left_end": 5212.489,
+    "right_start": 5212.489,
+    "right_end": 5222.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 519,
+    "right_window_id": 520,
+    "left_start": 5212.489,
+    "left_end": 5222.489,
+    "right_start": 5222.489,
+    "right_end": 5232.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 520,
+    "right_window_id": 521,
+    "left_start": 5222.489,
+    "left_end": 5232.489,
+    "right_start": 5232.489,
+    "right_end": 5242.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 521,
+    "right_window_id": 522,
+    "left_start": 5232.489,
+    "left_end": 5242.489,
+    "right_start": 5242.489,
+    "right_end": 5252.489,
+    "similarity": 0.7359976768493652
+  },
+  {
+    "left_window_id": 522,
+    "right_window_id": 523,
+    "left_start": 5242.489,
+    "left_end": 5252.489,
+    "right_start": 5252.489,
+    "right_end": 5262.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 523,
+    "right_window_id": 524,
+    "left_start": 5252.489,
+    "left_end": 5262.489,
+    "right_start": 5262.489,
+    "right_end": 5272.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 524,
+    "right_window_id": 525,
+    "left_start": 5262.489,
+    "left_end": 5272.489,
+    "right_start": 5272.489,
+    "right_end": 5282.489,
+    "similarity": 0.953693151473999
+  },
+  {
+    "left_window_id": 525,
+    "right_window_id": 526,
+    "left_start": 5272.489,
+    "left_end": 5282.489,
+    "right_start": 5282.489,
+    "right_end": 5292.489,
+    "similarity": 0.8288173675537109
+  },
+  {
+    "left_window_id": 526,
+    "right_window_id": 527,
+    "left_start": 5282.489,
+    "left_end": 5292.489,
+    "right_start": 5292.489,
+    "right_end": 5302.489,
+    "similarity": 1.0000001192092896
+  },
+  {
+    "left_window_id": 527,
+    "right_window_id": 528,
+    "left_start": 5292.489,
+    "left_end": 5302.489,
+    "right_start": 5302.489,
+    "right_end": 5312.489,
+    "similarity": 0.7861193418502808
+  },
+  {
+    "left_window_id": 528,
+    "right_window_id": 529,
+    "left_start": 5302.489,
+    "left_end": 5312.489,
+    "right_start": 5312.489,
+    "right_end": 5322.489,
+    "similarity": 0.6923856139183044
+  },
+  {
+    "left_window_id": 529,
+    "right_window_id": 530,
+    "left_start": 5312.489,
+    "left_end": 5322.489,
+    "right_start": 5322.489,
+    "right_end": 5332.489,
+    "similarity": 0.7404654622077942
+  },
+  {
+    "left_window_id": 530,
+    "right_window_id": 531,
+    "left_start": 5322.489,
+    "left_end": 5332.489,
+    "right_start": 5332.489,
+    "right_end": 5342.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 531,
+    "right_window_id": 532,
+    "left_start": 5332.489,
+    "left_end": 5342.489,
+    "right_start": 5342.489,
+    "right_end": 5352.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 532,
+    "right_window_id": 533,
+    "left_start": 5342.489,
+    "left_end": 5352.489,
+    "right_start": 5352.489,
+    "right_end": 5362.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 533,
+    "right_window_id": 534,
+    "left_start": 5352.489,
+    "left_end": 5362.489,
+    "right_start": 5362.489,
+    "right_end": 5372.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 534,
+    "right_window_id": 535,
+    "left_start": 5362.489,
+    "left_end": 5372.489,
+    "right_start": 5372.489,
+    "right_end": 5382.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 535,
+    "right_window_id": 536,
+    "left_start": 5372.489,
+    "left_end": 5382.489,
+    "right_start": 5382.489,
+    "right_end": 5392.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 536,
+    "right_window_id": 537,
+    "left_start": 5382.489,
+    "left_end": 5392.489,
+    "right_start": 5392.489,
+    "right_end": 5402.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 537,
+    "right_window_id": 538,
+    "left_start": 5392.489,
+    "left_end": 5402.489,
+    "right_start": 5402.489,
+    "right_end": 5412.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 538,
+    "right_window_id": 539,
+    "left_start": 5402.489,
+    "left_end": 5412.489,
+    "right_start": 5412.489,
+    "right_end": 5422.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 539,
+    "right_window_id": 540,
+    "left_start": 5412.489,
+    "left_end": 5422.489,
+    "right_start": 5422.489,
+    "right_end": 5432.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 540,
+    "right_window_id": 541,
+    "left_start": 5422.489,
+    "left_end": 5432.489,
+    "right_start": 5432.489,
+    "right_end": 5442.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 541,
+    "right_window_id": 542,
+    "left_start": 5432.489,
+    "left_end": 5442.489,
+    "right_start": 5442.489,
+    "right_end": 5452.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 542,
+    "right_window_id": 543,
+    "left_start": 5442.489,
+    "left_end": 5452.489,
+    "right_start": 5452.489,
+    "right_end": 5462.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 543,
+    "right_window_id": 544,
+    "left_start": 5452.489,
+    "left_end": 5462.489,
+    "right_start": 5462.489,
+    "right_end": 5472.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 544,
+    "right_window_id": 545,
+    "left_start": 5462.489,
+    "left_end": 5472.489,
+    "right_start": 5472.489,
+    "right_end": 5482.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 545,
+    "right_window_id": 546,
+    "left_start": 5472.489,
+    "left_end": 5482.489,
+    "right_start": 5482.489,
+    "right_end": 5492.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 546,
+    "right_window_id": 547,
+    "left_start": 5482.489,
+    "left_end": 5492.489,
+    "right_start": 5492.489,
+    "right_end": 5502.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 547,
+    "right_window_id": 548,
+    "left_start": 5492.489,
+    "left_end": 5502.489,
+    "right_start": 5502.489,
+    "right_end": 5512.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 548,
+    "right_window_id": 549,
+    "left_start": 5502.489,
+    "left_end": 5512.489,
+    "right_start": 5512.489,
+    "right_end": 5522.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 549,
+    "right_window_id": 550,
+    "left_start": 5512.489,
+    "left_end": 5522.489,
+    "right_start": 5522.489,
+    "right_end": 5532.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 550,
+    "right_window_id": 551,
+    "left_start": 5522.489,
+    "left_end": 5532.489,
+    "right_start": 5532.489,
+    "right_end": 5542.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 551,
+    "right_window_id": 552,
+    "left_start": 5532.489,
+    "left_end": 5542.489,
+    "right_start": 5542.489,
+    "right_end": 5552.489,
+    "similarity": 0.8881540298461914
+  },
+  {
+    "left_window_id": 552,
+    "right_window_id": 553,
+    "left_start": 5542.489,
+    "left_end": 5552.489,
+    "right_start": 5552.489,
+    "right_end": 5562.489,
+    "similarity": 0.9434324502944946
+  },
+  {
+    "left_window_id": 553,
+    "right_window_id": 554,
+    "left_start": 5552.489,
+    "left_end": 5562.489,
+    "right_start": 5562.489,
+    "right_end": 5572.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 554,
+    "right_window_id": 555,
+    "left_start": 5562.489,
+    "left_end": 5572.489,
+    "right_start": 5572.489,
+    "right_end": 5582.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 555,
+    "right_window_id": 556,
+    "left_start": 5572.489,
+    "left_end": 5582.489,
+    "right_start": 5582.489,
+    "right_end": 5592.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 556,
+    "right_window_id": 557,
+    "left_start": 5582.489,
+    "left_end": 5592.489,
+    "right_start": 5592.489,
+    "right_end": 5602.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 557,
+    "right_window_id": 558,
+    "left_start": 5592.489,
+    "left_end": 5602.489,
+    "right_start": 5602.489,
+    "right_end": 5612.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 558,
+    "right_window_id": 559,
+    "left_start": 5602.489,
+    "left_end": 5612.489,
+    "right_start": 5612.489,
+    "right_end": 5622.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 559,
+    "right_window_id": 560,
+    "left_start": 5612.489,
+    "left_end": 5622.489,
+    "right_start": 5622.489,
+    "right_end": 5632.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 560,
+    "right_window_id": 561,
+    "left_start": 5622.489,
+    "left_end": 5632.489,
+    "right_start": 5632.489,
+    "right_end": 5642.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 561,
+    "right_window_id": 562,
+    "left_start": 5632.489,
+    "left_end": 5642.489,
+    "right_start": 5642.489,
+    "right_end": 5652.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 562,
+    "right_window_id": 563,
+    "left_start": 5642.489,
+    "left_end": 5652.489,
+    "right_start": 5652.489,
+    "right_end": 5662.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 563,
+    "right_window_id": 564,
+    "left_start": 5652.489,
+    "left_end": 5662.489,
+    "right_start": 5662.489,
+    "right_end": 5672.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 564,
+    "right_window_id": 565,
+    "left_start": 5662.489,
+    "left_end": 5672.489,
+    "right_start": 5672.489,
+    "right_end": 5682.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 565,
+    "right_window_id": 566,
+    "left_start": 5672.489,
+    "left_end": 5682.489,
+    "right_start": 5682.489,
+    "right_end": 5692.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 566,
+    "right_window_id": 567,
+    "left_start": 5682.489,
+    "left_end": 5692.489,
+    "right_start": 5692.489,
+    "right_end": 5702.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 567,
+    "right_window_id": 568,
+    "left_start": 5692.489,
+    "left_end": 5702.489,
+    "right_start": 5702.489,
+    "right_end": 5712.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 568,
+    "right_window_id": 569,
+    "left_start": 5702.489,
+    "left_end": 5712.489,
+    "right_start": 5712.489,
+    "right_end": 5722.489,
+    "similarity": 1.0000001192092896
+  },
+  {
+    "left_window_id": 569,
+    "right_window_id": 570,
+    "left_start": 5712.489,
+    "left_end": 5722.489,
+    "right_start": 5722.489,
+    "right_end": 5732.489,
+    "similarity": 1.0000001192092896
+  },
+  {
+    "left_window_id": 570,
+    "right_window_id": 571,
+    "left_start": 5722.489,
+    "left_end": 5732.489,
+    "right_start": 5732.489,
+    "right_end": 5742.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 571,
+    "right_window_id": 572,
+    "left_start": 5732.489,
+    "left_end": 5742.489,
+    "right_start": 5742.489,
+    "right_end": 5752.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 572,
+    "right_window_id": 573,
+    "left_start": 5742.489,
+    "left_end": 5752.489,
+    "right_start": 5752.489,
+    "right_end": 5762.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 573,
+    "right_window_id": 574,
+    "left_start": 5752.489,
+    "left_end": 5762.489,
+    "right_start": 5762.489,
+    "right_end": 5772.489,
+    "similarity": 1.0000001192092896
+  },
+  {
+    "left_window_id": 574,
+    "right_window_id": 575,
+    "left_start": 5762.489,
+    "left_end": 5772.489,
+    "right_start": 5772.489,
+    "right_end": 5782.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 575,
+    "right_window_id": 576,
+    "left_start": 5772.489,
+    "left_end": 5782.489,
+    "right_start": 5782.489,
+    "right_end": 5792.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 576,
+    "right_window_id": 577,
+    "left_start": 5782.489,
+    "left_end": 5792.489,
+    "right_start": 5792.489,
+    "right_end": 5802.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 577,
+    "right_window_id": 578,
+    "left_start": 5792.489,
+    "left_end": 5802.489,
+    "right_start": 5802.489,
+    "right_end": 5812.489,
+    "similarity": 1.0000001192092896
+  },
+  {
+    "left_window_id": 578,
+    "right_window_id": 579,
+    "left_start": 5802.489,
+    "left_end": 5812.489,
+    "right_start": 5812.489,
+    "right_end": 5822.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 579,
+    "right_window_id": 580,
+    "left_start": 5812.489,
+    "left_end": 5822.489,
+    "right_start": 5822.489,
+    "right_end": 5832.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 580,
+    "right_window_id": 581,
+    "left_start": 5822.489,
+    "left_end": 5832.489,
+    "right_start": 5832.489,
+    "right_end": 5842.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 581,
+    "right_window_id": 582,
+    "left_start": 5832.489,
+    "left_end": 5842.489,
+    "right_start": 5842.489,
+    "right_end": 5852.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 582,
+    "right_window_id": 583,
+    "left_start": 5842.489,
+    "left_end": 5852.489,
+    "right_start": 5852.489,
+    "right_end": 5862.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 583,
+    "right_window_id": 584,
+    "left_start": 5852.489,
+    "left_end": 5862.489,
+    "right_start": 5862.489,
+    "right_end": 5872.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 584,
+    "right_window_id": 585,
+    "left_start": 5862.489,
+    "left_end": 5872.489,
+    "right_start": 5872.489,
+    "right_end": 5882.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 585,
+    "right_window_id": 586,
+    "left_start": 5872.489,
+    "left_end": 5882.489,
+    "right_start": 5882.489,
+    "right_end": 5892.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 586,
+    "right_window_id": 587,
+    "left_start": 5882.489,
+    "left_end": 5892.489,
+    "right_start": 5892.489,
+    "right_end": 5902.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 587,
+    "right_window_id": 588,
+    "left_start": 5892.489,
+    "left_end": 5902.489,
+    "right_start": 5902.489,
+    "right_end": 5912.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 588,
+    "right_window_id": 589,
+    "left_start": 5902.489,
+    "left_end": 5912.489,
+    "right_start": 5912.489,
+    "right_end": 5922.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 589,
+    "right_window_id": 590,
+    "left_start": 5912.489,
+    "left_end": 5922.489,
+    "right_start": 5922.489,
+    "right_end": 5932.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 590,
+    "right_window_id": 591,
+    "left_start": 5922.489,
+    "left_end": 5932.489,
+    "right_start": 5932.489,
+    "right_end": 5942.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 591,
+    "right_window_id": 592,
+    "left_start": 5932.489,
+    "left_end": 5942.489,
+    "right_start": 5942.489,
+    "right_end": 5952.489,
+    "similarity": 1.0
+  },
+  {
+    "left_window_id": 592,
+    "right_window_id": 593,
+    "left_start": 5942.489,
+    "left_end": 5952.489,
+    "right_start": 5952.489,
+    "right_end": 5962.489,
+    "similarity": 1.0
+  }
+]

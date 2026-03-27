@@ -1,0 +1,113 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 10,
+  "pred_count": 130,
+  "TP": 10,
+  "FP": 120,
+  "FN": 0,
+  "precision": 0.07692307692307693,
+  "recall": 1.0,
+  "f1": 0.14285714285714288,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 12,
+      "gt_time_str": "00:00:12",
+      "gt_title": "Data Collection Challenges",
+      "pred_index": 0,
+      "pred_time": 38.979,
+      "pred_similarity": 0.05733248591423035,
+      "abs_error_sec": 26.979
+    },
+    {
+      "gt_index": 1,
+      "gt_time": 255,
+      "gt_time_str": "00:04:15",
+      "gt_title": "Linear Regression",
+      "pred_index": 4,
+      "pred_time": 228.41,
+      "pred_similarity": 0.053356703370809555,
+      "abs_error_sec": 26.590000000000003
+    },
+    {
+      "gt_index": 2,
+      "gt_time": 542,
+      "gt_time_str": "00:09:02",
+      "gt_title": "Loss Functions (MSE)",
+      "pred_index": 14,
+      "pred_time": 555.75,
+      "pred_similarity": 0.08795489370822906,
+      "abs_error_sec": 13.75
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 945,
+      "gt_time_str": "00:15:45",
+      "gt_title": "Gradient Descent",
+      "pred_index": 25,
+      "pred_time": 932.34,
+      "pred_similarity": -0.0328403040766716,
+      "abs_error_sec": 12.659999999999968
+    },
+    {
+      "gt_index": 4,
+      "gt_time": 1390,
+      "gt_time_str": "00:23:10",
+      "gt_title": "Feature Engineering",
+      "pred_index": 39,
+      "pred_time": 1386.689,
+      "pred_similarity": 0.036985915154218674,
+      "abs_error_sec": 3.310999999999922
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 2120,
+      "gt_time_str": "00:35:20",
+      "gt_title": "Neural Networks Intro",
+      "pred_index": 58,
+      "pred_time": 2095.877,
+      "pred_similarity": 0.05855089798569679,
+      "abs_error_sec": 24.123000000000047
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 2892,
+      "gt_time_str": "00:48:12",
+      "gt_title": "Multi-Layer Perceptrons",
+      "pred_index": 80,
+      "pred_time": 2871.189,
+      "pred_similarity": 0.17997755110263824,
+      "abs_error_sec": 20.81100000000015
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 3725,
+      "gt_time_str": "01:02:05",
+      "gt_title": "Backpropagation",
+      "pred_index": 102,
+      "pred_time": 3700.31,
+      "pred_similarity": -0.03806503117084503,
+      "abs_error_sec": 24.690000000000055
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 4360,
+      "gt_time_str": "01:12:40",
+      "gt_title": "Python Demo",
+      "pred_index": 120,
+      "pred_time": 4374.779,
+      "pred_similarity": 0.10569430142641068,
+      "abs_error_sec": 14.779000000000451
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 4727,
+      "gt_time_str": "01:18:47",
+      "gt_title": "Conclusion",
+      "pred_index": 127,
+      "pred_time": 4705.1,
+      "pred_similarity": 0.0009683073731139302,
+      "abs_error_sec": 21.899999999999636
+    }
+  ]
+}

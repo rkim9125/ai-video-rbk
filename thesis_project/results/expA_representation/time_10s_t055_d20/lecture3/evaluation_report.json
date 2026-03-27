@@ -1,0 +1,43 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 10,
+  "pred_count": 33,
+  "TP": 3,
+  "FP": 30,
+  "FN": 7,
+  "precision": 0.09090909090909091,
+  "recall": 0.3,
+  "f1": 0.13953488372093023,
+  "matches": [
+    {
+      "gt_index": 2,
+      "gt_time": 542,
+      "gt_time_str": "00:09:02",
+      "gt_title": "Loss Functions (MSE)",
+      "pred_index": 1,
+      "pred_time": 542.51,
+      "pred_similarity": 0.49297720193862915,
+      "abs_error_sec": 0.5099999999999909
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 3725,
+      "gt_time_str": "01:02:05",
+      "gt_title": "Backpropagation",
+      "pred_index": 22,
+      "pred_time": 3702.51,
+      "pred_similarity": 0.49658530950546265,
+      "abs_error_sec": 22.48999999999978
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 4727,
+      "gt_time_str": "01:18:47",
+      "gt_title": "Conclusion",
+      "pred_index": 32,
+      "pred_time": 4722.51,
+      "pred_similarity": 0.5399941802024841,
+      "abs_error_sec": 4.489999999999782
+    }
+  ]
+}

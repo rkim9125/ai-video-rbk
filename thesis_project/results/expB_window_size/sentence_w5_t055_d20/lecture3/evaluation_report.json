@@ -1,0 +1,23 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 10,
+  "pred_count": 20,
+  "TP": 1,
+  "FP": 19,
+  "FN": 9,
+  "precision": 0.05,
+  "recall": 0.1,
+  "f1": 0.06666666666666667,
+  "matches": [
+    {
+      "gt_index": 7,
+      "gt_time": 3725,
+      "gt_time_str": "01:02:05",
+      "gt_title": "Backpropagation",
+      "pred_index": 12,
+      "pred_time": 3737.679,
+      "pred_similarity": 0.5024658441543579,
+      "abs_error_sec": 12.679000000000087
+    }
+  ]
+}

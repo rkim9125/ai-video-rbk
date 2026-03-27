@@ -1,0 +1,83 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 10,
+  "pred_count": 87,
+  "TP": 7,
+  "FP": 80,
+  "FN": 3,
+  "precision": 0.08045977011494253,
+  "recall": 0.7,
+  "f1": 0.14432989690721648,
+  "matches": [
+    {
+      "gt_index": 2,
+      "gt_time": 542,
+      "gt_time_str": "00:09:02",
+      "gt_title": "Loss Functions (MSE)",
+      "pred_index": 7,
+      "pred_time": 555.75,
+      "pred_similarity": 0.4517347514629364,
+      "abs_error_sec": 13.75
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 945,
+      "gt_time_str": "00:15:45",
+      "gt_title": "Gradient Descent",
+      "pred_index": 17,
+      "pred_time": 956.96,
+      "pred_similarity": 0.5266166925430298,
+      "abs_error_sec": 11.960000000000036
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 2120,
+      "gt_time_str": "00:35:20",
+      "gt_title": "Neural Networks Intro",
+      "pred_index": 34,
+      "pred_time": 2095.877,
+      "pred_similarity": 0.35492753982543945,
+      "abs_error_sec": 24.123000000000047
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 2892,
+      "gt_time_str": "00:48:12",
+      "gt_title": "Multi-Layer Perceptrons",
+      "pred_index": 52,
+      "pred_time": 2907.899,
+      "pred_similarity": 0.43267425894737244,
+      "abs_error_sec": 15.898999999999887
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 3725,
+      "gt_time_str": "01:02:05",
+      "gt_title": "Backpropagation",
+      "pred_index": 66,
+      "pred_time": 3737.679,
+      "pred_similarity": 0.505001962184906,
+      "abs_error_sec": 12.679000000000087
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 4360,
+      "gt_time_str": "01:12:40",
+      "gt_title": "Python Demo",
+      "pred_index": 76,
+      "pred_time": 4353.279,
+      "pred_similarity": 0.4868287146091461,
+      "abs_error_sec": 6.720999999999549
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 4727,
+      "gt_time_str": "01:18:47",
+      "gt_title": "Conclusion",
+      "pred_index": 85,
+      "pred_time": 4722.52,
+      "pred_similarity": 0.2801567018032074,
+      "abs_error_sec": 4.479999999999563
+    }
+  ]
+}

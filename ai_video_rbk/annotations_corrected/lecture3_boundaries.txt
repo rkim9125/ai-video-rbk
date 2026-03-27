@@ -1,0 +1,10 @@
+00:00:13  Data Collection Challenges
+00:04:15  Linear Regression
+00:09:02  Loss Functions (MSE)
+00:15:45  Gradient Descent
+00:23:10  Feature Engineering
+00:35:20  Neural Networks Intro
+00:48:12  Multi-Layer Perceptrons
+01:02:05  Backpropagation
+01:12:40  Python Demo
+01:18:47  Conclusion

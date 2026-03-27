@@ -1,0 +1,103 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 153,
+  "TP": 9,
+  "FP": 144,
+  "FN": 0,
+  "precision": 0.058823529411764705,
+  "recall": 1.0,
+  "f1": 0.1111111111111111,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 12,
+      "gt_time_str": "00:00:12",
+      "gt_title": "Review of Tutorials",
+      "pred_index": 0,
+      "pred_time": 38.95,
+      "pred_similarity": 0.04195314645767212,
+      "abs_error_sec": 26.950000000000003
+    },
+    {
+      "gt_index": 1,
+      "gt_time": 405,
+      "gt_time_str": "00:06:45",
+      "gt_title": "Image Data as Matrices",
+      "pred_index": 8,
+      "pred_time": 386.369,
+      "pred_similarity": 0.07829808443784714,
+      "abs_error_sec": 18.630999999999972
+    },
+    {
+      "gt_index": 2,
+      "gt_time": 920,
+      "gt_time_str": "00:15:20",
+      "gt_title": "CNN Introduction",
+      "pred_index": 23,
+      "pred_time": 906.679,
+      "pred_similarity": 0.13750500977039337,
+      "abs_error_sec": 13.321000000000026
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 1450,
+      "gt_time_str": "00:24:10",
+      "gt_title": "Convolution Operations",
+      "pred_index": 37,
+      "pred_time": 1425.819,
+      "pred_similarity": 0.11827389895915985,
+      "abs_error_sec": 24.18100000000004
+    },
+    {
+      "gt_index": 4,
+      "gt_time": 2335,
+      "gt_time_str": "00:38:55",
+      "gt_title": "Pooling Layers",
+      "pred_index": 61,
+      "pred_time": 2317.02,
+      "pred_similarity": 0.3693462312221527,
+      "abs_error_sec": 17.980000000000018
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 3135,
+      "gt_time_str": "00:52:15",
+      "gt_title": "Flattening and Fully Connected Layers",
+      "pred_index": 85,
+      "pred_time": 3109.949,
+      "pred_similarity": 0.0755511075258255,
+      "abs_error_sec": 25.05099999999993
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 3930,
+      "gt_time_str": "01:05:30",
+      "gt_title": "ReLU Activation",
+      "pred_index": 108,
+      "pred_time": 3905.61,
+      "pred_similarity": 0.021224386990070343,
+      "abs_error_sec": 24.389999999999873
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 4510,
+      "gt_time_str": "01:15:10",
+      "gt_title": "Model Building Workflow",
+      "pred_index": 124,
+      "pred_time": 4503.089,
+      "pred_similarity": 0.09787898510694504,
+      "abs_error_sec": 6.911000000000058
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 5140,
+      "gt_time_str": "01:25:40",
+      "gt_title": "Implementation Tips / Q&A",
+      "pred_index": 141,
+      "pred_time": 5129.799,
+      "pred_similarity": -0.014004253782331944,
+      "abs_error_sec": 10.201000000000022
+    }
+  ]
+}

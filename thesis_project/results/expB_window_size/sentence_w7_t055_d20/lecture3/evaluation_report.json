@@ -1,0 +1,23 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 10,
+  "pred_count": 3,
+  "TP": 1,
+  "FP": 2,
+  "FN": 9,
+  "precision": 0.3333333333333333,
+  "recall": 0.1,
+  "f1": 0.15384615384615383,
+  "matches": [
+    {
+      "gt_index": 1,
+      "gt_time": 255,
+      "gt_time_str": "00:04:15",
+      "gt_title": "Linear Regression",
+      "pred_index": 0,
+      "pred_time": 282.94,
+      "pred_similarity": 0.5022944211959839,
+      "abs_error_sec": 27.939999999999998
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 16,
+  "TP": 2,
+  "FP": 14,
+  "FN": 7,
+  "precision": 0.125,
+  "recall": 0.2222222222222222,
+  "f1": 0.16,
+  "matches": [
+    {
+      "gt_index": 3,
+      "gt_time": 930,
+      "gt_time_str": "00:15:30",
+      "gt_title": "Design Principles and MVP Approach",
+      "pred_index": 3,
+      "pred_time": 951.419,
+      "pred_similarity": 0.48807334899902344,
+      "abs_error_sec": 21.418999999999983
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 3819,
+      "gt_time_str": "01:03:39",
+      "gt_title": "Self-adaptive Systems and Complexity",
+      "pred_index": 12,
+      "pred_time": 3819.739,
+      "pred_similarity": 0.49807095527648926,
+      "abs_error_sec": 0.7390000000000327
+    }
+  ]
+}

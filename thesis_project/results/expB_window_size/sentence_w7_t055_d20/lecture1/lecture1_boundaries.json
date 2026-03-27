@@ -1,0 +1,14 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      355,
+      356
+    ],
+    "boundary_time": 1311.76,
+    "similarity": 0.4726675748825073,
+    "left_window_end": 1343.5,
+    "right_window_start": 1311.76,
+    "reason": "low_similarity_and_local_minimum"
+  }
+]

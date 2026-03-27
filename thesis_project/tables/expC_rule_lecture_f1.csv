@@ -1,0 +1,4 @@
+Rule,L1 F1,L2 F1,L3 F1,L4 F1,Avg F1
+Threshold only,0.0779,0.0816,0.0946,0.1022,0.0891
+Threshold + Local minima,0.087,0.0901,0.1061,0.0781,0.0903
+Threshold + Local minima + Min-distance,0.1132,0.1342,0.1443,0.102,0.1234

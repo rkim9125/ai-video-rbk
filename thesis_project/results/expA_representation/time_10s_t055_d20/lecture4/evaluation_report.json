@@ -1,0 +1,43 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 30,
+  "TP": 3,
+  "FP": 27,
+  "FN": 6,
+  "precision": 0.1,
+  "recall": 0.3333333333333333,
+  "f1": 0.15384615384615383,
+  "matches": [
+    {
+      "gt_index": 1,
+      "gt_time": 405,
+      "gt_time_str": "00:06:45",
+      "gt_title": "Image Data as Matrices",
+      "pred_index": 3,
+      "pred_time": 382.60900000000004,
+      "pred_similarity": 0.41191571950912476,
+      "abs_error_sec": 22.390999999999963
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 3930,
+      "gt_time_str": "01:05:30",
+      "gt_title": "ReLU Activation",
+      "pred_index": 20,
+      "pred_time": 3912.609,
+      "pred_similarity": 0.48192521929740906,
+      "abs_error_sec": 17.391000000000076
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 4510,
+      "gt_time_str": "01:15:10",
+      "gt_title": "Model Building Workflow",
+      "pred_index": 24,
+      "pred_time": 4522.609,
+      "pred_similarity": 0.45450955629348755,
+      "abs_error_sec": 12.609000000000378
+    }
+  ]
+}

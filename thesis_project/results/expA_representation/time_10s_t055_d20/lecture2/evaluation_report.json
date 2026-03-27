@@ -1,0 +1,23 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 11,
+  "pred_count": 47,
+  "TP": 1,
+  "FP": 46,
+  "FN": 10,
+  "precision": 0.02127659574468085,
+  "recall": 0.09090909090909091,
+  "f1": 0.034482758620689655,
+  "matches": [
+    {
+      "gt_index": 6,
+      "gt_time": 2672,
+      "gt_time_str": "00:44:32",
+      "gt_title": "Model Confidence and Prediction Metrics",
+      "pred_index": 15,
+      "pred_time": 2666.42,
+      "pred_similarity": 0.38525334000587463,
+      "abs_error_sec": 5.579999999999927
+    }
+  ]
+}

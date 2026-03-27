@@ -1,0 +1,5 @@
+Rule,Lecture,Precision,Recall,F1,Predicted Boundaries,Ground Truth Boundaries,tp,fp,fn,tolerance_sec
+threshold_localmin,lecture1,0.0465,0.6667,0.087,129,9,6,123,3,30.0
+threshold_localmin,lecture2,0.0474,0.9091,0.0901,211,11,10,201,1,30.0
+threshold_localmin,lecture3,0.0574,0.7,0.1061,122,10,7,115,3,30.0
+threshold_localmin,lecture4,0.042,0.5556,0.0781,119,9,5,114,4,30.0

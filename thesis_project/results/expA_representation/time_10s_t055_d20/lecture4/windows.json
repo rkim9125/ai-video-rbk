@@ -1,0 +1,3452 @@
+[
+  {
+    "window_id": 0,
+    "start": 12.609,
+    "end": 22.609,
+    "text": "<v Speaker 0>OK, there were also questions on how, how are they <v Speaker 0>designed and uh conceived, right, and so I think that, <v Speaker 0>I think that answers um it's quite clear now that"
+  },
+  {
+    "window_id": 1,
+    "start": 22.609,
+    "end": 32.609,
+    "text": "<v Speaker 0>I think that answers um it's quite clear now that <v Speaker 0>you've been through a few tutorials, right, very often when <v Speaker 0>you're coding this, um, in real life you just pull <v Speaker 0>the framework from a library, right?"
+  },
+  {
+    "window_id": 2,
+    "start": 32.609,
+    "end": 42.609,
+    "text": "<v Speaker 0>the framework from a library, right? <v Speaker 0>Um, but then obviously those libraries are embedded with, with, <v Speaker 0>um, some calculus and mathematical equations behind it."
+  },
+  {
+    "window_id": 3,
+    "start": 42.609,
+    "end": 52.609,
+    "text": "<v Speaker 0>um, some calculus and mathematical equations behind it. <v Speaker 0>Um, there are certain assumptions, you can call on those <v Speaker 0>parameters, obviously. <v Speaker 0>But if you're more advanced into, into the actual stack,"
+  },
+  {
+    "window_id": 4,
+    "start": 52.609,
+    "end": 62.609,
+    "text": "<v Speaker 0>you can then directly input your equations and today in <v Speaker 0>our lecture, we'll actually look um at how this can <v Speaker 0>be done as well, not, not the actual coding bit"
+  },
+  {
+    "window_id": 5,
+    "start": 62.609,
+    "end": 72.60900000000001,
+    "text": "<v Speaker 0>be done as well, not, not the actual coding bit <v Speaker 0>but how there's certain basic assumptions that is embedded in <v Speaker 0>those libraries, right, so if you're just doing it and <v Speaker 0>getting it done, right, you can just pull it off"
+  },
+  {
+    "window_id": 6,
+    "start": 72.60900000000001,
+    "end": 82.60900000000001,
+    "text": "<v Speaker 0>getting it done, right, you can just pull it off <v Speaker 0>from the library. <v Speaker 0>If you want to be more nuanced with the parameters <v Speaker 0>and assumptions, then you need to potentially change those um"
+  },
+  {
+    "window_id": 7,
+    "start": 82.60900000000001,
+    "end": 92.60900000000001,
+    "text": "<v Speaker 0>conditions. <v Speaker 0>So, for example, you know, rather than using Gaussian distribution <v Speaker 0>for everything that we're describing, you could use different distributions <v Speaker 0>and so forth."
+  },
+  {
+    "window_id": 8,
+    "start": 92.60900000000001,
+    "end": 102.60900000000001,
+    "text": "<v Speaker 0>There are questions about How this is compute, like, um, <v Speaker 0>how, how machine learning is different to conventional engineering models, <v Speaker 0>um, and Prel formulations is what traditionally happens, right?"
+  },
+  {
+    "window_id": 9,
+    "start": 102.60900000000001,
+    "end": 112.60900000000001,
+    "text": "<v Speaker 0>um, and Prel formulations is what traditionally happens, right? <v Speaker 0>So you, you define, say, basic physics equations, and then <v Speaker 0>you solve that. <v Speaker 0>But in a machine learning system, that's not necessarily the"
+  },
+  {
+    "window_id": 10,
+    "start": 112.60900000000001,
+    "end": 122.60900000000001,
+    "text": "<v Speaker 0>But in a machine learning system, that's not necessarily the <v Speaker 0>case. <v Speaker 0>Uh, there was a question on. <v Speaker 0>What what is theta, right, that's just a notation for"
+  },
+  {
+    "window_id": 11,
+    "start": 122.60900000000001,
+    "end": 132.609,
+    "text": "<v Speaker 0>What what is theta, right, that's just a notation for <v Speaker 0>the model itself. <v Speaker 0>It's a general notation, meaning that you could have theta <v Speaker 0>being as simple as a linear equation. <v Speaker 0>Or as complex as a polynomial, right, or any other"
+  },
+  {
+    "window_id": 12,
+    "start": 132.609,
+    "end": 142.609,
+    "text": "<v Speaker 0>Or as complex as a polynomial, right, or any other <v Speaker 0>sort of functions in between. <v Speaker 0>Um, There was a few questions on."
+  },
+  {
+    "window_id": 13,
+    "start": 142.609,
+    "end": 152.609,
+    "text": "<v Speaker 0>When do we accept They're unexplainable, right? <v Speaker 0>And we've been through this last week or at least <v Speaker 0>the week before, that machine learning nowadays is very probabilistic"
+  },
+  {
+    "window_id": 14,
+    "start": 152.609,
+    "end": 162.609,
+    "text": "<v Speaker 0>the week before, that machine learning nowadays is very probabilistic <v Speaker 0>and that not often can you fully explain, um, what <v Speaker 0>actually happens."
+  },
+  {
+    "window_id": 15,
+    "start": 162.609,
+    "end": 172.609,
+    "text": "<v Speaker 0>actually happens. <v Speaker 0>And so under what premise would you accept that being <v Speaker 0>the case, right? <v Speaker 0>Do you need to always explain what has happened in <v Speaker 0>the black box to then go, I trust this answer."
+  },
+  {
+    "window_id": 16,
+    "start": 172.609,
+    "end": 182.609,
+    "text": "<v Speaker 0>the black box to then go, I trust this answer. <v Speaker 0>Well, it depends, right, it depends on what you're doing. <v Speaker 0>If you're trying to make sales, right, if you're working <v Speaker 0>with Amazon, and perhaps or maybe, you know, less than"
+  },
+  {
+    "window_id": 17,
+    "start": 182.609,
+    "end": 192.609,
+    "text": "<v Speaker 0>with Amazon, and perhaps or maybe, you know, less than <v Speaker 0>that, you could be working for a local store, there's <v Speaker 0>um there's a machine learning. <v Speaker 0>Back in on the website and you're just trying to <v Speaker 0>predict sales, then perhaps you know, you just want to"
+  },
+  {
+    "window_id": 18,
+    "start": 192.609,
+    "end": 202.609,
+    "text": "<v Speaker 0>predict sales, then perhaps you know, you just want to <v Speaker 0>predict sales. <v Speaker 0>Right, you just want to make that job done. <v Speaker 0>You don't really need to explain how, you know, there's <v Speaker 0>false positives, there's false negatives, and so forth."
+  },
+  {
+    "window_id": 19,
+    "start": 202.609,
+    "end": 212.609,
+    "text": "<v Speaker 0>false positives, there's false negatives, and so forth. <v Speaker 0>If you're in a medical imaging um scenario or like <v Speaker 0>in the healthcare industry, then you don't want to get <v Speaker 0>it wrong. <v Speaker 0>And so under those situations, you might want to know"
+  },
+  {
+    "window_id": 20,
+    "start": 212.609,
+    "end": 222.609,
+    "text": "<v Speaker 0>And so under those situations, you might want to know <v Speaker 0>how machine learning, Came to the decision, right, and that <v Speaker 0>perhaps that is a fireball approach or maybe it's less <v Speaker 0>accurate and so forth."
+  },
+  {
+    "window_id": 21,
+    "start": 222.609,
+    "end": 232.609,
+    "text": "<v Speaker 0>accurate and so forth. <v Speaker 0>So that question on when would you accept um explanations, <v Speaker 0>uh, or and when you not need to explain, um,"
+  },
+  {
+    "window_id": 22,
+    "start": 232.609,
+    "end": 242.609,
+    "text": "<v Speaker 0>uh, or and when you not need to explain, um, <v Speaker 0>it's really depend on your case, on the situation. <v Speaker 0>Um, I think here is also another question on how <v Speaker 0>does it look like?"
+  },
+  {
+    "window_id": 23,
+    "start": 242.609,
+    "end": 252.609,
+    "text": "<v Speaker 0>does it look like? <v Speaker 0>What does it look like? <v Speaker 0>So I think going through your tutorials, you'll probably see <v Speaker 0>a lot more of that tangible piece, right? <v Speaker 0>So here, in, in our lectures, we talk about the"
+  },
+  {
+    "window_id": 24,
+    "start": 252.609,
+    "end": 262.60900000000004,
+    "text": "<v Speaker 0>So here, in, in our lectures, we talk about the <v Speaker 0>high level abstraction, you know, this is what you do, <v Speaker 0>this is what happens. <v Speaker 0>In the tutorial, you then put the pieces together, right, <v Speaker 0>and the, and the, So the first layer is to"
+  },
+  {
+    "window_id": 25,
+    "start": 262.60900000000004,
+    "end": 272.60900000000004,
+    "text": "<v Speaker 0>and the, and the, So the first layer is to <v Speaker 0>just pull the package down from the libraries, um, the <v Speaker 0>next layer could then be looking into the equations, optimising <v Speaker 0>the parameters, and then further on, if you're really into"
+  },
+  {
+    "window_id": 26,
+    "start": 272.60900000000004,
+    "end": 282.60900000000004,
+    "text": "<v Speaker 0>the parameters, and then further on, if you're really into <v Speaker 0>this, then you can look into using Tensorflow and other, <v Speaker 0>uh, packages to just codify or just directly um coat <v Speaker 0>your, your system that way."
+  },
+  {
+    "window_id": 27,
+    "start": 282.60900000000004,
+    "end": 292.60900000000004,
+    "text": "<v Speaker 0>your, your system that way. <v Speaker 0>Questions between supervised and unsupervised learning, um, what's the difference <v Speaker 0>between unknown known inputs?"
+  },
+  {
+    "window_id": 28,
+    "start": 292.60900000000004,
+    "end": 302.60900000000004,
+    "text": "<v Speaker 0>between unknown known inputs? <v Speaker 0>Well, basically, if you get a data set, right, and <v Speaker 0>you have no idea what the output is, that is <v Speaker 0>an unsupervised learning situation."
+  },
+  {
+    "window_id": 29,
+    "start": 302.60900000000004,
+    "end": 312.60900000000004,
+    "text": "<v Speaker 0>an unsupervised learning situation. <v Speaker 0>Uh, and I say no output in the sense that <v Speaker 0>you don't know how it's mapped. <v Speaker 0>Right, all you get is a bunch of inputs. <v Speaker 0>So if you look at um how the large language"
+  },
+  {
+    "window_id": 30,
+    "start": 312.60900000000004,
+    "end": 322.60900000000004,
+    "text": "<v Speaker 0>So if you look at um how the large language <v Speaker 0>model nowadays uh were assembled anyway, all they did was <v Speaker 0>just take a bunch of inputs from the internet, right, <v Speaker 0>every single commentary human has made dumped onto the internet,"
+  },
+  {
+    "window_id": 31,
+    "start": 322.60900000000004,
+    "end": 332.60900000000004,
+    "text": "<v Speaker 0>every single commentary human has made dumped onto the internet, <v Speaker 0>they grabbed that, and then they feed it into a <v Speaker 0>system, right, a system being some sort of equation that"
+  },
+  {
+    "window_id": 32,
+    "start": 332.60900000000004,
+    "end": 342.60900000000004,
+    "text": "<v Speaker 0>system, right, a system being some sort of equation that <v Speaker 0>takes all the parameters in there. <v Speaker 0>And then what happens? <v Speaker 0>Well, something happens in the in the equation and then <v Speaker 0>out comes, Groupings, right, and based on those groupings, they"
+  },
+  {
+    "window_id": 33,
+    "start": 342.60900000000004,
+    "end": 352.60900000000004,
+    "text": "<v Speaker 0>out comes, Groupings, right, and based on those groupings, they <v Speaker 0>can then feed it back and then regenerate and so <v Speaker 0>forth. <v Speaker 0>And then from that process, obviously it's a, it's a <v Speaker 0>lot more complex than just taking inputs, dumping equations and"
+  },
+  {
+    "window_id": 34,
+    "start": 352.60900000000004,
+    "end": 362.60900000000004,
+    "text": "<v Speaker 0>lot more complex than just taking inputs, dumping equations and <v Speaker 0>then coming up with groupings, but the essential understanding is <v Speaker 0>that in an unsupervised learning, all you get is that"
+  },
+  {
+    "window_id": 35,
+    "start": 362.60900000000004,
+    "end": 372.60900000000004,
+    "text": "<v Speaker 0>that in an unsupervised learning, all you get is that <v Speaker 0>input and then you're trying to triangulate or trying to <v Speaker 0>extrapolate what those groupings and um you know, are. <v Speaker 0>And so based on that, you're discovering the correlations, right,"
+  },
+  {
+    "window_id": 36,
+    "start": 372.60900000000004,
+    "end": 382.60900000000004,
+    "text": "<v Speaker 0>And so based on that, you're discovering the correlations, right, <v Speaker 0>and this is not quite the same as supervised learning <v Speaker 0>where you take an input and you know there's a <v Speaker 0>mapped out output."
+  },
+  {
+    "window_id": 37,
+    "start": 382.60900000000004,
+    "end": 392.60900000000004,
+    "text": "<v Speaker 0>So using the apple analogy, the other day, right, every <v Speaker 0>other week, we talk about, Um, if you have a <v Speaker 0>bunch of fruits like apples, you know, you can get <v Speaker 0>the measurement of the size, you can get the weight"
+  },
+  {
+    "window_id": 38,
+    "start": 392.60900000000004,
+    "end": 402.60900000000004,
+    "text": "<v Speaker 0>the measurement of the size, you can get the weight <v Speaker 0>of the apple, you can get the colour of the <v Speaker 0>of the shade of the redness, um, and then you, <v Speaker 0>you taste bite it, right, you have a bite and"
+  },
+  {
+    "window_id": 39,
+    "start": 402.60900000000004,
+    "end": 412.60900000000004,
+    "text": "<v Speaker 0>you taste bite it, right, you have a bite and <v Speaker 0>see how tasty it is. <v Speaker 0>And based on that, you have an output, right? <v Speaker 0>You know the input correlation, you know the output, and <v Speaker 0>then you're trying to develop the machine learning, the model"
+  },
+  {
+    "window_id": 40,
+    "start": 412.60900000000004,
+    "end": 422.60900000000004,
+    "text": "<v Speaker 0>then you're trying to develop the machine learning, the model <v Speaker 0>behind it all. <v Speaker 0>And from that point onwards, then you can use new <v Speaker 0>input, so I give you a new apple, give you <v Speaker 0>a size, shape, and so forth, and you can then"
+  },
+  {
+    "window_id": 41,
+    "start": 422.60900000000004,
+    "end": 432.60900000000004,
+    "text": "<v Speaker 0>a size, shape, and so forth, and you can then <v Speaker 0>forecast or predict. <v Speaker 0>How tasty it is. <v Speaker 0>So that's obviously the, the supervised learning approach. <v Speaker 0>So that's the, the difference between unknown, input and output,"
+  },
+  {
+    "window_id": 42,
+    "start": 432.60900000000004,
+    "end": 442.60900000000004,
+    "text": "<v Speaker 0>So that's the, the difference between unknown, input and output, <v Speaker 0>uh, and how that uh is generally named as supervised <v Speaker 0>and unsupervised training, um, you know, in your model development."
+  },
+  {
+    "window_id": 43,
+    "start": 442.60900000000004,
+    "end": 452.60900000000004,
+    "text": "<v Speaker 0>and unsupervised training, um, you know, in your model development. <v Speaker 0>There was a question on how GPUs is a profound <v Speaker 0>impact on AI models. <v Speaker 0>There's actually a pretty cool um video on YouTube, so"
+  },
+  {
+    "window_id": 44,
+    "start": 452.60900000000004,
+    "end": 462.60900000000004,
+    "text": "<v Speaker 0>There's actually a pretty cool um video on YouTube, so <v Speaker 0>you can go and Google it, maybe I'll put on <v Speaker 0>the URL here afterwards. <v Speaker 0>Um, but it's basically showcasing how parallel processing works."
+  },
+  {
+    "window_id": 45,
+    "start": 462.60900000000004,
+    "end": 472.60900000000004,
+    "text": "<v Speaker 0>Um, but it's basically showcasing how parallel processing works. <v Speaker 0>And what they really did was just paint a picture <v Speaker 0>using a paintball gun, uh, but you know the guys <v Speaker 0>from Mythbusters, they're quite eccentric, so."
+  },
+  {
+    "window_id": 46,
+    "start": 472.60900000000004,
+    "end": 482.60900000000004,
+    "text": "<v Speaker 0>from Mythbusters, they're quite eccentric, so. <v Speaker 0>What they did was, um, yeah, I think it's best <v Speaker 0>to, to look at it yourself, I find the clip <v Speaker 0>and put it in. <v Speaker 0>um but what what GPU allows, um, You know, this"
+  },
+  {
+    "window_id": 47,
+    "start": 482.60900000000004,
+    "end": 492.60900000000004,
+    "text": "<v Speaker 0>um but what what GPU allows, um, You know, this <v Speaker 0>area to proliferate is that they can do a lot <v Speaker 0>of parallel processing. <v Speaker 0>A lot of your matrixes, they need to be um"
+  },
+  {
+    "window_id": 48,
+    "start": 492.60900000000004,
+    "end": 502.60900000000004,
+    "text": "<v Speaker 0>A lot of your matrixes, they need to be um <v Speaker 0>computed for each individual elements, and they can effectively do <v Speaker 0>that, do that processing quite quickly, um, rather than subsequential"
+  },
+  {
+    "window_id": 49,
+    "start": 502.60900000000004,
+    "end": 512.609,
+    "text": "<v Speaker 0>that, do that processing quite quickly, um, rather than subsequential <v Speaker 0>CPU approach. <v Speaker 0>That was, um, that's one of the questions."
+  },
+  {
+    "window_id": 50,
+    "start": 512.609,
+    "end": 522.609,
+    "text": "<v Speaker 0>So there's another, there's a few questions on how they, <v Speaker 0>how, how students generally don't see how, you know, these <v Speaker 0>equations are embedded in the code. <v Speaker 0>But, uh, I think, again, because of your tutorials now,"
+  },
+  {
+    "window_id": 51,
+    "start": 522.609,
+    "end": 532.609,
+    "text": "<v Speaker 0>But, uh, I think, again, because of your tutorials now, <v Speaker 0>um, I think you'll be able to see how it's <v Speaker 0>an iterative cycle. <v Speaker 0>Once you have the equation, you're asking the code to <v Speaker 0>basically go in a loop to solve that, and then"
+  },
+  {
+    "window_id": 52,
+    "start": 532.609,
+    "end": 542.609,
+    "text": "<v Speaker 0>basically go in a loop to solve that, and then <v Speaker 0>outspit the maximum value of something or the minimum value <v Speaker 0>of something, right?"
+  },
+  {
+    "window_id": 53,
+    "start": 542.609,
+    "end": 552.609,
+    "text": "<v Speaker 0>Um, disadvantages of AI use in human development. <v Speaker 0>Not really sure what that means, maybe it's like, you <v Speaker 0>know, the use of AI."
+  },
+  {
+    "window_id": 54,
+    "start": 552.609,
+    "end": 562.609,
+    "text": "<v Speaker 0>know, the use of AI. <v Speaker 0>Yeah, I think maybe like, you know, how AI was <v Speaker 0>used in human, you know, societies."
+  },
+  {
+    "window_id": 55,
+    "start": 562.609,
+    "end": 572.609,
+    "text": "<v Speaker 0>used in human, you know, societies. <v Speaker 0>Uh, I think it's more, it's less of a logical <v Speaker 0>question. <v Speaker 0>Um, it's more like an ethical and philosophical question. <v Speaker 0>Um, AI, generally speaking, are just a bunch of mathematical"
+  },
+  {
+    "window_id": 56,
+    "start": 572.609,
+    "end": 582.609,
+    "text": "<v Speaker 0>Um, AI, generally speaking, are just a bunch of mathematical <v Speaker 0>equations, just like how you're solving physics or, or maths <v Speaker 0>or whatever, right? <v Speaker 0>It depends on the question you're asking it."
+  },
+  {
+    "window_id": 57,
+    "start": 582.609,
+    "end": 592.609,
+    "text": "<v Speaker 0>It depends on the question you're asking it. <v Speaker 0>So what are you trying to solve, is it medical <v Speaker 0>data, is it like, you know, traffic data, is it <v Speaker 0>climate, climate change, whatever it is, um. <v Speaker 0>I think there's a, there's a lot of tattering to"
+  },
+  {
+    "window_id": 58,
+    "start": 592.609,
+    "end": 602.609,
+    "text": "<v Speaker 0>I think there's a, there's a lot of tattering to <v Speaker 0>what you're trying to achieve here. <v Speaker 0>Um, so that was all the questions received through this <v Speaker 0>muddy cut."
+  },
+  {
+    "window_id": 59,
+    "start": 602.609,
+    "end": 612.609,
+    "text": "<v Speaker 0>Uh, implementation from week 1. <v Speaker 0>There's, there's also just a slight decline in question sets <v Speaker 0>from week 2 and week 3."
+  },
+  {
+    "window_id": 60,
+    "start": 612.609,
+    "end": 622.609,
+    "text": "<v Speaker 0>you know, week 2 we had, again, uh, supervised and <v Speaker 0>supervised learning, and then with 3 we had the nearest <v Speaker 0>neighbour, uh, question on how the distance is adjusted."
+  },
+  {
+    "window_id": 61,
+    "start": 622.609,
+    "end": 632.609,
+    "text": "<v Speaker 0>neighbour, uh, question on how the distance is adjusted. <v Speaker 0>Well, it's adjusted based on an inverse correlation. <v Speaker 0>To the actual nearest neighbour. <v Speaker 0>So if you remember, KNN was simply just the distance"
+  },
+  {
+    "window_id": 62,
+    "start": 632.609,
+    "end": 642.609,
+    "text": "<v Speaker 0>So if you remember, KNN was simply just the distance <v Speaker 0>between your nearest neighbours. <v Speaker 0>In the weighted version, you're inversing that you're biassing it, <v Speaker 0>right? <v Speaker 0>So, in a situation where you have different, uh, class"
+  },
+  {
+    "window_id": 63,
+    "start": 642.609,
+    "end": 652.609,
+    "text": "<v Speaker 0>So, in a situation where you have different, uh, class <v Speaker 0>examples, you might want to bias it, so then there <v Speaker 0>is a lot more representation. <v Speaker 0>OK, so I'll upload all this on canvas, I think"
+  },
+  {
+    "window_id": 64,
+    "start": 652.609,
+    "end": 662.609,
+    "text": "<v Speaker 0>OK, so I'll upload all this on canvas, I think <v Speaker 0>it's already in there, um, but yeah, that, that's. <v Speaker 0>What we have from the muddy cart. <v Speaker 0>Any questions so far?"
+  },
+  {
+    "window_id": 65,
+    "start": 662.609,
+    "end": 672.609,
+    "text": "<v Speaker 0>Any questions so far? <v Speaker 0>No? <v Speaker 0>OK. <v Speaker 0>All right. <v Speaker 0>Well, we'll start with today's lecture then. <v Speaker 0>OK."
+  },
+  {
+    "window_id": 66,
+    "start": 672.609,
+    "end": 682.609,
+    "text": "<v Speaker 0>So, what have we covered up to this point? <v Speaker 0>Well, we've talked about how. <v Speaker 0>Um, we have a CSV file, right, very often you're,"
+  },
+  {
+    "window_id": 67,
+    "start": 682.609,
+    "end": 692.609,
+    "text": "<v Speaker 0>Um, we have a CSV file, right, very often you're, <v Speaker 0>you, you get a, um, numerical data, right, as a <v Speaker 0>modality. <v Speaker 0>Obviously, in the, in the, you know, in the multi-modal"
+  },
+  {
+    "window_id": 68,
+    "start": 692.609,
+    "end": 702.609,
+    "text": "<v Speaker 0>Obviously, in the, in the, you know, in the multi-modal <v Speaker 0>world you have sound data, you have visual data through <v Speaker 0>images, videos and all that. <v Speaker 0>That is all represented using numbers. <v Speaker 0>And yes, you know, like a JPEG file will be"
+  },
+  {
+    "window_id": 69,
+    "start": 702.609,
+    "end": 712.609,
+    "text": "<v Speaker 0>And yes, you know, like a JPEG file will be <v Speaker 0>uh some sort of compression, but nonetheless, each pixel can <v Speaker 0>be represented. <v Speaker 0>As a numerical piece, and so those numerical pieces are"
+  },
+  {
+    "window_id": 70,
+    "start": 712.609,
+    "end": 722.609,
+    "text": "<v Speaker 0>As a numerical piece, and so those numerical pieces are <v Speaker 0>generally listed as columns in a flat file format like <v Speaker 0>a CSV comma denominated uh separated values."
+  },
+  {
+    "window_id": 71,
+    "start": 722.609,
+    "end": 732.609,
+    "text": "<v Speaker 0>a CSV comma denominated uh separated values. <v Speaker 0>So in each of those ones, you take a feature <v Speaker 0>and then using those features, you're trying to make a <v Speaker 0>prediction, right, you're trying to correlate that to an outcome."
+  },
+  {
+    "window_id": 72,
+    "start": 732.609,
+    "end": 742.609,
+    "text": "<v Speaker 0>prediction, right, you're trying to correlate that to an outcome. <v Speaker 0>And that's basically how machine learning, the general idea of <v Speaker 0>that. <v Speaker 0>There's obviously various different equations involved, various different models, various"
+  },
+  {
+    "window_id": 73,
+    "start": 742.609,
+    "end": 752.609,
+    "text": "<v Speaker 0>There's obviously various different equations involved, various different models, various <v Speaker 0>different layups, um, into how you want to make that <v Speaker 0>prediction, and so, um, we, we, we're going through that, <v Speaker 0>you know, slowly each week."
+  },
+  {
+    "window_id": 74,
+    "start": 752.609,
+    "end": 762.609,
+    "text": "<v Speaker 0>Uh, we talked about how to deal with missing datas, <v Speaker 0>right, in situations where sometimes you will have a CSV, <v Speaker 0>multiple roles, multiple columns, dimensions call it, there will be"
+  },
+  {
+    "window_id": 75,
+    "start": 762.609,
+    "end": 772.609,
+    "text": "<v Speaker 0>multiple roles, multiple columns, dimensions call it, there will be <v Speaker 0>some missing values. <v Speaker 0>Now those missing values, do you want to take the <v Speaker 0>whole row out? <v Speaker 0>Or do you want to fill those gaps with some"
+  },
+  {
+    "window_id": 76,
+    "start": 772.609,
+    "end": 782.609,
+    "text": "<v Speaker 0>Or do you want to fill those gaps with some <v Speaker 0>sort of average? <v Speaker 0>So we went through that last week. <v Speaker 0>Um, there's also categorical data, where, you know, you have"
+  },
+  {
+    "window_id": 77,
+    "start": 782.609,
+    "end": 792.609,
+    "text": "<v Speaker 0>Um, there's also categorical data, where, you know, you have <v Speaker 0>names of, say, suburbs or stations, you're then mapping it <v Speaker 0>to some numerical value, because equations deals with numbers, not"
+  },
+  {
+    "window_id": 78,
+    "start": 792.609,
+    "end": 802.609,
+    "text": "<v Speaker 0>to some numerical value, because equations deals with numbers, not <v Speaker 0>words. <v Speaker 0>So we must translate that into some numerical value. <v Speaker 0>Um, you don't want to put too many correlations or"
+  },
+  {
+    "window_id": 79,
+    "start": 802.609,
+    "end": 812.609,
+    "text": "<v Speaker 0>Um, you don't want to put too many correlations or <v Speaker 0>relationships between, The labels, right, categorical data may not actually <v Speaker 0>have relationships with another category. <v Speaker 0>So you can't just simply say, you know, apples are"
+  },
+  {
+    "window_id": 80,
+    "start": 812.609,
+    "end": 822.609,
+    "text": "<v Speaker 0>So you can't just simply say, you know, apples are <v Speaker 0>1 and oranges are 2, and bananas are 3, because <v Speaker 0>whilst that's a mapping, it's not actually representing the relationship,"
+  },
+  {
+    "window_id": 81,
+    "start": 822.609,
+    "end": 832.609,
+    "text": "<v Speaker 0>whilst that's a mapping, it's not actually representing the relationship, <v Speaker 0>right? <v Speaker 0>So what happens to 1.5 is that halfway between apple <v Speaker 0>and orange. <v Speaker 0>Right, so you don't want to have that cardinal value."
+  },
+  {
+    "window_id": 82,
+    "start": 832.609,
+    "end": 842.609,
+    "text": "<v Speaker 0>Right, so you don't want to have that cardinal value. <v Speaker 0>Um, between those, those labels. <v Speaker 0>So what we do is one hot in code. <v Speaker 0>So basically we create a new label column and it's"
+  },
+  {
+    "window_id": 83,
+    "start": 842.609,
+    "end": 852.609,
+    "text": "<v Speaker 0>So basically we create a new label column and it's <v Speaker 0>either 0 or 1, right? <v Speaker 0>1 being apple, 0 being not apple, right? <v Speaker 0>1 being um orange in the second column, and zero"
+  },
+  {
+    "window_id": 84,
+    "start": 852.609,
+    "end": 862.609,
+    "text": "<v Speaker 0>1 being um orange in the second column, and zero <v Speaker 0>not being not orange. <v Speaker 0>So that's how we deal with the encoding. <v Speaker 0>Um, we talked about how we can measure the performance"
+  },
+  {
+    "window_id": 85,
+    "start": 862.609,
+    "end": 872.609,
+    "text": "<v Speaker 0>Um, we talked about how we can measure the performance <v Speaker 0>of classifiers, right, and basically the model accuracy. <v Speaker 0>So remember how, There was this confusion table, right, confusion"
+  },
+  {
+    "window_id": 86,
+    "start": 872.609,
+    "end": 882.609,
+    "text": "<v Speaker 0>So remember how, There was this confusion table, right, confusion <v Speaker 0>matrix that represents all the positive values, positively predicted values, <v Speaker 0>uh, positively, negatively predicted values, right, and everything in between."
+  },
+  {
+    "window_id": 87,
+    "start": 882.609,
+    "end": 892.609,
+    "text": "<v Speaker 0>uh, positively, negatively predicted values, right, and everything in between. <v Speaker 0>And then based on those scorings, we can come up <v Speaker 0>with accuracy, precision and F1 values, um, and then if <v Speaker 0>you're burying the threshold, To each of those models, then"
+  },
+  {
+    "window_id": 88,
+    "start": 892.609,
+    "end": 902.609,
+    "text": "<v Speaker 0>you're burying the threshold, To each of those models, then <v Speaker 0>you can create the ROC curve, the area under that <v Speaker 0>curve is then determining how well your model or how"
+  },
+  {
+    "window_id": 89,
+    "start": 902.609,
+    "end": 912.609,
+    "text": "<v Speaker 0>curve is then determining how well your model or how <v Speaker 0>precise your model may be, or how sensitive your model <v Speaker 0>can be, right? <v Speaker 0>Um, we talked about different training testing splits."
+  },
+  {
+    "window_id": 90,
+    "start": 912.609,
+    "end": 922.609,
+    "text": "<v Speaker 0>Um, we talked about different training testing splits. <v Speaker 0>So in some situations, you want a minimum of 60% <v Speaker 0>training data. <v Speaker 0>But because if you have limited data source, you could"
+  },
+  {
+    "window_id": 91,
+    "start": 922.609,
+    "end": 932.609,
+    "text": "<v Speaker 0>But because if you have limited data source, you could <v Speaker 0>do some sort of intuitive or, uh, innovative approaches to <v Speaker 0>rotating those training sets. <v Speaker 0>So that's your CV cross validation approach, where you're taking"
+  },
+  {
+    "window_id": 92,
+    "start": 932.609,
+    "end": 942.609,
+    "text": "<v Speaker 0>So that's your CV cross validation approach, where you're taking <v Speaker 0>a junk, uh, a chunk of your data set and <v Speaker 0>breaking it up. <v Speaker 0>So instead of going, you know, 1st 20% is, well,"
+  },
+  {
+    "window_id": 93,
+    "start": 942.609,
+    "end": 952.609,
+    "text": "<v Speaker 0>So instead of going, you know, 1st 20% is, well, <v Speaker 0>1st 80% is your testing set, you then ferry that, <v Speaker 0>so, you know. <v Speaker 0>80, 20, and then you rotate it by 10, and"
+  },
+  {
+    "window_id": 94,
+    "start": 952.609,
+    "end": 962.609,
+    "text": "<v Speaker 0>80, 20, and then you rotate it by 10, and <v Speaker 0>so your next block will be, you know, the next <v Speaker 0>chunk and so forth. <v Speaker 0>And the, the, the whole reason to that is just <v Speaker 0>to minimise our overfeeding."
+  },
+  {
+    "window_id": 95,
+    "start": 962.609,
+    "end": 972.609,
+    "text": "<v Speaker 0>to minimise our overfeeding. <v Speaker 0>So note that if you fit your data, if you <v Speaker 0>fit your model to your data 100%, then you're mapping <v Speaker 0>out all the noise and the signal."
+  },
+  {
+    "window_id": 96,
+    "start": 972.609,
+    "end": 982.609,
+    "text": "<v Speaker 0>Which isn't desirable, right, because it cannot be generalised. <v Speaker 0>If you want to generalise it, then you need to <v Speaker 0>um make it less accurate in the mapping process."
+  },
+  {
+    "window_id": 97,
+    "start": 982.609,
+    "end": 992.609,
+    "text": "<v Speaker 0>um make it less accurate in the mapping process. <v Speaker 0>If it's all the way to the other side, right, <v Speaker 0>and unfitting situation, then you don't actually get a model <v Speaker 0>that can predict effectively."
+  },
+  {
+    "window_id": 98,
+    "start": 992.609,
+    "end": 1002.609,
+    "text": "<v Speaker 0>But there's a fine balance between them all. <v Speaker 0>We talked about Ka nearest neighbour, um. <v Speaker 0>Outputs can often be a hard or soft outputs."
+  },
+  {
+    "window_id": 99,
+    "start": 1002.609,
+    "end": 1012.609,
+    "text": "<v Speaker 0>Outputs can often be a hard or soft outputs. <v Speaker 0>So we talked about how categorically you might want to <v Speaker 0>say, OK, yes, it's, it's a, it's red, it's blue, <v Speaker 0>right, it's very absolute, but nothing in life is absolute."
+  },
+  {
+    "window_id": 100,
+    "start": 1012.609,
+    "end": 1022.609,
+    "text": "<v Speaker 0>right, it's very absolute, but nothing in life is absolute. <v Speaker 0>So it's probably more realistic to say, well, the probability <v Speaker 0>of it being red is 75%."
+  },
+  {
+    "window_id": 101,
+    "start": 1022.609,
+    "end": 1032.609,
+    "text": "<v Speaker 0>of it being red is 75%. <v Speaker 0>Right, and the probability of it being. <v Speaker 0>Blue is 25%, and therefore then, based on your percentage <v Speaker 0>or your threshold, right, you can then now determine whether"
+  },
+  {
+    "window_id": 102,
+    "start": 1032.609,
+    "end": 1042.609,
+    "text": "<v Speaker 0>or your threshold, right, you can then now determine whether <v Speaker 0>or not you should say it's red or blue, right, <v Speaker 0>in the, in the normal nominal case, you want that"
+  },
+  {
+    "window_id": 103,
+    "start": 1042.609,
+    "end": 1052.609,
+    "text": "<v Speaker 0>in the, in the normal nominal case, you want that <v Speaker 0>threshold to be 50%. <v Speaker 0>So anything more than 50% could be off one case, <v Speaker 0>anything more less than that could be off the other <v Speaker 0>case. <v Speaker 0>But in certain situations, you might want to draw the"
+  },
+  {
+    "window_id": 104,
+    "start": 1052.609,
+    "end": 1062.609,
+    "text": "<v Speaker 0>But in certain situations, you might want to draw the <v Speaker 0>threshold a bit higher. <v Speaker 0>So, you know, with the 75, 25 um example, you <v Speaker 0>could draw the threshold to be at 70%."
+  },
+  {
+    "window_id": 105,
+    "start": 1062.609,
+    "end": 1072.609,
+    "text": "<v Speaker 0>could draw the threshold to be at 70%. <v Speaker 0>So it's just over the threshold to be classed as <v Speaker 0>red, right, and vice versa to be to be blue."
+  },
+  {
+    "window_id": 106,
+    "start": 1072.609,
+    "end": 1082.609,
+    "text": "<v Speaker 0>red, right, and vice versa to be to be blue. <v Speaker 0>So adjusting the threshold allows you to adjust how sensitive <v Speaker 0>something is. <v Speaker 0>Um, and in your tutorials, I think you will have <v Speaker 0>went through all the psychic learn modules, um, the MAT"
+  },
+  {
+    "window_id": 107,
+    "start": 1082.609,
+    "end": 1092.609,
+    "text": "<v Speaker 0>went through all the psychic learn modules, um, the MAT <v Speaker 0>lab plot modules, and the NumPy modules. <v Speaker 0>So those should be quite, uh, self-explanatory."
+  },
+  {
+    "window_id": 108,
+    "start": 1092.609,
+    "end": 1102.609,
+    "text": "<v Speaker 0>So those should be quite, uh, self-explanatory. <v Speaker 0>So this is recap of last week. <v Speaker 0>And so, that brings us to this week."
+  },
+  {
+    "window_id": 109,
+    "start": 1102.609,
+    "end": 1112.609,
+    "text": "<v Speaker 0>So this week we're gonna be talking about conditional probabilities, <v Speaker 0>um. <v Speaker 0>You know, specifically the base uh rules, right, why this <v Speaker 0>is such a powerful um concept."
+  },
+  {
+    "window_id": 110,
+    "start": 1112.609,
+    "end": 1122.609,
+    "text": "<v Speaker 0>is such a powerful um concept. <v Speaker 0>I think up to this point, we've approached probability from <v Speaker 0>a freakinous approach where you basically go, well, here's 100,"
+  },
+  {
+    "window_id": 111,
+    "start": 1122.609,
+    "end": 1132.609,
+    "text": "<v Speaker 0>a freakinous approach where you basically go, well, here's 100, <v Speaker 0>here's a 100 potential outcome. <v Speaker 0>And you know, I can count 20% of that, 20% <v Speaker 0>is success or 80% is not, and so I can"
+  },
+  {
+    "window_id": 112,
+    "start": 1132.609,
+    "end": 1142.609,
+    "text": "<v Speaker 0>is success or 80% is not, and so I can <v Speaker 0>assign a 20% success as a probability of the outcome. <v Speaker 0>But what happens in a world where you can't do"
+  },
+  {
+    "window_id": 113,
+    "start": 1142.609,
+    "end": 1152.609,
+    "text": "<v Speaker 0>repeat experiments, right? <v Speaker 0>How do you assign probability to those? <v Speaker 0>Right, you haven't seen all the possible outcomes and so <v Speaker 0>you don't know what, what the, what the ratio could"
+  },
+  {
+    "window_id": 114,
+    "start": 1152.609,
+    "end": 1162.609,
+    "text": "<v Speaker 0>you don't know what, what the, what the ratio could <v Speaker 0>be, right? <v Speaker 0>Think of this like earthquakes, right, earthquake predictions, how do <v Speaker 0>they assign a value on, you know, this is gonna"
+  },
+  {
+    "window_id": 115,
+    "start": 1162.609,
+    "end": 1172.609,
+    "text": "<v Speaker 0>they assign a value on, you know, this is gonna <v Speaker 0>be like a 20% earthquake within the next year. <v Speaker 0>Because of whatever. <v Speaker 0>Have they seen millions of years of data including up <v Speaker 0>to this point, or, you know, excluding this point, they"
+  },
+  {
+    "window_id": 116,
+    "start": 1172.609,
+    "end": 1182.609,
+    "text": "<v Speaker 0>to this point, or, you know, excluding this point, they <v Speaker 0>may not have all that data. <v Speaker 0>So this is where conditional probability becomes quite useful as <v Speaker 0>a, as a framework to being able to uh derive"
+  },
+  {
+    "window_id": 117,
+    "start": 1182.609,
+    "end": 1192.609,
+    "text": "<v Speaker 0>a, as a framework to being able to uh derive <v Speaker 0>the equations to then be able to make some sort <v Speaker 0>of meaningful prediction based on limited observation."
+  },
+  {
+    "window_id": 118,
+    "start": 1192.609,
+    "end": 1202.609,
+    "text": "<v Speaker 0>of meaningful prediction based on limited observation. <v Speaker 0>Um, We talk about classification, using, uh, conditional probabilities and <v Speaker 0>maximising that is therefore then being able to predict what"
+  },
+  {
+    "window_id": 119,
+    "start": 1202.609,
+    "end": 1212.609,
+    "text": "<v Speaker 0>maximising that is therefore then being able to predict what <v Speaker 0>class something is, and maybe the regression, uh, approaches behind <v Speaker 0>that as well. <v Speaker 0>And then finally, we're talking about the Gaussian, uh, naive"
+  },
+  {
+    "window_id": 120,
+    "start": 1212.609,
+    "end": 1222.609,
+    "text": "<v Speaker 0>And then finally, we're talking about the Gaussian, uh, naive <v Speaker 0>based approach, um, which is a very common and very <v Speaker 0>effective and powerful classification tool. <v Speaker 0>Um, and I, I think you'll have, Somewhat of a"
+  },
+  {
+    "window_id": 121,
+    "start": 1222.609,
+    "end": 1232.609,
+    "text": "<v Speaker 0>Um, and I, I think you'll have, Somewhat of a <v Speaker 0>joy, if you can conceive of a of um example <v Speaker 0>and then implement this, just to demonstrate the code-based works <v Speaker 0>and that you can make some meaningful prediction from, from"
+  },
+  {
+    "window_id": 122,
+    "start": 1232.609,
+    "end": 1242.609,
+    "text": "<v Speaker 0>and that you can make some meaningful prediction from, from <v Speaker 0>that. <v Speaker 0>OK. <v Speaker 0>So probability of repeated observation. <v Speaker 0>Now as I saw previously hinted just then."
+  },
+  {
+    "window_id": 123,
+    "start": 1242.609,
+    "end": 1252.609,
+    "text": "<v Speaker 0>Now as I saw previously hinted just then. <v Speaker 0>In a situation where you can count the number of <v Speaker 0>times something happened. <v Speaker 0>Right, and enough of it so then it's representative, you"
+  },
+  {
+    "window_id": 124,
+    "start": 1252.609,
+    "end": 1262.609,
+    "text": "<v Speaker 0>Right, and enough of it so then it's representative, you <v Speaker 0>can simply denote that, you know, success observation over the <v Speaker 0>total number of times of of occurrences. <v Speaker 0>So think about, You know, die toss it."
+  },
+  {
+    "window_id": 125,
+    "start": 1262.609,
+    "end": 1272.609,
+    "text": "<v Speaker 0>So think about, You know, die toss it. <v Speaker 0>You have a pair of dies, you can roll the <v Speaker 0>numbers, you, you know there's um 6 sites to dies, <v Speaker 0>and so, and so you can assign a probability of"
+  },
+  {
+    "window_id": 126,
+    "start": 1272.609,
+    "end": 1282.609,
+    "text": "<v Speaker 0>and so, and so you can assign a probability of <v Speaker 0>that one, if it's a fair dies, that is, 1 <v Speaker 0>out of 6 is of a certain number. <v Speaker 0>You can derive that 1 out of 6 probability."
+  },
+  {
+    "window_id": 127,
+    "start": 1282.609,
+    "end": 1292.609,
+    "text": "<v Speaker 0>You can derive that 1 out of 6 probability. <v Speaker 0>By not knowing what the dice is and just keep <v Speaker 0>tossing it, like, say toss it 100 times, right? <v Speaker 0>Within the 100 times, you will come up to, you"
+  },
+  {
+    "window_id": 128,
+    "start": 1292.609,
+    "end": 1302.609,
+    "text": "<v Speaker 0>Within the 100 times, you will come up to, you <v Speaker 0>know, if you map out all the values and the <v Speaker 0>outcome, you'll probably get to a point where it's quite <v Speaker 0>close to 1 hour 6 being each of those numbers."
+  },
+  {
+    "window_id": 129,
+    "start": 1302.609,
+    "end": 1312.609,
+    "text": "<v Speaker 0>close to 1 hour 6 being each of those numbers. <v Speaker 0>You could even do this without, you know, for dies <v Speaker 0>that is not a fair die. <v Speaker 0>So there's a weighted loaded die, um, you could toss <v Speaker 0>it, you know, 1000 times, and then determine, What the"
+  },
+  {
+    "window_id": 130,
+    "start": 1312.609,
+    "end": 1322.609,
+    "text": "<v Speaker 0>it, you know, 1000 times, and then determine, What the <v Speaker 0>sites and the ratios are. <v Speaker 0>And so this, this pro population, uh, this approach to"
+  },
+  {
+    "window_id": 131,
+    "start": 1322.609,
+    "end": 1332.609,
+    "text": "<v Speaker 0>And so this, this pro population, uh, this approach to <v Speaker 0>deriving a probability uh ratio is for repeated observation. <v Speaker 0>So here we have an example, again, it's you waiting"
+  },
+  {
+    "window_id": 132,
+    "start": 1332.609,
+    "end": 1342.609,
+    "text": "<v Speaker 0>So here we have an example, again, it's you waiting <v Speaker 0>for a bus 100 times, 60 of those times it <v Speaker 0>came within 10 minutes, therefore you get a 60% accuracy <v Speaker 0>or chance of it arriving within 10 minutes."
+  },
+  {
+    "window_id": 133,
+    "start": 1342.609,
+    "end": 1352.609,
+    "text": "<v Speaker 0>Now if you do this long enough, you'll arrive to <v Speaker 0>a very um. <v Speaker 0>Accurate, right? <v Speaker 0>A, a very, uh, accurate, um, probability of what it"
+  },
+  {
+    "window_id": 134,
+    "start": 1352.609,
+    "end": 1362.609,
+    "text": "<v Speaker 0>A, a very, uh, accurate, um, probability of what it <v Speaker 0>should be. <v Speaker 0>So using that, that dye example, if you do it <v Speaker 0>10 times, you might, you might get some uneven value,"
+  },
+  {
+    "window_id": 135,
+    "start": 1362.609,
+    "end": 1372.609,
+    "text": "<v Speaker 0>10 times, you might, you might get some uneven value, <v Speaker 0>right, which is not 1/6. <v Speaker 0>It could be, could be more closer to, to any <v Speaker 0>number that's not that number."
+  },
+  {
+    "window_id": 136,
+    "start": 1372.609,
+    "end": 1382.609,
+    "text": "<v Speaker 0>Um, but if you do it a million times, then <v Speaker 0>I'm pretty sure for fair die anyway, uh, you will <v Speaker 0>get 1/6. <v Speaker 0>Uh, as a ratio. <v Speaker 0>And so This is uh this is basically saying probability"
+  },
+  {
+    "window_id": 137,
+    "start": 1382.609,
+    "end": 1392.609,
+    "text": "<v Speaker 0>And so This is uh this is basically saying probability <v Speaker 0>defined using limits. <v Speaker 0>As N approaches to infinity, you get really close to"
+  },
+  {
+    "window_id": 138,
+    "start": 1392.609,
+    "end": 1402.609,
+    "text": "<v Speaker 0>As N approaches to infinity, you get really close to <v Speaker 0>the, the ideal probability of that scenario, right? <v Speaker 0>So this is long run frequency, the law of large"
+  },
+  {
+    "window_id": 139,
+    "start": 1402.609,
+    "end": 1412.609,
+    "text": "<v Speaker 0>So this is long run frequency, the law of large <v Speaker 0>numbers basically determines this. <v Speaker 0>Now obviously I've kind of hinting that for a situation <v Speaker 0>where you have very limited observation. <v Speaker 0>That, that sort of approach really breaks down, right, because"
+  },
+  {
+    "window_id": 140,
+    "start": 1412.609,
+    "end": 1422.609,
+    "text": "<v Speaker 0>That, that sort of approach really breaks down, right, because <v Speaker 0>if you don't get enough of those observation, then how <v Speaker 0>do you determine the absolute um ratio of, of things."
+  },
+  {
+    "window_id": 141,
+    "start": 1422.609,
+    "end": 1432.609,
+    "text": "<v Speaker 0>do you determine the absolute um ratio of, of things. <v Speaker 0>So this brings us to a different thought experiment, which <v Speaker 0>is for non-repeating experiments. <v Speaker 0>Right, so what happens when we cannot measure everything?"
+  },
+  {
+    "window_id": 142,
+    "start": 1432.609,
+    "end": 1442.609,
+    "text": "<v Speaker 0>Right, so what happens when we cannot measure everything? <v Speaker 0>Well, it comes down to a few assumed knowledge, right? <v Speaker 0>You could either describe your system based on your, your,"
+  },
+  {
+    "window_id": 143,
+    "start": 1442.609,
+    "end": 1452.609,
+    "text": "<v Speaker 0>You could either describe your system based on your, your, <v Speaker 0>uh, understanding of that system, so if I give you <v Speaker 0>a piece, a dye, right, you're not, you're not sure <v Speaker 0>if it's a loaded die or a fair dye, you"
+  },
+  {
+    "window_id": 144,
+    "start": 1452.609,
+    "end": 1462.609,
+    "text": "<v Speaker 0>if it's a loaded die or a fair dye, you <v Speaker 0>can still see how many sites it is, right, you <v Speaker 0>can then say, OK, well, maybe I can measure each <v Speaker 0>of those loaded sections and determine an equation, um."
+  },
+  {
+    "window_id": 145,
+    "start": 1462.609,
+    "end": 1472.609,
+    "text": "<v Speaker 0>of those loaded sections and determine an equation, um. <v Speaker 0>And then sort of like, you know, postulate what would <v Speaker 0>be the outcome if I were to keep tossing this <v Speaker 0>and the, the, the site faces up and so forth."
+  },
+  {
+    "window_id": 146,
+    "start": 1472.609,
+    "end": 1482.609,
+    "text": "<v Speaker 0>and the, the, the site faces up and so forth. <v Speaker 0>So that's your very physics approach, right? <v Speaker 0>You can look at a system, you can determine the <v Speaker 0>equations, you can do a bunch of calculations with your"
+  },
+  {
+    "window_id": 147,
+    "start": 1482.609,
+    "end": 1492.609,
+    "text": "<v Speaker 0>equations, you can do a bunch of calculations with your <v Speaker 0>knowledge of the system. <v Speaker 0>You could also empirically look at the data, which is <v Speaker 0>what we just described, plus it 100 times, and just <v Speaker 0>statistically speaking, right, count the number of occurrences and then"
+  },
+  {
+    "window_id": 148,
+    "start": 1492.609,
+    "end": 1502.609,
+    "text": "<v Speaker 0>statistically speaking, right, count the number of occurrences and then <v Speaker 0>presume some ratio. <v Speaker 0>But there's also this third approach, which is what we <v Speaker 0>call basin approach."
+  },
+  {
+    "window_id": 149,
+    "start": 1502.609,
+    "end": 1512.609,
+    "text": "<v Speaker 0>call basin approach. <v Speaker 0>Is that, you assume that it is some value, and <v Speaker 0>then based on each of those, you know, uh experiments,"
+  },
+  {
+    "window_id": 150,
+    "start": 1512.609,
+    "end": 1522.609,
+    "text": "<v Speaker 0>then based on each of those, you know, uh experiments, <v Speaker 0>addition to that original, Um, probability assumption, you update your <v Speaker 0>system. <v Speaker 0>So you can assume each of those dye is like,"
+  },
+  {
+    "window_id": 151,
+    "start": 1522.609,
+    "end": 1532.609,
+    "text": "<v Speaker 0>So you can assume each of those dye is like, <v Speaker 0>you know. <v Speaker 0>I don't know, like 1/6, maybe not 16, maybe we <v Speaker 0>call it a four-sided die, maybe like a five-sided die, <v Speaker 0>right?"
+  },
+  {
+    "window_id": 152,
+    "start": 1532.609,
+    "end": 1542.609,
+    "text": "<v Speaker 0>And so it's 1/5, but maybe it's not 1/5 5th, <v Speaker 0>right? <v Speaker 0>It could be more like one side's loaded, so one <v Speaker 0>side's 1/6 and so forth. <v Speaker 0>Whatever it is, right?"
+  },
+  {
+    "window_id": 153,
+    "start": 1542.609,
+    "end": 1552.609,
+    "text": "<v Speaker 0>You toss it once and then you update your information <v Speaker 0>about that system. <v Speaker 0>And so this is a very effective way of, Basically <v Speaker 0>dealing with the world, right, in fact, you all do"
+  },
+  {
+    "window_id": 154,
+    "start": 1552.609,
+    "end": 1562.609,
+    "text": "<v Speaker 0>dealing with the world, right, in fact, you all do <v Speaker 0>it intuitively, right, say for example, on day one, going <v Speaker 0>to uni. <v Speaker 0>You go to the bus stop and you wait for"
+  },
+  {
+    "window_id": 155,
+    "start": 1562.609,
+    "end": 1572.609,
+    "text": "<v Speaker 0>You go to the bus stop and you wait for <v Speaker 0>the bus. <v Speaker 0>Right, first time you do it. <v Speaker 0>Um, maybe, maybe, you know, the bus comes slightly late, <v Speaker 0>and then next time you're like, OK, well I'll, I'll"
+  },
+  {
+    "window_id": 156,
+    "start": 1572.609,
+    "end": 1582.609,
+    "text": "<v Speaker 0>and then next time you're like, OK, well I'll, I'll <v Speaker 0>maybe come earlier, right, and you're adjusting your outcome, your <v Speaker 0>input to the situation. <v Speaker 0>And so, you know, the next day, you, you see"
+  },
+  {
+    "window_id": 157,
+    "start": 1582.609,
+    "end": 1592.609,
+    "text": "<v Speaker 0>And so, you know, the next day, you, you see <v Speaker 0>the bus coming slightly earlier, slightly later, and so forth, <v Speaker 0>and after 10 times, you kind of know roughly what <v Speaker 0>time to be at the bus stop to get on"
+  },
+  {
+    "window_id": 158,
+    "start": 1592.609,
+    "end": 1602.609,
+    "text": "<v Speaker 0>time to be at the bus stop to get on <v Speaker 0>that bus, right, so it's continuously updating. <v Speaker 0>Um, And you know, how do we formally represent this? <v Speaker 0>And this is what we're gonna go through today."
+  },
+  {
+    "window_id": 159,
+    "start": 1602.609,
+    "end": 1612.609,
+    "text": "<v Speaker 0>So does the probability change as we observe more outcomes? <v Speaker 0>Well, it should, your understanding of that system should change,"
+  },
+  {
+    "window_id": 160,
+    "start": 1612.609,
+    "end": 1622.609,
+    "text": "<v Speaker 0>Well, it should, your understanding of that system should change, <v Speaker 0>if anything. <v Speaker 0>Right, um, your, your understanding or like how confident you <v Speaker 0>are of that system should change because you've seen it <v Speaker 0>100 times, you've seen it a million times, right, therefore"
+  },
+  {
+    "window_id": 161,
+    "start": 1622.609,
+    "end": 1632.609,
+    "text": "<v Speaker 0>100 times, you've seen it a million times, right, therefore <v Speaker 0>you know this is within the range, and that confidence <v Speaker 0>interval captures everything."
+  },
+  {
+    "window_id": 162,
+    "start": 1632.609,
+    "end": 1642.609,
+    "text": "<v Speaker 0>OK. <v Speaker 0>So in order to sort of really understand this whole <v Speaker 0>process, we should go through a few key axioms, right,"
+  },
+  {
+    "window_id": 163,
+    "start": 1642.609,
+    "end": 1652.609,
+    "text": "<v Speaker 0>process, we should go through a few key axioms, right, <v Speaker 0>these are core principles, these are core sort of laws <v Speaker 0>um that a lot of the other equations can be <v Speaker 0>derived from."
+  },
+  {
+    "window_id": 164,
+    "start": 1652.609,
+    "end": 1662.609,
+    "text": "<v Speaker 0>And so in probability, there's 3 key axioms. <v Speaker 0>Um, that determines how things are, how things should be."
+  },
+  {
+    "window_id": 165,
+    "start": 1662.609,
+    "end": 1672.609,
+    "text": "<v Speaker 0>The first one is normalisation axiom which is basically the <v Speaker 0>probability of all sample space, right, omega here, capital omega <v Speaker 0>is representing all possible possibilities, right?"
+  },
+  {
+    "window_id": 166,
+    "start": 1672.609,
+    "end": 1682.609,
+    "text": "<v Speaker 0>is representing all possible possibilities, right? <v Speaker 0>It's a sample space. <v Speaker 0>It has to equal to one, meaning that. <v Speaker 0>Basically anything that can happen, right, if you sum up"
+  },
+  {
+    "window_id": 167,
+    "start": 1682.609,
+    "end": 1692.609,
+    "text": "<v Speaker 0>Basically anything that can happen, right, if you sum up <v Speaker 0>all the possible outcomes of things, they should all add <v Speaker 0>up to a probability of one, right?"
+  },
+  {
+    "window_id": 168,
+    "start": 1692.609,
+    "end": 1702.609,
+    "text": "<v Speaker 0>And that's just basically it it's kind of trivial, right? <v Speaker 0>It's basically saying that. <v Speaker 0>You know, What can happen can happen, what cannot happen. <v Speaker 0>We'll never be in the space, um, but you can"
+  },
+  {
+    "window_id": 169,
+    "start": 1702.609,
+    "end": 1712.609,
+    "text": "<v Speaker 0>We'll never be in the space, um, but you can <v Speaker 0>imagine what you cannot conceive is simply maybe just a <v Speaker 0>lack of understanding on how you see that probability space,"
+  },
+  {
+    "window_id": 170,
+    "start": 1712.609,
+    "end": 1722.609,
+    "text": "<v Speaker 0>lack of understanding on how you see that probability space, <v Speaker 0>right? <v Speaker 0>The second one is non-negative, non-negativity. <v Speaker 0>Which is the probability of any event A."
+  },
+  {
+    "window_id": 171,
+    "start": 1722.609,
+    "end": 1732.609,
+    "text": "<v Speaker 0>Which is the probability of any event A. <v Speaker 0>Must be able to, must have a probability of more <v Speaker 0>than 0, but less than 1. <v Speaker 0>Right, so the worst case that can happen is a"
+  },
+  {
+    "window_id": 172,
+    "start": 1732.609,
+    "end": 1742.609,
+    "text": "<v Speaker 0>Right, so the worst case that can happen is a <v Speaker 0>zero probability. <v Speaker 0>OK, never happening like at all. <v Speaker 0>Again, it sounds trivial, but you'll see how all this"
+  },
+  {
+    "window_id": 173,
+    "start": 1742.609,
+    "end": 1752.609,
+    "text": "<v Speaker 0>Again, it sounds trivial, but you'll see how all this <v Speaker 0>sort of adds up in the, in the very end. <v Speaker 0>And then finally, you have the additivity, which is Event <v Speaker 0>A and B."
+  },
+  {
+    "window_id": 174,
+    "start": 1752.609,
+    "end": 1762.609,
+    "text": "<v Speaker 0>A and B. <v Speaker 0>Right, given that it's a disjoint event, so whatever that <v Speaker 0>happens in event A cannot simultaneously be defined as happening <v Speaker 0>for event B."
+  },
+  {
+    "window_id": 175,
+    "start": 1762.609,
+    "end": 1772.609,
+    "text": "<v Speaker 0>for event B. <v Speaker 0>Right, so you can represent the two possible events in <v Speaker 0>this sample space as two circles that are disjointed, or"
+  },
+  {
+    "window_id": 176,
+    "start": 1772.609,
+    "end": 1782.609,
+    "text": "<v Speaker 0>this sample space as two circles that are disjointed, or <v Speaker 0>simply mutually exclusive. <v Speaker 0>So, you know, what's the chance of people sitting in <v Speaker 0>all these chairs here? <v Speaker 0>Right, well, if someone's sitting in this chair, they can't"
+  },
+  {
+    "window_id": 177,
+    "start": 1782.609,
+    "end": 1792.609,
+    "text": "<v Speaker 0>Right, well, if someone's sitting in this chair, they can't <v Speaker 0>simultaneously be sitting in that chair. <v Speaker 0>Right, so those two events are going to be disjointed. <v Speaker 0>And so from this point, you know what."
+  },
+  {
+    "window_id": 178,
+    "start": 1792.609,
+    "end": 1802.609,
+    "text": "<v Speaker 0>And so from this point, you know what. <v Speaker 0>Probability of A or B happening is simply the probability <v Speaker 0>of. <v Speaker 0>Event A Plus probability of event B."
+  },
+  {
+    "window_id": 179,
+    "start": 1802.609,
+    "end": 1812.609,
+    "text": "<v Speaker 0>Event A Plus probability of event B. <v Speaker 0>So what's the chance of those two chairs, you know, <v Speaker 0>either of those chairs being filled, right, using that example"
+  },
+  {
+    "window_id": 180,
+    "start": 1812.609,
+    "end": 1822.609,
+    "text": "<v Speaker 0>either of those chairs being filled, right, using that example <v Speaker 0>just then. <v Speaker 0>Well, it's the probability of this chair being filled, plus <v Speaker 0>that chair being filled. <v Speaker 0>So if you sum, you know, the, the whole lecture <v Speaker 0>hall as probabilities of, you know, each of the chairs"
+  },
+  {
+    "window_id": 181,
+    "start": 1822.609,
+    "end": 1832.609,
+    "text": "<v Speaker 0>hall as probabilities of, you know, each of the chairs <v Speaker 0>being filled, well, the sum of everything, right, meaning that <v Speaker 0>what is the chance of each of these chairs being <v Speaker 0>filled."
+  },
+  {
+    "window_id": 182,
+    "start": 1832.609,
+    "end": 1842.609,
+    "text": "<v Speaker 0>By people is simply just the one over however many <v Speaker 0>spaces there is here, um, you know, as a summative <v Speaker 0>formulation."
+  },
+  {
+    "window_id": 183,
+    "start": 1842.609,
+    "end": 1852.609,
+    "text": "<v Speaker 0>And this is only happening if it's a a. <v Speaker 0>Yeah, if, if A and B are mutually exclusive. <v Speaker 0>OK, it doesn't include what can happen for both situations."
+  },
+  {
+    "window_id": 184,
+    "start": 1852.609,
+    "end": 1862.609,
+    "text": "<v Speaker 0>OK, it doesn't include what can happen for both situations. <v Speaker 0>Right, which is the very final case. <v Speaker 0>So using this overlapping Venn diagram, you can see what"
+  },
+  {
+    "window_id": 185,
+    "start": 1862.609,
+    "end": 1872.609,
+    "text": "<v Speaker 0>So using this overlapping Venn diagram, you can see what <v Speaker 0>we're talking about. <v Speaker 0>For event A to happen and even B to happen <v Speaker 0>where they're both mutually exclusive, they're separate circle, right, quite,"
+  },
+  {
+    "window_id": 186,
+    "start": 1872.609,
+    "end": 1882.609,
+    "text": "<v Speaker 0>where they're both mutually exclusive, they're separate circle, right, quite, <v Speaker 0>quite trivial. <v Speaker 0>What can happen for both A and B, so for <v Speaker 0>example, what's the chance of you wearing blue today and"
+  },
+  {
+    "window_id": 187,
+    "start": 1882.609,
+    "end": 1892.609,
+    "text": "<v Speaker 0>example, what's the chance of you wearing blue today and <v Speaker 0>the fact that you're seated in this chair, right? <v Speaker 0>Well, they're not mutually exclusive, you could sit in this <v Speaker 0>chair and be wearing green, pink, purple."
+  },
+  {
+    "window_id": 188,
+    "start": 1892.609,
+    "end": 1902.609,
+    "text": "<v Speaker 0>chair and be wearing green, pink, purple. <v Speaker 0>You know, shirt or whatever. <v Speaker 0>But you can have both situation both conditions actually being <v Speaker 0>met as well."
+  },
+  {
+    "window_id": 189,
+    "start": 1902.609,
+    "end": 1912.609,
+    "text": "<v Speaker 0>So that's mutually non-exclusive. <v Speaker 0>And in that case, it's simply the over the intersect <v Speaker 0>between those two men. <v Speaker 0>Then you have A or B, which is that to"
+  },
+  {
+    "window_id": 190,
+    "start": 1912.609,
+    "end": 1922.609,
+    "text": "<v Speaker 0>Then you have A or B, which is that to <v Speaker 0>chance situations, so if a person comes in, what's the <v Speaker 0>probability of them sitting in any of those spaces? <v Speaker 0>Well, it's just the, the summation of this probability."
+  },
+  {
+    "window_id": 191,
+    "start": 1922.609,
+    "end": 1932.609,
+    "text": "<v Speaker 0>Well, it's just the, the summation of this probability. <v Speaker 0>And the final case is more tricky, which is this <v Speaker 0>conditional probability. <v Speaker 0>What is the chance of this happening given that, OK,"
+  },
+  {
+    "window_id": 192,
+    "start": 1932.609,
+    "end": 1942.609,
+    "text": "<v Speaker 0>What is the chance of this happening given that, OK, <v Speaker 0>so what's the chance of. <v Speaker 0>You're sitting in this chair, given that you're wearing blue <v Speaker 0>or something, right, it's not a good mapping of it,"
+  },
+  {
+    "window_id": 193,
+    "start": 1942.609,
+    "end": 1952.609,
+    "text": "<v Speaker 0>or something, right, it's not a good mapping of it, <v Speaker 0>um. <v Speaker 0>But you know it is conditional on it, so for <v Speaker 0>example, if there's only one space there, what's the chance <v Speaker 0>of someone coming late and then sitting in that chair?"
+  },
+  {
+    "window_id": 194,
+    "start": 1952.609,
+    "end": 1962.609,
+    "text": "<v Speaker 0>Right. <v Speaker 0>So the probability of independent events. <v Speaker 0>That are events that do not influence each other, OK,"
+  },
+  {
+    "window_id": 195,
+    "start": 1962.609,
+    "end": 1972.609,
+    "text": "<v Speaker 0>That are events that do not influence each other, OK, <v Speaker 0>so. <v Speaker 0>You can imagine two events, A and B, that are <v Speaker 0>independent. <v Speaker 0>Given that you know knowledge of event A, it does"
+  },
+  {
+    "window_id": 196,
+    "start": 1972.609,
+    "end": 1982.609,
+    "text": "<v Speaker 0>Given that you know knowledge of event A, it does <v Speaker 0>not influence event B. <v Speaker 0>So using a uh deck of cards for example. <v Speaker 0>If I were to draw, if I were to draw"
+  },
+  {
+    "window_id": 197,
+    "start": 1982.609,
+    "end": 1992.609,
+    "text": "<v Speaker 0>If I were to draw, if I were to draw <v Speaker 0>the next card and I go, you know, uh uh. <v Speaker 0>King of hearts or something, or a king, right, if, <v Speaker 0>if I tell you the next card is a is"
+  },
+  {
+    "window_id": 198,
+    "start": 1992.609,
+    "end": 2002.609,
+    "text": "<v Speaker 0>if I tell you the next card is a is <v Speaker 0>a it's a, it's a king card, right? <v Speaker 0>That's 1 in 13 chance, but it doesn't actually give <v Speaker 0>you more information as to which suit it is."
+  },
+  {
+    "window_id": 199,
+    "start": 2002.609,
+    "end": 2012.609,
+    "text": "<v Speaker 0>you more information as to which suit it is. <v Speaker 0>Right, because the suit it could still be 1 out <v Speaker 0>of 4. <v Speaker 0>And so that's a very clear example of."
+  },
+  {
+    "window_id": 200,
+    "start": 2012.609,
+    "end": 2022.609,
+    "text": "<v Speaker 0>The two independent events, the suit, and then also the, <v Speaker 0>the, the number on the, on the uh on the <v Speaker 0>actual club on the."
+  },
+  {
+    "window_id": 201,
+    "start": 2022.609,
+    "end": 2032.609,
+    "text": "<v Speaker 0>What do you call it the Yeah, the, the number, <v Speaker 0>right? <v Speaker 0>So these two events are independent. <v Speaker 0>And so Can you make some sort of assumption?"
+  },
+  {
+    "window_id": 202,
+    "start": 2032.609,
+    "end": 2042.609,
+    "text": "<v Speaker 0>And so Can you make some sort of assumption? <v Speaker 0>Um, whether or not. <v Speaker 0>You know, if I draw one card, I can determine <v Speaker 0>what the other suit is."
+  },
+  {
+    "window_id": 203,
+    "start": 2042.609,
+    "end": 2052.609,
+    "text": "<v Speaker 0>what the other suit is. <v Speaker 0>Well, not necessarily, right? <v Speaker 0>So whether or not we know the cut of an <v Speaker 0>ace, the probability of it being a spade remains 1"
+  },
+  {
+    "window_id": 204,
+    "start": 2052.609,
+    "end": 2062.609,
+    "text": "<v Speaker 0>ace, the probability of it being a spade remains 1 <v Speaker 0>out of 4, meaning that A and B are independent. <v Speaker 0>This independency is quite important because very seldom do you <v Speaker 0>see the real world where you capture the different dimensions"
+  },
+  {
+    "window_id": 205,
+    "start": 2062.609,
+    "end": 2072.609,
+    "text": "<v Speaker 0>see the real world where you capture the different dimensions <v Speaker 0>and the features are actually being independent. <v Speaker 0>Right, more or less they're quite correlated, but you just <v Speaker 0>don't know the correlation."
+  },
+  {
+    "window_id": 206,
+    "start": 2072.609,
+    "end": 2082.609,
+    "text": "<v Speaker 0>don't know the correlation. <v Speaker 0>You don't know how each of those are influencing each <v Speaker 0>other. <v Speaker 0>But nonetheless, right, in order for the formulations to work, <v Speaker 0>there is a certain base assumption that you have to"
+  },
+  {
+    "window_id": 207,
+    "start": 2082.609,
+    "end": 2092.609,
+    "text": "<v Speaker 0>there is a certain base assumption that you have to <v Speaker 0>assume that it is independent. <v Speaker 0>The independency actually makes the computer a lot easier because <v Speaker 0>you assume there's no correlation, therefore you can approach it"
+  },
+  {
+    "window_id": 208,
+    "start": 2092.609,
+    "end": 2102.609,
+    "text": "<v Speaker 0>you assume there's no correlation, therefore you can approach it <v Speaker 0>with some rudimentary and hence the naive phase, the naive <v Speaker 0>bit, right, there's a certain naivety. <v Speaker 0>Um, in, in the assumption of the system."
+  },
+  {
+    "window_id": 209,
+    "start": 2102.609,
+    "end": 2112.609,
+    "text": "<v Speaker 0>Um, in, in the assumption of the system. <v Speaker 0>Um, And yeah, like it it without, without that soft <v Speaker 0>premise, then a lot of the maths will not work. <v Speaker 0>So here, knowing that the 1st 3 flips were heads,"
+  },
+  {
+    "window_id": 210,
+    "start": 2112.609,
+    "end": 2122.609,
+    "text": "<v Speaker 0>So here, knowing that the 1st 3 flips were heads, <v Speaker 0>does not change the probability of the 4th 1, right? <v Speaker 0>Again, this is a demonstration of the independence. <v Speaker 0>Flipping coins, a sequence of coins, right?"
+  },
+  {
+    "window_id": 211,
+    "start": 2122.609,
+    "end": 2132.609,
+    "text": "<v Speaker 0>Flipping coins, a sequence of coins, right? <v Speaker 0>Not that you're gonna flip a head and then the <v Speaker 0>next one's gonna be a tail, right? <v Speaker 0>Because then you can just stack up the, the odds"
+  },
+  {
+    "window_id": 212,
+    "start": 2132.609,
+    "end": 2142.609,
+    "text": "<v Speaker 0>Because then you can just stack up the, the odds <v Speaker 0>saying, well, since I flipped 4 coins being heads, the <v Speaker 0>last, the next one must be a tail. <v Speaker 0>Right. <v Speaker 0>Does anyone go to like the casino?"
+  },
+  {
+    "window_id": 213,
+    "start": 2142.609,
+    "end": 2152.609,
+    "text": "<v Speaker 0>Does anyone go to like the casino? <v Speaker 0>Just, just out of curiosity? <v Speaker 0>Yeah. <v Speaker 0>No. <v Speaker 0>OK, alright, well, don't start. <v Speaker 0>But nonetheless, right, a lot of probability, um, came from"
+  },
+  {
+    "window_id": 214,
+    "start": 2152.609,
+    "end": 2162.609,
+    "text": "<v Speaker 0>But nonetheless, right, a lot of probability, um, came from <v Speaker 0>that world. <v Speaker 0>So if you ever do go, right, you'll notice that <v Speaker 0>there's always these gamblers, right, trying to mark down numbers <v Speaker 0>like in a background, right, they somehow thinks that things"
+  },
+  {
+    "window_id": 215,
+    "start": 2162.609,
+    "end": 2172.609,
+    "text": "<v Speaker 0>like in a background, right, they somehow thinks that things <v Speaker 0>are correlated, but it's not really, is it? <v Speaker 0>You know, they go red, red, red, and then they <v Speaker 0>think the next one must be black."
+  },
+  {
+    "window_id": 216,
+    "start": 2172.609,
+    "end": 2182.609,
+    "text": "<v Speaker 0>think the next one must be black. <v Speaker 0>Right, there is actually no logic to that. <v Speaker 0>But it's a superstitious thing, right? <v Speaker 0>You know, they go, oh well, it must be like <v Speaker 0>after 5 reds, it has to be black cause the"
+  },
+  {
+    "window_id": 217,
+    "start": 2182.609,
+    "end": 2192.609,
+    "text": "<v Speaker 0>after 5 reds, it has to be black cause the <v Speaker 0>law of large numbers dictates that it's an even, even <v Speaker 0>split, right, for a, for a blackjack, so, well, not <v Speaker 0>blackjack, baccarat gang in a way."
+  },
+  {
+    "window_id": 218,
+    "start": 2192.609,
+    "end": 2202.609,
+    "text": "<v Speaker 0>blackjack, baccarat gang in a way. <v Speaker 0>But again, there's no guarantee. <v Speaker 0>So that's one of the fallacies that people often make, <v Speaker 0>right, that things that aren't correlated or aren't dependent on"
+  },
+  {
+    "window_id": 219,
+    "start": 2202.609,
+    "end": 2212.609,
+    "text": "<v Speaker 0>right, that things that aren't correlated or aren't dependent on <v Speaker 0>each other, they make it as such it is. <v Speaker 0>Alright, so this is a. <v Speaker 0>This is an interesting one."
+  },
+  {
+    "window_id": 220,
+    "start": 2212.609,
+    "end": 2222.609,
+    "text": "<v Speaker 0>This is an interesting one. <v Speaker 0>So the, the question is, here's a trivia question, can <v Speaker 0>mutually exclusive events be independent?"
+  },
+  {
+    "window_id": 221,
+    "start": 2222.609,
+    "end": 2232.609,
+    "text": "<v Speaker 0>If you think about it, right? <v Speaker 0>The mutually exclusive events are the two events, A and <v Speaker 0>B, not overlapping each other."
+  },
+  {
+    "window_id": 222,
+    "start": 2232.609,
+    "end": 2242.609,
+    "text": "<v Speaker 0>And they'd be independent. <v Speaker 0>Well, I think it's only under certain situations they are, <v Speaker 0>right, um."
+  },
+  {
+    "window_id": 223,
+    "start": 2242.609,
+    "end": 2252.609,
+    "text": "<v Speaker 0>right, um. <v Speaker 0>But basically, you know, you can, you can go and <v Speaker 0>think about that because, you know, telling you distributor doesn't <v Speaker 0>actually help you."
+  },
+  {
+    "window_id": 224,
+    "start": 2252.609,
+    "end": 2262.609,
+    "text": "<v Speaker 0>Understand the, the situation. <v Speaker 0>But go off and, and see, see what that is <v Speaker 0>and come back with an answer next week. <v Speaker 0>Now if you look at For those two, so what"
+  },
+  {
+    "window_id": 225,
+    "start": 2262.609,
+    "end": 2272.609,
+    "text": "<v Speaker 0>Now if you look at For those two, so what <v Speaker 0>we talked about here is probability of independent events. <v Speaker 0>So what happens to the probability of two independent events,"
+  },
+  {
+    "window_id": 226,
+    "start": 2272.609,
+    "end": 2282.609,
+    "text": "<v Speaker 0>right? <v Speaker 0>The joint probability of something happening. <v Speaker 0>It's not the same as the overlapping ones, right, where <v Speaker 0>both can happen is, You know, separate."
+  },
+  {
+    "window_id": 227,
+    "start": 2282.609,
+    "end": 2292.609,
+    "text": "<v Speaker 0>both can happen is, You know, separate. <v Speaker 0>What can happen here and can happen there. <v Speaker 0>Right, now the, the likelihood of two events happening together."
+  },
+  {
+    "window_id": 228,
+    "start": 2292.609,
+    "end": 2302.609,
+    "text": "<v Speaker 0>Right, now the, the likelihood of two events happening together. <v Speaker 0>Right, given that there's an independent event. <v Speaker 0>Will be denoted as event probability of A times probability <v Speaker 0>of B."
+  },
+  {
+    "window_id": 229,
+    "start": 2302.609,
+    "end": 2312.609,
+    "text": "<v Speaker 0>of B. <v Speaker 0>So the probability of A and B in this case <v Speaker 0>equals to probability of likely of A times likely of"
+  },
+  {
+    "window_id": 230,
+    "start": 2312.609,
+    "end": 2322.609,
+    "text": "<v Speaker 0>equals to probability of likely of A times likely of <v Speaker 0>B. <v Speaker 0>Which is the probability of both A and B occurring <v Speaker 0>at the same time, and this means that the independent <v Speaker 0>events, the joint probability is simply the product."
+  },
+  {
+    "window_id": 231,
+    "start": 2322.609,
+    "end": 2332.609,
+    "text": "<v Speaker 0>It is not the summation of the things, it is <v Speaker 0>the product of. <v Speaker 0>So what's the chance of raining, raining and. <v Speaker 0>That, you know, the bus is late."
+  },
+  {
+    "window_id": 232,
+    "start": 2332.609,
+    "end": 2342.609,
+    "text": "<v Speaker 0>That, you know, the bus is late. <v Speaker 0>Well that's a bad example actually because very often, you <v Speaker 0>know, the, the weather condition is coupled to, to the"
+  },
+  {
+    "window_id": 233,
+    "start": 2342.609,
+    "end": 2352.609,
+    "text": "<v Speaker 0>know, the, the weather condition is coupled to, to the <v Speaker 0>traffic condition, so that's not an independent event. <v Speaker 0>So like for example if you draw a car off <v Speaker 0>of, you know. <v Speaker 0>From, from the deck, right, 52 cards, you go, draw"
+  },
+  {
+    "window_id": 234,
+    "start": 2352.609,
+    "end": 2362.609,
+    "text": "<v Speaker 0>From, from the deck, right, 52 cards, you go, draw <v Speaker 0>a card, what's the chance of that being, uh, of <v Speaker 0>hearts or something, and that it rains outside as well."
+  },
+  {
+    "window_id": 235,
+    "start": 2362.609,
+    "end": 2372.609,
+    "text": "<v Speaker 0>hearts or something, and that it rains outside as well. <v Speaker 0>Well it's simply the multiplication of the two events happening. <v Speaker 0>Right, maybe 1 in 4 chance of it raining today, <v Speaker 0>and then there's a 1 in 52 chance of you"
+  },
+  {
+    "window_id": 236,
+    "start": 2372.609,
+    "end": 2382.609,
+    "text": "<v Speaker 0>and then there's a 1 in 52 chance of you <v Speaker 0>drawing the cart, the multiplication of those two is the <v Speaker 0>likelihood of you drawing that and then looking out it's <v Speaker 0>raining, right?"
+  },
+  {
+    "window_id": 237,
+    "start": 2382.609,
+    "end": 2392.609,
+    "text": "<v Speaker 0>So here, here's a, here's a some more closer to <v Speaker 0>heart example. <v Speaker 0>If you use a coin toss, right, what's the chance <v Speaker 0>of getting heads in the first flip and then getting"
+  },
+  {
+    "window_id": 238,
+    "start": 2392.609,
+    "end": 2402.609,
+    "text": "<v Speaker 0>of getting heads in the first flip and then getting <v Speaker 0>heads again in the second flip? <v Speaker 0>Well it's a 1 in 4 chance, right? <v Speaker 0>So all your, all your casino card games, all your <v Speaker 0>casino sort of, um, odds, right, tossing the die, there's"
+  },
+  {
+    "window_id": 239,
+    "start": 2402.609,
+    "end": 2412.609,
+    "text": "<v Speaker 0>casino sort of, um, odds, right, tossing the die, there's <v Speaker 0>the sick bow, right, if everyone, people know of that <v Speaker 0>game is really 3 dies and then you, Kind of <v Speaker 0>toss it and then you could either get 666 or"
+  },
+  {
+    "window_id": 240,
+    "start": 2412.609,
+    "end": 2422.609,
+    "text": "<v Speaker 0>toss it and then you could either get 666 or <v Speaker 0>you know. <v Speaker 0>Two ones or, you know, big or small, being less <v Speaker 0>than or more than um 15 or something, right, that's"
+  },
+  {
+    "window_id": 241,
+    "start": 2422.609,
+    "end": 2432.609,
+    "text": "<v Speaker 0>than or more than um 15 or something, right, that's <v Speaker 0>a, that's a game of independent events, each of the <v Speaker 0>day. <v Speaker 0>And then the chances of things happening, the outcome."
+  },
+  {
+    "window_id": 242,
+    "start": 2432.609,
+    "end": 2442.609,
+    "text": "<v Speaker 0>So that's what caught a joint probability of events happening. <v Speaker 0>And then finally, right, remember the very first diagram I <v Speaker 0>had the, the Venn diagram, the two circles not being"
+  },
+  {
+    "window_id": 243,
+    "start": 2442.609,
+    "end": 2452.609,
+    "text": "<v Speaker 0>had the, the Venn diagram, the two circles not being <v Speaker 0>overlapping and then overlapping and then the, the shading of <v Speaker 0>all the circles within that, and then you also have <v Speaker 0>this very final situation."
+  },
+  {
+    "window_id": 244,
+    "start": 2452.609,
+    "end": 2462.609,
+    "text": "<v Speaker 0>this very final situation. <v Speaker 0>Where it's conditional probability of events. <v Speaker 0>So, this is also known as, you know, probability of"
+  },
+  {
+    "window_id": 245,
+    "start": 2462.609,
+    "end": 2472.609,
+    "text": "<v Speaker 0>So, this is also known as, you know, probability of <v Speaker 0>dependent events. <v Speaker 0>What is the chance of this happening and then that <v Speaker 0>happening? <v Speaker 0>So using my example of cloudy day, what's the chance"
+  },
+  {
+    "window_id": 246,
+    "start": 2472.609,
+    "end": 2482.609,
+    "text": "<v Speaker 0>So using my example of cloudy day, what's the chance <v Speaker 0>of the bus coming late? <v Speaker 0>Well, it depends if it rains, right? <v Speaker 0>If one event is coupled to another event, Then you <v Speaker 0>know how to perhaps calculate the likelihood of that other"
+  },
+  {
+    "window_id": 247,
+    "start": 2482.609,
+    "end": 2492.609,
+    "text": "<v Speaker 0>know how to perhaps calculate the likelihood of that other <v Speaker 0>event, right, which is what you want, so there's a <v Speaker 0>sequence of events, where you don't know the final probability"
+  },
+  {
+    "window_id": 248,
+    "start": 2492.609,
+    "end": 2502.609,
+    "text": "<v Speaker 0>sequence of events, where you don't know the final probability <v Speaker 0>of something, but maybe you know the stack up of <v Speaker 0>those, Conditions, and so that's, that's the premise of what <v Speaker 0>you're trying to, um, You know, use in terms of"
+  },
+  {
+    "window_id": 249,
+    "start": 2502.609,
+    "end": 2512.609,
+    "text": "<v Speaker 0>you're trying to, um, You know, use in terms of <v Speaker 0>calculating the final probability of that event. <v Speaker 0>Alright, so, For events that are dependent on each other,"
+  },
+  {
+    "window_id": 250,
+    "start": 2512.609,
+    "end": 2522.609,
+    "text": "<v Speaker 0>Alright, so, For events that are dependent on each other, <v Speaker 0>right, for example, the probability of it raining later, given <v Speaker 0>that it is raining now. <v Speaker 0>The probability of the next event changes based on how <v Speaker 0>the first event influences it."
+  },
+  {
+    "window_id": 251,
+    "start": 2522.609,
+    "end": 2532.609,
+    "text": "<v Speaker 0>the first event influences it. <v Speaker 0>So if it's not raining now, what's the chance of <v Speaker 0>the next 10 minutes raining? <v Speaker 0>Probably slightly lower, but if it's raining right now, then"
+  },
+  {
+    "window_id": 252,
+    "start": 2532.609,
+    "end": 2542.609,
+    "text": "<v Speaker 0>Probably slightly lower, but if it's raining right now, then <v Speaker 0>10 minutes later and it still rains, then it's higher, <v Speaker 0>right? <v Speaker 0>It's kinda um easy to to conceive that."
+  },
+  {
+    "window_id": 253,
+    "start": 2542.609,
+    "end": 2552.609,
+    "text": "<v Speaker 0>So the probability, the conditional probability allows you to update <v Speaker 0>what your understanding of that situation is. <v Speaker 0>Right, given that if I look out and it's not"
+  },
+  {
+    "window_id": 254,
+    "start": 2552.609,
+    "end": 2562.609,
+    "text": "<v Speaker 0>Right, given that if I look out and it's not <v Speaker 0>raining now, I can estimate that the chance of it <v Speaker 0>raining later lowers, so I don't properly, I don't have <v Speaker 0>to bring an umbrella. <v Speaker 0>Right, and the way we read this is, I think"
+  },
+  {
+    "window_id": 255,
+    "start": 2562.609,
+    "end": 2572.609,
+    "text": "<v Speaker 0>Right, and the way we read this is, I think <v Speaker 0>we talked about this last time, which is given a <v Speaker 0>certain event, given that event B has occurred, what's the <v Speaker 0>probability of, A current."
+  },
+  {
+    "window_id": 256,
+    "start": 2572.609,
+    "end": 2582.609,
+    "text": "<v Speaker 0>probability of, A current. <v Speaker 0>OK. <v Speaker 0>So here's the notation to it, and you can see. <v Speaker 0>A occurring, right?"
+  },
+  {
+    "window_id": 257,
+    "start": 2582.609,
+    "end": 2592.609,
+    "text": "<v Speaker 0>A occurring, right? <v Speaker 0>A given B. <v Speaker 0>Probably that a given B is the, the first notation <v Speaker 0>there, right? <v Speaker 0>Um, and then you have basically ANB, the probability of"
+  },
+  {
+    "window_id": 258,
+    "start": 2592.609,
+    "end": 2602.609,
+    "text": "<v Speaker 0>Um, and then you have basically ANB, the probability of <v Speaker 0>both occurring over just the marginal probability of um, Event <v Speaker 0>B. <v Speaker 0>So to put some concrete examples around this, right."
+  },
+  {
+    "window_id": 259,
+    "start": 2602.609,
+    "end": 2612.609,
+    "text": "<v Speaker 0>So to put some concrete examples around this, right. <v Speaker 0>Is this a table, like, So, um, let event A"
+  },
+  {
+    "window_id": 260,
+    "start": 2612.609,
+    "end": 2622.609,
+    "text": "<v Speaker 0>Is this a table, like, So, um, let event A <v Speaker 0>be raining in 10 minutes' time. <v Speaker 0>And let B, event B, be raining now. <v Speaker 0>Now, suppose we make the following observation over 10 days,"
+  },
+  {
+    "window_id": 261,
+    "start": 2622.609,
+    "end": 2632.609,
+    "text": "<v Speaker 0>Now, suppose we make the following observation over 10 days, <v Speaker 0>right, so empirically, we're trying to derive the probability of <v Speaker 0>each of those events, right, event A and B."
+  },
+  {
+    "window_id": 262,
+    "start": 2632.609,
+    "end": 2642.609,
+    "text": "<v Speaker 0>each of those events, right, event A and B. <v Speaker 0>And you can see If we were to try and <v Speaker 0>understand this, we must look at all the situations where <v Speaker 0>condition B is fulfilled."
+  },
+  {
+    "window_id": 263,
+    "start": 2642.609,
+    "end": 2652.609,
+    "text": "<v Speaker 0>So I've highlighted all the sections where, you know, the, <v Speaker 0>the, the raining is raining, so raining now, right, you've <v Speaker 0>got 2466 out of those 10 days being raining now."
+  },
+  {
+    "window_id": 264,
+    "start": 2652.609,
+    "end": 2662.609,
+    "text": "<v Speaker 0>got 2466 out of those 10 days being raining now. <v Speaker 0>And in all those situations."
+  },
+  {
+    "window_id": 265,
+    "start": 2662.609,
+    "end": 2672.609,
+    "text": "<v Speaker 0>There's only 4 of those days that would be raining <v Speaker 0>10 minutes from that point. <v Speaker 0>So, that's event A. <v Speaker 0>The question is, what is the probability of Event A"
+  },
+  {
+    "window_id": 266,
+    "start": 2672.609,
+    "end": 2682.609,
+    "text": "<v Speaker 0>The question is, what is the probability of Event A <v Speaker 0>have been conditioned on event B. <v Speaker 0>So it's almost like going backwards, isn't it? <v Speaker 0>It's going backwards where instead of going, well, what what"
+  },
+  {
+    "window_id": 267,
+    "start": 2682.609,
+    "end": 2692.609,
+    "text": "<v Speaker 0>It's going backwards where instead of going, well, what what <v Speaker 0>what's the chance of, You know, it's raining 10 minutes <v Speaker 0>from now, you don't know that, but what you do"
+  },
+  {
+    "window_id": 268,
+    "start": 2692.609,
+    "end": 2702.609,
+    "text": "<v Speaker 0>from now, you don't know that, but what you do <v Speaker 0>know is what's the chance of its raining now. <v Speaker 0>And so you go through this analysis, and then you <v Speaker 0>can see. <v Speaker 0>I can actually derive this to be 2 out of"
+  },
+  {
+    "window_id": 269,
+    "start": 2702.609,
+    "end": 2712.609,
+    "text": "<v Speaker 0>I can actually derive this to be 2 out of <v Speaker 0>3 chance um that event A happens, condition on event <v Speaker 0>B. <v Speaker 0>OK."
+  },
+  {
+    "window_id": 270,
+    "start": 2712.609,
+    "end": 2722.609,
+    "text": "<v Speaker 0>Bit confusing for now, I think. <v Speaker 0>So if I were to ask you a question on"
+  },
+  {
+    "window_id": 271,
+    "start": 2722.609,
+    "end": 2732.609,
+    "text": "<v Speaker 0>So if I were to ask you a question on <v Speaker 0>what's the chance of winning a lotto ticket, a Powerball <v Speaker 0>ticket? <v Speaker 0>Well, you have to pick 8 numbers. <v Speaker 0>From 1 to 35."
+  },
+  {
+    "window_id": 272,
+    "start": 2732.609,
+    "end": 2742.609,
+    "text": "<v Speaker 0>From 1 to 35. <v Speaker 0>And so effectively, there's only one winning draw in all <v Speaker 0>the permutations or all the combinations of numbers, right?"
+  },
+  {
+    "window_id": 273,
+    "start": 2742.609,
+    "end": 2752.609,
+    "text": "<v Speaker 0>And so you can derive the probability of winning, which <v Speaker 0>is event A. <v Speaker 0>It'd be one out of the combination, combinatorial factorial of"
+  },
+  {
+    "window_id": 274,
+    "start": 2752.609,
+    "end": 2762.609,
+    "text": "<v Speaker 0>It'd be one out of the combination, combinatorial factorial of <v Speaker 0>1 to 35, right, without replacing the numbers. <v Speaker 0>OK, so since there's only one combination of the winners, <v Speaker 0>That that that's it, the first equation is really a"
+  },
+  {
+    "window_id": 275,
+    "start": 2762.609,
+    "end": 2772.609,
+    "text": "<v Speaker 0>That that that's it, the first equation is really a <v Speaker 0>chance. <v Speaker 0>But then as time goes on, as the numbers starts <v Speaker 0>drawing out, you, you get a 2 and you match <v Speaker 0>that, you get a 6, you match that, you get"
+  },
+  {
+    "window_id": 276,
+    "start": 2772.609,
+    "end": 2782.609,
+    "text": "<v Speaker 0>that, you get a 6, you match that, you get <v Speaker 0>a 15, you match that. <v Speaker 0>You want to understand that each of those time points, <v Speaker 0>how your probability changes. <v Speaker 0>Right? <v Speaker 0>It's quite an interesting, you know, game."
+  },
+  {
+    "window_id": 277,
+    "start": 2782.609,
+    "end": 2792.609,
+    "text": "<v Speaker 0>It's quite an interesting, you know, game. <v Speaker 0>You, you just, you got a bunch of tickets. <v Speaker 0>And as the number comes through, you're like, Oh, look, <v Speaker 0>I, I got this number. <v Speaker 0>So does my odds increase?"
+  },
+  {
+    "window_id": 278,
+    "start": 2792.609,
+    "end": 2802.609,
+    "text": "<v Speaker 0>So does my odds increase? <v Speaker 0>Well, the answer is yes, your odds do increase in <v Speaker 0>a, in sort of a perceived manner, right? <v Speaker 0>Because at the end of the day, you only have <v Speaker 0>1 in 135, uh, chance of winning."
+  },
+  {
+    "window_id": 279,
+    "start": 2802.609,
+    "end": 2812.609,
+    "text": "<v Speaker 0>1 in 135, uh, chance of winning. <v Speaker 0>But at least moving to that point, You, your, your <v Speaker 0>odds are improving."
+  },
+  {
+    "window_id": 280,
+    "start": 2812.609,
+    "end": 2822.609,
+    "text": "<v Speaker 0>Now obviously if you don't get any of the other <v Speaker 0>numbers, your odds just drops to 0. <v Speaker 0>You don't win any. <v Speaker 0>But given this scenario of event B, which is numbers"
+  },
+  {
+    "window_id": 281,
+    "start": 2822.609,
+    "end": 2832.609,
+    "text": "<v Speaker 0>But given this scenario of event B, which is numbers <v Speaker 0>being drawn and you get 26, and 15. <v Speaker 0>How, how does the art changes? <v Speaker 0>Right."
+  },
+  {
+    "window_id": 282,
+    "start": 2832.609,
+    "end": 2842.609,
+    "text": "<v Speaker 0>And the odds changes instead of one, instead of needing <v Speaker 0>one combination. <v Speaker 0>All you now need to do is match the other <v Speaker 0>5 numbers."
+  },
+  {
+    "window_id": 283,
+    "start": 2842.609,
+    "end": 2852.609,
+    "text": "<v Speaker 0>For the remaining from the remaining 32, and so your <v Speaker 0>odds actually improves as time goes on, until obviously you <v Speaker 0>drop to 0 and then you realise, oh, you know,"
+  },
+  {
+    "window_id": 284,
+    "start": 2852.609,
+    "end": 2862.609,
+    "text": "<v Speaker 0>drop to 0 and then you realise, oh, you know, <v Speaker 0>you don't win anything. <v Speaker 0>So, this is the, the power of the updating aspect, <v Speaker 0>right, so previously I've hinted, you can count number of"
+  },
+  {
+    "window_id": 285,
+    "start": 2862.609,
+    "end": 2872.609,
+    "text": "<v Speaker 0>right, so previously I've hinted, you can count number of <v Speaker 0>occurrences, you know, and there's a fixed number at the <v Speaker 0>beginning of all this experiment that you know this is <v Speaker 0>likelihood."
+  },
+  {
+    "window_id": 286,
+    "start": 2872.609,
+    "end": 2882.609,
+    "text": "<v Speaker 0>In this scenario, is the likelihood actually changes as time <v Speaker 0>goes on with new information. <v Speaker 0>Right? <v Speaker 0>And so how does this translate to machine learning?"
+  },
+  {
+    "window_id": 287,
+    "start": 2882.609,
+    "end": 2892.609,
+    "text": "<v Speaker 0>And so how does this translate to machine learning? <v Speaker 0>Obviously, you know, you could train your data set. <v Speaker 0>And then you can feed it with new information, and <v Speaker 0>those information will change the odds of your machine learning"
+  },
+  {
+    "window_id": 288,
+    "start": 2892.609,
+    "end": 2902.609,
+    "text": "<v Speaker 0>those information will change the odds of your machine learning <v Speaker 0>model to then tell you or predict a so with <v Speaker 0>higher accuracy of certain outputs. <v Speaker 0>And you can see how this correlates quite well."
+  },
+  {
+    "window_id": 289,
+    "start": 2902.609,
+    "end": 2912.609,
+    "text": "<v Speaker 0>And you can see how this correlates quite well. <v Speaker 0>Right. <v Speaker 0>But knowing B doesn't change the probability of A. <v Speaker 0>Because A and B is independent, right? <v Speaker 0>Getting more numbers does not actually improve your odds on"
+  },
+  {
+    "window_id": 290,
+    "start": 2912.609,
+    "end": 2922.609,
+    "text": "<v Speaker 0>Getting more numbers does not actually improve your odds on <v Speaker 0>the winning ticket. <v Speaker 0>The winning tickets still one in however many millions combination."
+  },
+  {
+    "window_id": 291,
+    "start": 2922.609,
+    "end": 2932.609,
+    "text": "<v Speaker 0>But at least the, the odds leading up to that <v Speaker 0>changes as time goes on. <v Speaker 0>OK, so is your understanding of the system that that's <v Speaker 0>what makes a difference."
+  },
+  {
+    "window_id": 292,
+    "start": 2932.609,
+    "end": 2942.609,
+    "text": "<v Speaker 0>what makes a difference. <v Speaker 0>So all this actually came along because of this guy <v Speaker 0>Thomas Day, um, you know, I think he's a mock,"
+  },
+  {
+    "window_id": 293,
+    "start": 2942.609,
+    "end": 2952.609,
+    "text": "<v Speaker 0>Thomas Day, um, you know, I think he's a mock, <v Speaker 0>and at one point he was basically asking this very <v Speaker 0>simple question of like, Can I know where Something like,"
+  },
+  {
+    "window_id": 294,
+    "start": 2952.609,
+    "end": 2962.609,
+    "text": "<v Speaker 0>simple question of like, Can I know where Something like, <v Speaker 0>so, so he blindfolds himself, he asks his mate to <v Speaker 0>chuck balls at something, right, he puts a ball on <v Speaker 0>the table, and then he blindfolds himself, turns back to"
+  },
+  {
+    "window_id": 295,
+    "start": 2962.609,
+    "end": 2972.609,
+    "text": "<v Speaker 0>the table, and then he blindfolds himself, turns back to <v Speaker 0>the ball, asks his mate to chuck balls at it, <v Speaker 0>and then report back to him whether or not it's <v Speaker 0>on the left side or the right side of that"
+  },
+  {
+    "window_id": 296,
+    "start": 2972.609,
+    "end": 2982.609,
+    "text": "<v Speaker 0>target. <v Speaker 0>And so over time, he actually come to a um <v Speaker 0>well like the first time he does it is like <v Speaker 0>on the left side, and then next time he does"
+  },
+  {
+    "window_id": 297,
+    "start": 2982.609,
+    "end": 2992.609,
+    "text": "<v Speaker 0>on the left side, and then next time he does <v Speaker 0>it, it's like oh it's too much on the left, <v Speaker 0>and so forth. <v Speaker 0>And with each of those reporting, he was able to <v Speaker 0>then, Postuate or speculate where that target was based on,"
+  },
+  {
+    "window_id": 298,
+    "start": 2992.609,
+    "end": 3002.609,
+    "text": "<v Speaker 0>then, Postuate or speculate where that target was based on, <v Speaker 0>you know, how the balls are landing. <v Speaker 0>This is actually quite interesting, right? <v Speaker 0>Think about it, because you're deriving new information off the"
+  },
+  {
+    "window_id": 299,
+    "start": 3002.609,
+    "end": 3012.609,
+    "text": "<v Speaker 0>Think about it, because you're deriving new information off the <v Speaker 0>system without knowing anything about it by the interaction it <v Speaker 0>has with new information. <v Speaker 0>OK. <v Speaker 0>So then he came up with this formula, um, which"
+  },
+  {
+    "window_id": 300,
+    "start": 3012.609,
+    "end": 3022.609,
+    "text": "<v Speaker 0>So then he came up with this formula, um, which <v Speaker 0>is the conditional probability, and he goes, conditional probability describes <v Speaker 0>the probability of event A occurring given that event B"
+  },
+  {
+    "window_id": 301,
+    "start": 3022.609,
+    "end": 3032.609,
+    "text": "<v Speaker 0>the probability of event A occurring given that event B <v Speaker 0>has already occurred. <v Speaker 0>It's the same, it's the same equation as before. <v Speaker 0>And since joint probability is symmetrical, right, or symmetric, yep,"
+  },
+  {
+    "window_id": 302,
+    "start": 3032.609,
+    "end": 3042.609,
+    "text": "<v Speaker 0>And since joint probability is symmetrical, right, or symmetric, yep, <v Speaker 0>so you can, you can basically say A and B, <v Speaker 0>the probability of A and B happening, it's the same <v Speaker 0>as B and A, right, trivial definition."
+  },
+  {
+    "window_id": 303,
+    "start": 3042.609,
+    "end": 3052.609,
+    "text": "<v Speaker 0>as B and A, right, trivial definition. <v Speaker 0>You can replace the top bit with this new equation <v Speaker 0>and rearrange it. <v Speaker 0>And so what you end up is this Bay theorem"
+  },
+  {
+    "window_id": 304,
+    "start": 3052.609,
+    "end": 3062.609,
+    "text": "<v Speaker 0>And so what you end up is this Bay theorem <v Speaker 0>right here. <v Speaker 0>Right. <v Speaker 0>So, probability of A given B is really the same <v Speaker 0>as the probability of B given A."
+  },
+  {
+    "window_id": 305,
+    "start": 3062.609,
+    "end": 3072.609,
+    "text": "<v Speaker 0>as the probability of B given A. <v Speaker 0>Times the marginal probability of likelihood of A over the"
+  },
+  {
+    "window_id": 306,
+    "start": 3072.609,
+    "end": 3082.609,
+    "text": "<v Speaker 0>Times the marginal probability of likelihood of A over the <v Speaker 0>likelihood of B. <v Speaker 0>OK. <v Speaker 0>So what we are typically interested in in is what <v Speaker 0>is the probability of A. <v Speaker 0>But we don't often get to know that, so we"
+  },
+  {
+    "window_id": 307,
+    "start": 3082.609,
+    "end": 3092.609,
+    "text": "<v Speaker 0>But we don't often get to know that, so we <v Speaker 0>have to go backwards, right, what we do know is <v Speaker 0>probability of B. <v Speaker 0>Given a And then we can do this multiplication, we"
+  },
+  {
+    "window_id": 308,
+    "start": 3092.609,
+    "end": 3102.609,
+    "text": "<v Speaker 0>Given a And then we can do this multiplication, we <v Speaker 0>can do this manipulation. <v Speaker 0>Yeah, you can see in a few slides how this <v Speaker 0>directly maps into machine learning, right?"
+  },
+  {
+    "window_id": 309,
+    "start": 3102.609,
+    "end": 3112.609,
+    "text": "<v Speaker 0>directly maps into machine learning, right? <v Speaker 0>Because we want to know the outcome of something. <v Speaker 0>But we don't know the outcome of something, we know <v Speaker 0>the features, right, each of the dimensions."
+  },
+  {
+    "window_id": 310,
+    "start": 3112.609,
+    "end": 3122.609,
+    "text": "<v Speaker 0>Right, we have that from the training set. <v Speaker 0>So we can do this reversal and go, given the <v Speaker 0>Features, right, the occurrences of features, right, each of those"
+  },
+  {
+    "window_id": 311,
+    "start": 3122.609,
+    "end": 3132.609,
+    "text": "<v Speaker 0>Features, right, the occurrences of features, right, each of those <v Speaker 0>columns in your, in your CSV we can now determine, <v Speaker 0>right, what, what is the most likelihood outcome, OK."
+  },
+  {
+    "window_id": 312,
+    "start": 3132.609,
+    "end": 3142.609,
+    "text": "<v Speaker 0>right, what, what is the most likelihood outcome, OK. <v Speaker 0>Which is very useful, yeah, it's knowing."
+  },
+  {
+    "window_id": 313,
+    "start": 3142.609,
+    "end": 3152.609,
+    "text": "<v Speaker 0>OK, so. <v Speaker 0>So we'll we'll, we'll hold this thought for now, right, <v Speaker 0>we'll go into the scenario where."
+  },
+  {
+    "window_id": 314,
+    "start": 3152.609,
+    "end": 3162.609,
+    "text": "<v Speaker 0>we'll go into the scenario where. <v Speaker 0>If we can count events as, as before, right, events <v Speaker 0>being either 1234, some countable events, we can represent them."
+  },
+  {
+    "window_id": 315,
+    "start": 3162.609,
+    "end": 3172.609,
+    "text": "<v Speaker 0>being either 1234, some countable events, we can represent them. <v Speaker 0>By either counting or some general function. <v Speaker 0>Now, if you use heads and tails as coin flips <v Speaker 0>as an example, you very often can represent that um"
+  },
+  {
+    "window_id": 316,
+    "start": 3172.609,
+    "end": 3182.609,
+    "text": "<v Speaker 0>as an example, you very often can represent that um <v Speaker 0>probability, right, all the possible outcomes in the distribution. <v Speaker 0>Right, and that distribution can be rewritten as a um"
+  },
+  {
+    "window_id": 317,
+    "start": 3182.609,
+    "end": 3192.609,
+    "text": "<v Speaker 0>Right, and that distribution can be rewritten as a um <v Speaker 0>it's a geometric distribution. <v Speaker 0>And so the general formula is listed there. <v Speaker 0>It's like a binomial equation, right?"
+  },
+  {
+    "window_id": 318,
+    "start": 3192.609,
+    "end": 3202.609,
+    "text": "<v Speaker 0>It's like a binomial equation, right? <v Speaker 0>One can happen, the other can happen. <v Speaker 0>You do a multiplication of that, and then you have <v Speaker 0>4 events where, you know, that you could have both"
+  },
+  {
+    "window_id": 319,
+    "start": 3202.609,
+    "end": 3212.609,
+    "text": "<v Speaker 0>4 events where, you know, that you could have both <v Speaker 0>heads, one head and tail, one tail and head, and <v Speaker 0>then 2. <v Speaker 0>Fails, right, you do 3 times, 4 times, 5 times,"
+  },
+  {
+    "window_id": 320,
+    "start": 3212.609,
+    "end": 3222.609,
+    "text": "<v Speaker 0>Fails, right, you do 3 times, 4 times, 5 times, <v Speaker 0>and then generalise it, if you do it in times, <v Speaker 0>how would that distribution occur? <v Speaker 0>Right, so that's what a distribution of outcomes is talking <v Speaker 0>about."
+  },
+  {
+    "window_id": 321,
+    "start": 3222.609,
+    "end": 3232.609,
+    "text": "<v Speaker 0>about. <v Speaker 0>Now, strictly speaking. <v Speaker 0>If you're, if you're trying to remap all the possible <v Speaker 0>outcomes in the sample space to some sort of number,"
+  },
+  {
+    "window_id": 322,
+    "start": 3232.609,
+    "end": 3242.609,
+    "text": "<v Speaker 0>outcomes in the sample space to some sort of number, <v Speaker 0>right, you need something called a random variable function. <v Speaker 0>Right, random variable being."
+  },
+  {
+    "window_id": 323,
+    "start": 3242.609,
+    "end": 3252.609,
+    "text": "<v Speaker 0>The events are, the events are random, the mapping of <v Speaker 0>it is not. <v Speaker 0>And so strictly speaking, uh, a random variable is a <v Speaker 0>mapping from a sample space."
+  },
+  {
+    "window_id": 324,
+    "start": 3252.609,
+    "end": 3262.609,
+    "text": "<v Speaker 0>mapping from a sample space. <v Speaker 0>Remember that little Venn diagram where there's a box and <v Speaker 0>there's event A and B. <v Speaker 0>You're trying to map that into some sort of real <v Speaker 0>number line, right?"
+  },
+  {
+    "window_id": 325,
+    "start": 3262.609,
+    "end": 3272.609,
+    "text": "<v Speaker 0>number line, right? <v Speaker 0>And obviously you can imagine how conceptually difficult this is, <v Speaker 0>right, all the possible combination of things, right, that you"
+  },
+  {
+    "window_id": 326,
+    "start": 3272.609,
+    "end": 3282.609,
+    "text": "<v Speaker 0>right, all the possible combination of things, right, that you <v Speaker 0>can either think of or you can, You have not <v Speaker 0>thought of, right, being mapped to some numerical distribution, where <v Speaker 0>you can say, OK, well, the likelihood of this happening"
+  },
+  {
+    "window_id": 327,
+    "start": 3282.609,
+    "end": 3292.609,
+    "text": "<v Speaker 0>you can say, OK, well, the likelihood of this happening <v Speaker 0>is therefore 60% or 0.0009% or some other value, right?"
+  },
+  {
+    "window_id": 328,
+    "start": 3292.609,
+    "end": 3302.609,
+    "text": "<v Speaker 0>Um, So how do you generally do this? <v Speaker 0>Right, this is really a question, and fortunately, you know, <v Speaker 0>we have something called a distribution."
+  },
+  {
+    "window_id": 329,
+    "start": 3302.609,
+    "end": 3312.609,
+    "text": "<v Speaker 0>we have something called a distribution. <v Speaker 0>Right, this is the probability distribution of events. <v Speaker 0>Now, we typically, and we've heard us talk about it,"
+  },
+  {
+    "window_id": 330,
+    "start": 3312.609,
+    "end": 3322.609,
+    "text": "<v Speaker 0>Now, we typically, and we've heard us talk about it, <v Speaker 0>um, many times in various different units as well. <v Speaker 0>Normal distribution is what typically happens. <v Speaker 0>But understand in, in, I think in week 1 or"
+  },
+  {
+    "window_id": 331,
+    "start": 3322.609,
+    "end": 3332.609,
+    "text": "<v Speaker 0>But understand in, in, I think in week 1 or <v Speaker 0>week 2, we went through, it's also other probability distribution. <v Speaker 0>OK. <v Speaker 0>For discrete events, right, things that we can count, we"
+  },
+  {
+    "window_id": 332,
+    "start": 3332.609,
+    "end": 3342.609,
+    "text": "<v Speaker 0>For discrete events, right, things that we can count, we <v Speaker 0>use something called a probability mass function, right, where it's <v Speaker 0>almost, you know, quantize or it, right, there's a quantization"
+  },
+  {
+    "window_id": 333,
+    "start": 3342.609,
+    "end": 3352.609,
+    "text": "<v Speaker 0>almost, you know, quantize or it, right, there's a quantization <v Speaker 0>to that. <v Speaker 0>Before events that are continuous, right, we, we use a <v Speaker 0>different, um, terminology called density function, very much like a"
+  },
+  {
+    "window_id": 334,
+    "start": 3352.609,
+    "end": 3362.609,
+    "text": "<v Speaker 0>different, um, terminology called density function, very much like a <v Speaker 0>mass density, right? <v Speaker 0>So if you, if you want to look at what's <v Speaker 0>the density of, of a piece of, uh, steel bar,"
+  },
+  {
+    "window_id": 335,
+    "start": 3362.609,
+    "end": 3372.609,
+    "text": "<v Speaker 0>the density of, of a piece of, uh, steel bar, <v Speaker 0>you can do the, you can do a cut for <v Speaker 0>each of them and then times the weight, right, for <v Speaker 0>each of those sections, sum them all up, you get"
+  },
+  {
+    "window_id": 336,
+    "start": 3372.609,
+    "end": 3382.609,
+    "text": "<v Speaker 0>each of those sections, sum them all up, you get <v Speaker 0>a density function. <v Speaker 0>So here's a, here's a listing, I think in week <v Speaker 0>1 or 2, I put up a chart, right, showing"
+  },
+  {
+    "window_id": 337,
+    "start": 3382.609,
+    "end": 3392.609,
+    "text": "<v Speaker 0>1 or 2, I put up a chart, right, showing <v Speaker 0>different curves and whatnot. <v Speaker 0>Um, it's just a numerical function of that, you don't <v Speaker 0>need to worry too much about it, just know that <v Speaker 0>they exist."
+  },
+  {
+    "window_id": 338,
+    "start": 3392.609,
+    "end": 3402.609,
+    "text": "<v Speaker 0>Um, In most cases, You can use a normal distribution <v Speaker 0>to represent everything. <v Speaker 0>But in certain situations, right, that is not."
+  },
+  {
+    "window_id": 339,
+    "start": 3402.609,
+    "end": 3412.609,
+    "text": "<v Speaker 0>But in certain situations, right, that is not. <v Speaker 0>Precisely enough. <v Speaker 0>So for events like people coming into a shop, right, <v Speaker 0>a time event."
+  },
+  {
+    "window_id": 340,
+    "start": 3412.609,
+    "end": 3422.609,
+    "text": "<v Speaker 0>Right, uh, person distribution is actually much more accurate in <v Speaker 0>describing random independent events. <v Speaker 0>Where there's a trickling factor coming in, right."
+  },
+  {
+    "window_id": 341,
+    "start": 3422.609,
+    "end": 3432.609,
+    "text": "<v Speaker 0>Where there's a trickling factor coming in, right. <v Speaker 0>Why is this important and powerful is that instead of <v Speaker 0>being able to pluck those numbers that you saw two <v Speaker 0>slides ago, Right, as actual numerical numbers, you can plug"
+  },
+  {
+    "window_id": 342,
+    "start": 3432.609,
+    "end": 3442.609,
+    "text": "<v Speaker 0>slides ago, Right, as actual numerical numbers, you can plug <v Speaker 0>in the whole distribution and then postulate. <v Speaker 0>How your final probability of outcome is being described by"
+  },
+  {
+    "window_id": 343,
+    "start": 3442.609,
+    "end": 3452.609,
+    "text": "<v Speaker 0>How your final probability of outcome is being described by <v Speaker 0>that properly, um by that distribution. <v Speaker 0>OK, so That is a very interesting approach to solving"
+  },
+  {
+    "window_id": 344,
+    "start": 3452.609,
+    "end": 3462.609,
+    "text": "<v Speaker 0>OK, so That is a very interesting approach to solving <v Speaker 0>the probability, instead of saying events happening. <v Speaker 0>You're saying what's the likelihood of an event happening, and"
+  },
+  {
+    "window_id": 345,
+    "start": 3462.609,
+    "end": 3472.609,
+    "text": "<v Speaker 0>You're saying what's the likelihood of an event happening, and <v Speaker 0>then using that likelihood distribution as a way to plug <v Speaker 0>into this formula, you then get a likelihood of the <v Speaker 0>outcome."
+  },
+  {
+    "window_id": 346,
+    "start": 3472.609,
+    "end": 3482.609,
+    "text": "<v Speaker 0>Now if you look at the apple, oranges, examples that <v Speaker 0>we talked about, you know. <v Speaker 0>It doesn't sound like it makes a lot of sense <v Speaker 0>because you know, I give you an apple, it's either"
+  },
+  {
+    "window_id": 347,
+    "start": 3482.609,
+    "end": 3492.609,
+    "text": "<v Speaker 0>because you know, I give you an apple, it's either <v Speaker 0>tasty or not tasty or not yet tasty or whatever, <v Speaker 0>right, it's 3 classes. <v Speaker 0>You know, why do I have to have a distribution <v Speaker 0>of, But you want some sort of confidence interval in"
+  },
+  {
+    "window_id": 348,
+    "start": 3492.609,
+    "end": 3502.609,
+    "text": "<v Speaker 0>of, But you want some sort of confidence interval in <v Speaker 0>that, in that analysis. <v Speaker 0>You want to be able to say, Um, you know, <v Speaker 0>with certainty that this apple is tasty."
+  },
+  {
+    "window_id": 349,
+    "start": 3502.609,
+    "end": 3512.609,
+    "text": "<v Speaker 0>with certainty that this apple is tasty. <v Speaker 0>Right, 60% of the time. <v Speaker 0>You can then vary that that threshold, right, record that. <v Speaker 0>So there's many parameters now you can play with, if"
+  },
+  {
+    "window_id": 350,
+    "start": 3512.609,
+    "end": 3522.609,
+    "text": "<v Speaker 0>So there's many parameters now you can play with, if <v Speaker 0>you were to then, Give um some sort of confidence <v Speaker 0>in your prediction. <v Speaker 0>So, let's look at, let's put them all together."
+  },
+  {
+    "window_id": 351,
+    "start": 3522.609,
+    "end": 3532.609,
+    "text": "<v Speaker 0>So, let's look at, let's put them all together. <v Speaker 0>Right, a Bayesian approach to probability. <v Speaker 0>Is where Instead of plugging in the events, right, you're"
+  },
+  {
+    "window_id": 352,
+    "start": 3532.609,
+    "end": 3542.609,
+    "text": "<v Speaker 0>Is where Instead of plugging in the events, right, you're <v Speaker 0>assuming that certain events happens that are independent of each <v Speaker 0>other, right, and that reversing this using the Bay theorem."
+  },
+  {
+    "window_id": 353,
+    "start": 3542.609,
+    "end": 3552.609,
+    "text": "<v Speaker 0>other, right, and that reversing this using the Bay theorem. <v Speaker 0>You could then extrapolate what's the likelihood of an outcome <v Speaker 0>based on those features that you see."
+  },
+  {
+    "window_id": 354,
+    "start": 3552.609,
+    "end": 3562.609,
+    "text": "<v Speaker 0>based on those features that you see. <v Speaker 0>Right, so if you think about using your phone, right, <v Speaker 0>the facial recognition feature. <v Speaker 0>What's the likelihood of the person swiping the phone is"
+  },
+  {
+    "window_id": 355,
+    "start": 3562.609,
+    "end": 3572.609,
+    "text": "<v Speaker 0>What's the likelihood of the person swiping the phone is <v Speaker 0>the real authorised user? <v Speaker 0>Well, it depends, it depends. <v Speaker 0>Like, it depends on the original, um, assumption. <v Speaker 0>The assumption could be, you know, a non-zero value, but"
+  },
+  {
+    "window_id": 356,
+    "start": 3572.609,
+    "end": 3582.609,
+    "text": "<v Speaker 0>The assumption could be, you know, a non-zero value, but <v Speaker 0>a very low value that this is the right person. <v Speaker 0>But as you scan it, it's gonna get all the <v Speaker 0>features like your eyes, your nose, your mouth, whatever."
+  },
+  {
+    "window_id": 357,
+    "start": 3582.609,
+    "end": 3592.609,
+    "text": "<v Speaker 0>features like your eyes, your nose, your mouth, whatever. <v Speaker 0>It goes into the machine, does some compute. <v Speaker 0>And because it's looking for certain features, it updates the <v Speaker 0>probability, right, it sees your eyes being in the right"
+  },
+  {
+    "window_id": 358,
+    "start": 3592.609,
+    "end": 3602.609,
+    "text": "<v Speaker 0>probability, right, it sees your eyes being in the right <v Speaker 0>place, the spacing between your pupils, you know, the spacing <v Speaker 0>between your eyes and your nose and your mouth, and <v Speaker 0>as each of those compute comes along, it updates the"
+  },
+  {
+    "window_id": 359,
+    "start": 3602.609,
+    "end": 3612.609,
+    "text": "<v Speaker 0>as each of those compute comes along, it updates the <v Speaker 0>probability and then eventually goes, yup, this is the right <v Speaker 0>person, and unlocked. <v Speaker 0>Right, so you can see how that translates into the <v Speaker 0>the self iterative process in your, in your um prediction"
+  },
+  {
+    "window_id": 360,
+    "start": 3612.609,
+    "end": 3622.609,
+    "text": "<v Speaker 0>the self iterative process in your, in your um prediction <v Speaker 0>model. <v Speaker 0>For a continuous event, instead of, instead of counting occurrences,"
+  },
+  {
+    "window_id": 361,
+    "start": 3622.609,
+    "end": 3632.609,
+    "text": "<v Speaker 0>For a continuous event, instead of, instead of counting occurrences, <v Speaker 0>we're using probability functions. <v Speaker 0>The Gaussian approach is a, is a very common one. <v Speaker 0>In fact, when you go into SIT, I learn, the"
+  },
+  {
+    "window_id": 362,
+    "start": 3632.609,
+    "end": 3642.609,
+    "text": "<v Speaker 0>In fact, when you go into SIT, I learn, the <v Speaker 0>library that you pull out, right, there's a function called <v Speaker 0>GNB, right? <v Speaker 0>Gaussian naive base. <v Speaker 0>The assumption it makes is that it is a Gaussian"
+  },
+  {
+    "window_id": 363,
+    "start": 3642.609,
+    "end": 3652.609,
+    "text": "<v Speaker 0>The assumption it makes is that it is a Gaussian <v Speaker 0>distribution. <v Speaker 0>Right, so that's maybe a gross assumption, it may not <v Speaker 0>always apply to the system. <v Speaker 0>But you know, in most cases it could work."
+  },
+  {
+    "window_id": 364,
+    "start": 3652.609,
+    "end": 3662.609,
+    "text": "<v Speaker 0>But you know, in most cases it could work. <v Speaker 0>If you're in a more advanced scenario where you want <v Speaker 0>to explain how things work and, um, perhaps a better <v Speaker 0>mapping of the real world situation, you may have to"
+  },
+  {
+    "window_id": 365,
+    "start": 3662.609,
+    "end": 3672.609,
+    "text": "<v Speaker 0>mapping of the real world situation, you may have to <v Speaker 0>go into the library and actually, instead of using the <v Speaker 0>library equations, you would say, well, I will assume this <v Speaker 0>first condition is of this distribution."
+  },
+  {
+    "window_id": 366,
+    "start": 3672.609,
+    "end": 3682.609,
+    "text": "<v Speaker 0>first condition is of this distribution. <v Speaker 0>The second feature will be of this other distribution, and <v Speaker 0>then do the, do the calculation manually that way. <v Speaker 0>OK?"
+  },
+  {
+    "window_id": 367,
+    "start": 3682.609,
+    "end": 3692.609,
+    "text": "<v Speaker 0>And so these two equations, the same thing, obviously, one <v Speaker 0>being discrete events, one being continuous events, allows us to <v Speaker 0>describe uncertain events mathematically and estimate the probability, right?"
+  },
+  {
+    "window_id": 368,
+    "start": 3692.609,
+    "end": 3702.609,
+    "text": "<v Speaker 0>describe uncertain events mathematically and estimate the probability, right? <v Speaker 0>And we can continuously update the understanding of event A <v Speaker 0>condition on. <v Speaker 0>Event B is happy."
+  },
+  {
+    "window_id": 369,
+    "start": 3702.609,
+    "end": 3712.609,
+    "text": "<v Speaker 0>Event B is happy. <v Speaker 0>OK. <v Speaker 0>So I briefly already hinted this, how this directly translates <v Speaker 0>to machine learning, you can imagine you get a CSV <v Speaker 0>file, it's got multiple roles, you've got features 123, until"
+  },
+  {
+    "window_id": 370,
+    "start": 3712.609,
+    "end": 3722.609,
+    "text": "<v Speaker 0>file, it's got multiple roles, you've got features 123, until <v Speaker 0>end, and you'll try to predict label Y. <v Speaker 0>In a supervised environment, you already have that mapped out."
+  },
+  {
+    "window_id": 371,
+    "start": 3722.609,
+    "end": 3732.609,
+    "text": "<v Speaker 0>In a supervised environment, you already have that mapped out. <v Speaker 0>Apples are red, apples are between certain weights, uh, apples <v Speaker 0>have certain size, therefore the label is either tasty not"
+  },
+  {
+    "window_id": 372,
+    "start": 3732.609,
+    "end": 3742.609,
+    "text": "<v Speaker 0>have certain size, therefore the label is either tasty not <v Speaker 0>tasty, right? <v Speaker 0>But using this, we can basically go, OK, well, should, <v Speaker 0>should the apple be tasty? <v Speaker 0>Well, we see red, OK, is it that red, is"
+  },
+  {
+    "window_id": 373,
+    "start": 3742.609,
+    "end": 3752.609,
+    "text": "<v Speaker 0>Well, we see red, OK, is it that red, is <v Speaker 0>it this red? <v Speaker 0>Which one is it? <v Speaker 0>Condition on the retinas, the updates of it being more <v Speaker 0>tasty or being, you know, likelihood of being tasty goes"
+  },
+  {
+    "window_id": 374,
+    "start": 3752.609,
+    "end": 3762.609,
+    "text": "<v Speaker 0>tasty or being, you know, likelihood of being tasty goes <v Speaker 0>up or down. <v Speaker 0>And then the fact that you see a certain size, <v Speaker 0>being of a certain class, you know, the, the likelihood <v Speaker 0>goes up and down."
+  },
+  {
+    "window_id": 375,
+    "start": 3762.609,
+    "end": 3772.609,
+    "text": "<v Speaker 0>And so forth. <v Speaker 0>So intuitively it sort of makes sense, this mathematically is <v Speaker 0>a bit more complex than, you know, intuition. <v Speaker 0>Um, but you can see there's a, there's a numerator"
+  },
+  {
+    "window_id": 376,
+    "start": 3772.609,
+    "end": 3782.609,
+    "text": "<v Speaker 0>Um, but you can see there's a, there's a numerator <v Speaker 0>and a denominator, right? <v Speaker 0>And when you're trying to make the prediction, you're actually <v Speaker 0>trying to get just the numerator as the maximum likelihood"
+  },
+  {
+    "window_id": 377,
+    "start": 3782.609,
+    "end": 3792.609,
+    "text": "<v Speaker 0>trying to get just the numerator as the maximum likelihood <v Speaker 0>of events. <v Speaker 0>So I already hinted that, you know, in a training <v Speaker 0>process, you have two phases. <v Speaker 0>You've got the training, right, say 200 row, you take"
+  },
+  {
+    "window_id": 378,
+    "start": 3792.609,
+    "end": 3802.609,
+    "text": "<v Speaker 0>You've got the training, right, say 200 row, you take <v Speaker 0>80% of that, you use it to train, right? <v Speaker 0>And once you determine the model, you fix it in <v Speaker 0>place, right, that's your thigh here, that's your, that's your"
+  },
+  {
+    "window_id": 379,
+    "start": 3802.609,
+    "end": 3812.609,
+    "text": "<v Speaker 0>place, right, that's your thigh here, that's your, that's your <v Speaker 0>theatre, right? <v Speaker 0>So there was a question in the money cart, in <v Speaker 0>which one we used this generalised notation, what is theatre?"
+  },
+  {
+    "window_id": 380,
+    "start": 3812.609,
+    "end": 3822.609,
+    "text": "<v Speaker 0>which one we used this generalised notation, what is theatre? <v Speaker 0>And theatre is basically, The mathematical formulation, right, which is <v Speaker 0>the model. <v Speaker 0>And you're trying to maximise that, you're trying to maximise"
+  },
+  {
+    "window_id": 381,
+    "start": 3822.609,
+    "end": 3832.609,
+    "text": "<v Speaker 0>And you're trying to maximise that, you're trying to maximise <v Speaker 0>the likelihood of that theatre giving you a parameter. <v Speaker 0>And then in the generalised approach, right, so once you've"
+  },
+  {
+    "window_id": 382,
+    "start": 3832.609,
+    "end": 3842.609,
+    "text": "<v Speaker 0>And then in the generalised approach, right, so once you've <v Speaker 0>trained your data set, you train your model, sorry, from <v Speaker 0>the data, right, determine the, the parameters of data, you <v Speaker 0>then use it to predict."
+  },
+  {
+    "window_id": 383,
+    "start": 3842.609,
+    "end": 3852.609,
+    "text": "<v Speaker 0>then use it to predict. <v Speaker 0>And at that point, that's when you're trying to find <v Speaker 0>the, the maximum likelihood of um. <v Speaker 0>The features."
+  },
+  {
+    "window_id": 384,
+    "start": 3852.609,
+    "end": 3862.609,
+    "text": "<v Speaker 0>The features. <v Speaker 0>OK. <v Speaker 0>So remember, we're trying to predict how tasty an apple <v Speaker 0>is. <v Speaker 0>Right, we're trying to predict this by first looking at"
+  },
+  {
+    "window_id": 385,
+    "start": 3862.609,
+    "end": 3872.609,
+    "text": "<v Speaker 0>Right, we're trying to predict this by first looking at <v Speaker 0>the different features, retinas, weight, size. <v Speaker 0>Once we've understood how, OK, generally, you know, the maximum"
+  },
+  {
+    "window_id": 386,
+    "start": 3872.609,
+    "end": 3882.609,
+    "text": "<v Speaker 0>size possible, but not too, not too big of an <v Speaker 0>apple, but the redness is, you know, not the reddest, <v Speaker 0>not the, you know, least red, right, gives you the"
+  },
+  {
+    "window_id": 387,
+    "start": 3882.609,
+    "end": 3892.609,
+    "text": "<v Speaker 0>not the, you know, least red, right, gives you the <v Speaker 0>taste this apple. <v Speaker 0>Once we know those conditions, We go backwards and go, <v Speaker 0>well, given those items, what's the likelihood of, of the <v Speaker 0>final apple being tasty?"
+  },
+  {
+    "window_id": 388,
+    "start": 3892.609,
+    "end": 3902.609,
+    "text": "<v Speaker 0>final apple being tasty? <v Speaker 0>And so the mathematical equations to finding that backwards is <v Speaker 0>basically this arcmax function that you're using."
+  },
+  {
+    "window_id": 389,
+    "start": 3902.609,
+    "end": 3912.609,
+    "text": "<v Speaker 0>basically this arcmax function that you're using. <v Speaker 0>Right. <v Speaker 0>So, what I forgot to really say is there is"
+  },
+  {
+    "window_id": 390,
+    "start": 3912.609,
+    "end": 3922.609,
+    "text": "<v Speaker 0>So, what I forgot to really say is there is <v Speaker 0>a prior probability likelihood, right, which is this probability of <v Speaker 0>C. <v Speaker 0>So if you recall two slides back. <v Speaker 0>Right, you've got this PA PA is your uh prior"
+  },
+  {
+    "window_id": 391,
+    "start": 3922.609,
+    "end": 3932.609,
+    "text": "<v Speaker 0>Right, you've got this PA PA is your uh prior <v Speaker 0>knowledge. <v Speaker 0>It's your prior probability. <v Speaker 0>And this other one is your posterior, which is after"
+  },
+  {
+    "window_id": 392,
+    "start": 3932.609,
+    "end": 3942.609,
+    "text": "<v Speaker 0>And this other one is your posterior, which is after <v Speaker 0>the fact. <v Speaker 0>So, you're constantly updating your knowledge of the event by <v Speaker 0>using the knowledge of the event at the beginning, at"
+  },
+  {
+    "window_id": 393,
+    "start": 3942.609,
+    "end": 3952.609,
+    "text": "<v Speaker 0>using the knowledge of the event at the beginning, at <v Speaker 0>some point, update it with new information, and then your <v Speaker 0>posterior is really what you're now settling in. <v Speaker 0>For each iteration, you then plug this thing back in"
+  },
+  {
+    "window_id": 394,
+    "start": 3952.609,
+    "end": 3962.609,
+    "text": "<v Speaker 0>For each iteration, you then plug this thing back in <v Speaker 0>and then do it again. <v Speaker 0>Right, obviously in the machine, in a, in a coding <v Speaker 0>sense this automatically happens with the iteration functions, but um,"
+  },
+  {
+    "window_id": 395,
+    "start": 3962.609,
+    "end": 3972.609,
+    "text": "<v Speaker 0>sense this automatically happens with the iteration functions, but um, <v Speaker 0>Effectively this is how you compute. <v Speaker 0>Um, And so you can see the predicted class, right? <v Speaker 0>In this case, it is a classifier, right?"
+  },
+  {
+    "window_id": 396,
+    "start": 3972.609,
+    "end": 3982.609,
+    "text": "<v Speaker 0>In this case, it is a classifier, right? <v Speaker 0>It's, it's like, you know, using the apple again. <v Speaker 0>It's either tasty, not tasty, not yet ready or whatever,"
+  },
+  {
+    "window_id": 397,
+    "start": 3982.609,
+    "end": 3992.609,
+    "text": "<v Speaker 0>right? <v Speaker 0>You've got your understanding, you've got your different features, right, <v Speaker 0>labelled as X1 to XN. <v Speaker 0>All right. <v Speaker 0>And then the condition on that plus, either taste or"
+  },
+  {
+    "window_id": 398,
+    "start": 3992.609,
+    "end": 4002.609,
+    "text": "<v Speaker 0>And then the condition on that plus, either taste or <v Speaker 0>not, condition on those features. <v Speaker 0>And the maximum likelihood of that is your arc max, <v Speaker 0>right, which then gives you the cla classification."
+  },
+  {
+    "window_id": 399,
+    "start": 4002.609,
+    "end": 4012.609,
+    "text": "<v Speaker 0>right, which then gives you the cla classification. <v Speaker 0>And so using this formula, right, again, these are, these <v Speaker 0>are directly pulled out from the library. <v Speaker 0>You don't really need to codify this, but just understand"
+  },
+  {
+    "window_id": 400,
+    "start": 4012.609,
+    "end": 4022.609,
+    "text": "<v Speaker 0>You don't really need to codify this, but just understand <v Speaker 0>when you pull the library, this is the iteration it <v Speaker 0>goes through. <v Speaker 0>It first trains it based on the split, then it <v Speaker 0>predicts this other thing, then it pulls out the parameters"
+  },
+  {
+    "window_id": 401,
+    "start": 4022.609,
+    "end": 4032.609,
+    "text": "<v Speaker 0>predicts this other thing, then it pulls out the parameters <v Speaker 0>that gives you the most likelihood of something happening, and <v Speaker 0>then it spits out a number, right, or a class <v Speaker 0>to tell you, yes, it's tasty, not, it's not tasty."
+  },
+  {
+    "window_id": 402,
+    "start": 4032.609,
+    "end": 4042.609,
+    "text": "<v Speaker 0>to tell you, yes, it's tasty, not, it's not tasty. <v Speaker 0>But behind that, you're right, you can use the other, <v Speaker 0>you can use the other syntax um method to pull <v Speaker 0>out the actual probability, right, it's 0.6%, 0 sorry, it's"
+  },
+  {
+    "window_id": 403,
+    "start": 4042.609,
+    "end": 4052.609,
+    "text": "<v Speaker 0>out the actual probability, right, it's 0.6%, 0 sorry, it's <v Speaker 0>like 60%, it's tasty, 40% not tasty. <v Speaker 0>And so that's your confidence of the prediction."
+  },
+  {
+    "window_id": 404,
+    "start": 4052.609,
+    "end": 4062.609,
+    "text": "<v Speaker 0>And so that's your confidence of the prediction. <v Speaker 0>Using this equation, the predicted class therefore is one that <v Speaker 0>maximises the likelihood, the product of likelihood and prior probability,"
+  },
+  {
+    "window_id": 405,
+    "start": 4062.609,
+    "end": 4072.609,
+    "text": "<v Speaker 0>maximises the likelihood, the product of likelihood and prior probability, <v Speaker 0>OK. <v Speaker 0>So how training, how the training data actually reduces the <v Speaker 0>complexity of events."
+  },
+  {
+    "window_id": 406,
+    "start": 4072.609,
+    "end": 4082.609,
+    "text": "<v Speaker 0>Now if you were to just to um without training <v Speaker 0>data, you will need to guesstimate or need to estimate <v Speaker 0>some sort of function. <v Speaker 0>But because, you know, like if you don't have any"
+  },
+  {
+    "window_id": 407,
+    "start": 4082.609,
+    "end": 4092.609,
+    "text": "<v Speaker 0>But because, you know, like if you don't have any <v Speaker 0>prior knowledge to the system, how, how do you even, <v Speaker 0>where do you even start? <v Speaker 0>That's why training data or the training approach. <v Speaker 0>Reduces the complexity greatly."
+  },
+  {
+    "window_id": 408,
+    "start": 4092.609,
+    "end": 4102.609,
+    "text": "<v Speaker 0>Reduces the complexity greatly. <v Speaker 0>Because based on what you can see in the collect <v Speaker 0>data. <v Speaker 0>You can now plot this to get a distribution, right,"
+  },
+  {
+    "window_id": 409,
+    "start": 4102.609,
+    "end": 4112.609,
+    "text": "<v Speaker 0>You can now plot this to get a distribution, right, <v Speaker 0>and you could use and assume that the distribution is <v Speaker 0>a Gaussian normal distribution. <v Speaker 0>And from that, you can parameterize the whole distribution using"
+  },
+  {
+    "window_id": 410,
+    "start": 4112.609,
+    "end": 4122.609,
+    "text": "<v Speaker 0>And from that, you can parameterize the whole distribution using <v Speaker 0>these 22 parameters, which are, you know, your, your means <v Speaker 0>and your fairiness. <v Speaker 0>So as you know, that's an exponential, um, that, that's"
+  },
+  {
+    "window_id": 411,
+    "start": 4122.609,
+    "end": 4132.609,
+    "text": "<v Speaker 0>So as you know, that's an exponential, um, that, that's <v Speaker 0>a normal distribution function that centres around a note, which <v Speaker 0>is your mean, and then from that you have your <v Speaker 0>variants, so how widely something spreads."
+  },
+  {
+    "window_id": 412,
+    "start": 4132.609,
+    "end": 4142.609,
+    "text": "<v Speaker 0>variants, so how widely something spreads. <v Speaker 0>Right. <v Speaker 0>So using just two parameters, you can define the whole <v Speaker 0>set, and if you have multiple features, you can imagine"
+  },
+  {
+    "window_id": 413,
+    "start": 4142.609,
+    "end": 4152.609,
+    "text": "<v Speaker 0>set, and if you have multiple features, you can imagine <v Speaker 0>each of those features, there's a distribution for each of <v Speaker 0>them. <v Speaker 0>The multiplication of that, right, would now be able to <v Speaker 0>describe in full, right?"
+  },
+  {
+    "window_id": 414,
+    "start": 4152.609,
+    "end": 4162.609,
+    "text": "<v Speaker 0>describe in full, right? <v Speaker 0>At, at least if you're finding the maximum point of <v Speaker 0>this distribution, what's the likelihood of something happening? <v Speaker 0>There's a certain assumption here that."
+  },
+  {
+    "window_id": 415,
+    "start": 4162.609,
+    "end": 4172.609,
+    "text": "<v Speaker 0>There's a certain assumption here that. <v Speaker 0>Each of those distribution is independent of each other, right, <v Speaker 0>hence the naive face, the naive part, right?"
+  },
+  {
+    "window_id": 416,
+    "start": 4172.609,
+    "end": 4182.609,
+    "text": "<v Speaker 0>I think this is a If you move on to <v Speaker 0>next, well. <v Speaker 0>Let me just go Right, so, if I just skip"
+  },
+  {
+    "window_id": 417,
+    "start": 4182.609,
+    "end": 4192.609,
+    "text": "<v Speaker 0>Let me just go Right, so, if I just skip <v Speaker 0>ahead, I think this will actually make a lot of <v Speaker 0>sense. <v Speaker 0>If you assume, right, so here's an example, right, and"
+  },
+  {
+    "window_id": 418,
+    "start": 4192.609,
+    "end": 4202.609,
+    "text": "<v Speaker 0>If you assume, right, so here's an example, right, and <v Speaker 0>I actually have this in a pie script, I'll upload <v Speaker 0>as well. <v Speaker 0>Um, assuming 500 rows of historical data, so using the <v Speaker 0>empirical approach, you have collected the data of people coming"
+  },
+  {
+    "window_id": 419,
+    "start": 4202.609,
+    "end": 4212.609,
+    "text": "<v Speaker 0>empirical approach, you have collected the data of people coming <v Speaker 0>into a store and then people who are buying, and <v Speaker 0>the average sales amount."
+  },
+  {
+    "window_id": 420,
+    "start": 4212.609,
+    "end": 4222.609,
+    "text": "<v Speaker 0>Based on those two parameters, now obviously here you can <v Speaker 0>already see there's an issue because people coming in and <v Speaker 0>people buying are correlated. <v Speaker 0>It's not independent, they're actually dependent."
+  },
+  {
+    "window_id": 421,
+    "start": 4222.609,
+    "end": 4232.609,
+    "text": "<v Speaker 0>It's not independent, they're actually dependent. <v Speaker 0>But in most cases, if you assume there's an independency <v Speaker 0>between each of them, the model works good enough to"
+  },
+  {
+    "window_id": 422,
+    "start": 4232.609,
+    "end": 4242.609,
+    "text": "<v Speaker 0>between each of them, the model works good enough to <v Speaker 0>give you this um this sort of um prediction. <v Speaker 0>But nonetheless, right, if you just go, count the number <v Speaker 0>of people walking right on the street, count the people"
+  },
+  {
+    "window_id": 423,
+    "start": 4242.609,
+    "end": 4252.609,
+    "text": "<v Speaker 0>of people walking right on the street, count the people <v Speaker 0>walking into the shop. <v Speaker 0>Right, count the number between every hour, say for example, <v Speaker 0>the, the people buying, and then the average sales price."
+  },
+  {
+    "window_id": 424,
+    "start": 4252.609,
+    "end": 4262.609,
+    "text": "<v Speaker 0>the, the people buying, and then the average sales price. <v Speaker 0>So just think about, You know, Lululemon or something, right? <v Speaker 0>There's one in Wynyard, right? <v Speaker 0>There's people walking through the station, Wynyard station, they can"
+  },
+  {
+    "window_id": 425,
+    "start": 4262.609,
+    "end": 4272.609,
+    "text": "<v Speaker 0>There's people walking through the station, Wynyard station, they can <v Speaker 0>do the count. <v Speaker 0>They can go, OK, with the percentage of people coming <v Speaker 0>into the store, they can do that every hour. <v Speaker 0>They can go, All right, well, people look around, people <v Speaker 0>buy stuff, people don't buy stuff."
+  },
+  {
+    "window_id": 426,
+    "start": 4272.609,
+    "end": 4282.609,
+    "text": "<v Speaker 0>buy stuff, people don't buy stuff. <v Speaker 0>And then what's the average price they, they, they purchase? <v Speaker 0>They've got 500 rows of this information. <v Speaker 0>Now the prediction here, the model requires you to predict"
+  },
+  {
+    "window_id": 427,
+    "start": 4282.609,
+    "end": 4292.609,
+    "text": "<v Speaker 0>Now the prediction here, the model requires you to predict <v Speaker 0>how many staff I need to staff on that day <v Speaker 0>at different hours to try and surf the, the store, <v Speaker 0>so then. <v Speaker 0>People don't have to wait too long, right, very sensible"
+  },
+  {
+    "window_id": 428,
+    "start": 4292.609,
+    "end": 4302.609,
+    "text": "<v Speaker 0>People don't have to wait too long, right, very sensible <v Speaker 0>questions there. <v Speaker 0>It depends on what's the revenue and and potentially can <v Speaker 0>you afford those stuff. <v Speaker 0>Now, from these 3 different features, we, we can parameterize"
+  },
+  {
+    "window_id": 429,
+    "start": 4302.609,
+    "end": 4312.609,
+    "text": "<v Speaker 0>Now, from these 3 different features, we, we can parameterize <v Speaker 0>them, right? <v Speaker 0>Uh, with a distribution, and you can see I've basically"
+  },
+  {
+    "window_id": 430,
+    "start": 4312.609,
+    "end": 4322.609,
+    "text": "<v Speaker 0>Uh, with a distribution, and you can see I've basically <v Speaker 0>generated this information that you have customer walking in, uh, <v Speaker 0>ranging, say, number of customers per hour. <v Speaker 0>A number of um."
+  },
+  {
+    "window_id": 431,
+    "start": 4322.609,
+    "end": 4332.609,
+    "text": "<v Speaker 0>A number of um. <v Speaker 0>Customer buying things, and then the sales amount. <v Speaker 0>Each of them can be described in a normal distribution <v Speaker 0>of some sort so."
+  },
+  {
+    "window_id": 432,
+    "start": 4332.609,
+    "end": 4342.609,
+    "text": "<v Speaker 0>of some sort so. <v Speaker 0>You plug that into the formula, right, and so if <v Speaker 0>you assume you have a data frame with those information <v Speaker 0>already. <v Speaker 0>You wanna, you wanna come up with a classing system,"
+  },
+  {
+    "window_id": 433,
+    "start": 4342.609,
+    "end": 4352.609,
+    "text": "<v Speaker 0>You wanna, you wanna come up with a classing system, <v Speaker 0>right? <v Speaker 0>You train your data set. <v Speaker 0>Right, and you split that with a with an 80/20, <v Speaker 0>right, test is only 20%, you split that."
+  },
+  {
+    "window_id": 434,
+    "start": 4352.609,
+    "end": 4362.609,
+    "text": "<v Speaker 0>right, test is only 20%, you split that. <v Speaker 0>You do a naive based um model, training, you fit <v Speaker 0>that, you then be able to predict using new information."
+  },
+  {
+    "window_id": 435,
+    "start": 4362.609,
+    "end": 4372.609,
+    "text": "<v Speaker 0>that, you then be able to predict using new information. <v Speaker 0>And you can see how, how everything works, right? <v Speaker 0>So assuming that in for the last 10 hours, you"
+  },
+  {
+    "window_id": 436,
+    "start": 4372.609,
+    "end": 4382.609,
+    "text": "<v Speaker 0>So assuming that in for the last 10 hours, you <v Speaker 0>do this mapping. <v Speaker 0>And on the 11th hour, you provide it with some <v Speaker 0>new information. <v Speaker 0>This model should now be able to predict whether or <v Speaker 0>not the, um, you know, the next hour based on"
+  },
+  {
+    "window_id": 437,
+    "start": 4382.609,
+    "end": 4392.609,
+    "text": "<v Speaker 0>not the, um, you know, the next hour based on <v Speaker 0>those numbers is gonna be high sales, low sales, or <v Speaker 0>medium sales. <v Speaker 0>Right, so that's a tangible outcome of what we just"
+  },
+  {
+    "window_id": 438,
+    "start": 4392.609,
+    "end": 4402.609,
+    "text": "<v Speaker 0>Right, so that's a tangible outcome of what we just <v Speaker 0>talked about in the last hour and a bit. <v Speaker 0>Right. <v Speaker 0>And so you can play around with this and, and <v Speaker 0>tinker with it, literally, um, and see what you get."
+  },
+  {
+    "window_id": 439,
+    "start": 4402.609,
+    "end": 4412.609,
+    "text": "<v Speaker 0>tinker with it, literally, um, and see what you get. <v Speaker 0>So we go back a bit, right, this is just <v Speaker 0>another example, instead of a continuous, um."
+  },
+  {
+    "window_id": 440,
+    "start": 4412.609,
+    "end": 4422.609,
+    "text": "<v Speaker 0>another example, instead of a continuous, um. <v Speaker 0>Sampling, right, or prediction of the sales number, you could <v Speaker 0>do a classifier, um, using the same approach, because remember,"
+  },
+  {
+    "window_id": 441,
+    "start": 4422.609,
+    "end": 4432.609,
+    "text": "<v Speaker 0>do a classifier, um, using the same approach, because remember, <v Speaker 0>if we don't describe the situation using a probability density <v Speaker 0>function, we use a probability mass function, then we can"
+  },
+  {
+    "window_id": 442,
+    "start": 4432.609,
+    "end": 4442.609,
+    "text": "<v Speaker 0>function, we use a probability mass function, then we can <v Speaker 0>still use this same approach to do classification based on <v Speaker 0>different classes instead of a continuous output."
+  },
+  {
+    "window_id": 443,
+    "start": 4442.609,
+    "end": 4452.609,
+    "text": "<v Speaker 0>So, you know, similar situation, assume that you have a <v Speaker 0>data set of 500 samples, you've got 200 of them <v Speaker 0>belonging to class 1 or class 0, right, and 300"
+  },
+  {
+    "window_id": 444,
+    "start": 4452.609,
+    "end": 4462.609,
+    "text": "<v Speaker 0>belonging to class 1 or class 0, right, and 300 <v Speaker 0>belonging to class 1. <v Speaker 0>These are label datas, obviously, right? <v Speaker 0>You have the prior probability of 0.4 and 0.6 respectively,"
+  },
+  {
+    "window_id": 445,
+    "start": 4462.609,
+    "end": 4472.609,
+    "text": "<v Speaker 0>You have the prior probability of 0.4 and 0.6 respectively, <v Speaker 0>because it's simply 200 out of 500, right, being plus <v Speaker 0>0 and 300 out of 500 being plus 1."
+  },
+  {
+    "window_id": 446,
+    "start": 4472.609,
+    "end": 4482.609,
+    "text": "<v Speaker 0>0 and 300 out of 500 being plus 1. <v Speaker 0>You have that prior prior knowledge. <v Speaker 0>You compute the means and variants of each of those"
+  },
+  {
+    "window_id": 447,
+    "start": 4482.609,
+    "end": 4492.609,
+    "text": "<v Speaker 0>You compute the means and variants of each of those <v Speaker 0>features, and in this case there's only sort of two <v Speaker 0>features, X1 and X2. <v Speaker 0>Yeah, you parameterize them, and then you feed it with <v Speaker 0>some unseen data, right?"
+  },
+  {
+    "window_id": 448,
+    "start": 4492.609,
+    "end": 4502.609,
+    "text": "<v Speaker 0>some unseen data, right? <v Speaker 0>And then from that point. <v Speaker 0>You train. <v Speaker 0>Sorry, I mean, you train based on what you have. <v Speaker 0>You have the boundary conditions, right?"
+  },
+  {
+    "window_id": 449,
+    "start": 4502.609,
+    "end": 4512.609,
+    "text": "<v Speaker 0>You have the boundary conditions, right? <v Speaker 0>And you can see how shaded the, the colours just <v Speaker 0>to illustrate how there's a, there's a certain condition, um, <v Speaker 0>or decision condition, right?"
+  },
+  {
+    "window_id": 450,
+    "start": 4512.609,
+    "end": 4522.609,
+    "text": "<v Speaker 0>or decision condition, right? <v Speaker 0>The red ones are, any dots that in, is in <v Speaker 0>the red area will be classed as red, which is <v Speaker 0>class one. <v Speaker 0>And then for blue it's lustre."
+  },
+  {
+    "window_id": 451,
+    "start": 4522.609,
+    "end": 4532.609,
+    "text": "<v Speaker 0>And then from that point, the system should actually be <v Speaker 0>able to update itself. <v Speaker 0>Um, with every sort of iteration of information coming in. <v Speaker 0>If you want to make the, the model dynamic and"
+  },
+  {
+    "window_id": 452,
+    "start": 4532.609,
+    "end": 4542.609,
+    "text": "<v Speaker 0>If you want to make the, the model dynamic and <v Speaker 0>stuff fixed. <v Speaker 0>OK, so there's some, there's some nuance there. <v Speaker 0>But you can kind of generally see how all this"
+  },
+  {
+    "window_id": 453,
+    "start": 4542.609,
+    "end": 4552.609,
+    "text": "<v Speaker 0>But you can kind of generally see how all this <v Speaker 0>applies to each other, right? <v Speaker 0>Um, and what you really wanted to do is train <v Speaker 0>the system to be able to tell you, There's a"
+  },
+  {
+    "window_id": 454,
+    "start": 4552.609,
+    "end": 4562.609,
+    "text": "<v Speaker 0>the system to be able to tell you, There's a <v Speaker 0>boundary condition here, and that if you display this properly, <v Speaker 0>you can see and visualise that. <v Speaker 0>OK, so, um, examples, yeah, we've talked about how using"
+  },
+  {
+    "window_id": 455,
+    "start": 4562.609,
+    "end": 4572.609,
+    "text": "<v Speaker 0>OK, so, um, examples, yeah, we've talked about how using <v Speaker 0>the sales data, um, Limitations, right, so what I just <v Speaker 0>presented there."
+  },
+  {
+    "window_id": 456,
+    "start": 4572.609,
+    "end": 4582.609,
+    "text": "<v Speaker 0>presented there. <v Speaker 0>There's an assumption, there's an assumption that each of those <v Speaker 0>features are independent, which is not. <v Speaker 0>People walking in and people buying are correlated, it's probably"
+  },
+  {
+    "window_id": 457,
+    "start": 4582.609,
+    "end": 4592.609,
+    "text": "<v Speaker 0>People walking in and people buying are correlated, it's probably <v Speaker 0>the same person, right, it has to be a subset <v Speaker 0>of the other one. <v Speaker 0>Um, they can't just pop out somewhere, right? <v Speaker 0>Um, The distribution of people coming in, generally are not"
+  },
+  {
+    "window_id": 458,
+    "start": 4592.609,
+    "end": 4602.609,
+    "text": "<v Speaker 0>Um, The distribution of people coming in, generally are not <v Speaker 0>well represented by Gaussian distribution, right, those kind of type <v Speaker 0>events should actually be represented using a person distribution."
+  },
+  {
+    "window_id": 459,
+    "start": 4602.609,
+    "end": 4612.609,
+    "text": "<v Speaker 0>events should actually be represented using a person distribution. <v Speaker 0>Um, number of people making purchases is a binomial distribution <v Speaker 0>depending on the count."
+  },
+  {
+    "window_id": 460,
+    "start": 4612.609,
+    "end": 4622.609,
+    "text": "<v Speaker 0>Uh, the sales amount though, are normally distributed. <v Speaker 0>So after 3, there's actually one sort of correctly described <v Speaker 0>distribution of events, which is the sales number."
+  },
+  {
+    "window_id": 461,
+    "start": 4622.609,
+    "end": 4632.609,
+    "text": "<v Speaker 0>distribution of events, which is the sales number. <v Speaker 0>Um, so, you know, with this, there's a, there's a <v Speaker 0>certain gross assumption that needs to be baked in, and"
+  },
+  {
+    "window_id": 462,
+    "start": 4632.609,
+    "end": 4642.609,
+    "text": "<v Speaker 0>certain gross assumption that needs to be baked in, and <v Speaker 0>we kind of expect you to be able to explain <v Speaker 0>your model in your project. <v Speaker 0>So, you know, moving forward, when you go into your <v Speaker 0>project work."
+  },
+  {
+    "window_id": 463,
+    "start": 4642.609,
+    "end": 4652.609,
+    "text": "<v Speaker 0>project work. <v Speaker 0>You find a bunch of problems and then you go <v Speaker 0>and grab a bunch of data, and from those you <v Speaker 0>derive your models, but then there's a certain assumption that"
+  },
+  {
+    "window_id": 464,
+    "start": 4652.609,
+    "end": 4662.609,
+    "text": "<v Speaker 0>derive your models, but then there's a certain assumption that <v Speaker 0>are inherent in your in your thinking process. <v Speaker 0>We want you to be able to detail that in <v Speaker 0>your report. <v Speaker 0>OK, it's not good enough to just say, Mo, Model"
+  },
+  {
+    "window_id": 465,
+    "start": 4662.609,
+    "end": 4672.609,
+    "text": "<v Speaker 0>OK, it's not good enough to just say, Mo, Model <v Speaker 0>B works the best in describing the theme because it <v Speaker 0>gives you a high accuracy number. <v Speaker 0>We want to know what's the limitation. <v Speaker 0>Right, if you were to do more on this, how"
+  },
+  {
+    "window_id": 466,
+    "start": 4672.609,
+    "end": 4682.609,
+    "text": "<v Speaker 0>Right, if you were to do more on this, how <v Speaker 0>would you do it differently? <v Speaker 0>Right, and that's really the analysis and the, and your <v Speaker 0>job as an engineer in this whole work is supposed <v Speaker 0>to provide value to."
+  },
+  {
+    "window_id": 467,
+    "start": 4682.609,
+    "end": 4692.609,
+    "text": "<v Speaker 0>to provide value to. <v Speaker 0>So here you can then see, you know, using this <v Speaker 0>as an example, um, we came up with the boundary <v Speaker 0>conditions, um, to then make predictions and then from that,"
+  },
+  {
+    "window_id": 468,
+    "start": 4692.609,
+    "end": 4702.609,
+    "text": "<v Speaker 0>conditions, um, to then make predictions and then from that, <v Speaker 0>you know, it's quick interpretable classification on, on at what <v Speaker 0>hour, right? <v Speaker 0>Um, the sales will go up because of foot traffic"
+  },
+  {
+    "window_id": 469,
+    "start": 4702.609,
+    "end": 4712.609,
+    "text": "<v Speaker 0>Um, the sales will go up because of foot traffic <v Speaker 0>and, and general people buying things. <v Speaker 0>So we kind of already talked about how there are"
+  },
+  {
+    "window_id": 470,
+    "start": 4712.609,
+    "end": 4722.609,
+    "text": "<v Speaker 0>So we kind of already talked about how there are <v Speaker 0>different ways of representing things uh PMF right? <v Speaker 0>uh probability mass function and probability distribution function, um, you"
+  },
+  {
+    "window_id": 471,
+    "start": 4722.609,
+    "end": 4732.609,
+    "text": "<v Speaker 0>uh probability mass function and probability distribution function, um, you <v Speaker 0>know, uh, just different ways of representation, so you can, <v Speaker 0>you can have a play around with that. <v Speaker 0>I think this will all come together in your um"
+  },
+  {
+    "window_id": 472,
+    "start": 4732.609,
+    "end": 4742.609,
+    "text": "<v Speaker 0>I think this will all come together in your um <v Speaker 0>tutorial this week when we actually go into some of <v Speaker 0>the data set, um, and then play around with with <v Speaker 0>making this model and you can tune the parameters."
+  },
+  {
+    "window_id": 473,
+    "start": 4742.609,
+    "end": 4752.609,
+    "text": "<v Speaker 0>making this model and you can tune the parameters. <v Speaker 0>OK, so I think. <v Speaker 0>Yeah. <v Speaker 0>We talked a bit about how to just pull this <v Speaker 0>directly out from, from the Python libraries, right?"
+  },
+  {
+    "window_id": 474,
+    "start": 4752.609,
+    "end": 4762.609,
+    "text": "<v Speaker 0>directly out from, from the Python libraries, right? <v Speaker 0>So PyitLearn actually has this naive base, um, library, and <v Speaker 0>you just simply put your data sets, split them up,"
+  },
+  {
+    "window_id": 475,
+    "start": 4762.609,
+    "end": 4772.609,
+    "text": "<v Speaker 0>you just simply put your data sets, split them up, <v Speaker 0>or clean it first, do the pre-processing, clean it, split <v Speaker 0>that, train your model, fit train, and then predict."
+  },
+  {
+    "window_id": 476,
+    "start": 4772.609,
+    "end": 4782.609,
+    "text": "<v Speaker 0>And you can actually split out the probability score instead <v Speaker 0>of the actual class if you want, and then you <v Speaker 0>can uh test how accurate by different training methods and"
+  },
+  {
+    "window_id": 477,
+    "start": 4782.609,
+    "end": 4792.609,
+    "text": "<v Speaker 0>can uh test how accurate by different training methods and <v Speaker 0>um thresholds and so forth. <v Speaker 0>OK, so the top is how you utilise the library."
+  },
+  {
+    "window_id": 478,
+    "start": 4792.609,
+    "end": 4802.609,
+    "text": "<v Speaker 0>OK, so the top is how you utilise the library. <v Speaker 0>The bottom section of the code is simply just the <v Speaker 0>display of the accuracy of this model. <v Speaker 0>OK. <v Speaker 0>So I think you've done this, um, a few times"
+  },
+  {
+    "window_id": 479,
+    "start": 4802.609,
+    "end": 4812.609,
+    "text": "<v Speaker 0>So I think you've done this, um, a few times <v Speaker 0>now. <v Speaker 0>Shouldn't be too hot. <v Speaker 0>OK, as a recap, as a recap, so we've introduced <v Speaker 0>the concept of conditional probability, um, through a bunch of"
+  },
+  {
+    "window_id": 480,
+    "start": 4812.609,
+    "end": 4822.609,
+    "text": "<v Speaker 0>the concept of conditional probability, um, through a bunch of <v Speaker 0>axiom definitions. <v Speaker 0>We've talked about the joint probability, um, of events."
+  },
+  {
+    "window_id": 481,
+    "start": 4822.609,
+    "end": 4832.609,
+    "text": "<v Speaker 0>We've talked about the joint probability, um, of events. <v Speaker 0>So independent events, what's the chance of them both happening <v Speaker 0>at the same time? <v Speaker 0>Simply the multiplication of that, if it's mutually exclusive, then"
+  },
+  {
+    "window_id": 482,
+    "start": 4832.609,
+    "end": 4842.609,
+    "text": "<v Speaker 0>Simply the multiplication of that, if it's mutually exclusive, then <v Speaker 0>it is the summation of those events. <v Speaker 0>The person in in classroom here, sits at this seat, <v Speaker 0>they cannot sit at that seat. <v Speaker 0>What's the chance of both seats being filled?"
+  },
+  {
+    "window_id": 483,
+    "start": 4842.609,
+    "end": 4852.609,
+    "text": "<v Speaker 0>What's the chance of both seats being filled? <v Speaker 0>Well, you know, it's either or. <v Speaker 0>Um, The conditional probability of something, so. <v Speaker 0>Um, there is a correlation of given something happening, what's"
+  },
+  {
+    "window_id": 484,
+    "start": 4852.609,
+    "end": 4862.609,
+    "text": "<v Speaker 0>Um, there is a correlation of given something happening, what's <v Speaker 0>the chance of the other thing happening? <v Speaker 0>OK. <v Speaker 0>So, so there's a range of uh."
+  },
+  {
+    "window_id": 485,
+    "start": 4862.609,
+    "end": 4872.609,
+    "text": "<v Speaker 0>So, so there's a range of uh. <v Speaker 0>Conditions Independency, mutually exclusive events, we talked about that. <v Speaker 0>Random variable as a function to map."
+  },
+  {
+    "window_id": 486,
+    "start": 4872.609,
+    "end": 4882.609,
+    "text": "<v Speaker 0>Random variable as a function to map. <v Speaker 0>The real space of outcomes to a numerical space, right, <v Speaker 0>and this is now, Can then be parameterized uh in"
+  },
+  {
+    "window_id": 487,
+    "start": 4882.609,
+    "end": 4892.609,
+    "text": "<v Speaker 0>and this is now, Can then be parameterized uh in <v Speaker 0>a soft distribution function. <v Speaker 0>You've got discrete events distributions, you've got continuous event distributions. <v Speaker 0>The maximum likelihood of something happening is really just the"
+  },
+  {
+    "window_id": 488,
+    "start": 4892.609,
+    "end": 4902.609,
+    "text": "<v Speaker 0>The maximum likelihood of something happening is really just the <v Speaker 0>peak of those distributions, right, as we kinda. <v Speaker 0>So I really understand it intuitively anyway, um."
+  },
+  {
+    "window_id": 489,
+    "start": 4902.609,
+    "end": 4912.609,
+    "text": "<v Speaker 0>So I really understand it intuitively anyway, um. <v Speaker 0>And then the machine learning approach to how all this <v Speaker 0>translates into a GNB right, method. <v Speaker 0>Uh, there's a certain baked in assumption that there's independencies,"
+  },
+  {
+    "window_id": 490,
+    "start": 4912.609,
+    "end": 4922.609,
+    "text": "<v Speaker 0>Uh, there's a certain baked in assumption that there's independencies, <v Speaker 0>but nonetheless, even though it's not truly representative of the <v Speaker 0>real world, it's good enough to do, um, most of"
+  },
+  {
+    "window_id": 491,
+    "start": 4922.609,
+    "end": 4932.609,
+    "text": "<v Speaker 0>real world, it's good enough to do, um, most of <v Speaker 0>the calculation and it handles the mathematics well, right? <v Speaker 0>It allows you to compute this, um, outcome with enough <v Speaker 0>precision, right, within a given amount of time."
+  },
+  {
+    "window_id": 492,
+    "start": 4932.609,
+    "end": 4942.609,
+    "text": "<v Speaker 0>precision, right, within a given amount of time. <v Speaker 0>So that's really the key here, is out of practicality, <v Speaker 0>To assume something is independent even though they're not."
+  },
+  {
+    "window_id": 493,
+    "start": 4942.609,
+    "end": 4952.609,
+    "text": "<v Speaker 0>To assume something is independent even though they're not. <v Speaker 0>Right, so bear that in mind. <v Speaker 0>And then moving forward, obviously you're not required to codify <v Speaker 0>or write your own equation, you're simply required to pull"
+  },
+  {
+    "window_id": 494,
+    "start": 4952.609,
+    "end": 4962.609,
+    "text": "<v Speaker 0>or write your own equation, you're simply required to pull <v Speaker 0>them out from the um psychic learn library. <v Speaker 0>But there is that assumption that everything is a Gaussian <v Speaker 0>distribution, and that's not always the case."
+  },
+  {
+    "window_id": 495,
+    "start": 4962.609,
+    "end": 4972.609,
+    "text": "<v Speaker 0>distribution, and that's not always the case. <v Speaker 0>So with that, um, that concludes this week's lecture. <v Speaker 0>Do we have any questions? <v Speaker 0>I know it's like a really rough and quick through,"
+  },
+  {
+    "window_id": 496,
+    "start": 4972.609,
+    "end": 4982.609,
+    "text": "<v Speaker 0>I know it's like a really rough and quick through, <v Speaker 0>uh, put off, you know, the whole probability segment, but, <v Speaker 0>I think all this comes together in your tutorial, when"
+  },
+  {
+    "window_id": 497,
+    "start": 4982.609,
+    "end": 4992.609,
+    "text": "<v Speaker 0>I think all this comes together in your tutorial, when <v Speaker 0>you're playing around with the data set, playing around with <v Speaker 0>the actual parameters, and just bear in mind every time <v Speaker 0>you spit out something, remind yourself where you're in that"
+  },
+  {
+    "window_id": 498,
+    "start": 4992.609,
+    "end": 5002.609,
+    "text": "<v Speaker 0>you spit out something, remind yourself where you're in that <v Speaker 0>whole pipeline, right? <v Speaker 0>Add more complexity as you go on, and then try <v Speaker 0>to use a generative AI chat GPT."
+  },
+  {
+    "window_id": 499,
+    "start": 5002.609,
+    "end": 5012.609,
+    "text": "<v Speaker 0>to use a generative AI chat GPT. <v Speaker 0>You try and answer your own questions, right? <v Speaker 0>You could put in some of these slides, right? <v Speaker 0>You can screenshot them, chuck it in, and then go,"
+  },
+  {
+    "window_id": 500,
+    "start": 5012.609,
+    "end": 5022.609,
+    "text": "<v Speaker 0>You can screenshot them, chuck it in, and then go, <v Speaker 0>ask it the question, you know, role play as this <v Speaker 0>engineer, am I understanding this correctly? <v Speaker 0>If I have XYZ, does this mean blah blah blah,"
+  },
+  {
+    "window_id": 501,
+    "start": 5022.609,
+    "end": 5032.609,
+    "text": "<v Speaker 0>If I have XYZ, does this mean blah blah blah, <v Speaker 0>right? <v Speaker 0>And I think it's this dynamic interaction with the knowledge <v Speaker 0>that actually gives you a better understanding on what you're <v Speaker 0>dealing with right now. <v Speaker 0>OK, any questions?"
+  },
+  {
+    "window_id": 502,
+    "start": 5032.609,
+    "end": 5042.609,
+    "text": "<v Speaker 0>OK, any questions? <v Speaker 0>Everyone did OK with the quiz? <v Speaker 0>I assume? <v Speaker 0>No, yes, Easy. <v Speaker 0>Alright, there's another one coming along next week, so, so,"
+  },
+  {
+    "window_id": 503,
+    "start": 5042.609,
+    "end": 5052.609,
+    "text": "<v Speaker 0>Alright, there's another one coming along next week, so, so, <v Speaker 0>you know, every 2 weeks we'll have a quiz, but, <v Speaker 0>um, I assume everyone will have formed their teams by <v Speaker 0>now, at least you put your names into the canvas."
+  },
+  {
+    "window_id": 504,
+    "start": 5052.609,
+    "end": 5062.609,
+    "text": "<v Speaker 0>now, at least you put your names into the canvas. <v Speaker 0>Um, we have tutors renaming those groupings, so just make <v Speaker 0>sure that you're like tutorial A, you know, tutorial 1."
+  },
+  {
+    "window_id": 505,
+    "start": 5062.609,
+    "end": 5072.609,
+    "text": "<v Speaker 0>Free or something, check your name, um, yeah, have fun, <v Speaker 1>cool."
+  },
+  {
+    "window_id": 506,
+    "start": 5092.609,
+    "end": 5102.609,
+    "text": "<v Speaker 1>Yeah."
+  },
+  {
+    "window_id": 507,
+    "start": 5102.609,
+    "end": 5112.609,
+    "text": "<v Speaker 0>Yeah. <v Speaker 0>It's like, you know, the Gaussian distribution."
+  },
+  {
+    "window_id": 508,
+    "start": 5112.609,
+    "end": 5122.609,
+    "text": "<v Speaker 1>Like, like the one that had middle. <v Speaker 0>So the, the most common one is this normal distribution,"
+  },
+  {
+    "window_id": 509,
+    "start": 5122.609,
+    "end": 5132.609,
+    "text": "<v Speaker 0>So the, the most common one is this normal distribution, <v Speaker 0>which also is known as Gaussian distribution. <v Speaker 0>There's other parameters that shakes the shape of it instead <v Speaker 1>of like doing this, whatever."
+  },
+  {
+    "window_id": 510,
+    "start": 5132.609,
+    "end": 5142.609,
+    "text": "<v Speaker 0>This, the really sharpness of it. <v Speaker 0>It's just different ways of like there's different parameters."
+  },
+  {
+    "window_id": 511,
+    "start": 5142.609,
+    "end": 5152.609,
+    "text": "<v Speaker 0>The calculation of You just plug that in, you start"
+  },
+  {
+    "window_id": 512,
+    "start": 5152.609,
+    "end": 5162.609,
+    "text": "<v Speaker 0>The calculation of You just plug that in, you start <v Speaker 0>like giving a number into the formulation. <v Speaker 0>You plug in the whole formula. <v Speaker 0>So like when you're describing the formula, there's only two <v Speaker 0>terms you need to, which is the mean and."
+  },
+  {
+    "window_id": 513,
+    "start": 5162.609,
+    "end": 5172.609,
+    "text": "<v Speaker 0>terms you need to, which is the mean and. <v Speaker 0>But very often like in the back end when you <v Speaker 1>pull this from the library, it does the first compute <v Speaker 0>and go look through all the robes, what's that, doesn't"
+  },
+  {
+    "window_id": 514,
+    "start": 5172.609,
+    "end": 5182.609,
+    "text": "<v Speaker 0>and go look through all the robes, what's that, doesn't <v Speaker 0>plot it because computers doesn't. <v Speaker 0>But then it comes out with, OK, well, he's the <v Speaker 0>mean of something, he's the fairy something. <v Speaker 0>They use this to then compute the mix."
+  },
+  {
+    "window_id": 515,
+    "start": 5182.609,
+    "end": 5192.609,
+    "text": "<v Speaker 0>They use this to then compute the mix. <v Speaker 0>And all that sort of stacked up and then get <v Speaker 0>this number, this number is the probability of. <v Speaker 0>You know, given this new line of condition, what's the"
+  },
+  {
+    "window_id": 516,
+    "start": 5192.609,
+    "end": 5202.609,
+    "text": "<v Speaker 0>You know, given this new line of condition, what's the <v Speaker 0>chance of that being certain plants? <v Speaker 0>Oh, right."
+  },
+  {
+    "window_id": 517,
+    "start": 5202.609,
+    "end": 5212.609,
+    "text": "<v Speaker 0>Random variable Me At the table of You don't need"
+  },
+  {
+    "window_id": 518,
+    "start": 5212.609,
+    "end": 5222.609,
+    "text": "<v Speaker 0>Random variable Me At the table of You don't need <v Speaker 1>to No But when you see that in the post,"
+  },
+  {
+    "window_id": 519,
+    "start": 5222.609,
+    "end": 5232.609,
+    "text": "<v Speaker 1>to No But when you see that in the post, <v Speaker 0>you know that oh right this is. <v Speaker 1>What we pays a bit of, I mean it will"
+  },
+  {
+    "window_id": 520,
+    "start": 5232.609,
+    "end": 5242.609,
+    "text": "<v Speaker 1>What we pays a bit of, I mean it will <v Speaker 1>be useful to go so this is the parameter. <v Speaker 0>Most cases, the Gaus."
+  },
+  {
+    "window_id": 521,
+    "start": 5252.609,
+    "end": 5262.609,
+    "text": "<v Speaker 0>I don't think they are like niche."
+  },
+  {
+    "window_id": 522,
+    "start": 5272.609,
+    "end": 5282.609,
+    "text": "<v Speaker 1>That I think there's Asking for output."
+  },
+  {
+    "window_id": 523,
+    "start": 5282.609,
+    "end": 5292.609,
+    "text": "<v Speaker 1>That I think there's Asking for output."
+  },
+  {
+    "window_id": 524,
+    "start": 5292.609,
+    "end": 5302.609,
+    "text": "<v Speaker 1>That I think there's Asking for output."
+  },
+  {
+    "window_id": 525,
+    "start": 5312.609,
+    "end": 5322.609,
+    "text": "<v Speaker 0>Know I think it's like quizzing on the nuances of."
+  },
+  {
+    "window_id": 526,
+    "start": 5322.609,
+    "end": 5332.609,
+    "text": "<v Speaker 0>I think the quiz is 234. <v Speaker 1>That that's not syntax."
+  },
+  {
+    "window_id": 527,
+    "start": 5332.609,
+    "end": 5342.609,
+    "text": "<v Speaker 0>Generally if you're if you're like doing the coding of. <v Speaker 0>You will have Some some very typical some places will"
+  },
+  {
+    "window_id": 528,
+    "start": 5342.609,
+    "end": 5352.609,
+    "text": "<v Speaker 0>You will have Some some very typical some places will <v Speaker 0>be like, oh you do mind."
+  },
+  {
+    "window_id": 529,
+    "start": 5352.609,
+    "end": 5362.609,
+    "text": "<v Speaker 1>I so many like abstraction questions."
+  },
+  {
+    "window_id": 530,
+    "start": 5362.609,
+    "end": 5372.609,
+    "text": "<v Speaker 1>I My question Yeah, it's it's really pretty."
+  },
+  {
+    "window_id": 531,
+    "start": 5372.609,
+    "end": 5382.609,
+    "text": "<v Speaker 1>I My question Yeah, it's it's really pretty."
+  },
+  {
+    "window_id": 532,
+    "start": 5382.609,
+    "end": 5392.609,
+    "text": "<v Speaker 1>I My question Yeah, it's it's really pretty. <v Speaker 1>The American lives how you have Sample say may not"
+  },
+  {
+    "window_id": 533,
+    "start": 5392.609,
+    "end": 5402.609,
+    "text": "<v Speaker 1>The American lives how you have Sample say may not <v Speaker 1>There's all the possibilities And somehow you need to represent"
+  },
+  {
+    "window_id": 534,
+    "start": 5402.609,
+    "end": 5412.609,
+    "text": "<v Speaker 1>There's all the possibilities And somehow you need to represent <v Speaker 1>this. <v Speaker 1>The best way to do that For What I think"
+  },
+  {
+    "window_id": 535,
+    "start": 5412.609,
+    "end": 5422.609,
+    "text": "<v Speaker 1>The best way to do that For What I think <v Speaker 1>you want to describe that."
+  },
+  {
+    "window_id": 536,
+    "start": 5422.609,
+    "end": 5432.609,
+    "text": "<v Speaker 1>OK Not that. <v Speaker 0>Whatever This case is made."
+  },
+  {
+    "window_id": 537,
+    "start": 5432.609,
+    "end": 5442.609,
+    "text": "<v Speaker 0>Whatever This case is made. <v Speaker 1>Ethereum."
+  },
+  {
+    "window_id": 538,
+    "start": 5442.609,
+    "end": 5452.609,
+    "text": "<v Speaker 1>The You see the highest like."
+  },
+  {
+    "window_id": 539,
+    "start": 5452.609,
+    "end": 5462.609,
+    "text": "<v Speaker 1>The You see the highest like. <v Speaker 1>A And like I And your The classify the the"
+  },
+  {
+    "window_id": 540,
+    "start": 5462.609,
+    "end": 5472.609,
+    "text": "<v Speaker 1>A And like I And your The classify the the"
+  },
+  {
+    "window_id": 541,
+    "start": 5472.609,
+    "end": 5482.609,
+    "text": "<v Speaker 1>A And like I And your The classify the the <v Speaker 1>Oh In order to protect the light. <v Speaker 1>You understand."
+  },
+  {
+    "window_id": 542,
+    "start": 5482.609,
+    "end": 5492.609,
+    "text": "<v Speaker 1>Yeah, so like if I give you a new line <v Speaker 1>of. <v Speaker 1>I I want to know What's the likelihood of We'll"
+  },
+  {
+    "window_id": 543,
+    "start": 5492.609,
+    "end": 5502.609,
+    "text": "<v Speaker 1>I I want to know What's the likelihood of We'll"
+  },
+  {
+    "window_id": 544,
+    "start": 5502.609,
+    "end": 5512.609,
+    "text": "<v Speaker 1>I I want to know What's the likelihood of We'll <v Speaker 1>compute this one."
+  },
+  {
+    "window_id": 545,
+    "start": 5512.609,
+    "end": 5522.609,
+    "text": "<v Speaker 1>Based on what I've seen This is the likelihood Based <v Speaker 1>on Be in the food, the maximum 2."
+  },
+  {
+    "window_id": 546,
+    "start": 5522.609,
+    "end": 5532.609,
+    "text": "<v Speaker 1>on Be in the food, the maximum 2. <v Speaker 1>Now you Same road because So like I give you <v Speaker 1>500 roll, you train more."
+  },
+  {
+    "window_id": 547,
+    "start": 5532.609,
+    "end": 5542.609,
+    "text": "<v Speaker 1>I'll give you the 501. <v Speaker 0>Are you using the machine learning to predict?"
+  },
+  {
+    "window_id": 548,
+    "start": 5542.609,
+    "end": 5552.609,
+    "text": "<v Speaker 1>But he Is it That possibility Now Whatever the distribution."
+  },
+  {
+    "window_id": 549,
+    "start": 5552.609,
+    "end": 5562.609,
+    "text": "<v Speaker 1>But he Is it That possibility Now Whatever the distribution."
+  },
+  {
+    "window_id": 550,
+    "start": 5562.609,
+    "end": 5572.609,
+    "text": "<v Speaker 1>But he Is it That possibility Now Whatever the distribution. <v Speaker 1>Nonetheless I It's Somewhat like it's unintuitive like."
+  },
+  {
+    "window_id": 551,
+    "start": 5572.609,
+    "end": 5582.609,
+    "text": "<v Speaker 1>Nonetheless I It's Somewhat like it's unintuitive like. <v Speaker 0>Easy to say it like."
+  },
+  {
+    "window_id": 552,
+    "start": 5582.609,
+    "end": 5592.609,
+    "text": "<v Speaker 0>Easy to say it like. <v Speaker 1>How come why position on. <v Speaker 1>have seen So even in maximum likelihood of 5."
+  },
+  {
+    "window_id": 553,
+    "start": 5592.609,
+    "end": 5602.609,
+    "text": "<v Speaker 1>have seen So even in maximum likelihood of 5. <v Speaker 1>He Or if it's a 15."
+  },
+  {
+    "window_id": 554,
+    "start": 5602.609,
+    "end": 5612.609,
+    "text": "<v Speaker 1>He Or if it's a 15. <v Speaker 1>At the You want to integrate this 501 Models are"
+  },
+  {
+    "window_id": 555,
+    "start": 5612.609,
+    "end": 5622.609,
+    "text": "<v Speaker 1>At the You want to integrate this 501 Models are <v Speaker 1>free."
+  },
+  {
+    "window_id": 556,
+    "start": 5622.609,
+    "end": 5632.609,
+    "text": "<v Speaker 0>so But generally speaking, like in the."
+  },
+  {
+    "window_id": 557,
+    "start": 5632.609,
+    "end": 5642.609,
+    "text": "<v Speaker 0>so But generally speaking, like in the. <v Speaker 1>It What Oh, like one B of 2, right?"
+  },
+  {
+    "window_id": 558,
+    "start": 5642.609,
+    "end": 5652.609,
+    "text": "<v Speaker 1>It What Oh, like one B of 2, right? <v Speaker 1>The It Why The The likelihood All the possible parameter"
+  },
+  {
+    "window_id": 559,
+    "start": 5652.609,
+    "end": 5662.609,
+    "text": "<v Speaker 1>The It Why The The likelihood All the possible parameter"
+  },
+  {
+    "window_id": 560,
+    "start": 5662.609,
+    "end": 5672.609,
+    "text": "<v Speaker 1>The It Why The The likelihood All the possible parameter"
+  },
+  {
+    "window_id": 561,
+    "start": 5672.609,
+    "end": 5682.609,
+    "text": "<v Speaker 1>The It Why The The likelihood All the possible parameter <v Speaker 1>And I mean not always And 35."
+  },
+  {
+    "window_id": 562,
+    "start": 5682.609,
+    "end": 5692.609,
+    "text": "<v Speaker 1>And I mean not always And 35."
+  },
+  {
+    "window_id": 563,
+    "start": 5692.609,
+    "end": 5702.609,
+    "text": "<v Speaker 1>And I mean not always And 35."
+  },
+  {
+    "window_id": 564,
+    "start": 5702.609,
+    "end": 5712.609,
+    "text": "<v Speaker 1>And I mean not always And 35."
+  },
+  {
+    "window_id": 565,
+    "start": 5712.609,
+    "end": 5722.609,
+    "text": "<v Speaker 1>And I mean not always And 35."
+  },
+  {
+    "window_id": 566,
+    "start": 5722.609,
+    "end": 5732.609,
+    "text": "<v Speaker 1>And I mean not always And 35."
+  },
+  {
+    "window_id": 567,
+    "start": 5732.609,
+    "end": 5742.609,
+    "text": "<v Speaker 1>And I mean not always And 35."
+  },
+  {
+    "window_id": 568,
+    "start": 5742.609,
+    "end": 5752.609,
+    "text": "<v Speaker 1>And I mean not always And 35."
+  },
+  {
+    "window_id": 569,
+    "start": 5752.609,
+    "end": 5762.609,
+    "text": "<v Speaker 1>I I think Uh, I think it makes sense if"
+  },
+  {
+    "window_id": 570,
+    "start": 5762.609,
+    "end": 5772.609,
+    "text": "<v Speaker 1>I I think Uh, I think it makes sense if"
+  },
+  {
+    "window_id": 571,
+    "start": 5772.609,
+    "end": 5782.609,
+    "text": "<v Speaker 1>I I think Uh, I think it makes sense if <v Speaker 0>you start playing around with. <v Speaker 0>OK, I stop this person."
+  },
+  {
+    "window_id": 572,
+    "start": 5782.609,
+    "end": 5792.609,
+    "text": "<v Speaker 0>And yeah, honestly like. <v Speaker 1>This directly Cool, all right."
+  },
+  {
+    "window_id": 573,
+    "start": 5792.609,
+    "end": 5802.609,
+    "text": "<v Speaker 1>This directly Cool, all right."
+  },
+  {
+    "window_id": 574,
+    "start": 5812.609,
+    "end": 5822.609,
+    "text": "<v Speaker 0>Thanks"
+  }
+]

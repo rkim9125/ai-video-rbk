@@ -1,0 +1,2 @@
+Window Size,Precision,Recall,F1,Predicted Boundaries,Interpretation
+5,0.125,0.2222,0.16,16.0,balanced baseline

@@ -1,0 +1,43 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 41,
+  "TP": 3,
+  "FP": 38,
+  "FN": 6,
+  "precision": 0.07317073170731707,
+  "recall": 0.3333333333333333,
+  "f1": 0.12,
+  "matches": [
+    {
+      "gt_index": 1,
+      "gt_time": 336,
+      "gt_time_str": "00:05:36",
+      "gt_title": "Technical Infrastructure and Prerequisite Review",
+      "pred_index": 3,
+      "pred_time": 362.48900000000003,
+      "pred_similarity": 0.5289709568023682,
+      "abs_error_sec": 26.489000000000033
+    },
+    {
+      "gt_index": 2,
+      "gt_time": 584,
+      "gt_time_str": "00:09:44",
+      "gt_title": "Project Roadmap and Team Formation",
+      "pred_index": 6,
+      "pred_time": 562.489,
+      "pred_similarity": 0.5110902786254883,
+      "abs_error_sec": 21.510999999999967
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 930,
+      "gt_time_str": "00:15:30",
+      "gt_title": "Design Principles and MVP Approach",
+      "pred_index": 11,
+      "pred_time": 902.489,
+      "pred_similarity": 0.5345667600631714,
+      "abs_error_sec": 27.510999999999967
+    }
+  ]
+}

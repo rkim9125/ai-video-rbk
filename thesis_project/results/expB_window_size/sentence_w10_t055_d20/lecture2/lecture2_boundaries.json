@@ -1,0 +1,26 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      900,
+      901
+    ],
+    "boundary_time": 3387.1,
+    "similarity": 0.5263444781303406,
+    "left_window_end": 3416.989,
+    "right_window_start": 3387.1,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      1316,
+      1317
+    ],
+    "boundary_time": 5010.74,
+    "similarity": 0.4966757297515869,
+    "left_window_end": 5034.12,
+    "right_window_start": 5010.74,
+    "reason": "low_similarity_and_local_minimum"
+  }
+]

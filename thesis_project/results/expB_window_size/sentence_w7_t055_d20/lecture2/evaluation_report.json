@@ -1,0 +1,12 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 11,
+  "pred_count": 4,
+  "TP": 0,
+  "FP": 4,
+  "FN": 11,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "matches": []
+}

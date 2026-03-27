@@ -1,0 +1,5 @@
+Rule,Lecture,Precision,Recall,F1,Predicted Boundaries,Ground Truth Boundaries,tp,fp,fn,tolerance_sec
+threshold_only,lecture1,0.0414,0.6667,0.0779,145,9,6,139,3,30.0
+threshold_only,lecture2,0.0427,0.9091,0.0816,234,11,10,224,1,30.0
+threshold_only,lecture3,0.0507,0.7,0.0946,138,10,7,131,3,30.0
+threshold_only,lecture4,0.0547,0.7778,0.1022,128,9,7,121,2,30.0

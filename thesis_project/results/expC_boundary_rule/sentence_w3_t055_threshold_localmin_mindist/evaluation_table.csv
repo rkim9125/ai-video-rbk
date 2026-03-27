@@ -1,0 +1,5 @@
+Rule,Lecture,Precision,Recall,F1,Predicted Boundaries,Ground Truth Boundaries,tp,fp,fn,tolerance_sec
+threshold_localmin_mindist,lecture1,0.0619,0.6667,0.1132,97,9,6,91,3,30.0
+threshold_localmin_mindist,lecture2,0.0725,0.9091,0.1342,138,11,10,128,1,30.0
+threshold_localmin_mindist,lecture3,0.0805,0.7,0.1443,87,10,7,80,3,30.0
+threshold_localmin_mindist,lecture4,0.0562,0.5556,0.102,89,9,5,84,4,30.0

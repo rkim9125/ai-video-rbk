@@ -1,0 +1,83 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 128,
+  "TP": 7,
+  "FP": 121,
+  "FN": 2,
+  "precision": 0.0546875,
+  "recall": 0.7777777777777778,
+  "f1": 0.10218978102189781,
+  "matches": [
+    {
+      "gt_index": 1,
+      "gt_time": 405,
+      "gt_time_str": "00:06:45",
+      "gt_title": "Image Data as Matrices",
+      "pred_index": 7,
+      "pred_time": 386.369,
+      "pred_similarity": 0.4089530110359192,
+      "abs_error_sec": 18.630999999999972
+    },
+    {
+      "gt_index": 2,
+      "gt_time": 920,
+      "gt_time_str": "00:15:20",
+      "gt_title": "CNN Introduction",
+      "pred_index": 17,
+      "pred_time": 899.32,
+      "pred_similarity": 0.4570312798023224,
+      "abs_error_sec": 20.67999999999995
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 1450,
+      "gt_time_str": "00:24:10",
+      "gt_title": "Convolution Operations",
+      "pred_index": 28,
+      "pred_time": 1454.589,
+      "pred_similarity": 0.5218209028244019,
+      "abs_error_sec": 4.588999999999942
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 3135,
+      "gt_time_str": "00:52:15",
+      "gt_title": "Flattening and Fully Connected Layers",
+      "pred_index": 60,
+      "pred_time": 3129.37,
+      "pred_similarity": 0.46226346492767334,
+      "abs_error_sec": 5.630000000000109
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 3930,
+      "gt_time_str": "01:05:30",
+      "gt_title": "ReLU Activation",
+      "pred_index": 82,
+      "pred_time": 3905.61,
+      "pred_similarity": 0.5321477055549622,
+      "abs_error_sec": 24.389999999999873
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 4510,
+      "gt_time_str": "01:15:10",
+      "gt_title": "Model Building Workflow",
+      "pred_index": 92,
+      "pred_time": 4535.56,
+      "pred_similarity": 0.3711438775062561,
+      "abs_error_sec": 25.5600000000004
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 5140,
+      "gt_time_str": "01:25:40",
+      "gt_title": "Implementation Tips / Q&A",
+      "pred_index": 115,
+      "pred_time": 5126.62,
+      "pred_similarity": 0.5023770332336426,
+      "abs_error_sec": 13.38000000000011
+    }
+  ]
+}

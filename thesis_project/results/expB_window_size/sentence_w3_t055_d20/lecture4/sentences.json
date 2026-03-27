@@ -1,0 +1,7976 @@
+[
+  {
+    "sentence_id": 0,
+    "start": 12.609,
+    "end": 15.479,
+    "text": "OK, there were also questions on how, how are they"
+  },
+  {
+    "sentence_id": 1,
+    "start": 15.85,
+    "end": 19.6,
+    "text": "designed and uh conceived, right, and so I think that,"
+  },
+  {
+    "sentence_id": 2,
+    "start": 20.37,
+    "end": 23.389,
+    "text": "I think that answers um it's quite clear now that"
+  },
+  {
+    "sentence_id": 3,
+    "start": 23.389,
+    "end": 26.95,
+    "text": "you've been through a few tutorials, right, very often when"
+  },
+  {
+    "sentence_id": 4,
+    "start": 26.95,
+    "end": 30.62,
+    "text": "you're coding this, um, in real life you just pull"
+  },
+  {
+    "sentence_id": 5,
+    "start": 31.069,
+    "end": 34.38,
+    "text": "the framework from a library, right?"
+  },
+  {
+    "sentence_id": 6,
+    "start": 34.869,
+    "end": 38.939,
+    "text": "Um, but then obviously those libraries are embedded with, with,"
+  },
+  {
+    "sentence_id": 7,
+    "start": 38.95,
+    "end": 43.86,
+    "text": "um, some calculus and mathematical equations behind it."
+  },
+  {
+    "sentence_id": 8,
+    "start": 44.11,
+    "end": 47.36,
+    "text": "Um, there are certain assumptions, you can call on those"
+  },
+  {
+    "sentence_id": 9,
+    "start": 47.36,
+    "end": 52.509,
+    "text": "parameters, obviously. But if you're more advanced into, into the actual stack,"
+  },
+  {
+    "sentence_id": 10,
+    "start": 52.68,
+    "end": 57.36,
+    "text": "you can then directly input your equations and today in"
+  },
+  {
+    "sentence_id": 11,
+    "start": 57.36,
+    "end": 60.279,
+    "text": "our lecture, we'll actually look um at how this can"
+  },
+  {
+    "sentence_id": 12,
+    "start": 60.279,
+    "end": 63.77,
+    "text": "be done as well, not, not the actual coding bit"
+  },
+  {
+    "sentence_id": 13,
+    "start": 64.08,
+    "end": 67.919,
+    "text": "but how there's certain basic assumptions that is embedded in"
+  },
+  {
+    "sentence_id": 14,
+    "start": 67.919,
+    "end": 71.0,
+    "text": "those libraries, right, so if you're just doing it and"
+  },
+  {
+    "sentence_id": 15,
+    "start": 71.0,
+    "end": 73.989,
+    "text": "getting it done, right, you can just pull it off"
+  },
+  {
+    "sentence_id": 16,
+    "start": 73.989,
+    "end": 78.18,
+    "text": "from the library. If you want to be more nuanced with the parameters"
+  },
+  {
+    "sentence_id": 17,
+    "start": 78.18,
+    "end": 82.569,
+    "text": "and assumptions, then you need to potentially change those um"
+  },
+  {
+    "sentence_id": 18,
+    "start": 83.01,
+    "end": 88.25,
+    "text": "conditions. So, for example, you know, rather than using Gaussian distribution"
+  },
+  {
+    "sentence_id": 19,
+    "start": 88.25,
+    "end": 91.41,
+    "text": "for everything that we're describing, you could use different distributions"
+  },
+  {
+    "sentence_id": 20,
+    "start": 91.41,
+    "end": 97.09899999999999,
+    "text": "and so forth. There are questions about How this is compute, like, um,"
+  },
+  {
+    "sentence_id": 21,
+    "start": 97.11,
+    "end": 100.419,
+    "text": "how, how machine learning is different to conventional engineering models,"
+  },
+  {
+    "sentence_id": 22,
+    "start": 100.75,
+    "end": 105.279,
+    "text": "um, and Prel formulations is what traditionally happens, right?"
+  },
+  {
+    "sentence_id": 23,
+    "start": 105.47,
+    "end": 109.309,
+    "text": "So you, you define, say, basic physics equations, and then"
+  },
+  {
+    "sentence_id": 24,
+    "start": 109.309,
+    "end": 113.83,
+    "text": "you solve that. But in a machine learning system, that's not necessarily the"
+  },
+  {
+    "sentence_id": 25,
+    "start": 113.83,
+    "end": 117.839,
+    "text": "case. Uh, there was a question on."
+  },
+  {
+    "sentence_id": 26,
+    "start": 119.65,
+    "end": 123.33,
+    "text": "What what is theta, right, that's just a notation for"
+  },
+  {
+    "sentence_id": 27,
+    "start": 123.33,
+    "end": 128.88,
+    "text": "the model itself. It's a general notation, meaning that you could have theta"
+  },
+  {
+    "sentence_id": 28,
+    "start": 128.88,
+    "end": 130.899,
+    "text": "being as simple as a linear equation."
+  },
+  {
+    "sentence_id": 29,
+    "start": 131.71,
+    "end": 136.029,
+    "text": "Or as complex as a polynomial, right, or any other"
+  },
+  {
+    "sentence_id": 30,
+    "start": 136.36,
+    "end": 137.72899999999998,
+    "text": "sort of functions in between."
+  },
+  {
+    "sentence_id": 31,
+    "start": 138.77,
+    "end": 142.47899999999998,
+    "text": "Um, There was a few questions on."
+  },
+  {
+    "sentence_id": 32,
+    "start": 144.539,
+    "end": 149.179,
+    "text": "When do we accept They're unexplainable, right?"
+  },
+  {
+    "sentence_id": 33,
+    "start": 149.19,
+    "end": 151.869,
+    "text": "And we've been through this last week or at least"
+  },
+  {
+    "sentence_id": 34,
+    "start": 151.869,
+    "end": 156.55,
+    "text": "the week before, that machine learning nowadays is very probabilistic"
+  },
+  {
+    "sentence_id": 35,
+    "start": 156.82999999999998,
+    "end": 162.149,
+    "text": "and that not often can you fully explain, um, what"
+  },
+  {
+    "sentence_id": 36,
+    "start": 162.149,
+    "end": 167.029,
+    "text": "actually happens. And so under what premise would you accept that being"
+  },
+  {
+    "sentence_id": 37,
+    "start": 167.029,
+    "end": 170.99,
+    "text": "the case, right? Do you need to always explain what has happened in"
+  },
+  {
+    "sentence_id": 38,
+    "start": 170.99,
+    "end": 174.11,
+    "text": "the black box to then go, I trust this answer."
+  },
+  {
+    "sentence_id": 39,
+    "start": 174.649,
+    "end": 177.139,
+    "text": "Well, it depends, right, it depends on what you're doing."
+  },
+  {
+    "sentence_id": 40,
+    "start": 177.389,
+    "end": 180.509,
+    "text": "If you're trying to make sales, right, if you're working"
+  },
+  {
+    "sentence_id": 41,
+    "start": 180.509,
+    "end": 183.82,
+    "text": "with Amazon, and perhaps or maybe, you know, less than"
+  },
+  {
+    "sentence_id": 42,
+    "start": 183.82,
+    "end": 186.589,
+    "text": "that, you could be working for a local store, there's"
+  },
+  {
+    "sentence_id": 43,
+    "start": 186.589,
+    "end": 188.11,
+    "text": "um there's a machine learning."
+  },
+  {
+    "sentence_id": 44,
+    "start": 188.74,
+    "end": 191.00900000000001,
+    "text": "Back in on the website and you're just trying to"
+  },
+  {
+    "sentence_id": 45,
+    "start": 191.00900000000001,
+    "end": 193.809,
+    "text": "predict sales, then perhaps you know, you just want to"
+  },
+  {
+    "sentence_id": 46,
+    "start": 193.809,
+    "end": 197.44,
+    "text": "predict sales. Right, you just want to make that job done."
+  },
+  {
+    "sentence_id": 47,
+    "start": 197.669,
+    "end": 201.27,
+    "text": "You don't really need to explain how, you know, there's"
+  },
+  {
+    "sentence_id": 48,
+    "start": 201.27,
+    "end": 204.0,
+    "text": "false positives, there's false negatives, and so forth."
+  },
+  {
+    "sentence_id": 49,
+    "start": 204.32999999999998,
+    "end": 207.27,
+    "text": "If you're in a medical imaging um scenario or like"
+  },
+  {
+    "sentence_id": 50,
+    "start": 207.27,
+    "end": 209.869,
+    "text": "in the healthcare industry, then you don't want to get"
+  },
+  {
+    "sentence_id": 51,
+    "start": 209.869,
+    "end": 213.99,
+    "text": "it wrong. And so under those situations, you might want to know"
+  },
+  {
+    "sentence_id": 52,
+    "start": 213.99,
+    "end": 218.429,
+    "text": "how machine learning, Came to the decision, right, and that"
+  },
+  {
+    "sentence_id": 53,
+    "start": 218.839,
+    "end": 222.50900000000001,
+    "text": "perhaps that is a fireball approach or maybe it's less"
+  },
+  {
+    "sentence_id": 54,
+    "start": 222.50900000000001,
+    "end": 228.50900000000001,
+    "text": "accurate and so forth. So that question on when would you accept um explanations,"
+  },
+  {
+    "sentence_id": 55,
+    "start": 229.07999999999998,
+    "end": 233.07999999999998,
+    "text": "uh, or and when you not need to explain, um,"
+  },
+  {
+    "sentence_id": 56,
+    "start": 233.1,
+    "end": 236.75900000000001,
+    "text": "it's really depend on your case, on the situation."
+  },
+  {
+    "sentence_id": 57,
+    "start": 238.429,
+    "end": 242.279,
+    "text": "Um, I think here is also another question on how"
+  },
+  {
+    "sentence_id": 58,
+    "start": 242.279,
+    "end": 244.6,
+    "text": "does it look like? What does it look like?"
+  },
+  {
+    "sentence_id": 59,
+    "start": 244.72,
+    "end": 247.789,
+    "text": "So I think going through your tutorials, you'll probably see"
+  },
+  {
+    "sentence_id": 60,
+    "start": 247.789,
+    "end": 250.16,
+    "text": "a lot more of that tangible piece, right?"
+  },
+  {
+    "sentence_id": 61,
+    "start": 250.279,
+    "end": 253.639,
+    "text": "So here, in, in our lectures, we talk about the"
+  },
+  {
+    "sentence_id": 62,
+    "start": 253.639,
+    "end": 256.0,
+    "text": "high level abstraction, you know, this is what you do,"
+  },
+  {
+    "sentence_id": 63,
+    "start": 256.04,
+    "end": 260.959,
+    "text": "this is what happens. In the tutorial, you then put the pieces together, right,"
+  },
+  {
+    "sentence_id": 64,
+    "start": 261.04,
+    "end": 263.63,
+    "text": "and the, and the, So the first layer is to"
+  },
+  {
+    "sentence_id": 65,
+    "start": 263.63,
+    "end": 267.23,
+    "text": "just pull the package down from the libraries, um, the"
+  },
+  {
+    "sentence_id": 66,
+    "start": 267.23,
+    "end": 271.149,
+    "text": "next layer could then be looking into the equations, optimising"
+  },
+  {
+    "sentence_id": 67,
+    "start": 271.149,
+    "end": 274.47,
+    "text": "the parameters, and then further on, if you're really into"
+  },
+  {
+    "sentence_id": 68,
+    "start": 274.47,
+    "end": 277.899,
+    "text": "this, then you can look into using Tensorflow and other,"
+  },
+  {
+    "sentence_id": 69,
+    "start": 278.23,
+    "end": 282.51,
+    "text": "uh, packages to just codify or just directly um coat"
+  },
+  {
+    "sentence_id": 70,
+    "start": 282.51,
+    "end": 284.589,
+    "text": "your, your system that way."
+  },
+  {
+    "sentence_id": 71,
+    "start": 286.459,
+    "end": 291.649,
+    "text": "Questions between supervised and unsupervised learning, um, what's the difference"
+  },
+  {
+    "sentence_id": 72,
+    "start": 291.649,
+    "end": 293.54,
+    "text": "between unknown known inputs?"
+  },
+  {
+    "sentence_id": 73,
+    "start": 293.98,
+    "end": 297.82,
+    "text": "Well, basically, if you get a data set, right, and"
+  },
+  {
+    "sentence_id": 74,
+    "start": 297.82,
+    "end": 301.179,
+    "text": "you have no idea what the output is, that is"
+  },
+  {
+    "sentence_id": 75,
+    "start": 301.179,
+    "end": 303.14,
+    "text": "an unsupervised learning situation."
+  },
+  {
+    "sentence_id": 76,
+    "start": 304.029,
+    "end": 306.95,
+    "text": "Uh, and I say no output in the sense that"
+  },
+  {
+    "sentence_id": 77,
+    "start": 306.95,
+    "end": 308.32,
+    "text": "you don't know how it's mapped."
+  },
+  {
+    "sentence_id": 78,
+    "start": 309.079,
+    "end": 310.929,
+    "text": "Right, all you get is a bunch of inputs."
+  },
+  {
+    "sentence_id": 79,
+    "start": 311.64,
+    "end": 313.92,
+    "text": "So if you look at um how the large language"
+  },
+  {
+    "sentence_id": 80,
+    "start": 313.92,
+    "end": 318.16,
+    "text": "model nowadays uh were assembled anyway, all they did was"
+  },
+  {
+    "sentence_id": 81,
+    "start": 318.16,
+    "end": 320.839,
+    "text": "just take a bunch of inputs from the internet, right,"
+  },
+  {
+    "sentence_id": 82,
+    "start": 320.92,
+    "end": 325.95,
+    "text": "every single commentary human has made dumped onto the internet,"
+  },
+  {
+    "sentence_id": 83,
+    "start": 326.239,
+    "end": 329.059,
+    "text": "they grabbed that, and then they feed it into a"
+  },
+  {
+    "sentence_id": 84,
+    "start": 329.059,
+    "end": 332.839,
+    "text": "system, right, a system being some sort of equation that"
+  },
+  {
+    "sentence_id": 85,
+    "start": 332.839,
+    "end": 334.739,
+    "text": "takes all the parameters in there."
+  },
+  {
+    "sentence_id": 86,
+    "start": 335.029,
+    "end": 339.959,
+    "text": "And then what happens? Well, something happens in the in the equation and then"
+  },
+  {
+    "sentence_id": 87,
+    "start": 340.279,
+    "end": 345.01,
+    "text": "out comes, Groupings, right, and based on those groupings, they"
+  },
+  {
+    "sentence_id": 88,
+    "start": 345.01,
+    "end": 348.929,
+    "text": "can then feed it back and then regenerate and so"
+  },
+  {
+    "sentence_id": 89,
+    "start": 348.929,
+    "end": 352.089,
+    "text": "forth. And then from that process, obviously it's a, it's a"
+  },
+  {
+    "sentence_id": 90,
+    "start": 352.089,
+    "end": 356.369,
+    "text": "lot more complex than just taking inputs, dumping equations and"
+  },
+  {
+    "sentence_id": 91,
+    "start": 356.369,
+    "end": 360.769,
+    "text": "then coming up with groupings, but the essential understanding is"
+  },
+  {
+    "sentence_id": 92,
+    "start": 360.769,
+    "end": 363.73,
+    "text": "that in an unsupervised learning, all you get is that"
+  },
+  {
+    "sentence_id": 93,
+    "start": 363.73,
+    "end": 366.809,
+    "text": "input and then you're trying to triangulate or trying to"
+  },
+  {
+    "sentence_id": 94,
+    "start": 366.809,
+    "end": 371.089,
+    "text": "extrapolate what those groupings and um you know, are."
+  },
+  {
+    "sentence_id": 95,
+    "start": 371.79,
+    "end": 376.079,
+    "text": "And so based on that, you're discovering the correlations, right,"
+  },
+  {
+    "sentence_id": 96,
+    "start": 376.16,
+    "end": 378.6,
+    "text": "and this is not quite the same as supervised learning"
+  },
+  {
+    "sentence_id": 97,
+    "start": 378.6,
+    "end": 381.329,
+    "text": "where you take an input and you know there's a"
+  },
+  {
+    "sentence_id": 98,
+    "start": 381.329,
+    "end": 386.369,
+    "text": "mapped out output. So using the apple analogy, the other day, right, every"
+  },
+  {
+    "sentence_id": 99,
+    "start": 386.369,
+    "end": 389.679,
+    "text": "other week, we talk about, Um, if you have a"
+  },
+  {
+    "sentence_id": 100,
+    "start": 389.679,
+    "end": 392.519,
+    "text": "bunch of fruits like apples, you know, you can get"
+  },
+  {
+    "sentence_id": 101,
+    "start": 392.519,
+    "end": 394.679,
+    "text": "the measurement of the size, you can get the weight"
+  },
+  {
+    "sentence_id": 102,
+    "start": 394.679,
+    "end": 396.76,
+    "text": "of the apple, you can get the colour of the"
+  },
+  {
+    "sentence_id": 103,
+    "start": 396.76,
+    "end": 400.239,
+    "text": "of the shade of the redness, um, and then you,"
+  },
+  {
+    "sentence_id": 104,
+    "start": 400.32,
+    "end": 403.15999999999997,
+    "text": "you taste bite it, right, you have a bite and"
+  },
+  {
+    "sentence_id": 105,
+    "start": 403.15999999999997,
+    "end": 407.179,
+    "text": "see how tasty it is. And based on that, you have an output, right?"
+  },
+  {
+    "sentence_id": 106,
+    "start": 407.26,
+    "end": 409.54,
+    "text": "You know the input correlation, you know the output, and"
+  },
+  {
+    "sentence_id": 107,
+    "start": 409.54,
+    "end": 413.01,
+    "text": "then you're trying to develop the machine learning, the model"
+  },
+  {
+    "sentence_id": 108,
+    "start": 413.459,
+    "end": 417.899,
+    "text": "behind it all. And from that point onwards, then you can use new"
+  },
+  {
+    "sentence_id": 109,
+    "start": 417.899,
+    "end": 421.059,
+    "text": "input, so I give you a new apple, give you"
+  },
+  {
+    "sentence_id": 110,
+    "start": 421.059,
+    "end": 423.88,
+    "text": "a size, shape, and so forth, and you can then"
+  },
+  {
+    "sentence_id": 111,
+    "start": 424.38,
+    "end": 427.459,
+    "text": "forecast or predict. How tasty it is."
+  },
+  {
+    "sentence_id": 112,
+    "start": 427.869,
+    "end": 431.019,
+    "text": "So that's obviously the, the supervised learning approach."
+  },
+  {
+    "sentence_id": 113,
+    "start": 431.47,
+    "end": 436.48,
+    "text": "So that's the, the difference between unknown, input and output,"
+  },
+  {
+    "sentence_id": 114,
+    "start": 436.869,
+    "end": 440.75,
+    "text": "uh, and how that uh is generally named as supervised"
+  },
+  {
+    "sentence_id": 115,
+    "start": 440.75,
+    "end": 444.95,
+    "text": "and unsupervised training, um, you know, in your model development."
+  },
+  {
+    "sentence_id": 116,
+    "start": 446.48,
+    "end": 450.17,
+    "text": "There was a question on how GPUs is a profound"
+  },
+  {
+    "sentence_id": 117,
+    "start": 450.17,
+    "end": 456.73,
+    "text": "impact on AI models. There's actually a pretty cool um video on YouTube, so"
+  },
+  {
+    "sentence_id": 118,
+    "start": 456.73,
+    "end": 459.19,
+    "text": "you can go and Google it, maybe I'll put on"
+  },
+  {
+    "sentence_id": 119,
+    "start": 459.19,
+    "end": 465.75,
+    "text": "the URL here afterwards. Um, but it's basically showcasing how parallel processing works."
+  },
+  {
+    "sentence_id": 120,
+    "start": 466.119,
+    "end": 468.32,
+    "text": "And what they really did was just paint a picture"
+  },
+  {
+    "sentence_id": 121,
+    "start": 468.32,
+    "end": 471.399,
+    "text": "using a paintball gun, uh, but you know the guys"
+  },
+  {
+    "sentence_id": 122,
+    "start": 471.399,
+    "end": 474.79,
+    "text": "from Mythbusters, they're quite eccentric, so."
+  },
+  {
+    "sentence_id": 123,
+    "start": 475.23,
+    "end": 477.5,
+    "text": "What they did was, um, yeah, I think it's best"
+  },
+  {
+    "sentence_id": 124,
+    "start": 477.5,
+    "end": 480.47,
+    "text": "to, to look at it yourself, I find the clip"
+  },
+  {
+    "sentence_id": 125,
+    "start": 480.47,
+    "end": 486.95,
+    "text": "and put it in. um but what what GPU allows, um, You know, this"
+  },
+  {
+    "sentence_id": 126,
+    "start": 486.95,
+    "end": 490.309,
+    "text": "area to proliferate is that they can do a lot"
+  },
+  {
+    "sentence_id": 127,
+    "start": 490.309,
+    "end": 495.829,
+    "text": "of parallel processing. A lot of your matrixes, they need to be um"
+  },
+  {
+    "sentence_id": 128,
+    "start": 495.829,
+    "end": 500.589,
+    "text": "computed for each individual elements, and they can effectively do"
+  },
+  {
+    "sentence_id": 129,
+    "start": 500.589,
+    "end": 505.709,
+    "text": "that, do that processing quite quickly, um, rather than subsequential"
+  },
+  {
+    "sentence_id": 130,
+    "start": 505.709,
+    "end": 509.98,
+    "text": "CPU approach. That was, um, that's one of the questions."
+  },
+  {
+    "sentence_id": 131,
+    "start": 512.979,
+    "end": 515.789,
+    "text": "So there's another, there's a few questions on how they,"
+  },
+  {
+    "sentence_id": 132,
+    "start": 516.189,
+    "end": 519.439,
+    "text": "how, how students generally don't see how, you know, these"
+  },
+  {
+    "sentence_id": 133,
+    "start": 519.439,
+    "end": 521.309,
+    "text": "equations are embedded in the code."
+  },
+  {
+    "sentence_id": 134,
+    "start": 521.679,
+    "end": 525.818,
+    "text": "But, uh, I think, again, because of your tutorials now,"
+  },
+  {
+    "sentence_id": 135,
+    "start": 525.999,
+    "end": 528.239,
+    "text": "um, I think you'll be able to see how it's"
+  },
+  {
+    "sentence_id": 136,
+    "start": 528.239,
+    "end": 532.318,
+    "text": "an iterative cycle. Once you have the equation, you're asking the code to"
+  },
+  {
+    "sentence_id": 137,
+    "start": 532.318,
+    "end": 535.359,
+    "text": "basically go in a loop to solve that, and then"
+  },
+  {
+    "sentence_id": 138,
+    "start": 535.359,
+    "end": 539.318,
+    "text": "outspit the maximum value of something or the minimum value"
+  },
+  {
+    "sentence_id": 139,
+    "start": 539.318,
+    "end": 548.08,
+    "text": "of something, right? Um, disadvantages of AI use in human development."
+  },
+  {
+    "sentence_id": 140,
+    "start": 549.34,
+    "end": 551.34,
+    "text": "Not really sure what that means, maybe it's like, you"
+  },
+  {
+    "sentence_id": 141,
+    "start": 551.34,
+    "end": 559.01,
+    "text": "know, the use of AI. Yeah, I think maybe like, you know, how AI was"
+  },
+  {
+    "sentence_id": 142,
+    "start": 559.01,
+    "end": 562.76,
+    "text": "used in human, you know, societies."
+  },
+  {
+    "sentence_id": 143,
+    "start": 563.2,
+    "end": 565.65,
+    "text": "Uh, I think it's more, it's less of a logical"
+  },
+  {
+    "sentence_id": 144,
+    "start": 565.65,
+    "end": 570.2,
+    "text": "question. Um, it's more like an ethical and philosophical question."
+  },
+  {
+    "sentence_id": 145,
+    "start": 570.609,
+    "end": 575.25,
+    "text": "Um, AI, generally speaking, are just a bunch of mathematical"
+  },
+  {
+    "sentence_id": 146,
+    "start": 575.25,
+    "end": 579.859,
+    "text": "equations, just like how you're solving physics or, or maths"
+  },
+  {
+    "sentence_id": 147,
+    "start": 579.859,
+    "end": 583.169,
+    "text": "or whatever, right? It depends on the question you're asking it."
+  },
+  {
+    "sentence_id": 148,
+    "start": 583.489,
+    "end": 585.25,
+    "text": "So what are you trying to solve, is it medical"
+  },
+  {
+    "sentence_id": 149,
+    "start": 585.25,
+    "end": 587.9,
+    "text": "data, is it like, you know, traffic data, is it"
+  },
+  {
+    "sentence_id": 150,
+    "start": 588.21,
+    "end": 591.69,
+    "text": "climate, climate change, whatever it is, um."
+  },
+  {
+    "sentence_id": 151,
+    "start": 592.39,
+    "end": 595.25,
+    "text": "I think there's a, there's a lot of tattering to"
+  },
+  {
+    "sentence_id": 152,
+    "start": 595.25,
+    "end": 596.809,
+    "text": "what you're trying to achieve here."
+  },
+  {
+    "sentence_id": 153,
+    "start": 597.83,
+    "end": 601.559,
+    "text": "Um, so that was all the questions received through this"
+  },
+  {
+    "sentence_id": 154,
+    "start": 601.559,
+    "end": 605.2,
+    "text": "muddy cut. Uh, implementation from week 1."
+  },
+  {
+    "sentence_id": 155,
+    "start": 605.729,
+    "end": 610.039,
+    "text": "There's, there's also just a slight decline in question sets"
+  },
+  {
+    "sentence_id": 156,
+    "start": 610.039,
+    "end": 616.33,
+    "text": "from week 2 and week 3. you know, week 2 we had, again, uh, supervised and"
+  },
+  {
+    "sentence_id": 157,
+    "start": 616.33,
+    "end": 619.52,
+    "text": "supervised learning, and then with 3 we had the nearest"
+  },
+  {
+    "sentence_id": 158,
+    "start": 619.52,
+    "end": 624.44,
+    "text": "neighbour, uh, question on how the distance is adjusted."
+  },
+  {
+    "sentence_id": 159,
+    "start": 624.64,
+    "end": 627.909,
+    "text": "Well, it's adjusted based on an inverse correlation."
+  },
+  {
+    "sentence_id": 160,
+    "start": 628.39,
+    "end": 629.789,
+    "text": "To the actual nearest neighbour."
+  },
+  {
+    "sentence_id": 161,
+    "start": 629.909,
+    "end": 634.219,
+    "text": "So if you remember, KNN was simply just the distance"
+  },
+  {
+    "sentence_id": 162,
+    "start": 634.669,
+    "end": 636.539,
+    "text": "between your nearest neighbours."
+  },
+  {
+    "sentence_id": 163,
+    "start": 636.909,
+    "end": 640.78,
+    "text": "In the weighted version, you're inversing that you're biassing it,"
+  },
+  {
+    "sentence_id": 164,
+    "start": 640.95,
+    "end": 645.549,
+    "text": "right? So, in a situation where you have different, uh, class"
+  },
+  {
+    "sentence_id": 165,
+    "start": 645.549,
+    "end": 648.75,
+    "text": "examples, you might want to bias it, so then there"
+  },
+  {
+    "sentence_id": 166,
+    "start": 648.75,
+    "end": 650.39,
+    "text": "is a lot more representation."
+  },
+  {
+    "sentence_id": 167,
+    "start": 651.109,
+    "end": 654.02,
+    "text": "OK, so I'll upload all this on canvas, I think"
+  },
+  {
+    "sentence_id": 168,
+    "start": 654.02,
+    "end": 658.21,
+    "text": "it's already in there, um, but yeah, that, that's."
+  },
+  {
+    "sentence_id": 169,
+    "start": 659.28,
+    "end": 661.309,
+    "text": "What we have from the muddy cart."
+  },
+  {
+    "sentence_id": 170,
+    "start": 661.64,
+    "end": 664.34,
+    "text": "Any questions so far? No?"
+  },
+  {
+    "sentence_id": 171,
+    "start": 664.51,
+    "end": 667.599,
+    "text": "OK. All right. Well, we'll start with today's lecture then."
+  },
+  {
+    "sentence_id": 172,
+    "start": 671.599,
+    "end": 675.51,
+    "text": "OK. So, what have we covered up to this point?"
+  },
+  {
+    "sentence_id": 173,
+    "start": 677.2,
+    "end": 678.869,
+    "text": "Well, we've talked about how."
+  },
+  {
+    "sentence_id": 174,
+    "start": 679.64,
+    "end": 683.309,
+    "text": "Um, we have a CSV file, right, very often you're,"
+  },
+  {
+    "sentence_id": 175,
+    "start": 683.32,
+    "end": 687.94,
+    "text": "you, you get a, um, numerical data, right, as a"
+  },
+  {
+    "sentence_id": 176,
+    "start": 687.94,
+    "end": 692.799,
+    "text": "modality. Obviously, in the, in the, you know, in the multi-modal"
+  },
+  {
+    "sentence_id": 177,
+    "start": 692.799,
+    "end": 695.919,
+    "text": "world you have sound data, you have visual data through"
+  },
+  {
+    "sentence_id": 178,
+    "start": 695.919,
+    "end": 697.71,
+    "text": "images, videos and all that."
+  },
+  {
+    "sentence_id": 179,
+    "start": 698.039,
+    "end": 700.869,
+    "text": "That is all represented using numbers."
+  },
+  {
+    "sentence_id": 180,
+    "start": 701.2,
+    "end": 703.919,
+    "text": "And yes, you know, like a JPEG file will be"
+  },
+  {
+    "sentence_id": 181,
+    "start": 703.919,
+    "end": 707.28,
+    "text": "uh some sort of compression, but nonetheless, each pixel can"
+  },
+  {
+    "sentence_id": 182,
+    "start": 707.28,
+    "end": 713.059,
+    "text": "be represented. As a numerical piece, and so those numerical pieces are"
+  },
+  {
+    "sentence_id": 183,
+    "start": 713.059,
+    "end": 718.179,
+    "text": "generally listed as columns in a flat file format like"
+  },
+  {
+    "sentence_id": 184,
+    "start": 718.179,
+    "end": 722.619,
+    "text": "a CSV comma denominated uh separated values."
+  },
+  {
+    "sentence_id": 185,
+    "start": 722.9,
+    "end": 726.13,
+    "text": "So in each of those ones, you take a feature"
+  },
+  {
+    "sentence_id": 186,
+    "start": 726.7,
+    "end": 729.46,
+    "text": "and then using those features, you're trying to make a"
+  },
+  {
+    "sentence_id": 187,
+    "start": 729.46,
+    "end": 733.38,
+    "text": "prediction, right, you're trying to correlate that to an outcome."
+  },
+  {
+    "sentence_id": 188,
+    "start": 734.049,
+    "end": 737.53,
+    "text": "And that's basically how machine learning, the general idea of"
+  },
+  {
+    "sentence_id": 189,
+    "start": 737.53,
+    "end": 743.349,
+    "text": "that. There's obviously various different equations involved, various different models, various"
+  },
+  {
+    "sentence_id": 190,
+    "start": 743.349,
+    "end": 747.539,
+    "text": "different layups, um, into how you want to make that"
+  },
+  {
+    "sentence_id": 191,
+    "start": 747.539,
+    "end": 750.859,
+    "text": "prediction, and so, um, we, we, we're going through that,"
+  },
+  {
+    "sentence_id": 192,
+    "start": 750.979,
+    "end": 752.5,
+    "text": "you know, slowly each week."
+  },
+  {
+    "sentence_id": 193,
+    "start": 753.28,
+    "end": 757.219,
+    "text": "Uh, we talked about how to deal with missing datas,"
+  },
+  {
+    "sentence_id": 194,
+    "start": 757.729,
+    "end": 761.75,
+    "text": "right, in situations where sometimes you will have a CSV,"
+  },
+  {
+    "sentence_id": 195,
+    "start": 761.929,
+    "end": 767.049,
+    "text": "multiple roles, multiple columns, dimensions call it, there will be"
+  },
+  {
+    "sentence_id": 196,
+    "start": 767.049,
+    "end": 770.489,
+    "text": "some missing values. Now those missing values, do you want to take the"
+  },
+  {
+    "sentence_id": 197,
+    "start": 770.489,
+    "end": 774.71,
+    "text": "whole row out? Or do you want to fill those gaps with some"
+  },
+  {
+    "sentence_id": 198,
+    "start": 774.71,
+    "end": 777.5,
+    "text": "sort of average? So we went through that last week."
+  },
+  {
+    "sentence_id": 199,
+    "start": 778.479,
+    "end": 785.14,
+    "text": "Um, there's also categorical data, where, you know, you have"
+  },
+  {
+    "sentence_id": 200,
+    "start": 785.489,
+    "end": 790.479,
+    "text": "names of, say, suburbs or stations, you're then mapping it"
+  },
+  {
+    "sentence_id": 201,
+    "start": 790.479,
+    "end": 795.57,
+    "text": "to some numerical value, because equations deals with numbers, not"
+  },
+  {
+    "sentence_id": 202,
+    "start": 795.57,
+    "end": 799.679,
+    "text": "words. So we must translate that into some numerical value."
+  },
+  {
+    "sentence_id": 203,
+    "start": 800.01,
+    "end": 804.489,
+    "text": "Um, you don't want to put too many correlations or"
+  },
+  {
+    "sentence_id": 204,
+    "start": 804.489,
+    "end": 809.01,
+    "text": "relationships between, The labels, right, categorical data may not actually"
+  },
+  {
+    "sentence_id": 205,
+    "start": 809.01,
+    "end": 811.71,
+    "text": "have relationships with another category."
+  },
+  {
+    "sentence_id": 206,
+    "start": 812.28,
+    "end": 815.239,
+    "text": "So you can't just simply say, you know, apples are"
+  },
+  {
+    "sentence_id": 207,
+    "start": 815.239,
+    "end": 819.76,
+    "text": "1 and oranges are 2, and bananas are 3, because"
+  },
+  {
+    "sentence_id": 208,
+    "start": 819.76,
+    "end": 825.099,
+    "text": "whilst that's a mapping, it's not actually representing the relationship,"
+  },
+  {
+    "sentence_id": 209,
+    "start": 825.359,
+    "end": 829.0,
+    "text": "right? So what happens to 1.5 is that halfway between apple"
+  },
+  {
+    "sentence_id": 210,
+    "start": 829.0,
+    "end": 833.349,
+    "text": "and orange. Right, so you don't want to have that cardinal value."
+  },
+  {
+    "sentence_id": 211,
+    "start": 833.82,
+    "end": 836.5,
+    "text": "Um, between those, those labels."
+  },
+  {
+    "sentence_id": 212,
+    "start": 836.619,
+    "end": 839.09,
+    "text": "So what we do is one hot in code."
+  },
+  {
+    "sentence_id": 213,
+    "start": 839.38,
+    "end": 842.78,
+    "text": "So basically we create a new label column and it's"
+  },
+  {
+    "sentence_id": 214,
+    "start": 842.78,
+    "end": 849.33,
+    "text": "either 0 or 1, right? 1 being apple, 0 being not apple, right?"
+  },
+  {
+    "sentence_id": 215,
+    "start": 849.679,
+    "end": 853.82,
+    "text": "1 being um orange in the second column, and zero"
+  },
+  {
+    "sentence_id": 216,
+    "start": 853.82,
+    "end": 857.669,
+    "text": "not being not orange. So that's how we deal with the encoding."
+  },
+  {
+    "sentence_id": 217,
+    "start": 858.64,
+    "end": 863.4,
+    "text": "Um, we talked about how we can measure the performance"
+  },
+  {
+    "sentence_id": 218,
+    "start": 863.4,
+    "end": 868.059,
+    "text": "of classifiers, right, and basically the model accuracy."
+  },
+  {
+    "sentence_id": 219,
+    "start": 868.44,
+    "end": 873.219,
+    "text": "So remember how, There was this confusion table, right, confusion"
+  },
+  {
+    "sentence_id": 220,
+    "start": 873.219,
+    "end": 878.419,
+    "text": "matrix that represents all the positive values, positively predicted values,"
+  },
+  {
+    "sentence_id": 221,
+    "start": 878.82,
+    "end": 884.929,
+    "text": "uh, positively, negatively predicted values, right, and everything in between."
+  },
+  {
+    "sentence_id": 222,
+    "start": 885.419,
+    "end": 887.539,
+    "text": "And then based on those scorings, we can come up"
+  },
+  {
+    "sentence_id": 223,
+    "start": 887.539,
+    "end": 892.38,
+    "text": "with accuracy, precision and F1 values, um, and then if"
+  },
+  {
+    "sentence_id": 224,
+    "start": 892.38,
+    "end": 896.159,
+    "text": "you're burying the threshold, To each of those models, then"
+  },
+  {
+    "sentence_id": 225,
+    "start": 896.159,
+    "end": 899.32,
+    "text": "you can create the ROC curve, the area under that"
+  },
+  {
+    "sentence_id": 226,
+    "start": 899.32,
+    "end": 903.44,
+    "text": "curve is then determining how well your model or how"
+  },
+  {
+    "sentence_id": 227,
+    "start": 903.44,
+    "end": 906.679,
+    "text": "precise your model may be, or how sensitive your model"
+  },
+  {
+    "sentence_id": 228,
+    "start": 906.679,
+    "end": 914.15,
+    "text": "can be, right? Um, we talked about different training testing splits."
+  },
+  {
+    "sentence_id": 229,
+    "start": 914.45,
+    "end": 918.929,
+    "text": "So in some situations, you want a minimum of 60%"
+  },
+  {
+    "sentence_id": 230,
+    "start": 918.929,
+    "end": 924.179,
+    "text": "training data. But because if you have limited data source, you could"
+  },
+  {
+    "sentence_id": 231,
+    "start": 924.179,
+    "end": 928.299,
+    "text": "do some sort of intuitive or, uh, innovative approaches to"
+  },
+  {
+    "sentence_id": 232,
+    "start": 928.609,
+    "end": 930.7,
+    "text": "rotating those training sets."
+  },
+  {
+    "sentence_id": 233,
+    "start": 930.909,
+    "end": 935.63,
+    "text": "So that's your CV cross validation approach, where you're taking"
+  },
+  {
+    "sentence_id": 234,
+    "start": 935.63,
+    "end": 938.909,
+    "text": "a junk, uh, a chunk of your data set and"
+  },
+  {
+    "sentence_id": 235,
+    "start": 938.909,
+    "end": 944.27,
+    "text": "breaking it up. So instead of going, you know, 1st 20% is, well,"
+  },
+  {
+    "sentence_id": 236,
+    "start": 944.349,
+    "end": 947.969,
+    "text": "1st 80% is your testing set, you then ferry that,"
+  },
+  {
+    "sentence_id": 237,
+    "start": 948.07,
+    "end": 953.429,
+    "text": "so, you know. 80, 20, and then you rotate it by 10, and"
+  },
+  {
+    "sentence_id": 238,
+    "start": 953.429,
+    "end": 956.15,
+    "text": "so your next block will be, you know, the next"
+  },
+  {
+    "sentence_id": 239,
+    "start": 956.15,
+    "end": 961.08,
+    "text": "chunk and so forth. And the, the, the whole reason to that is just"
+  },
+  {
+    "sentence_id": 240,
+    "start": 961.08,
+    "end": 963.359,
+    "text": "to minimise our overfeeding."
+  },
+  {
+    "sentence_id": 241,
+    "start": 964.059,
+    "end": 967.08,
+    "text": "So note that if you fit your data, if you"
+  },
+  {
+    "sentence_id": 242,
+    "start": 967.08,
+    "end": 970.58,
+    "text": "fit your model to your data 100%, then you're mapping"
+  },
+  {
+    "sentence_id": 243,
+    "start": 970.58,
+    "end": 972.219,
+    "text": "out all the noise and the signal."
+  },
+  {
+    "sentence_id": 244,
+    "start": 973.08,
+    "end": 976.51,
+    "text": "Which isn't desirable, right, because it cannot be generalised."
+  },
+  {
+    "sentence_id": 245,
+    "start": 977.039,
+    "end": 979.549,
+    "text": "If you want to generalise it, then you need to"
+  },
+  {
+    "sentence_id": 246,
+    "start": 979.84,
+    "end": 982.869,
+    "text": "um make it less accurate in the mapping process."
+  },
+  {
+    "sentence_id": 247,
+    "start": 983.75,
+    "end": 986.03,
+    "text": "If it's all the way to the other side, right,"
+  },
+  {
+    "sentence_id": 248,
+    "start": 986.099,
+    "end": 990.469,
+    "text": "and unfitting situation, then you don't actually get a model"
+  },
+  {
+    "sentence_id": 249,
+    "start": 990.469,
+    "end": 992.27,
+    "text": "that can predict effectively."
+  },
+  {
+    "sentence_id": 250,
+    "start": 993.15,
+    "end": 995.03,
+    "text": "But there's a fine balance between them all."
+  },
+  {
+    "sentence_id": 251,
+    "start": 996.75,
+    "end": 1000.349,
+    "text": "We talked about Ka nearest neighbour, um."
+  },
+  {
+    "sentence_id": 252,
+    "start": 1001.27,
+    "end": 1004.469,
+    "text": "Outputs can often be a hard or soft outputs."
+  },
+  {
+    "sentence_id": 253,
+    "start": 1004.929,
+    "end": 1008.359,
+    "text": "So we talked about how categorically you might want to"
+  },
+  {
+    "sentence_id": 254,
+    "start": 1008.359,
+    "end": 1011.549,
+    "text": "say, OK, yes, it's, it's a, it's red, it's blue,"
+  },
+  {
+    "sentence_id": 255,
+    "start": 1011.84,
+    "end": 1015.679,
+    "text": "right, it's very absolute, but nothing in life is absolute."
+  },
+  {
+    "sentence_id": 256,
+    "start": 1016.0,
+    "end": 1019.929,
+    "text": "So it's probably more realistic to say, well, the probability"
+  },
+  {
+    "sentence_id": 257,
+    "start": 1019.929,
+    "end": 1025.969,
+    "text": "of it being red is 75%. Right, and the probability of it being."
+  },
+  {
+    "sentence_id": 258,
+    "start": 1026.718,
+    "end": 1031.708,
+    "text": "Blue is 25%, and therefore then, based on your percentage"
+  },
+  {
+    "sentence_id": 259,
+    "start": 1031.708,
+    "end": 1036.188,
+    "text": "or your threshold, right, you can then now determine whether"
+  },
+  {
+    "sentence_id": 260,
+    "start": 1036.188,
+    "end": 1038.948,
+    "text": "or not you should say it's red or blue, right,"
+  },
+  {
+    "sentence_id": 261,
+    "start": 1039.029,
+    "end": 1042.708,
+    "text": "in the, in the normal nominal case, you want that"
+  },
+  {
+    "sentence_id": 262,
+    "start": 1042.708,
+    "end": 1048.348,
+    "text": "threshold to be 50%. So anything more than 50% could be off one case,"
+  },
+  {
+    "sentence_id": 263,
+    "start": 1048.749,
+    "end": 1050.828,
+    "text": "anything more less than that could be off the other"
+  },
+  {
+    "sentence_id": 264,
+    "start": 1050.828,
+    "end": 1054.088,
+    "text": "case. But in certain situations, you might want to draw the"
+  },
+  {
+    "sentence_id": 265,
+    "start": 1054.088,
+    "end": 1062.04,
+    "text": "threshold a bit higher. So, you know, with the 75, 25 um example, you"
+  },
+  {
+    "sentence_id": 266,
+    "start": 1062.04,
+    "end": 1065.089,
+    "text": "could draw the threshold to be at 70%."
+  },
+  {
+    "sentence_id": 267,
+    "start": 1065.479,
+    "end": 1069.31,
+    "text": "So it's just over the threshold to be classed as"
+  },
+  {
+    "sentence_id": 268,
+    "start": 1069.31,
+    "end": 1073.339,
+    "text": "red, right, and vice versa to be to be blue."
+  },
+  {
+    "sentence_id": 269,
+    "start": 1074.349,
+    "end": 1078.219,
+    "text": "So adjusting the threshold allows you to adjust how sensitive"
+  },
+  {
+    "sentence_id": 270,
+    "start": 1078.219,
+    "end": 1082.56,
+    "text": "something is. Um, and in your tutorials, I think you will have"
+  },
+  {
+    "sentence_id": 271,
+    "start": 1082.56,
+    "end": 1087.079,
+    "text": "went through all the psychic learn modules, um, the MAT"
+  },
+  {
+    "sentence_id": 272,
+    "start": 1087.079,
+    "end": 1090.43,
+    "text": "lab plot modules, and the NumPy modules."
+  },
+  {
+    "sentence_id": 273,
+    "start": 1090.92,
+    "end": 1093.67,
+    "text": "So those should be quite, uh, self-explanatory."
+  },
+  {
+    "sentence_id": 274,
+    "start": 1096.13,
+    "end": 1098.0,
+    "text": "So this is recap of last week."
+  },
+  {
+    "sentence_id": 275,
+    "start": 1099.04,
+    "end": 1102.079,
+    "text": "And so, that brings us to this week."
+  },
+  {
+    "sentence_id": 276,
+    "start": 1103.28,
+    "end": 1106.55,
+    "text": "So this week we're gonna be talking about conditional probabilities,"
+  },
+  {
+    "sentence_id": 277,
+    "start": 1106.719,
+    "end": 1111.689,
+    "text": "um. You know, specifically the base uh rules, right, why this"
+  },
+  {
+    "sentence_id": 278,
+    "start": 1111.689,
+    "end": 1114.069,
+    "text": "is such a powerful um concept."
+  },
+  {
+    "sentence_id": 279,
+    "start": 1115.199,
+    "end": 1118.839,
+    "text": "I think up to this point, we've approached probability from"
+  },
+  {
+    "sentence_id": 280,
+    "start": 1118.839,
+    "end": 1123.91,
+    "text": "a freakinous approach where you basically go, well, here's 100,"
+  },
+  {
+    "sentence_id": 281,
+    "start": 1123.92,
+    "end": 1125.92,
+    "text": "here's a 100 potential outcome."
+  },
+  {
+    "sentence_id": 282,
+    "start": 1126.75,
+    "end": 1131.079,
+    "text": "And you know, I can count 20% of that, 20%"
+  },
+  {
+    "sentence_id": 283,
+    "start": 1131.079,
+    "end": 1134.069,
+    "text": "is success or 80% is not, and so I can"
+  },
+  {
+    "sentence_id": 284,
+    "start": 1134.069,
+    "end": 1138.75,
+    "text": "assign a 20% success as a probability of the outcome."
+  },
+  {
+    "sentence_id": 285,
+    "start": 1139.66,
+    "end": 1142.609,
+    "text": "But what happens in a world where you can't do"
+  },
+  {
+    "sentence_id": 286,
+    "start": 1142.609,
+    "end": 1144.739,
+    "text": "repeat experiments, right?"
+  },
+  {
+    "sentence_id": 287,
+    "start": 1144.939,
+    "end": 1147.25,
+    "text": "How do you assign probability to those?"
+  },
+  {
+    "sentence_id": 288,
+    "start": 1147.819,
+    "end": 1151.42,
+    "text": "Right, you haven't seen all the possible outcomes and so"
+  },
+  {
+    "sentence_id": 289,
+    "start": 1151.42,
+    "end": 1154.02,
+    "text": "you don't know what, what the, what the ratio could"
+  },
+  {
+    "sentence_id": 290,
+    "start": 1154.02,
+    "end": 1159.66,
+    "text": "be, right? Think of this like earthquakes, right, earthquake predictions, how do"
+  },
+  {
+    "sentence_id": 291,
+    "start": 1159.66,
+    "end": 1162.78,
+    "text": "they assign a value on, you know, this is gonna"
+  },
+  {
+    "sentence_id": 292,
+    "start": 1162.78,
+    "end": 1165.41,
+    "text": "be like a 20% earthquake within the next year."
+  },
+  {
+    "sentence_id": 293,
+    "start": 1166.17,
+    "end": 1172.089,
+    "text": "Because of whatever. Have they seen millions of years of data including up"
+  },
+  {
+    "sentence_id": 294,
+    "start": 1172.089,
+    "end": 1175.05,
+    "text": "to this point, or, you know, excluding this point, they"
+  },
+  {
+    "sentence_id": 295,
+    "start": 1175.05,
+    "end": 1176.599,
+    "text": "may not have all that data."
+  },
+  {
+    "sentence_id": 296,
+    "start": 1177.05,
+    "end": 1181.329,
+    "text": "So this is where conditional probability becomes quite useful as"
+  },
+  {
+    "sentence_id": 297,
+    "start": 1181.329,
+    "end": 1186.329,
+    "text": "a, as a framework to being able to uh derive"
+  },
+  {
+    "sentence_id": 298,
+    "start": 1186.329,
+    "end": 1188.689,
+    "text": "the equations to then be able to make some sort"
+  },
+  {
+    "sentence_id": 299,
+    "start": 1188.689,
+    "end": 1193.25,
+    "text": "of meaningful prediction based on limited observation."
+  },
+  {
+    "sentence_id": 300,
+    "start": 1194.589,
+    "end": 1200.53,
+    "text": "Um, We talk about classification, using, uh, conditional probabilities and"
+  },
+  {
+    "sentence_id": 301,
+    "start": 1200.53,
+    "end": 1204.3,
+    "text": "maximising that is therefore then being able to predict what"
+  },
+  {
+    "sentence_id": 302,
+    "start": 1204.3,
+    "end": 1208.53,
+    "text": "class something is, and maybe the regression, uh, approaches behind"
+  },
+  {
+    "sentence_id": 303,
+    "start": 1208.53,
+    "end": 1213.369,
+    "text": "that as well. And then finally, we're talking about the Gaussian, uh, naive"
+  },
+  {
+    "sentence_id": 304,
+    "start": 1213.369,
+    "end": 1217.01,
+    "text": "based approach, um, which is a very common and very"
+  },
+  {
+    "sentence_id": 305,
+    "start": 1217.01,
+    "end": 1219.479,
+    "text": "effective and powerful classification tool."
+  },
+  {
+    "sentence_id": 306,
+    "start": 1219.849,
+    "end": 1223.18,
+    "text": "Um, and I, I think you'll have, Somewhat of a"
+  },
+  {
+    "sentence_id": 307,
+    "start": 1223.18,
+    "end": 1227.06,
+    "text": "joy, if you can conceive of a of um example"
+  },
+  {
+    "sentence_id": 308,
+    "start": 1227.06,
+    "end": 1230.969,
+    "text": "and then implement this, just to demonstrate the code-based works"
+  },
+  {
+    "sentence_id": 309,
+    "start": 1230.969,
+    "end": 1233.979,
+    "text": "and that you can make some meaningful prediction from, from"
+  },
+  {
+    "sentence_id": 310,
+    "start": 1233.979,
+    "end": 1240.66,
+    "text": "that. OK. So probability of repeated observation."
+  },
+  {
+    "sentence_id": 311,
+    "start": 1241.109,
+    "end": 1243.949,
+    "text": "Now as I saw previously hinted just then."
+  },
+  {
+    "sentence_id": 312,
+    "start": 1244.869,
+    "end": 1247.489,
+    "text": "In a situation where you can count the number of"
+  },
+  {
+    "sentence_id": 313,
+    "start": 1247.489,
+    "end": 1248.449,
+    "text": "times something happened."
+  },
+  {
+    "sentence_id": 314,
+    "start": 1249.42,
+    "end": 1252.819,
+    "text": "Right, and enough of it so then it's representative, you"
+  },
+  {
+    "sentence_id": 315,
+    "start": 1252.819,
+    "end": 1257.54,
+    "text": "can simply denote that, you know, success observation over the"
+  },
+  {
+    "sentence_id": 316,
+    "start": 1257.54,
+    "end": 1260.359,
+    "text": "total number of times of of occurrences."
+  },
+  {
+    "sentence_id": 317,
+    "start": 1260.699,
+    "end": 1264.43,
+    "text": "So think about, You know, die toss it."
+  },
+  {
+    "sentence_id": 318,
+    "start": 1265.229,
+    "end": 1267.31,
+    "text": "You have a pair of dies, you can roll the"
+  },
+  {
+    "sentence_id": 319,
+    "start": 1267.31,
+    "end": 1271.42,
+    "text": "numbers, you, you know there's um 6 sites to dies,"
+  },
+  {
+    "sentence_id": 320,
+    "start": 1271.65,
+    "end": 1275.03,
+    "text": "and so, and so you can assign a probability of"
+  },
+  {
+    "sentence_id": 321,
+    "start": 1275.03,
+    "end": 1278.15,
+    "text": "that one, if it's a fair dies, that is, 1"
+  },
+  {
+    "sentence_id": 322,
+    "start": 1278.15,
+    "end": 1279.869,
+    "text": "out of 6 is of a certain number."
+  },
+  {
+    "sentence_id": 323,
+    "start": 1280.689,
+    "end": 1284.609,
+    "text": "You can derive that 1 out of 6 probability."
+  },
+  {
+    "sentence_id": 324,
+    "start": 1285.42,
+    "end": 1288.209,
+    "text": "By not knowing what the dice is and just keep"
+  },
+  {
+    "sentence_id": 325,
+    "start": 1288.209,
+    "end": 1291.54,
+    "text": "tossing it, like, say toss it 100 times, right?"
+  },
+  {
+    "sentence_id": 326,
+    "start": 1291.859,
+    "end": 1295.26,
+    "text": "Within the 100 times, you will come up to, you"
+  },
+  {
+    "sentence_id": 327,
+    "start": 1295.26,
+    "end": 1296.819,
+    "text": "know, if you map out all the values and the"
+  },
+  {
+    "sentence_id": 328,
+    "start": 1296.819,
+    "end": 1299.739,
+    "text": "outcome, you'll probably get to a point where it's quite"
+  },
+  {
+    "sentence_id": 329,
+    "start": 1299.739,
+    "end": 1302.969,
+    "text": "close to 1 hour 6 being each of those numbers."
+  },
+  {
+    "sentence_id": 330,
+    "start": 1303.38,
+    "end": 1306.53,
+    "text": "You could even do this without, you know, for dies"
+  },
+  {
+    "sentence_id": 331,
+    "start": 1306.53,
+    "end": 1311.42,
+    "text": "that is not a fair die. So there's a weighted loaded die, um, you could toss"
+  },
+  {
+    "sentence_id": 332,
+    "start": 1311.42,
+    "end": 1315.099,
+    "text": "it, you know, 1000 times, and then determine, What the"
+  },
+  {
+    "sentence_id": 333,
+    "start": 1315.099,
+    "end": 1316.42,
+    "text": "sites and the ratios are."
+  },
+  {
+    "sentence_id": 334,
+    "start": 1317.489,
+    "end": 1323.42,
+    "text": "And so this, this pro population, uh, this approach to"
+  },
+  {
+    "sentence_id": 335,
+    "start": 1323.42,
+    "end": 1328.689,
+    "text": "deriving a probability uh ratio is for repeated observation."
+  },
+  {
+    "sentence_id": 336,
+    "start": 1329.66,
+    "end": 1332.67,
+    "text": "So here we have an example, again, it's you waiting"
+  },
+  {
+    "sentence_id": 337,
+    "start": 1332.67,
+    "end": 1335.51,
+    "text": "for a bus 100 times, 60 of those times it"
+  },
+  {
+    "sentence_id": 338,
+    "start": 1335.51,
+    "end": 1339.14,
+    "text": "came within 10 minutes, therefore you get a 60% accuracy"
+  },
+  {
+    "sentence_id": 339,
+    "start": 1339.469,
+    "end": 1341.869,
+    "text": "or chance of it arriving within 10 minutes."
+  },
+  {
+    "sentence_id": 340,
+    "start": 1344.239,
+    "end": 1346.689,
+    "text": "Now if you do this long enough, you'll arrive to"
+  },
+  {
+    "sentence_id": 341,
+    "start": 1346.689,
+    "end": 1351.56,
+    "text": "a very um. Accurate, right?"
+  },
+  {
+    "sentence_id": 342,
+    "start": 1351.64,
+    "end": 1357.119,
+    "text": "A, a very, uh, accurate, um, probability of what it"
+  },
+  {
+    "sentence_id": 343,
+    "start": 1357.119,
+    "end": 1360.719,
+    "text": "should be. So using that, that dye example, if you do it"
+  },
+  {
+    "sentence_id": 344,
+    "start": 1360.719,
+    "end": 1364.43,
+    "text": "10 times, you might, you might get some uneven value,"
+  },
+  {
+    "sentence_id": 345,
+    "start": 1364.599,
+    "end": 1370.199,
+    "text": "right, which is not 1/6. It could be, could be more closer to, to any"
+  },
+  {
+    "sentence_id": 346,
+    "start": 1370.199,
+    "end": 1371.67,
+    "text": "number that's not that number."
+  },
+  {
+    "sentence_id": 347,
+    "start": 1372.64,
+    "end": 1374.719,
+    "text": "Um, but if you do it a million times, then"
+  },
+  {
+    "sentence_id": 348,
+    "start": 1374.719,
+    "end": 1378.88,
+    "text": "I'm pretty sure for fair die anyway, uh, you will"
+  },
+  {
+    "sentence_id": 349,
+    "start": 1378.88,
+    "end": 1388.339,
+    "text": "get 1/6. Uh, as a ratio. And so This is uh this is basically saying probability"
+  },
+  {
+    "sentence_id": 350,
+    "start": 1388.339,
+    "end": 1393.979,
+    "text": "defined using limits. As N approaches to infinity, you get really close to"
+  },
+  {
+    "sentence_id": 351,
+    "start": 1393.979,
+    "end": 1398.849,
+    "text": "the, the ideal probability of that scenario, right?"
+  },
+  {
+    "sentence_id": 352,
+    "start": 1400.16,
+    "end": 1403.17,
+    "text": "So this is long run frequency, the law of large"
+  },
+  {
+    "sentence_id": 353,
+    "start": 1403.17,
+    "end": 1405.16,
+    "text": "numbers basically determines this."
+  },
+  {
+    "sentence_id": 354,
+    "start": 1405.369,
+    "end": 1409.17,
+    "text": "Now obviously I've kind of hinting that for a situation"
+  },
+  {
+    "sentence_id": 355,
+    "start": 1409.17,
+    "end": 1411.29,
+    "text": "where you have very limited observation."
+  },
+  {
+    "sentence_id": 356,
+    "start": 1412.16,
+    "end": 1415.93,
+    "text": "That, that sort of approach really breaks down, right, because"
+  },
+  {
+    "sentence_id": 357,
+    "start": 1415.93,
+    "end": 1418.77,
+    "text": "if you don't get enough of those observation, then how"
+  },
+  {
+    "sentence_id": 358,
+    "start": 1418.77,
+    "end": 1422.68,
+    "text": "do you determine the absolute um ratio of, of things."
+  },
+  {
+    "sentence_id": 359,
+    "start": 1425.819,
+    "end": 1429.04,
+    "text": "So this brings us to a different thought experiment, which"
+  },
+  {
+    "sentence_id": 360,
+    "start": 1429.04,
+    "end": 1431.03,
+    "text": "is for non-repeating experiments."
+  },
+  {
+    "sentence_id": 361,
+    "start": 1431.56,
+    "end": 1434.479,
+    "text": "Right, so what happens when we cannot measure everything?"
+  },
+  {
+    "sentence_id": 362,
+    "start": 1437.25,
+    "end": 1441.13,
+    "text": "Well, it comes down to a few assumed knowledge, right?"
+  },
+  {
+    "sentence_id": 363,
+    "start": 1442.14,
+    "end": 1445.66,
+    "text": "You could either describe your system based on your, your,"
+  },
+  {
+    "sentence_id": 364,
+    "start": 1446.099,
+    "end": 1448.189,
+    "text": "uh, understanding of that system, so if I give you"
+  },
+  {
+    "sentence_id": 365,
+    "start": 1448.189,
+    "end": 1451.03,
+    "text": "a piece, a dye, right, you're not, you're not sure"
+  },
+  {
+    "sentence_id": 366,
+    "start": 1451.03,
+    "end": 1454.589,
+    "text": "if it's a loaded die or a fair dye, you"
+  },
+  {
+    "sentence_id": 367,
+    "start": 1454.589,
+    "end": 1457.349,
+    "text": "can still see how many sites it is, right, you"
+  },
+  {
+    "sentence_id": 368,
+    "start": 1457.349,
+    "end": 1460.949,
+    "text": "can then say, OK, well, maybe I can measure each"
+  },
+  {
+    "sentence_id": 369,
+    "start": 1460.949,
+    "end": 1465.869,
+    "text": "of those loaded sections and determine an equation, um."
+  },
+  {
+    "sentence_id": 370,
+    "start": 1466.489,
+    "end": 1468.9,
+    "text": "And then sort of like, you know, postulate what would"
+  },
+  {
+    "sentence_id": 371,
+    "start": 1468.9,
+    "end": 1471.06,
+    "text": "be the outcome if I were to keep tossing this"
+  },
+  {
+    "sentence_id": 372,
+    "start": 1471.06,
+    "end": 1474.569,
+    "text": "and the, the, the site faces up and so forth."
+  },
+  {
+    "sentence_id": 373,
+    "start": 1474.859,
+    "end": 1477.78,
+    "text": "So that's your very physics approach, right?"
+  },
+  {
+    "sentence_id": 374,
+    "start": 1477.819,
+    "end": 1479.859,
+    "text": "You can look at a system, you can determine the"
+  },
+  {
+    "sentence_id": 375,
+    "start": 1479.859,
+    "end": 1483.54,
+    "text": "equations, you can do a bunch of calculations with your"
+  },
+  {
+    "sentence_id": 376,
+    "start": 1483.54,
+    "end": 1488.729,
+    "text": "knowledge of the system. You could also empirically look at the data, which is"
+  },
+  {
+    "sentence_id": 377,
+    "start": 1488.729,
+    "end": 1491.849,
+    "text": "what we just described, plus it 100 times, and just"
+  },
+  {
+    "sentence_id": 378,
+    "start": 1491.849,
+    "end": 1496.28,
+    "text": "statistically speaking, right, count the number of occurrences and then"
+  },
+  {
+    "sentence_id": 379,
+    "start": 1496.489,
+    "end": 1501.75,
+    "text": "presume some ratio. But there's also this third approach, which is what we"
+  },
+  {
+    "sentence_id": 380,
+    "start": 1501.75,
+    "end": 1508.5,
+    "text": "call basin approach. Is that, you assume that it is some value, and"
+  },
+  {
+    "sentence_id": 381,
+    "start": 1508.5,
+    "end": 1513.03,
+    "text": "then based on each of those, you know, uh experiments,"
+  },
+  {
+    "sentence_id": 382,
+    "start": 1513.219,
+    "end": 1519.56,
+    "text": "addition to that original, Um, probability assumption, you update your"
+  },
+  {
+    "sentence_id": 383,
+    "start": 1519.56,
+    "end": 1523.13,
+    "text": "system. So you can assume each of those dye is like,"
+  },
+  {
+    "sentence_id": 384,
+    "start": 1523.209,
+    "end": 1528.65,
+    "text": "you know. I don't know, like 1/6, maybe not 16, maybe we"
+  },
+  {
+    "sentence_id": 385,
+    "start": 1528.65,
+    "end": 1531.719,
+    "text": "call it a four-sided die, maybe like a five-sided die,"
+  },
+  {
+    "sentence_id": 386,
+    "start": 1531.77,
+    "end": 1535.77,
+    "text": "right? And so it's 1/5, but maybe it's not 1/5 5th,"
+  },
+  {
+    "sentence_id": 387,
+    "start": 1535.819,
+    "end": 1539.089,
+    "text": "right? It could be more like one side's loaded, so one"
+  },
+  {
+    "sentence_id": 388,
+    "start": 1539.089,
+    "end": 1541.959,
+    "text": "side's 1/6 and so forth. Whatever it is, right?"
+  },
+  {
+    "sentence_id": 389,
+    "start": 1542.64,
+    "end": 1545.63,
+    "text": "You toss it once and then you update your information"
+  },
+  {
+    "sentence_id": 390,
+    "start": 1545.63,
+    "end": 1551.64,
+    "text": "about that system. And so this is a very effective way of, Basically"
+  },
+  {
+    "sentence_id": 391,
+    "start": 1551.64,
+    "end": 1554.52,
+    "text": "dealing with the world, right, in fact, you all do"
+  },
+  {
+    "sentence_id": 392,
+    "start": 1554.52,
+    "end": 1559.439,
+    "text": "it intuitively, right, say for example, on day one, going"
+  },
+  {
+    "sentence_id": 393,
+    "start": 1559.439,
+    "end": 1563.069,
+    "text": "to uni. You go to the bus stop and you wait for"
+  },
+  {
+    "sentence_id": 394,
+    "start": 1563.069,
+    "end": 1565.979,
+    "text": "the bus. Right, first time you do it."
+  },
+  {
+    "sentence_id": 395,
+    "start": 1566.77,
+    "end": 1570.619,
+    "text": "Um, maybe, maybe, you know, the bus comes slightly late,"
+  },
+  {
+    "sentence_id": 396,
+    "start": 1570.949,
+    "end": 1573.56,
+    "text": "and then next time you're like, OK, well I'll, I'll"
+  },
+  {
+    "sentence_id": 397,
+    "start": 1573.56,
+    "end": 1577.67,
+    "text": "maybe come earlier, right, and you're adjusting your outcome, your"
+  },
+  {
+    "sentence_id": 398,
+    "start": 1577.67,
+    "end": 1583.51,
+    "text": "input to the situation. And so, you know, the next day, you, you see"
+  },
+  {
+    "sentence_id": 399,
+    "start": 1583.51,
+    "end": 1587.229,
+    "text": "the bus coming slightly earlier, slightly later, and so forth,"
+  },
+  {
+    "sentence_id": 400,
+    "start": 1587.239,
+    "end": 1590.55,
+    "text": "and after 10 times, you kind of know roughly what"
+  },
+  {
+    "sentence_id": 401,
+    "start": 1590.55,
+    "end": 1593.55,
+    "text": "time to be at the bus stop to get on"
+  },
+  {
+    "sentence_id": 402,
+    "start": 1593.55,
+    "end": 1595.989,
+    "text": "that bus, right, so it's continuously updating."
+  },
+  {
+    "sentence_id": 403,
+    "start": 1596.89,
+    "end": 1600.369,
+    "text": "Um, And you know, how do we formally represent this?"
+  },
+  {
+    "sentence_id": 404,
+    "start": 1600.729,
+    "end": 1602.369,
+    "text": "And this is what we're gonna go through today."
+  },
+  {
+    "sentence_id": 405,
+    "start": 1604.03,
+    "end": 1608.92,
+    "text": "So does the probability change as we observe more outcomes?"
+  },
+  {
+    "sentence_id": 406,
+    "start": 1609.29,
+    "end": 1612.959,
+    "text": "Well, it should, your understanding of that system should change,"
+  },
+  {
+    "sentence_id": 407,
+    "start": 1613.13,
+    "end": 1619.4,
+    "text": "if anything. Right, um, your, your understanding or like how confident you"
+  },
+  {
+    "sentence_id": 408,
+    "start": 1619.4,
+    "end": 1622.52,
+    "text": "are of that system should change because you've seen it"
+  },
+  {
+    "sentence_id": 409,
+    "start": 1622.52,
+    "end": 1625.839,
+    "text": "100 times, you've seen it a million times, right, therefore"
+  },
+  {
+    "sentence_id": 410,
+    "start": 1625.839,
+    "end": 1629.439,
+    "text": "you know this is within the range, and that confidence"
+  },
+  {
+    "sentence_id": 411,
+    "start": 1629.439,
+    "end": 1631.199,
+    "text": "interval captures everything."
+  },
+  {
+    "sentence_id": 412,
+    "start": 1632.979,
+    "end": 1639.719,
+    "text": "OK. So in order to sort of really understand this whole"
+  },
+  {
+    "sentence_id": 413,
+    "start": 1639.719,
+    "end": 1644.0,
+    "text": "process, we should go through a few key axioms, right,"
+  },
+  {
+    "sentence_id": 414,
+    "start": 1644.079,
+    "end": 1647.869,
+    "text": "these are core principles, these are core sort of laws"
+  },
+  {
+    "sentence_id": 415,
+    "start": 1648.16,
+    "end": 1651.199,
+    "text": "um that a lot of the other equations can be"
+  },
+  {
+    "sentence_id": 416,
+    "start": 1651.199,
+    "end": 1656.199,
+    "text": "derived from. And so in probability, there's 3 key axioms."
+  },
+  {
+    "sentence_id": 417,
+    "start": 1657.27,
+    "end": 1662.189,
+    "text": "Um, that determines how things are, how things should be."
+  },
+  {
+    "sentence_id": 418,
+    "start": 1662.93,
+    "end": 1667.65,
+    "text": "The first one is normalisation axiom which is basically the"
+  },
+  {
+    "sentence_id": 419,
+    "start": 1667.65,
+    "end": 1672.189,
+    "text": "probability of all sample space, right, omega here, capital omega"
+  },
+  {
+    "sentence_id": 420,
+    "start": 1672.53,
+    "end": 1675.92,
+    "text": "is representing all possible possibilities, right?"
+  },
+  {
+    "sentence_id": 421,
+    "start": 1676.13,
+    "end": 1681.25,
+    "text": "It's a sample space. It has to equal to one, meaning that."
+  },
+  {
+    "sentence_id": 422,
+    "start": 1682.56,
+    "end": 1685.9,
+    "text": "Basically anything that can happen, right, if you sum up"
+  },
+  {
+    "sentence_id": 423,
+    "start": 1685.9,
+    "end": 1689.339,
+    "text": "all the possible outcomes of things, they should all add"
+  },
+  {
+    "sentence_id": 424,
+    "start": 1689.339,
+    "end": 1692.04,
+    "text": "up to a probability of one, right?"
+  },
+  {
+    "sentence_id": 425,
+    "start": 1692.689,
+    "end": 1695.359,
+    "text": "And that's just basically it it's kind of trivial, right?"
+  },
+  {
+    "sentence_id": 426,
+    "start": 1695.439,
+    "end": 1696.599,
+    "text": "It's basically saying that."
+  },
+  {
+    "sentence_id": 427,
+    "start": 1697.329,
+    "end": 1701.0,
+    "text": "You know, What can happen can happen, what cannot happen."
+  },
+  {
+    "sentence_id": 428,
+    "start": 1701.739,
+    "end": 1705.14,
+    "text": "We'll never be in the space, um, but you can"
+  },
+  {
+    "sentence_id": 429,
+    "start": 1705.14,
+    "end": 1709.25,
+    "text": "imagine what you cannot conceive is simply maybe just a"
+  },
+  {
+    "sentence_id": 430,
+    "start": 1709.25,
+    "end": 1713.209,
+    "text": "lack of understanding on how you see that probability space,"
+  },
+  {
+    "sentence_id": 431,
+    "start": 1713.739,
+    "end": 1718.92,
+    "text": "right? The second one is non-negative, non-negativity."
+  },
+  {
+    "sentence_id": 432,
+    "start": 1719.78,
+    "end": 1722.719,
+    "text": "Which is the probability of any event A."
+  },
+  {
+    "sentence_id": 433,
+    "start": 1724.01,
+    "end": 1728.01,
+    "text": "Must be able to, must have a probability of more"
+  },
+  {
+    "sentence_id": 434,
+    "start": 1728.01,
+    "end": 1735.079,
+    "text": "than 0, but less than 1. Right, so the worst case that can happen is a"
+  },
+  {
+    "sentence_id": 435,
+    "start": 1735.079,
+    "end": 1740.01,
+    "text": "zero probability. OK, never happening like at all."
+  },
+  {
+    "sentence_id": 436,
+    "start": 1740.54,
+    "end": 1743.42,
+    "text": "Again, it sounds trivial, but you'll see how all this"
+  },
+  {
+    "sentence_id": 437,
+    "start": 1743.42,
+    "end": 1745.579,
+    "text": "sort of adds up in the, in the very end."
+  },
+  {
+    "sentence_id": 438,
+    "start": 1746.979,
+    "end": 1751.619,
+    "text": "And then finally, you have the additivity, which is Event"
+  },
+  {
+    "sentence_id": 439,
+    "start": 1751.619,
+    "end": 1756.75,
+    "text": "A and B. Right, given that it's a disjoint event, so whatever that"
+  },
+  {
+    "sentence_id": 440,
+    "start": 1756.75,
+    "end": 1761.79,
+    "text": "happens in event A cannot simultaneously be defined as happening"
+  },
+  {
+    "sentence_id": 441,
+    "start": 1761.79,
+    "end": 1768.469,
+    "text": "for event B. Right, so you can represent the two possible events in"
+  },
+  {
+    "sentence_id": 442,
+    "start": 1768.469,
+    "end": 1773.349,
+    "text": "this sample space as two circles that are disjointed, or"
+  },
+  {
+    "sentence_id": 443,
+    "start": 1773.349,
+    "end": 1774.959,
+    "text": "simply mutually exclusive."
+  },
+  {
+    "sentence_id": 444,
+    "start": 1776.13,
+    "end": 1778.329,
+    "text": "So, you know, what's the chance of people sitting in"
+  },
+  {
+    "sentence_id": 445,
+    "start": 1778.329,
+    "end": 1782.939,
+    "text": "all these chairs here? Right, well, if someone's sitting in this chair, they can't"
+  },
+  {
+    "sentence_id": 446,
+    "start": 1782.939,
+    "end": 1784.859,
+    "text": "simultaneously be sitting in that chair."
+  },
+  {
+    "sentence_id": 447,
+    "start": 1785.719,
+    "end": 1788.76,
+    "text": "Right, so those two events are going to be disjointed."
+  },
+  {
+    "sentence_id": 448,
+    "start": 1791.469,
+    "end": 1794.3,
+    "text": "And so from this point, you know what."
+  },
+  {
+    "sentence_id": 449,
+    "start": 1795.119,
+    "end": 1800.91,
+    "text": "Probability of A or B happening is simply the probability"
+  },
+  {
+    "sentence_id": 450,
+    "start": 1800.91,
+    "end": 1806.01,
+    "text": "of. Event A Plus probability of event B."
+  },
+  {
+    "sentence_id": 451,
+    "start": 1806.68,
+    "end": 1809.39,
+    "text": "So what's the chance of those two chairs, you know,"
+  },
+  {
+    "sentence_id": 452,
+    "start": 1809.469,
+    "end": 1813.229,
+    "text": "either of those chairs being filled, right, using that example"
+  },
+  {
+    "sentence_id": 453,
+    "start": 1813.229,
+    "end": 1817.239,
+    "text": "just then. Well, it's the probability of this chair being filled, plus"
+  },
+  {
+    "sentence_id": 454,
+    "start": 1817.469,
+    "end": 1821.589,
+    "text": "that chair being filled. So if you sum, you know, the, the whole lecture"
+  },
+  {
+    "sentence_id": 455,
+    "start": 1821.589,
+    "end": 1825.069,
+    "text": "hall as probabilities of, you know, each of the chairs"
+  },
+  {
+    "sentence_id": 456,
+    "start": 1825.069,
+    "end": 1828.43,
+    "text": "being filled, well, the sum of everything, right, meaning that"
+  },
+  {
+    "sentence_id": 457,
+    "start": 1828.43,
+    "end": 1831.589,
+    "text": "what is the chance of each of these chairs being"
+  },
+  {
+    "sentence_id": 458,
+    "start": 1831.589,
+    "end": 1837.43,
+    "text": "filled. By people is simply just the one over however many"
+  },
+  {
+    "sentence_id": 459,
+    "start": 1837.43,
+    "end": 1841.39,
+    "text": "spaces there is here, um, you know, as a summative"
+  },
+  {
+    "sentence_id": 460,
+    "start": 1841.39,
+    "end": 1846.359,
+    "text": "formulation. And this is only happening if it's a a."
+  },
+  {
+    "sentence_id": 461,
+    "start": 1846.979,
+    "end": 1849.699,
+    "text": "Yeah, if, if A and B are mutually exclusive."
+  },
+  {
+    "sentence_id": 462,
+    "start": 1851.079,
+    "end": 1855.439,
+    "text": "OK, it doesn't include what can happen for both situations."
+  },
+  {
+    "sentence_id": 463,
+    "start": 1856.17,
+    "end": 1858.599,
+    "text": "Right, which is the very final case."
+  },
+  {
+    "sentence_id": 464,
+    "start": 1859.01,
+    "end": 1862.969,
+    "text": "So using this overlapping Venn diagram, you can see what"
+  },
+  {
+    "sentence_id": 465,
+    "start": 1862.969,
+    "end": 1868.369,
+    "text": "we're talking about. For event A to happen and even B to happen"
+  },
+  {
+    "sentence_id": 466,
+    "start": 1868.369,
+    "end": 1873.329,
+    "text": "where they're both mutually exclusive, they're separate circle, right, quite,"
+  },
+  {
+    "sentence_id": 467,
+    "start": 1873.449,
+    "end": 1878.31,
+    "text": "quite trivial. What can happen for both A and B, so for"
+  },
+  {
+    "sentence_id": 468,
+    "start": 1878.31,
+    "end": 1883.109,
+    "text": "example, what's the chance of you wearing blue today and"
+  },
+  {
+    "sentence_id": 469,
+    "start": 1883.109,
+    "end": 1886.67,
+    "text": "the fact that you're seated in this chair, right?"
+  },
+  {
+    "sentence_id": 470,
+    "start": 1887.609,
+    "end": 1890.729,
+    "text": "Well, they're not mutually exclusive, you could sit in this"
+  },
+  {
+    "sentence_id": 471,
+    "start": 1890.729,
+    "end": 1895.329,
+    "text": "chair and be wearing green, pink, purple."
+  },
+  {
+    "sentence_id": 472,
+    "start": 1895.979,
+    "end": 1897.5,
+    "text": "You know, shirt or whatever."
+  },
+  {
+    "sentence_id": 473,
+    "start": 1898.449,
+    "end": 1901.689,
+    "text": "But you can have both situation both conditions actually being"
+  },
+  {
+    "sentence_id": 474,
+    "start": 1901.689,
+    "end": 1905.01,
+    "text": "met as well. So that's mutually non-exclusive."
+  },
+  {
+    "sentence_id": 475,
+    "start": 1905.739,
+    "end": 1909.319,
+    "text": "And in that case, it's simply the over the intersect"
+  },
+  {
+    "sentence_id": 476,
+    "start": 1909.319,
+    "end": 1915.28,
+    "text": "between those two men. Then you have A or B, which is that to"
+  },
+  {
+    "sentence_id": 477,
+    "start": 1915.28,
+    "end": 1918.319,
+    "text": "chance situations, so if a person comes in, what's the"
+  },
+  {
+    "sentence_id": 478,
+    "start": 1918.319,
+    "end": 1920.969,
+    "text": "probability of them sitting in any of those spaces?"
+  },
+  {
+    "sentence_id": 479,
+    "start": 1921.0,
+    "end": 1923.589,
+    "text": "Well, it's just the, the summation of this probability."
+  },
+  {
+    "sentence_id": 480,
+    "start": 1924.239,
+    "end": 1928.119,
+    "text": "And the final case is more tricky, which is this"
+  },
+  {
+    "sentence_id": 481,
+    "start": 1928.119,
+    "end": 1934.17,
+    "text": "conditional probability. What is the chance of this happening given that, OK,"
+  },
+  {
+    "sentence_id": 482,
+    "start": 1934.329,
+    "end": 1940.079,
+    "text": "so what's the chance of. You're sitting in this chair, given that you're wearing blue"
+  },
+  {
+    "sentence_id": 483,
+    "start": 1940.079,
+    "end": 1943.31,
+    "text": "or something, right, it's not a good mapping of it,"
+  },
+  {
+    "sentence_id": 484,
+    "start": 1943.4,
+    "end": 1947.13,
+    "text": "um. But you know it is conditional on it, so for"
+  },
+  {
+    "sentence_id": 485,
+    "start": 1947.13,
+    "end": 1949.89,
+    "text": "example, if there's only one space there, what's the chance"
+  },
+  {
+    "sentence_id": 486,
+    "start": 1949.89,
+    "end": 1952.01,
+    "text": "of someone coming late and then sitting in that chair?"
+  },
+  {
+    "sentence_id": 487,
+    "start": 1952.63,
+    "end": 1959.969,
+    "text": "Right. So the probability of independent events."
+  },
+  {
+    "sentence_id": 488,
+    "start": 1960.77,
+    "end": 1964.75,
+    "text": "That are events that do not influence each other, OK,"
+  },
+  {
+    "sentence_id": 489,
+    "start": 1964.979,
+    "end": 1970.3,
+    "text": "so. You can imagine two events, A and B, that are"
+  },
+  {
+    "sentence_id": 490,
+    "start": 1970.3,
+    "end": 1975.68,
+    "text": "independent. Given that you know knowledge of event A, it does"
+  },
+  {
+    "sentence_id": 491,
+    "start": 1975.68,
+    "end": 1981.459,
+    "text": "not influence event B. So using a uh deck of cards for example."
+  },
+  {
+    "sentence_id": 492,
+    "start": 1982.29,
+    "end": 1984.41,
+    "text": "If I were to draw, if I were to draw"
+  },
+  {
+    "sentence_id": 493,
+    "start": 1984.41,
+    "end": 1987.65,
+    "text": "the next card and I go, you know, uh uh."
+  },
+  {
+    "sentence_id": 494,
+    "start": 1988.81,
+    "end": 1992.359,
+    "text": "King of hearts or something, or a king, right, if,"
+  },
+  {
+    "sentence_id": 495,
+    "start": 1992.54,
+    "end": 1994.5,
+    "text": "if I tell you the next card is a is"
+  },
+  {
+    "sentence_id": 496,
+    "start": 1994.5,
+    "end": 1996.27,
+    "text": "a it's a, it's a king card, right?"
+  },
+  {
+    "sentence_id": 497,
+    "start": 1997.219,
+    "end": 2000.569,
+    "text": "That's 1 in 13 chance, but it doesn't actually give"
+  },
+  {
+    "sentence_id": 498,
+    "start": 2000.569,
+    "end": 2003.089,
+    "text": "you more information as to which suit it is."
+  },
+  {
+    "sentence_id": 499,
+    "start": 2004.15,
+    "end": 2007.109,
+    "text": "Right, because the suit it could still be 1 out"
+  },
+  {
+    "sentence_id": 500,
+    "start": 2007.109,
+    "end": 2011.77,
+    "text": "of 4. And so that's a very clear example of."
+  },
+  {
+    "sentence_id": 501,
+    "start": 2013.03,
+    "end": 2016.869,
+    "text": "The two independent events, the suit, and then also the,"
+  },
+  {
+    "sentence_id": 502,
+    "start": 2016.9,
+    "end": 2020.15,
+    "text": "the, the number on the, on the uh on the"
+  },
+  {
+    "sentence_id": 503,
+    "start": 2020.15,
+    "end": 2026.06,
+    "text": "actual club on the. What do you call it the Yeah, the, the number,"
+  },
+  {
+    "sentence_id": 504,
+    "start": 2026.27,
+    "end": 2030.81,
+    "text": "right? So these two events are independent."
+  },
+  {
+    "sentence_id": 505,
+    "start": 2031.77,
+    "end": 2035.209,
+    "text": "And so Can you make some sort of assumption?"
+  },
+  {
+    "sentence_id": 506,
+    "start": 2035.959,
+    "end": 2041.609,
+    "text": "Um, whether or not. You know, if I draw one card, I can determine"
+  },
+  {
+    "sentence_id": 507,
+    "start": 2041.609,
+    "end": 2045.959,
+    "text": "what the other suit is. Well, not necessarily, right?"
+  },
+  {
+    "sentence_id": 508,
+    "start": 2046.449,
+    "end": 2048.888,
+    "text": "So whether or not we know the cut of an"
+  },
+  {
+    "sentence_id": 509,
+    "start": 2048.888,
+    "end": 2053.04,
+    "text": "ace, the probability of it being a spade remains 1"
+  },
+  {
+    "sentence_id": 510,
+    "start": 2053.04,
+    "end": 2055.85,
+    "text": "out of 4, meaning that A and B are independent."
+  },
+  {
+    "sentence_id": 511,
+    "start": 2056.82,
+    "end": 2061.449,
+    "text": "This independency is quite important because very seldom do you"
+  },
+  {
+    "sentence_id": 512,
+    "start": 2061.449,
+    "end": 2065.158,
+    "text": "see the real world where you capture the different dimensions"
+  },
+  {
+    "sentence_id": 513,
+    "start": 2065.158,
+    "end": 2068.05,
+    "text": "and the features are actually being independent."
+  },
+  {
+    "sentence_id": 514,
+    "start": 2068.969,
+    "end": 2071.959,
+    "text": "Right, more or less they're quite correlated, but you just"
+  },
+  {
+    "sentence_id": 515,
+    "start": 2071.959,
+    "end": 2073.31,
+    "text": "don't know the correlation."
+  },
+  {
+    "sentence_id": 516,
+    "start": 2073.57,
+    "end": 2075.989,
+    "text": "You don't know how each of those are influencing each"
+  },
+  {
+    "sentence_id": 517,
+    "start": 2075.989,
+    "end": 2080.239,
+    "text": "other. But nonetheless, right, in order for the formulations to work,"
+  },
+  {
+    "sentence_id": 518,
+    "start": 2080.77,
+    "end": 2082.898,
+    "text": "there is a certain base assumption that you have to"
+  },
+  {
+    "sentence_id": 519,
+    "start": 2082.898,
+    "end": 2084.449,
+    "text": "assume that it is independent."
+  },
+  {
+    "sentence_id": 520,
+    "start": 2085.408,
+    "end": 2089.617,
+    "text": "The independency actually makes the computer a lot easier because"
+  },
+  {
+    "sentence_id": 521,
+    "start": 2089.617,
+    "end": 2093.178,
+    "text": "you assume there's no correlation, therefore you can approach it"
+  },
+  {
+    "sentence_id": 522,
+    "start": 2093.178,
+    "end": 2097.698,
+    "text": "with some rudimentary and hence the naive phase, the naive"
+  },
+  {
+    "sentence_id": 523,
+    "start": 2097.698,
+    "end": 2099.928,
+    "text": "bit, right, there's a certain naivety."
+  },
+  {
+    "sentence_id": 524,
+    "start": 2100.659,
+    "end": 2103.729,
+    "text": "Um, in, in the assumption of the system."
+  },
+  {
+    "sentence_id": 525,
+    "start": 2104.8,
+    "end": 2108.149,
+    "text": "Um, And yeah, like it it without, without that soft"
+  },
+  {
+    "sentence_id": 526,
+    "start": 2108.149,
+    "end": 2110.159,
+    "text": "premise, then a lot of the maths will not work."
+  },
+  {
+    "sentence_id": 527,
+    "start": 2112.07,
+    "end": 2116.09,
+    "text": "So here, knowing that the 1st 3 flips were heads,"
+  },
+  {
+    "sentence_id": 528,
+    "start": 2116.199,
+    "end": 2119.08,
+    "text": "does not change the probability of the 4th 1, right?"
+  },
+  {
+    "sentence_id": 529,
+    "start": 2119.199,
+    "end": 2122.07,
+    "text": "Again, this is a demonstration of the independence."
+  },
+  {
+    "sentence_id": 530,
+    "start": 2122.32,
+    "end": 2125.629,
+    "text": "Flipping coins, a sequence of coins, right?"
+  },
+  {
+    "sentence_id": 531,
+    "start": 2126.06,
+    "end": 2127.84,
+    "text": "Not that you're gonna flip a head and then the"
+  },
+  {
+    "sentence_id": 532,
+    "start": 2127.84,
+    "end": 2130.08,
+    "text": "next one's gonna be a tail, right?"
+  },
+  {
+    "sentence_id": 533,
+    "start": 2130.25,
+    "end": 2133.08,
+    "text": "Because then you can just stack up the, the odds"
+  },
+  {
+    "sentence_id": 534,
+    "start": 2133.08,
+    "end": 2137.439,
+    "text": "saying, well, since I flipped 4 coins being heads, the"
+  },
+  {
+    "sentence_id": 535,
+    "start": 2137.439,
+    "end": 2139.159,
+    "text": "last, the next one must be a tail."
+  },
+  {
+    "sentence_id": 536,
+    "start": 2139.919,
+    "end": 2142.899,
+    "text": "Right. Does anyone go to like the casino?"
+  },
+  {
+    "sentence_id": 537,
+    "start": 2143.489,
+    "end": 2144.949,
+    "text": "Just, just out of curiosity?"
+  },
+  {
+    "sentence_id": 538,
+    "start": 2145.709,
+    "end": 2149.909,
+    "text": "Yeah. No. OK, alright, well, don't start."
+  },
+  {
+    "sentence_id": 539,
+    "start": 2150.03,
+    "end": 2153.989,
+    "text": "But nonetheless, right, a lot of probability, um, came from"
+  },
+  {
+    "sentence_id": 540,
+    "start": 2153.989,
+    "end": 2158.07,
+    "text": "that world. So if you ever do go, right, you'll notice that"
+  },
+  {
+    "sentence_id": 541,
+    "start": 2158.07,
+    "end": 2161.79,
+    "text": "there's always these gamblers, right, trying to mark down numbers"
+  },
+  {
+    "sentence_id": 542,
+    "start": 2161.79,
+    "end": 2166.469,
+    "text": "like in a background, right, they somehow thinks that things"
+  },
+  {
+    "sentence_id": 543,
+    "start": 2166.469,
+    "end": 2168.979,
+    "text": "are correlated, but it's not really, is it?"
+  },
+  {
+    "sentence_id": 544,
+    "start": 2169.27,
+    "end": 2171.75,
+    "text": "You know, they go red, red, red, and then they"
+  },
+  {
+    "sentence_id": 545,
+    "start": 2171.75,
+    "end": 2173.27,
+    "text": "think the next one must be black."
+  },
+  {
+    "sentence_id": 546,
+    "start": 2174.149,
+    "end": 2176.229,
+    "text": "Right, there is actually no logic to that."
+  },
+  {
+    "sentence_id": 547,
+    "start": 2177.06,
+    "end": 2179.209,
+    "text": "But it's a superstitious thing, right?"
+  },
+  {
+    "sentence_id": 548,
+    "start": 2179.5,
+    "end": 2181.459,
+    "text": "You know, they go, oh well, it must be like"
+  },
+  {
+    "sentence_id": 549,
+    "start": 2181.459,
+    "end": 2184.5,
+    "text": "after 5 reds, it has to be black cause the"
+  },
+  {
+    "sentence_id": 550,
+    "start": 2184.5,
+    "end": 2187.62,
+    "text": "law of large numbers dictates that it's an even, even"
+  },
+  {
+    "sentence_id": 551,
+    "start": 2187.62,
+    "end": 2191.139,
+    "text": "split, right, for a, for a blackjack, so, well, not"
+  },
+  {
+    "sentence_id": 552,
+    "start": 2191.139,
+    "end": 2193.939,
+    "text": "blackjack, baccarat gang in a way."
+  },
+  {
+    "sentence_id": 553,
+    "start": 2194.61,
+    "end": 2195.86,
+    "text": "But again, there's no guarantee."
+  },
+  {
+    "sentence_id": 554,
+    "start": 2196.979,
+    "end": 2200.79,
+    "text": "So that's one of the fallacies that people often make,"
+  },
+  {
+    "sentence_id": 555,
+    "start": 2201.0,
+    "end": 2206.159,
+    "text": "right, that things that aren't correlated or aren't dependent on"
+  },
+  {
+    "sentence_id": 556,
+    "start": 2206.159,
+    "end": 2209.229,
+    "text": "each other, they make it as such it is."
+  },
+  {
+    "sentence_id": 557,
+    "start": 2209.719,
+    "end": 2213.219,
+    "text": "Alright, so this is a. This is an interesting one."
+  },
+  {
+    "sentence_id": 558,
+    "start": 2214.639,
+    "end": 2218.939,
+    "text": "So the, the question is, here's a trivia question, can"
+  },
+  {
+    "sentence_id": 559,
+    "start": 2218.939,
+    "end": 2222.25,
+    "text": "mutually exclusive events be independent?"
+  },
+  {
+    "sentence_id": 560,
+    "start": 2224.729,
+    "end": 2225.889,
+    "text": "If you think about it, right?"
+  },
+  {
+    "sentence_id": 561,
+    "start": 2226.6,
+    "end": 2229.879,
+    "text": "The mutually exclusive events are the two events, A and"
+  },
+  {
+    "sentence_id": 562,
+    "start": 2229.879,
+    "end": 2232.03,
+    "text": "B, not overlapping each other."
+  },
+  {
+    "sentence_id": 563,
+    "start": 2233.08,
+    "end": 2234.28,
+    "text": "And they'd be independent."
+  },
+  {
+    "sentence_id": 564,
+    "start": 2237.889,
+    "end": 2240.76,
+    "text": "Well, I think it's only under certain situations they are,"
+  },
+  {
+    "sentence_id": 565,
+    "start": 2241.129,
+    "end": 2247.659,
+    "text": "right, um. But basically, you know, you can, you can go and"
+  },
+  {
+    "sentence_id": 566,
+    "start": 2247.659,
+    "end": 2250.909,
+    "text": "think about that because, you know, telling you distributor doesn't"
+  },
+  {
+    "sentence_id": 567,
+    "start": 2251.219,
+    "end": 2254.51,
+    "text": "actually help you. Understand the, the situation."
+  },
+  {
+    "sentence_id": 568,
+    "start": 2255.389,
+    "end": 2258.149,
+    "text": "But go off and, and see, see what that is"
+  },
+  {
+    "sentence_id": 569,
+    "start": 2258.149,
+    "end": 2259.79,
+    "text": "and come back with an answer next week."
+  },
+  {
+    "sentence_id": 570,
+    "start": 2261.699,
+    "end": 2264.55,
+    "text": "Now if you look at For those two, so what"
+  },
+  {
+    "sentence_id": 571,
+    "start": 2264.55,
+    "end": 2267.389,
+    "text": "we talked about here is probability of independent events."
+  },
+  {
+    "sentence_id": 572,
+    "start": 2268.449,
+    "end": 2272.09,
+    "text": "So what happens to the probability of two independent events,"
+  },
+  {
+    "sentence_id": 573,
+    "start": 2272.78,
+    "end": 2275.58,
+    "text": "right? The joint probability of something happening."
+  },
+  {
+    "sentence_id": 574,
+    "start": 2276.889,
+    "end": 2280.399,
+    "text": "It's not the same as the overlapping ones, right, where"
+  },
+  {
+    "sentence_id": 575,
+    "start": 2280.399,
+    "end": 2285.04,
+    "text": "both can happen is, You know, separate."
+  },
+  {
+    "sentence_id": 576,
+    "start": 2285.449,
+    "end": 2288.05,
+    "text": "What can happen here and can happen there."
+  },
+  {
+    "sentence_id": 577,
+    "start": 2288.989,
+    "end": 2293.379,
+    "text": "Right, now the, the likelihood of two events happening together."
+  },
+  {
+    "sentence_id": 578,
+    "start": 2294.229,
+    "end": 2296.439,
+    "text": "Right, given that there's an independent event."
+  },
+  {
+    "sentence_id": 579,
+    "start": 2297.939,
+    "end": 2302.59,
+    "text": "Will be denoted as event probability of A times probability"
+  },
+  {
+    "sentence_id": 580,
+    "start": 2302.59,
+    "end": 2306.979,
+    "text": "of B. So the probability of A and B in this case"
+  },
+  {
+    "sentence_id": 581,
+    "start": 2306.979,
+    "end": 2312.629,
+    "text": "equals to probability of likely of A times likely of"
+  },
+  {
+    "sentence_id": 582,
+    "start": 2312.629,
+    "end": 2317.02,
+    "text": "B. Which is the probability of both A and B occurring"
+  },
+  {
+    "sentence_id": 583,
+    "start": 2317.02,
+    "end": 2319.379,
+    "text": "at the same time, and this means that the independent"
+  },
+  {
+    "sentence_id": 584,
+    "start": 2319.379,
+    "end": 2322.57,
+    "text": "events, the joint probability is simply the product."
+  },
+  {
+    "sentence_id": 585,
+    "start": 2322.82,
+    "end": 2325.899,
+    "text": "It is not the summation of the things, it is"
+  },
+  {
+    "sentence_id": 586,
+    "start": 2325.899,
+    "end": 2331.409,
+    "text": "the product of. So what's the chance of raining, raining and."
+  },
+  {
+    "sentence_id": 587,
+    "start": 2332.219,
+    "end": 2334.87,
+    "text": "That, you know, the bus is late."
+  },
+  {
+    "sentence_id": 588,
+    "start": 2335.629,
+    "end": 2339.07,
+    "text": "Well that's a bad example actually because very often, you"
+  },
+  {
+    "sentence_id": 589,
+    "start": 2339.07,
+    "end": 2343.55,
+    "text": "know, the, the weather condition is coupled to, to the"
+  },
+  {
+    "sentence_id": 590,
+    "start": 2343.55,
+    "end": 2346.449,
+    "text": "traffic condition, so that's not an independent event."
+  },
+  {
+    "sentence_id": 591,
+    "start": 2346.79,
+    "end": 2348.879,
+    "text": "So like for example if you draw a car off"
+  },
+  {
+    "sentence_id": 592,
+    "start": 2348.879,
+    "end": 2354.449,
+    "text": "of, you know. From, from the deck, right, 52 cards, you go, draw"
+  },
+  {
+    "sentence_id": 593,
+    "start": 2354.449,
+    "end": 2359.129,
+    "text": "a card, what's the chance of that being, uh, of"
+  },
+  {
+    "sentence_id": 594,
+    "start": 2359.129,
+    "end": 2363.12,
+    "text": "hearts or something, and that it rains outside as well."
+  },
+  {
+    "sentence_id": 595,
+    "start": 2363.37,
+    "end": 2366.25,
+    "text": "Well it's simply the multiplication of the two events happening."
+  },
+  {
+    "sentence_id": 596,
+    "start": 2367.209,
+    "end": 2371.12,
+    "text": "Right, maybe 1 in 4 chance of it raining today,"
+  },
+  {
+    "sentence_id": 597,
+    "start": 2371.409,
+    "end": 2373.729,
+    "text": "and then there's a 1 in 52 chance of you"
+  },
+  {
+    "sentence_id": 598,
+    "start": 2373.729,
+    "end": 2376.81,
+    "text": "drawing the cart, the multiplication of those two is the"
+  },
+  {
+    "sentence_id": 599,
+    "start": 2376.81,
+    "end": 2379.53,
+    "text": "likelihood of you drawing that and then looking out it's"
+  },
+  {
+    "sentence_id": 600,
+    "start": 2379.53,
+    "end": 2385.209,
+    "text": "raining, right? So here, here's a, here's a some more closer to"
+  },
+  {
+    "sentence_id": 601,
+    "start": 2385.209,
+    "end": 2389.489,
+    "text": "heart example. If you use a coin toss, right, what's the chance"
+  },
+  {
+    "sentence_id": 602,
+    "start": 2389.489,
+    "end": 2393.29,
+    "text": "of getting heads in the first flip and then getting"
+  },
+  {
+    "sentence_id": 603,
+    "start": 2393.29,
+    "end": 2394.879,
+    "text": "heads again in the second flip?"
+  },
+  {
+    "sentence_id": 604,
+    "start": 2395.29,
+    "end": 2398.01,
+    "text": "Well it's a 1 in 4 chance, right?"
+  },
+  {
+    "sentence_id": 605,
+    "start": 2398.37,
+    "end": 2401.469,
+    "text": "So all your, all your casino card games, all your"
+  },
+  {
+    "sentence_id": 606,
+    "start": 2401.469,
+    "end": 2405.81,
+    "text": "casino sort of, um, odds, right, tossing the die, there's"
+  },
+  {
+    "sentence_id": 607,
+    "start": 2405.81,
+    "end": 2409.409,
+    "text": "the sick bow, right, if everyone, people know of that"
+  },
+  {
+    "sentence_id": 608,
+    "start": 2409.409,
+    "end": 2412.379,
+    "text": "game is really 3 dies and then you, Kind of"
+  },
+  {
+    "sentence_id": 609,
+    "start": 2412.379,
+    "end": 2415.659,
+    "text": "toss it and then you could either get 666 or"
+  },
+  {
+    "sentence_id": 610,
+    "start": 2415.659,
+    "end": 2420.449,
+    "text": "you know. Two ones or, you know, big or small, being less"
+  },
+  {
+    "sentence_id": 611,
+    "start": 2420.449,
+    "end": 2424.61,
+    "text": "than or more than um 15 or something, right, that's"
+  },
+  {
+    "sentence_id": 612,
+    "start": 2424.61,
+    "end": 2427.53,
+    "text": "a, that's a game of independent events, each of the"
+  },
+  {
+    "sentence_id": 613,
+    "start": 2427.53,
+    "end": 2432.05,
+    "text": "day. And then the chances of things happening, the outcome."
+  },
+  {
+    "sentence_id": 614,
+    "start": 2432.84,
+    "end": 2436.8,
+    "text": "So that's what caught a joint probability of events happening."
+  },
+  {
+    "sentence_id": 615,
+    "start": 2439.52,
+    "end": 2442.449,
+    "text": "And then finally, right, remember the very first diagram I"
+  },
+  {
+    "sentence_id": 616,
+    "start": 2442.449,
+    "end": 2445.85,
+    "text": "had the, the Venn diagram, the two circles not being"
+  },
+  {
+    "sentence_id": 617,
+    "start": 2445.85,
+    "end": 2449.09,
+    "text": "overlapping and then overlapping and then the, the shading of"
+  },
+  {
+    "sentence_id": 618,
+    "start": 2449.09,
+    "end": 2451.929,
+    "text": "all the circles within that, and then you also have"
+  },
+  {
+    "sentence_id": 619,
+    "start": 2451.929,
+    "end": 2454.04,
+    "text": "this very final situation."
+  },
+  {
+    "sentence_id": 620,
+    "start": 2454.959,
+    "end": 2458.8,
+    "text": "Where it's conditional probability of events."
+  },
+  {
+    "sentence_id": 621,
+    "start": 2458.879,
+    "end": 2463.51,
+    "text": "So, this is also known as, you know, probability of"
+  },
+  {
+    "sentence_id": 622,
+    "start": 2463.51,
+    "end": 2467.439,
+    "text": "dependent events. What is the chance of this happening and then that"
+  },
+  {
+    "sentence_id": 623,
+    "start": 2467.439,
+    "end": 2472.629,
+    "text": "happening? So using my example of cloudy day, what's the chance"
+  },
+  {
+    "sentence_id": 624,
+    "start": 2472.629,
+    "end": 2477.54,
+    "text": "of the bus coming late? Well, it depends if it rains, right?"
+  },
+  {
+    "sentence_id": 625,
+    "start": 2477.719,
+    "end": 2482.459,
+    "text": "If one event is coupled to another event, Then you"
+  },
+  {
+    "sentence_id": 626,
+    "start": 2482.459,
+    "end": 2487.459,
+    "text": "know how to perhaps calculate the likelihood of that other"
+  },
+  {
+    "sentence_id": 627,
+    "start": 2487.459,
+    "end": 2489.979,
+    "text": "event, right, which is what you want, so there's a"
+  },
+  {
+    "sentence_id": 628,
+    "start": 2489.979,
+    "end": 2493.3,
+    "text": "sequence of events, where you don't know the final probability"
+  },
+  {
+    "sentence_id": 629,
+    "start": 2493.3,
+    "end": 2495.979,
+    "text": "of something, but maybe you know the stack up of"
+  },
+  {
+    "sentence_id": 630,
+    "start": 2495.979,
+    "end": 2500.33,
+    "text": "those, Conditions, and so that's, that's the premise of what"
+  },
+  {
+    "sentence_id": 631,
+    "start": 2500.33,
+    "end": 2504.449,
+    "text": "you're trying to, um, You know, use in terms of"
+  },
+  {
+    "sentence_id": 632,
+    "start": 2504.449,
+    "end": 2506.81,
+    "text": "calculating the final probability of that event."
+  },
+  {
+    "sentence_id": 633,
+    "start": 2508.37,
+    "end": 2513.409,
+    "text": "Alright, so, For events that are dependent on each other,"
+  },
+  {
+    "sentence_id": 634,
+    "start": 2513.79,
+    "end": 2517.189,
+    "text": "right, for example, the probability of it raining later, given"
+  },
+  {
+    "sentence_id": 635,
+    "start": 2517.189,
+    "end": 2522.55,
+    "text": "that it is raining now. The probability of the next event changes based on how"
+  },
+  {
+    "sentence_id": 636,
+    "start": 2522.55,
+    "end": 2524.27,
+    "text": "the first event influences it."
+  },
+  {
+    "sentence_id": 637,
+    "start": 2525.08,
+    "end": 2527.419,
+    "text": "So if it's not raining now, what's the chance of"
+  },
+  {
+    "sentence_id": 638,
+    "start": 2527.419,
+    "end": 2529.389,
+    "text": "the next 10 minutes raining?"
+  },
+  {
+    "sentence_id": 639,
+    "start": 2530.11,
+    "end": 2534.35,
+    "text": "Probably slightly lower, but if it's raining right now, then"
+  },
+  {
+    "sentence_id": 640,
+    "start": 2534.35,
+    "end": 2537.669,
+    "text": "10 minutes later and it still rains, then it's higher,"
+  },
+  {
+    "sentence_id": 641,
+    "start": 2537.83,
+    "end": 2542.389,
+    "text": "right? It's kinda um easy to to conceive that."
+  },
+  {
+    "sentence_id": 642,
+    "start": 2543.54,
+    "end": 2548.469,
+    "text": "So the probability, the conditional probability allows you to update"
+  },
+  {
+    "sentence_id": 643,
+    "start": 2549.08,
+    "end": 2551.199,
+    "text": "what your understanding of that situation is."
+  },
+  {
+    "sentence_id": 644,
+    "start": 2551.979,
+    "end": 2554.26,
+    "text": "Right, given that if I look out and it's not"
+  },
+  {
+    "sentence_id": 645,
+    "start": 2554.26,
+    "end": 2557.139,
+    "text": "raining now, I can estimate that the chance of it"
+  },
+  {
+    "sentence_id": 646,
+    "start": 2557.139,
+    "end": 2560.34,
+    "text": "raining later lowers, so I don't properly, I don't have"
+  },
+  {
+    "sentence_id": 647,
+    "start": 2560.34,
+    "end": 2565.57,
+    "text": "to bring an umbrella. Right, and the way we read this is, I think"
+  },
+  {
+    "sentence_id": 648,
+    "start": 2565.57,
+    "end": 2568.229,
+    "text": "we talked about this last time, which is given a"
+  },
+  {
+    "sentence_id": 649,
+    "start": 2568.229,
+    "end": 2571.51,
+    "text": "certain event, given that event B has occurred, what's the"
+  },
+  {
+    "sentence_id": 650,
+    "start": 2571.51,
+    "end": 2574.27,
+    "text": "probability of, A current."
+  },
+  {
+    "sentence_id": 651,
+    "start": 2575.37,
+    "end": 2579.889,
+    "text": "OK. So here's the notation to it, and you can see."
+  },
+  {
+    "sentence_id": 652,
+    "start": 2580.929,
+    "end": 2584.709,
+    "text": "A occurring, right? A given B."
+  },
+  {
+    "sentence_id": 653,
+    "start": 2584.889,
+    "end": 2587.649,
+    "text": "Probably that a given B is the, the first notation"
+  },
+  {
+    "sentence_id": 654,
+    "start": 2587.649,
+    "end": 2594.02,
+    "text": "there, right? Um, and then you have basically ANB, the probability of"
+  },
+  {
+    "sentence_id": 655,
+    "start": 2594.02,
+    "end": 2599.979,
+    "text": "both occurring over just the marginal probability of um, Event"
+  },
+  {
+    "sentence_id": 656,
+    "start": 2599.979,
+    "end": 2605.469,
+    "text": "B. So to put some concrete examples around this, right."
+  },
+  {
+    "sentence_id": 657,
+    "start": 2606.75,
+    "end": 2613.679,
+    "text": "Is this a table, like, So, um, let event A"
+  },
+  {
+    "sentence_id": 658,
+    "start": 2613.679,
+    "end": 2615.8,
+    "text": "be raining in 10 minutes' time."
+  },
+  {
+    "sentence_id": 659,
+    "start": 2616.51,
+    "end": 2619.689,
+    "text": "And let B, event B, be raining now."
+  },
+  {
+    "sentence_id": 660,
+    "start": 2620.1,
+    "end": 2624.62,
+    "text": "Now, suppose we make the following observation over 10 days,"
+  },
+  {
+    "sentence_id": 661,
+    "start": 2624.979,
+    "end": 2630.3,
+    "text": "right, so empirically, we're trying to derive the probability of"
+  },
+  {
+    "sentence_id": 662,
+    "start": 2630.3,
+    "end": 2632.669,
+    "text": "each of those events, right, event A and B."
+  },
+  {
+    "sentence_id": 663,
+    "start": 2634.12,
+    "end": 2637.52,
+    "text": "And you can see If we were to try and"
+  },
+  {
+    "sentence_id": 664,
+    "start": 2637.52,
+    "end": 2640.85,
+    "text": "understand this, we must look at all the situations where"
+  },
+  {
+    "sentence_id": 665,
+    "start": 2640.85,
+    "end": 2642.209,
+    "text": "condition B is fulfilled."
+  },
+  {
+    "sentence_id": 666,
+    "start": 2643.389,
+    "end": 2647.199,
+    "text": "So I've highlighted all the sections where, you know, the,"
+  },
+  {
+    "sentence_id": 667,
+    "start": 2647.209,
+    "end": 2651.449,
+    "text": "the, the raining is raining, so raining now, right, you've"
+  },
+  {
+    "sentence_id": 668,
+    "start": 2651.449,
+    "end": 2658.409,
+    "text": "got 2466 out of those 10 days being raining now."
+  },
+  {
+    "sentence_id": 669,
+    "start": 2659.31,
+    "end": 2661.459,
+    "text": "And in all those situations."
+  },
+  {
+    "sentence_id": 670,
+    "start": 2662.81,
+    "end": 2666.05,
+    "text": "There's only 4 of those days that would be raining"
+  },
+  {
+    "sentence_id": 671,
+    "start": 2666.05,
+    "end": 2667.209,
+    "text": "10 minutes from that point."
+  },
+  {
+    "sentence_id": 672,
+    "start": 2668.679,
+    "end": 2676.33,
+    "text": "So, that's event A. The question is, what is the probability of Event A"
+  },
+  {
+    "sentence_id": 673,
+    "start": 2676.33,
+    "end": 2679.07,
+    "text": "have been conditioned on event B."
+  },
+  {
+    "sentence_id": 674,
+    "start": 2679.6,
+    "end": 2681.409,
+    "text": "So it's almost like going backwards, isn't it?"
+  },
+  {
+    "sentence_id": 675,
+    "start": 2681.489,
+    "end": 2685.149,
+    "text": "It's going backwards where instead of going, well, what what"
+  },
+  {
+    "sentence_id": 676,
+    "start": 2685.159,
+    "end": 2690.25,
+    "text": "what's the chance of, You know, it's raining 10 minutes"
+  },
+  {
+    "sentence_id": 677,
+    "start": 2690.25,
+    "end": 2693.689,
+    "text": "from now, you don't know that, but what you do"
+  },
+  {
+    "sentence_id": 678,
+    "start": 2693.689,
+    "end": 2695.84,
+    "text": "know is what's the chance of its raining now."
+  },
+  {
+    "sentence_id": 679,
+    "start": 2697.149,
+    "end": 2700.04,
+    "text": "And so you go through this analysis, and then you"
+  },
+  {
+    "sentence_id": 680,
+    "start": 2700.04,
+    "end": 2704.04,
+    "text": "can see. I can actually derive this to be 2 out of"
+  },
+  {
+    "sentence_id": 681,
+    "start": 2704.04,
+    "end": 2709.52,
+    "text": "3 chance um that event A happens, condition on event"
+  },
+  {
+    "sentence_id": 682,
+    "start": 2709.52,
+    "end": 2715.11,
+    "text": "B. OK. Bit confusing for now, I think."
+  },
+  {
+    "sentence_id": 683,
+    "start": 2720.0,
+    "end": 2723.729,
+    "text": "So if I were to ask you a question on"
+  },
+  {
+    "sentence_id": 684,
+    "start": 2723.729,
+    "end": 2727.489,
+    "text": "what's the chance of winning a lotto ticket, a Powerball"
+  },
+  {
+    "sentence_id": 685,
+    "start": 2727.489,
+    "end": 2730.689,
+    "text": "ticket? Well, you have to pick 8 numbers."
+  },
+  {
+    "sentence_id": 686,
+    "start": 2731.6,
+    "end": 2738.479,
+    "text": "From 1 to 35. And so effectively, there's only one winning draw in all"
+  },
+  {
+    "sentence_id": 687,
+    "start": 2738.479,
+    "end": 2742.56,
+    "text": "the permutations or all the combinations of numbers, right?"
+  },
+  {
+    "sentence_id": 688,
+    "start": 2743.31,
+    "end": 2747.04,
+    "text": "And so you can derive the probability of winning, which"
+  },
+  {
+    "sentence_id": 689,
+    "start": 2747.04,
+    "end": 2753.79,
+    "text": "is event A. It'd be one out of the combination, combinatorial factorial of"
+  },
+  {
+    "sentence_id": 690,
+    "start": 2753.79,
+    "end": 2757.649,
+    "text": "1 to 35, right, without replacing the numbers."
+  },
+  {
+    "sentence_id": 691,
+    "start": 2757.939,
+    "end": 2760.58,
+    "text": "OK, so since there's only one combination of the winners,"
+  },
+  {
+    "sentence_id": 692,
+    "start": 2761.239,
+    "end": 2763.87,
+    "text": "That that that's it, the first equation is really a"
+  },
+  {
+    "sentence_id": 693,
+    "start": 2763.87,
+    "end": 2767.699,
+    "text": "chance. But then as time goes on, as the numbers starts"
+  },
+  {
+    "sentence_id": 694,
+    "start": 2767.699,
+    "end": 2770.82,
+    "text": "drawing out, you, you get a 2 and you match"
+  },
+  {
+    "sentence_id": 695,
+    "start": 2770.82,
+    "end": 2773.34,
+    "text": "that, you get a 6, you match that, you get"
+  },
+  {
+    "sentence_id": 696,
+    "start": 2773.34,
+    "end": 2777.719,
+    "text": "a 15, you match that. You want to understand that each of those time points,"
+  },
+  {
+    "sentence_id": 697,
+    "start": 2778.02,
+    "end": 2780.06,
+    "text": "how your probability changes."
+  },
+  {
+    "sentence_id": 698,
+    "start": 2780.959,
+    "end": 2784.27,
+    "text": "Right? It's quite an interesting, you know, game."
+  },
+  {
+    "sentence_id": 699,
+    "start": 2784.36,
+    "end": 2786.909,
+    "text": "You, you just, you got a bunch of tickets."
+  },
+  {
+    "sentence_id": 700,
+    "start": 2787.199,
+    "end": 2790.0,
+    "text": "And as the number comes through, you're like, Oh, look,"
+  },
+  {
+    "sentence_id": 701,
+    "start": 2790.08,
+    "end": 2793.79,
+    "text": "I, I got this number. So does my odds increase?"
+  },
+  {
+    "sentence_id": 702,
+    "start": 2794.12,
+    "end": 2797.52,
+    "text": "Well, the answer is yes, your odds do increase in"
+  },
+  {
+    "sentence_id": 703,
+    "start": 2797.52,
+    "end": 2799.84,
+    "text": "a, in sort of a perceived manner, right?"
+  },
+  {
+    "sentence_id": 704,
+    "start": 2800.0,
+    "end": 2801.76,
+    "text": "Because at the end of the day, you only have"
+  },
+  {
+    "sentence_id": 705,
+    "start": 2802.12,
+    "end": 2806.55,
+    "text": "1 in 135, uh, chance of winning."
+  },
+  {
+    "sentence_id": 706,
+    "start": 2806.8,
+    "end": 2810.989,
+    "text": "But at least moving to that point, You, your, your"
+  },
+  {
+    "sentence_id": 707,
+    "start": 2810.989,
+    "end": 2815.419,
+    "text": "odds are improving. Now obviously if you don't get any of the other"
+  },
+  {
+    "sentence_id": 708,
+    "start": 2815.419,
+    "end": 2818.27,
+    "text": "numbers, your odds just drops to 0."
+  },
+  {
+    "sentence_id": 709,
+    "start": 2818.459,
+    "end": 2825.54,
+    "text": "You don't win any. But given this scenario of event B, which is numbers"
+  },
+  {
+    "sentence_id": 710,
+    "start": 2825.54,
+    "end": 2828.11,
+    "text": "being drawn and you get 26, and 15."
+  },
+  {
+    "sentence_id": 711,
+    "start": 2829.149,
+    "end": 2830.909,
+    "text": "How, how does the art changes?"
+  },
+  {
+    "sentence_id": 712,
+    "start": 2831.919,
+    "end": 2836.639,
+    "text": "Right. And the odds changes instead of one, instead of needing"
+  },
+  {
+    "sentence_id": 713,
+    "start": 2836.639,
+    "end": 2841.159,
+    "text": "one combination. All you now need to do is match the other"
+  },
+  {
+    "sentence_id": 714,
+    "start": 2841.159,
+    "end": 2846.399,
+    "text": "5 numbers. For the remaining from the remaining 32, and so your"
+  },
+  {
+    "sentence_id": 715,
+    "start": 2846.399,
+    "end": 2849.959,
+    "text": "odds actually improves as time goes on, until obviously you"
+  },
+  {
+    "sentence_id": 716,
+    "start": 2849.959,
+    "end": 2852.639,
+    "text": "drop to 0 and then you realise, oh, you know,"
+  },
+  {
+    "sentence_id": 717,
+    "start": 2852.8,
+    "end": 2859.189,
+    "text": "you don't win anything. So, this is the, the power of the updating aspect,"
+  },
+  {
+    "sentence_id": 718,
+    "start": 2859.61,
+    "end": 2864.01,
+    "text": "right, so previously I've hinted, you can count number of"
+  },
+  {
+    "sentence_id": 719,
+    "start": 2864.01,
+    "end": 2868.25,
+    "text": "occurrences, you know, and there's a fixed number at the"
+  },
+  {
+    "sentence_id": 720,
+    "start": 2868.25,
+    "end": 2870.81,
+    "text": "beginning of all this experiment that you know this is"
+  },
+  {
+    "sentence_id": 721,
+    "start": 2870.81,
+    "end": 2876.85,
+    "text": "likelihood. In this scenario, is the likelihood actually changes as time"
+  },
+  {
+    "sentence_id": 722,
+    "start": 2876.85,
+    "end": 2878.929,
+    "text": "goes on with new information."
+  },
+  {
+    "sentence_id": 723,
+    "start": 2879.979,
+    "end": 2883.34,
+    "text": "Right? And so how does this translate to machine learning?"
+  },
+  {
+    "sentence_id": 724,
+    "start": 2883.459,
+    "end": 2886.659,
+    "text": "Obviously, you know, you could train your data set."
+  },
+  {
+    "sentence_id": 725,
+    "start": 2887.53,
+    "end": 2890.379,
+    "text": "And then you can feed it with new information, and"
+  },
+  {
+    "sentence_id": 726,
+    "start": 2890.379,
+    "end": 2893.78,
+    "text": "those information will change the odds of your machine learning"
+  },
+  {
+    "sentence_id": 727,
+    "start": 2893.78,
+    "end": 2898.179,
+    "text": "model to then tell you or predict a so with"
+  },
+  {
+    "sentence_id": 728,
+    "start": 2898.179,
+    "end": 2900.379,
+    "text": "higher accuracy of certain outputs."
+  },
+  {
+    "sentence_id": 729,
+    "start": 2901.51,
+    "end": 2904.189,
+    "text": "And you can see how this correlates quite well."
+  },
+  {
+    "sentence_id": 730,
+    "start": 2904.639,
+    "end": 2908.939,
+    "text": "Right. But knowing B doesn't change the probability of A."
+  },
+  {
+    "sentence_id": 731,
+    "start": 2909.689,
+    "end": 2912.04,
+    "text": "Because A and B is independent, right?"
+  },
+  {
+    "sentence_id": 732,
+    "start": 2912.149,
+    "end": 2916.229,
+    "text": "Getting more numbers does not actually improve your odds on"
+  },
+  {
+    "sentence_id": 733,
+    "start": 2916.229,
+    "end": 2922.159,
+    "text": "the winning ticket. The winning tickets still one in however many millions combination."
+  },
+  {
+    "sentence_id": 734,
+    "start": 2922.62,
+    "end": 2926.02,
+    "text": "But at least the, the odds leading up to that"
+  },
+  {
+    "sentence_id": 735,
+    "start": 2926.469,
+    "end": 2932.5,
+    "text": "changes as time goes on. OK, so is your understanding of the system that that's"
+  },
+  {
+    "sentence_id": 736,
+    "start": 2932.5,
+    "end": 2940.969,
+    "text": "what makes a difference. So all this actually came along because of this guy"
+  },
+  {
+    "sentence_id": 737,
+    "start": 2940.969,
+    "end": 2945.28,
+    "text": "Thomas Day, um, you know, I think he's a mock,"
+  },
+  {
+    "sentence_id": 738,
+    "start": 2945.81,
+    "end": 2948.53,
+    "text": "and at one point he was basically asking this very"
+  },
+  {
+    "sentence_id": 739,
+    "start": 2948.53,
+    "end": 2954.209,
+    "text": "simple question of like, Can I know where Something like,"
+  },
+  {
+    "sentence_id": 740,
+    "start": 2954.29,
+    "end": 2957.129,
+    "text": "so, so he blindfolds himself, he asks his mate to"
+  },
+  {
+    "sentence_id": 741,
+    "start": 2957.129,
+    "end": 2959.61,
+    "text": "chuck balls at something, right, he puts a ball on"
+  },
+  {
+    "sentence_id": 742,
+    "start": 2959.61,
+    "end": 2963.679,
+    "text": "the table, and then he blindfolds himself, turns back to"
+  },
+  {
+    "sentence_id": 743,
+    "start": 2963.679,
+    "end": 2966.879,
+    "text": "the ball, asks his mate to chuck balls at it,"
+  },
+  {
+    "sentence_id": 744,
+    "start": 2967.169,
+    "end": 2969.689,
+    "text": "and then report back to him whether or not it's"
+  },
+  {
+    "sentence_id": 745,
+    "start": 2969.689,
+    "end": 2972.6,
+    "text": "on the left side or the right side of that"
+  },
+  {
+    "sentence_id": 746,
+    "start": 2972.81,
+    "end": 2978.3,
+    "text": "target. And so over time, he actually come to a um"
+  },
+  {
+    "sentence_id": 747,
+    "start": 2978.709,
+    "end": 2980.659,
+    "text": "well like the first time he does it is like"
+  },
+  {
+    "sentence_id": 748,
+    "start": 2980.659,
+    "end": 2982.739,
+    "text": "on the left side, and then next time he does"
+  },
+  {
+    "sentence_id": 749,
+    "start": 2982.739,
+    "end": 2984.929,
+    "text": "it, it's like oh it's too much on the left,"
+  },
+  {
+    "sentence_id": 750,
+    "start": 2985.139,
+    "end": 2989.1,
+    "text": "and so forth. And with each of those reporting, he was able to"
+  },
+  {
+    "sentence_id": 751,
+    "start": 2989.1,
+    "end": 2994.28,
+    "text": "then, Postuate or speculate where that target was based on,"
+  },
+  {
+    "sentence_id": 752,
+    "start": 2994.649,
+    "end": 2996.37,
+    "text": "you know, how the balls are landing."
+  },
+  {
+    "sentence_id": 753,
+    "start": 2997.35,
+    "end": 2999.429,
+    "text": "This is actually quite interesting, right?"
+  },
+  {
+    "sentence_id": 754,
+    "start": 2999.55,
+    "end": 3003.149,
+    "text": "Think about it, because you're deriving new information off the"
+  },
+  {
+    "sentence_id": 755,
+    "start": 3003.149,
+    "end": 3008.58,
+    "text": "system without knowing anything about it by the interaction it"
+  },
+  {
+    "sentence_id": 756,
+    "start": 3008.58,
+    "end": 3009.79,
+    "text": "has with new information."
+  },
+  {
+    "sentence_id": 757,
+    "start": 3010.949,
+    "end": 3015.6,
+    "text": "OK. So then he came up with this formula, um, which"
+  },
+  {
+    "sentence_id": 758,
+    "start": 3015.6,
+    "end": 3021.02,
+    "text": "is the conditional probability, and he goes, conditional probability describes"
+  },
+  {
+    "sentence_id": 759,
+    "start": 3021.28,
+    "end": 3025.04,
+    "text": "the probability of event A occurring given that event B"
+  },
+  {
+    "sentence_id": 760,
+    "start": 3025.04,
+    "end": 3029.37,
+    "text": "has already occurred. It's the same, it's the same equation as before."
+  },
+  {
+    "sentence_id": 761,
+    "start": 3030.149,
+    "end": 3036.05,
+    "text": "And since joint probability is symmetrical, right, or symmetric, yep,"
+  },
+  {
+    "sentence_id": 762,
+    "start": 3036.219,
+    "end": 3039.3,
+    "text": "so you can, you can basically say A and B,"
+  },
+  {
+    "sentence_id": 763,
+    "start": 3039.31,
+    "end": 3042.06,
+    "text": "the probability of A and B happening, it's the same"
+  },
+  {
+    "sentence_id": 764,
+    "start": 3042.06,
+    "end": 3045.409,
+    "text": "as B and A, right, trivial definition."
+  },
+  {
+    "sentence_id": 765,
+    "start": 3045.699,
+    "end": 3049.33,
+    "text": "You can replace the top bit with this new equation"
+  },
+  {
+    "sentence_id": 766,
+    "start": 3049.62,
+    "end": 3053.85,
+    "text": "and rearrange it. And so what you end up is this Bay theorem"
+  },
+  {
+    "sentence_id": 767,
+    "start": 3053.85,
+    "end": 3062.189,
+    "text": "right here. Right. So, probability of A given B is really the same"
+  },
+  {
+    "sentence_id": 768,
+    "start": 3062.189,
+    "end": 3066.229,
+    "text": "as the probability of B given A."
+  },
+  {
+    "sentence_id": 769,
+    "start": 3067.25,
+    "end": 3072.61,
+    "text": "Times the marginal probability of likelihood of A over the"
+  },
+  {
+    "sentence_id": 770,
+    "start": 3072.61,
+    "end": 3079.879,
+    "text": "likelihood of B. OK. So what we are typically interested in in is what"
+  },
+  {
+    "sentence_id": 771,
+    "start": 3079.879,
+    "end": 3085.909,
+    "text": "is the probability of A. But we don't often get to know that, so we"
+  },
+  {
+    "sentence_id": 772,
+    "start": 3085.909,
+    "end": 3088.86,
+    "text": "have to go backwards, right, what we do know is"
+  },
+  {
+    "sentence_id": 773,
+    "start": 3088.86,
+    "end": 3094.05,
+    "text": "probability of B. Given a And then we can do this multiplication, we"
+  },
+  {
+    "sentence_id": 774,
+    "start": 3094.05,
+    "end": 3095.729,
+    "text": "can do this manipulation."
+  },
+  {
+    "sentence_id": 775,
+    "start": 3098.52,
+    "end": 3100.86,
+    "text": "Yeah, you can see in a few slides how this"
+  },
+  {
+    "sentence_id": 776,
+    "start": 3100.86,
+    "end": 3103.709,
+    "text": "directly maps into machine learning, right?"
+  },
+  {
+    "sentence_id": 777,
+    "start": 3104.199,
+    "end": 3106.33,
+    "text": "Because we want to know the outcome of something."
+  },
+  {
+    "sentence_id": 778,
+    "start": 3107.1,
+    "end": 3109.5,
+    "text": "But we don't know the outcome of something, we know"
+  },
+  {
+    "sentence_id": 779,
+    "start": 3109.949,
+    "end": 3112.56,
+    "text": "the features, right, each of the dimensions."
+  },
+  {
+    "sentence_id": 780,
+    "start": 3113.51,
+    "end": 3115.59,
+    "text": "Right, we have that from the training set."
+  },
+  {
+    "sentence_id": 781,
+    "start": 3116.35,
+    "end": 3120.26,
+    "text": "So we can do this reversal and go, given the"
+  },
+  {
+    "sentence_id": 782,
+    "start": 3121.05,
+    "end": 3125.209,
+    "text": "Features, right, the occurrences of features, right, each of those"
+  },
+  {
+    "sentence_id": 783,
+    "start": 3125.209,
+    "end": 3128.84,
+    "text": "columns in your, in your CSV we can now determine,"
+  },
+  {
+    "sentence_id": 784,
+    "start": 3129.37,
+    "end": 3133.969,
+    "text": "right, what, what is the most likelihood outcome, OK."
+  },
+  {
+    "sentence_id": 785,
+    "start": 3135.989,
+    "end": 3138.31,
+    "text": "Which is very useful, yeah, it's knowing."
+  },
+  {
+    "sentence_id": 786,
+    "start": 3144.209,
+    "end": 3150.61,
+    "text": "OK, so. So we'll we'll, we'll hold this thought for now, right,"
+  },
+  {
+    "sentence_id": 787,
+    "start": 3150.83,
+    "end": 3153.1,
+    "text": "we'll go into the scenario where."
+  },
+  {
+    "sentence_id": 788,
+    "start": 3154.56,
+    "end": 3158.489,
+    "text": "If we can count events as, as before, right, events"
+  },
+  {
+    "sentence_id": 789,
+    "start": 3158.489,
+    "end": 3163.719,
+    "text": "being either 1234, some countable events, we can represent them."
+  },
+  {
+    "sentence_id": 790,
+    "start": 3164.35,
+    "end": 3167.489,
+    "text": "By either counting or some general function."
+  },
+  {
+    "sentence_id": 791,
+    "start": 3168.76,
+    "end": 3171.949,
+    "text": "Now, if you use heads and tails as coin flips"
+  },
+  {
+    "sentence_id": 792,
+    "start": 3171.949,
+    "end": 3176.379,
+    "text": "as an example, you very often can represent that um"
+  },
+  {
+    "sentence_id": 793,
+    "start": 3176.75,
+    "end": 3181.229,
+    "text": "probability, right, all the possible outcomes in the distribution."
+  },
+  {
+    "sentence_id": 794,
+    "start": 3182.159,
+    "end": 3186.919,
+    "text": "Right, and that distribution can be rewritten as a um"
+  },
+  {
+    "sentence_id": 795,
+    "start": 3187.159,
+    "end": 3189.12,
+    "text": "it's a geometric distribution."
+  },
+  {
+    "sentence_id": 796,
+    "start": 3189.84,
+    "end": 3192.33,
+    "text": "And so the general formula is listed there."
+  },
+  {
+    "sentence_id": 797,
+    "start": 3192.459,
+    "end": 3195.06,
+    "text": "It's like a binomial equation, right?"
+  },
+  {
+    "sentence_id": 798,
+    "start": 3195.209,
+    "end": 3197.81,
+    "text": "One can happen, the other can happen."
+  },
+  {
+    "sentence_id": 799,
+    "start": 3198.139,
+    "end": 3200.54,
+    "text": "You do a multiplication of that, and then you have"
+  },
+  {
+    "sentence_id": 800,
+    "start": 3200.54,
+    "end": 3204.02,
+    "text": "4 events where, you know, that you could have both"
+  },
+  {
+    "sentence_id": 801,
+    "start": 3204.02,
+    "end": 3207.889,
+    "text": "heads, one head and tail, one tail and head, and"
+  },
+  {
+    "sentence_id": 802,
+    "start": 3207.889,
+    "end": 3213.12,
+    "text": "then 2. Fails, right, you do 3 times, 4 times, 5 times,"
+  },
+  {
+    "sentence_id": 803,
+    "start": 3213.33,
+    "end": 3215.879,
+    "text": "and then generalise it, if you do it in times,"
+  },
+  {
+    "sentence_id": 804,
+    "start": 3216.129,
+    "end": 3217.77,
+    "text": "how would that distribution occur?"
+  },
+  {
+    "sentence_id": 805,
+    "start": 3218.479,
+    "end": 3222.36,
+    "text": "Right, so that's what a distribution of outcomes is talking"
+  },
+  {
+    "sentence_id": 806,
+    "start": 3222.36,
+    "end": 3225.159,
+    "text": "about. Now, strictly speaking."
+  },
+  {
+    "sentence_id": 807,
+    "start": 3226.61,
+    "end": 3230.52,
+    "text": "If you're, if you're trying to remap all the possible"
+  },
+  {
+    "sentence_id": 808,
+    "start": 3231.01,
+    "end": 3234.919,
+    "text": "outcomes in the sample space to some sort of number,"
+  },
+  {
+    "sentence_id": 809,
+    "start": 3235.489,
+    "end": 3238.57,
+    "text": "right, you need something called a random variable function."
+  },
+  {
+    "sentence_id": 810,
+    "start": 3240.02,
+    "end": 3241.62,
+    "text": "Right, random variable being."
+  },
+  {
+    "sentence_id": 811,
+    "start": 3242.719,
+    "end": 3246.719,
+    "text": "The events are, the events are random, the mapping of"
+  },
+  {
+    "sentence_id": 812,
+    "start": 3246.719,
+    "end": 3251.76,
+    "text": "it is not. And so strictly speaking, uh, a random variable is a"
+  },
+  {
+    "sentence_id": 813,
+    "start": 3251.76,
+    "end": 3253.52,
+    "text": "mapping from a sample space."
+  },
+  {
+    "sentence_id": 814,
+    "start": 3253.639,
+    "end": 3256.8,
+    "text": "Remember that little Venn diagram where there's a box and"
+  },
+  {
+    "sentence_id": 815,
+    "start": 3256.8,
+    "end": 3262.09,
+    "text": "there's event A and B. You're trying to map that into some sort of real"
+  },
+  {
+    "sentence_id": 816,
+    "start": 3262.09,
+    "end": 3267.719,
+    "text": "number line, right? And obviously you can imagine how conceptually difficult this is,"
+  },
+  {
+    "sentence_id": 817,
+    "start": 3267.84,
+    "end": 3273.08,
+    "text": "right, all the possible combination of things, right, that you"
+  },
+  {
+    "sentence_id": 818,
+    "start": 3273.08,
+    "end": 3275.83,
+    "text": "can either think of or you can, You have not"
+  },
+  {
+    "sentence_id": 819,
+    "start": 3275.83,
+    "end": 3280.949,
+    "text": "thought of, right, being mapped to some numerical distribution, where"
+  },
+  {
+    "sentence_id": 820,
+    "start": 3280.949,
+    "end": 3284.659,
+    "text": "you can say, OK, well, the likelihood of this happening"
+  },
+  {
+    "sentence_id": 821,
+    "start": 3284.659,
+    "end": 3292.189,
+    "text": "is therefore 60% or 0.0009% or some other value, right?"
+  },
+  {
+    "sentence_id": 822,
+    "start": 3292.939,
+    "end": 3297.55,
+    "text": "Um, So how do you generally do this?"
+  },
+  {
+    "sentence_id": 823,
+    "start": 3298.129,
+    "end": 3301.959,
+    "text": "Right, this is really a question, and fortunately, you know,"
+  },
+  {
+    "sentence_id": 824,
+    "start": 3302.04,
+    "end": 3304.8,
+    "text": "we have something called a distribution."
+  },
+  {
+    "sentence_id": 825,
+    "start": 3305.62,
+    "end": 3310.899,
+    "text": "Right, this is the probability distribution of events."
+  },
+  {
+    "sentence_id": 826,
+    "start": 3311.139,
+    "end": 3314.939,
+    "text": "Now, we typically, and we've heard us talk about it,"
+  },
+  {
+    "sentence_id": 827,
+    "start": 3315.06,
+    "end": 3318.09,
+    "text": "um, many times in various different units as well."
+  },
+  {
+    "sentence_id": 828,
+    "start": 3318.459,
+    "end": 3321.85,
+    "text": "Normal distribution is what typically happens."
+  },
+  {
+    "sentence_id": 829,
+    "start": 3322.219,
+    "end": 3324.5,
+    "text": "But understand in, in, I think in week 1 or"
+  },
+  {
+    "sentence_id": 830,
+    "start": 3324.5,
+    "end": 3328.939,
+    "text": "week 2, we went through, it's also other probability distribution."
+  },
+  {
+    "sentence_id": 831,
+    "start": 3330.08,
+    "end": 3336.159,
+    "text": "OK. For discrete events, right, things that we can count, we"
+  },
+  {
+    "sentence_id": 832,
+    "start": 3336.159,
+    "end": 3341.159,
+    "text": "use something called a probability mass function, right, where it's"
+  },
+  {
+    "sentence_id": 833,
+    "start": 3341.159,
+    "end": 3345.52,
+    "text": "almost, you know, quantize or it, right, there's a quantization"
+  },
+  {
+    "sentence_id": 834,
+    "start": 3345.52,
+    "end": 3351.219,
+    "text": "to that. Before events that are continuous, right, we, we use a"
+  },
+  {
+    "sentence_id": 835,
+    "start": 3351.219,
+    "end": 3356.1,
+    "text": "different, um, terminology called density function, very much like a"
+  },
+  {
+    "sentence_id": 836,
+    "start": 3356.1,
+    "end": 3360.379,
+    "text": "mass density, right? So if you, if you want to look at what's"
+  },
+  {
+    "sentence_id": 837,
+    "start": 3360.379,
+    "end": 3364.26,
+    "text": "the density of, of a piece of, uh, steel bar,"
+  },
+  {
+    "sentence_id": 838,
+    "start": 3364.379,
+    "end": 3367.33,
+    "text": "you can do the, you can do a cut for"
+  },
+  {
+    "sentence_id": 839,
+    "start": 3367.33,
+    "end": 3369.939,
+    "text": "each of them and then times the weight, right, for"
+  },
+  {
+    "sentence_id": 840,
+    "start": 3369.939,
+    "end": 3373.26,
+    "text": "each of those sections, sum them all up, you get"
+  },
+  {
+    "sentence_id": 841,
+    "start": 3373.26,
+    "end": 3379.55,
+    "text": "a density function. So here's a, here's a listing, I think in week"
+  },
+  {
+    "sentence_id": 842,
+    "start": 3379.55,
+    "end": 3383.229,
+    "text": "1 or 2, I put up a chart, right, showing"
+  },
+  {
+    "sentence_id": 843,
+    "start": 3383.229,
+    "end": 3384.909,
+    "text": "different curves and whatnot."
+  },
+  {
+    "sentence_id": 844,
+    "start": 3385.79,
+    "end": 3389.03,
+    "text": "Um, it's just a numerical function of that, you don't"
+  },
+  {
+    "sentence_id": 845,
+    "start": 3389.03,
+    "end": 3391.429,
+    "text": "need to worry too much about it, just know that"
+  },
+  {
+    "sentence_id": 846,
+    "start": 3391.429,
+    "end": 3398.86,
+    "text": "they exist. Um, In most cases, You can use a normal distribution"
+  },
+  {
+    "sentence_id": 847,
+    "start": 3399.31,
+    "end": 3404.889,
+    "text": "to represent everything. But in certain situations, right, that is not."
+  },
+  {
+    "sentence_id": 848,
+    "start": 3405.83,
+    "end": 3411.449,
+    "text": "Precisely enough. So for events like people coming into a shop, right,"
+  },
+  {
+    "sentence_id": 849,
+    "start": 3411.489,
+    "end": 3417.01,
+    "text": "a time event. Right, uh, person distribution is actually much more accurate in"
+  },
+  {
+    "sentence_id": 850,
+    "start": 3417.01,
+    "end": 3420.01,
+    "text": "describing random independent events."
+  },
+  {
+    "sentence_id": 851,
+    "start": 3420.75,
+    "end": 3423.59,
+    "text": "Where there's a trickling factor coming in, right."
+  },
+  {
+    "sentence_id": 852,
+    "start": 3424.439,
+    "end": 3427.439,
+    "text": "Why is this important and powerful is that instead of"
+  },
+  {
+    "sentence_id": 853,
+    "start": 3427.439,
+    "end": 3431.32,
+    "text": "being able to pluck those numbers that you saw two"
+  },
+  {
+    "sentence_id": 854,
+    "start": 3431.32,
+    "end": 3436.379,
+    "text": "slides ago, Right, as actual numerical numbers, you can plug"
+  },
+  {
+    "sentence_id": 855,
+    "start": 3436.379,
+    "end": 3439.78,
+    "text": "in the whole distribution and then postulate."
+  },
+  {
+    "sentence_id": 856,
+    "start": 3440.51,
+    "end": 3445.59,
+    "text": "How your final probability of outcome is being described by"
+  },
+  {
+    "sentence_id": 857,
+    "start": 3445.59,
+    "end": 3447.59,
+    "text": "that properly, um by that distribution."
+  },
+  {
+    "sentence_id": 858,
+    "start": 3448.709,
+    "end": 3454.709,
+    "text": "OK, so That is a very interesting approach to solving"
+  },
+  {
+    "sentence_id": 859,
+    "start": 3454.709,
+    "end": 3459.27,
+    "text": "the probability, instead of saying events happening."
+  },
+  {
+    "sentence_id": 860,
+    "start": 3459.35,
+    "end": 3462.83,
+    "text": "You're saying what's the likelihood of an event happening, and"
+  },
+  {
+    "sentence_id": 861,
+    "start": 3462.83,
+    "end": 3467.429,
+    "text": "then using that likelihood distribution as a way to plug"
+  },
+  {
+    "sentence_id": 862,
+    "start": 3467.429,
+    "end": 3470.949,
+    "text": "into this formula, you then get a likelihood of the"
+  },
+  {
+    "sentence_id": 863,
+    "start": 3470.949,
+    "end": 3475.719,
+    "text": "outcome. Now if you look at the apple, oranges, examples that"
+  },
+  {
+    "sentence_id": 864,
+    "start": 3475.719,
+    "end": 3477.83,
+    "text": "we talked about, you know."
+  },
+  {
+    "sentence_id": 865,
+    "start": 3479.06,
+    "end": 3481.36,
+    "text": "It doesn't sound like it makes a lot of sense"
+  },
+  {
+    "sentence_id": 866,
+    "start": 3481.36,
+    "end": 3483.56,
+    "text": "because you know, I give you an apple, it's either"
+  },
+  {
+    "sentence_id": 867,
+    "start": 3483.56,
+    "end": 3486.389,
+    "text": "tasty or not tasty or not yet tasty or whatever,"
+  },
+  {
+    "sentence_id": 868,
+    "start": 3486.52,
+    "end": 3490.919,
+    "text": "right, it's 3 classes. You know, why do I have to have a distribution"
+  },
+  {
+    "sentence_id": 869,
+    "start": 3490.919,
+    "end": 3496.02,
+    "text": "of, But you want some sort of confidence interval in"
+  },
+  {
+    "sentence_id": 870,
+    "start": 3496.02,
+    "end": 3502.26,
+    "text": "that, in that analysis. You want to be able to say, Um, you know,"
+  },
+  {
+    "sentence_id": 871,
+    "start": 3502.51,
+    "end": 3505.909,
+    "text": "with certainty that this apple is tasty."
+  },
+  {
+    "sentence_id": 872,
+    "start": 3506.729,
+    "end": 3512.169,
+    "text": "Right, 60% of the time. You can then vary that that threshold, right, record that."
+  },
+  {
+    "sentence_id": 873,
+    "start": 3512.449,
+    "end": 3515.489,
+    "text": "So there's many parameters now you can play with, if"
+  },
+  {
+    "sentence_id": 874,
+    "start": 3515.489,
+    "end": 3518.86,
+    "text": "you were to then, Give um some sort of confidence"
+  },
+  {
+    "sentence_id": 875,
+    "start": 3518.86,
+    "end": 3525.399,
+    "text": "in your prediction. So, let's look at, let's put them all together."
+  },
+  {
+    "sentence_id": 876,
+    "start": 3526.59,
+    "end": 3530.0,
+    "text": "Right, a Bayesian approach to probability."
+  },
+  {
+    "sentence_id": 877,
+    "start": 3531.31,
+    "end": 3536.79,
+    "text": "Is where Instead of plugging in the events, right, you're"
+  },
+  {
+    "sentence_id": 878,
+    "start": 3536.79,
+    "end": 3540.469,
+    "text": "assuming that certain events happens that are independent of each"
+  },
+  {
+    "sentence_id": 879,
+    "start": 3540.469,
+    "end": 3545.659,
+    "text": "other, right, and that reversing this using the Bay theorem."
+  },
+  {
+    "sentence_id": 880,
+    "start": 3546.409,
+    "end": 3550.889,
+    "text": "You could then extrapolate what's the likelihood of an outcome"
+  },
+  {
+    "sentence_id": 881,
+    "start": 3550.889,
+    "end": 3553.32,
+    "text": "based on those features that you see."
+  },
+  {
+    "sentence_id": 882,
+    "start": 3553.77,
+    "end": 3556.33,
+    "text": "Right, so if you think about using your phone, right,"
+  },
+  {
+    "sentence_id": 883,
+    "start": 3556.409,
+    "end": 3558.53,
+    "text": "the facial recognition feature."
+  },
+  {
+    "sentence_id": 884,
+    "start": 3559.389,
+    "end": 3563.51,
+    "text": "What's the likelihood of the person swiping the phone is"
+  },
+  {
+    "sentence_id": 885,
+    "start": 3563.51,
+    "end": 3564.959,
+    "text": "the real authorised user?"
+  },
+  {
+    "sentence_id": 886,
+    "start": 3565.969,
+    "end": 3567.56,
+    "text": "Well, it depends, it depends."
+  },
+  {
+    "sentence_id": 887,
+    "start": 3567.57,
+    "end": 3571.57,
+    "text": "Like, it depends on the original, um, assumption."
+  },
+  {
+    "sentence_id": 888,
+    "start": 3571.729,
+    "end": 3575.169,
+    "text": "The assumption could be, you know, a non-zero value, but"
+  },
+  {
+    "sentence_id": 889,
+    "start": 3575.169,
+    "end": 3577.76,
+    "text": "a very low value that this is the right person."
+  },
+  {
+    "sentence_id": 890,
+    "start": 3578.29,
+    "end": 3581.25,
+    "text": "But as you scan it, it's gonna get all the"
+  },
+  {
+    "sentence_id": 891,
+    "start": 3581.25,
+    "end": 3583.57,
+    "text": "features like your eyes, your nose, your mouth, whatever."
+  },
+  {
+    "sentence_id": 892,
+    "start": 3583.729,
+    "end": 3587.09,
+    "text": "It goes into the machine, does some compute."
+  },
+  {
+    "sentence_id": 893,
+    "start": 3587.61,
+    "end": 3591.02,
+    "text": "And because it's looking for certain features, it updates the"
+  },
+  {
+    "sentence_id": 894,
+    "start": 3591.02,
+    "end": 3593.86,
+    "text": "probability, right, it sees your eyes being in the right"
+  },
+  {
+    "sentence_id": 895,
+    "start": 3593.86,
+    "end": 3597.26,
+    "text": "place, the spacing between your pupils, you know, the spacing"
+  },
+  {
+    "sentence_id": 896,
+    "start": 3597.26,
+    "end": 3600.09,
+    "text": "between your eyes and your nose and your mouth, and"
+  },
+  {
+    "sentence_id": 897,
+    "start": 3600.09,
+    "end": 3603.179,
+    "text": "as each of those compute comes along, it updates the"
+  },
+  {
+    "sentence_id": 898,
+    "start": 3603.179,
+    "end": 3606.179,
+    "text": "probability and then eventually goes, yup, this is the right"
+  },
+  {
+    "sentence_id": 899,
+    "start": 3606.179,
+    "end": 3611.219,
+    "text": "person, and unlocked. Right, so you can see how that translates into the"
+  },
+  {
+    "sentence_id": 900,
+    "start": 3611.86,
+    "end": 3616.939,
+    "text": "the self iterative process in your, in your um prediction"
+  },
+  {
+    "sentence_id": 901,
+    "start": 3616.939,
+    "end": 3624.239,
+    "text": "model. For a continuous event, instead of, instead of counting occurrences,"
+  },
+  {
+    "sentence_id": 902,
+    "start": 3624.32,
+    "end": 3626.27,
+    "text": "we're using probability functions."
+  },
+  {
+    "sentence_id": 903,
+    "start": 3626.8,
+    "end": 3629.81,
+    "text": "The Gaussian approach is a, is a very common one."
+  },
+  {
+    "sentence_id": 904,
+    "start": 3629.84,
+    "end": 3633.919,
+    "text": "In fact, when you go into SIT, I learn, the"
+  },
+  {
+    "sentence_id": 905,
+    "start": 3633.919,
+    "end": 3636.84,
+    "text": "library that you pull out, right, there's a function called"
+  },
+  {
+    "sentence_id": 906,
+    "start": 3636.84,
+    "end": 3640.07,
+    "text": "GNB, right? Gaussian naive base."
+  },
+  {
+    "sentence_id": 907,
+    "start": 3640.76,
+    "end": 3643.679,
+    "text": "The assumption it makes is that it is a Gaussian"
+  },
+  {
+    "sentence_id": 908,
+    "start": 3643.679,
+    "end": 3649.659,
+    "text": "distribution. Right, so that's maybe a gross assumption, it may not"
+  },
+  {
+    "sentence_id": 909,
+    "start": 3649.659,
+    "end": 3651.159,
+    "text": "always apply to the system."
+  },
+  {
+    "sentence_id": 910,
+    "start": 3651.83,
+    "end": 3654.129,
+    "text": "But you know, in most cases it could work."
+  },
+  {
+    "sentence_id": 911,
+    "start": 3654.83,
+    "end": 3657.729,
+    "text": "If you're in a more advanced scenario where you want"
+  },
+  {
+    "sentence_id": 912,
+    "start": 3657.729,
+    "end": 3661.52,
+    "text": "to explain how things work and, um, perhaps a better"
+  },
+  {
+    "sentence_id": 913,
+    "start": 3661.52,
+    "end": 3664.889,
+    "text": "mapping of the real world situation, you may have to"
+  },
+  {
+    "sentence_id": 914,
+    "start": 3664.889,
+    "end": 3667.929,
+    "text": "go into the library and actually, instead of using the"
+  },
+  {
+    "sentence_id": 915,
+    "start": 3667.929,
+    "end": 3671.57,
+    "text": "library equations, you would say, well, I will assume this"
+  },
+  {
+    "sentence_id": 916,
+    "start": 3671.57,
+    "end": 3673.879,
+    "text": "first condition is of this distribution."
+  },
+  {
+    "sentence_id": 917,
+    "start": 3674.29,
+    "end": 3677.709,
+    "text": "The second feature will be of this other distribution, and"
+  },
+  {
+    "sentence_id": 918,
+    "start": 3677.709,
+    "end": 3680.669,
+    "text": "then do the, do the calculation manually that way."
+  },
+  {
+    "sentence_id": 919,
+    "start": 3681.219,
+    "end": 3686.1,
+    "text": "OK? And so these two equations, the same thing, obviously, one"
+  },
+  {
+    "sentence_id": 920,
+    "start": 3686.1,
+    "end": 3690.5,
+    "text": "being discrete events, one being continuous events, allows us to"
+  },
+  {
+    "sentence_id": 921,
+    "start": 3690.5,
+    "end": 3695.82,
+    "text": "describe uncertain events mathematically and estimate the probability, right?"
+  },
+  {
+    "sentence_id": 922,
+    "start": 3696.459,
+    "end": 3699.919,
+    "text": "And we can continuously update the understanding of event A"
+  },
+  {
+    "sentence_id": 923,
+    "start": 3700.409,
+    "end": 3702.719,
+    "text": "condition on. Event B is happy."
+  },
+  {
+    "sentence_id": 924,
+    "start": 3703.75,
+    "end": 3709.939,
+    "text": "OK. So I briefly already hinted this, how this directly translates"
+  },
+  {
+    "sentence_id": 925,
+    "start": 3709.939,
+    "end": 3712.54,
+    "text": "to machine learning, you can imagine you get a CSV"
+  },
+  {
+    "sentence_id": 926,
+    "start": 3712.54,
+    "end": 3717.57,
+    "text": "file, it's got multiple roles, you've got features 123, until"
+  },
+  {
+    "sentence_id": 927,
+    "start": 3717.57,
+    "end": 3721.11,
+    "text": "end, and you'll try to predict label Y."
+  },
+  {
+    "sentence_id": 928,
+    "start": 3721.919,
+    "end": 3725.33,
+    "text": "In a supervised environment, you already have that mapped out."
+  },
+  {
+    "sentence_id": 929,
+    "start": 3725.62,
+    "end": 3729.979,
+    "text": "Apples are red, apples are between certain weights, uh, apples"
+  },
+  {
+    "sentence_id": 930,
+    "start": 3729.979,
+    "end": 3733.5,
+    "text": "have certain size, therefore the label is either tasty not"
+  },
+  {
+    "sentence_id": 931,
+    "start": 3733.5,
+    "end": 3738.739,
+    "text": "tasty, right? But using this, we can basically go, OK, well, should,"
+  },
+  {
+    "sentence_id": 932,
+    "start": 3738.929,
+    "end": 3740.639,
+    "text": "should the apple be tasty?"
+  },
+  {
+    "sentence_id": 933,
+    "start": 3741.05,
+    "end": 3744.01,
+    "text": "Well, we see red, OK, is it that red, is"
+  },
+  {
+    "sentence_id": 934,
+    "start": 3744.01,
+    "end": 3745.639,
+    "text": "it this red? Which one is it?"
+  },
+  {
+    "sentence_id": 935,
+    "start": 3745.929,
+    "end": 3749.439,
+    "text": "Condition on the retinas, the updates of it being more"
+  },
+  {
+    "sentence_id": 936,
+    "start": 3749.439,
+    "end": 3753.689,
+    "text": "tasty or being, you know, likelihood of being tasty goes"
+  },
+  {
+    "sentence_id": 937,
+    "start": 3753.689,
+    "end": 3757.879,
+    "text": "up or down. And then the fact that you see a certain size,"
+  },
+  {
+    "sentence_id": 938,
+    "start": 3758.129,
+    "end": 3761.57,
+    "text": "being of a certain class, you know, the, the likelihood"
+  },
+  {
+    "sentence_id": 939,
+    "start": 3761.57,
+    "end": 3763.679,
+    "text": "goes up and down. And so forth."
+  },
+  {
+    "sentence_id": 940,
+    "start": 3764.03,
+    "end": 3766.709,
+    "text": "So intuitively it sort of makes sense, this mathematically is"
+  },
+  {
+    "sentence_id": 941,
+    "start": 3766.709,
+    "end": 3769.35,
+    "text": "a bit more complex than, you know, intuition."
+  },
+  {
+    "sentence_id": 942,
+    "start": 3770.389,
+    "end": 3774.54,
+    "text": "Um, but you can see there's a, there's a numerator"
+  },
+  {
+    "sentence_id": 943,
+    "start": 3774.629,
+    "end": 3776.58,
+    "text": "and a denominator, right?"
+  },
+  {
+    "sentence_id": 944,
+    "start": 3777.28,
+    "end": 3781.07,
+    "text": "And when you're trying to make the prediction, you're actually"
+  },
+  {
+    "sentence_id": 945,
+    "start": 3781.07,
+    "end": 3784.709,
+    "text": "trying to get just the numerator as the maximum likelihood"
+  },
+  {
+    "sentence_id": 946,
+    "start": 3784.709,
+    "end": 3790.29,
+    "text": "of events. So I already hinted that, you know, in a training"
+  },
+  {
+    "sentence_id": 947,
+    "start": 3790.29,
+    "end": 3792.0,
+    "text": "process, you have two phases."
+  },
+  {
+    "sentence_id": 948,
+    "start": 3792.409,
+    "end": 3795.5,
+    "text": "You've got the training, right, say 200 row, you take"
+  },
+  {
+    "sentence_id": 949,
+    "start": 3795.5,
+    "end": 3798.699,
+    "text": "80% of that, you use it to train, right?"
+  },
+  {
+    "sentence_id": 950,
+    "start": 3799.05,
+    "end": 3802.09,
+    "text": "And once you determine the model, you fix it in"
+  },
+  {
+    "sentence_id": 951,
+    "start": 3802.09,
+    "end": 3805.58,
+    "text": "place, right, that's your thigh here, that's your, that's your"
+  },
+  {
+    "sentence_id": 952,
+    "start": 3805.58,
+    "end": 3809.8,
+    "text": "theatre, right? So there was a question in the money cart, in"
+  },
+  {
+    "sentence_id": 953,
+    "start": 3809.8,
+    "end": 3814.04,
+    "text": "which one we used this generalised notation, what is theatre?"
+  },
+  {
+    "sentence_id": 954,
+    "start": 3814.37,
+    "end": 3820.399,
+    "text": "And theatre is basically, The mathematical formulation, right, which is"
+  },
+  {
+    "sentence_id": 955,
+    "start": 3820.399,
+    "end": 3825.419,
+    "text": "the model. And you're trying to maximise that, you're trying to maximise"
+  },
+  {
+    "sentence_id": 956,
+    "start": 3825.419,
+    "end": 3830.07,
+    "text": "the likelihood of that theatre giving you a parameter."
+  },
+  {
+    "sentence_id": 957,
+    "start": 3831.36,
+    "end": 3834.409,
+    "text": "And then in the generalised approach, right, so once you've"
+  },
+  {
+    "sentence_id": 958,
+    "start": 3834.409,
+    "end": 3837.169,
+    "text": "trained your data set, you train your model, sorry, from"
+  },
+  {
+    "sentence_id": 959,
+    "start": 3837.169,
+    "end": 3841.909,
+    "text": "the data, right, determine the, the parameters of data, you"
+  },
+  {
+    "sentence_id": 960,
+    "start": 3841.909,
+    "end": 3846.85,
+    "text": "then use it to predict. And at that point, that's when you're trying to find"
+  },
+  {
+    "sentence_id": 961,
+    "start": 3847.159,
+    "end": 3851.6,
+    "text": "the, the maximum likelihood of um."
+  },
+  {
+    "sentence_id": 962,
+    "start": 3852.37,
+    "end": 3858.09,
+    "text": "The features. OK. So remember, we're trying to predict how tasty an apple"
+  },
+  {
+    "sentence_id": 963,
+    "start": 3858.09,
+    "end": 3863.53,
+    "text": "is. Right, we're trying to predict this by first looking at"
+  },
+  {
+    "sentence_id": 964,
+    "start": 3863.53,
+    "end": 3867.36,
+    "text": "the different features, retinas, weight, size."
+  },
+  {
+    "sentence_id": 965,
+    "start": 3867.899,
+    "end": 3872.209,
+    "text": "Once we've understood how, OK, generally, you know, the maximum"
+  },
+  {
+    "sentence_id": 966,
+    "start": 3872.62,
+    "end": 3876.02,
+    "text": "size possible, but not too, not too big of an"
+  },
+  {
+    "sentence_id": 967,
+    "start": 3876.02,
+    "end": 3879.58,
+    "text": "apple, but the redness is, you know, not the reddest,"
+  },
+  {
+    "sentence_id": 968,
+    "start": 3879.739,
+    "end": 3883.34,
+    "text": "not the, you know, least red, right, gives you the"
+  },
+  {
+    "sentence_id": 969,
+    "start": 3883.34,
+    "end": 3888.169,
+    "text": "taste this apple. Once we know those conditions, We go backwards and go,"
+  },
+  {
+    "sentence_id": 970,
+    "start": 3888.25,
+    "end": 3892.25,
+    "text": "well, given those items, what's the likelihood of, of the"
+  },
+  {
+    "sentence_id": 971,
+    "start": 3892.25,
+    "end": 3899.939,
+    "text": "final apple being tasty? And so the mathematical equations to finding that backwards is"
+  },
+  {
+    "sentence_id": 972,
+    "start": 3899.939,
+    "end": 3904.62,
+    "text": "basically this arcmax function that you're using."
+  },
+  {
+    "sentence_id": 973,
+    "start": 3905.61,
+    "end": 3912.959,
+    "text": "Right. So, what I forgot to really say is there is"
+  },
+  {
+    "sentence_id": 974,
+    "start": 3912.959,
+    "end": 3918.33,
+    "text": "a prior probability likelihood, right, which is this probability of"
+  },
+  {
+    "sentence_id": 975,
+    "start": 3918.33,
+    "end": 3921.219,
+    "text": "C. So if you recall two slides back."
+  },
+  {
+    "sentence_id": 976,
+    "start": 3922.159,
+    "end": 3928.139,
+    "text": "Right, you've got this PA PA is your uh prior"
+  },
+  {
+    "sentence_id": 977,
+    "start": 3928.139,
+    "end": 3930.34,
+    "text": "knowledge. It's your prior probability."
+  },
+  {
+    "sentence_id": 978,
+    "start": 3931.32,
+    "end": 3935.6,
+    "text": "And this other one is your posterior, which is after"
+  },
+  {
+    "sentence_id": 979,
+    "start": 3935.6,
+    "end": 3941.54,
+    "text": "the fact. So, you're constantly updating your knowledge of the event by"
+  },
+  {
+    "sentence_id": 980,
+    "start": 3941.54,
+    "end": 3944.659,
+    "text": "using the knowledge of the event at the beginning, at"
+  },
+  {
+    "sentence_id": 981,
+    "start": 3944.659,
+    "end": 3948.5,
+    "text": "some point, update it with new information, and then your"
+  },
+  {
+    "sentence_id": 982,
+    "start": 3948.5,
+    "end": 3952.01,
+    "text": "posterior is really what you're now settling in."
+  },
+  {
+    "sentence_id": 983,
+    "start": 3952.429,
+    "end": 3955.53,
+    "text": "For each iteration, you then plug this thing back in"
+  },
+  {
+    "sentence_id": 984,
+    "start": 3955.53,
+    "end": 3960.219,
+    "text": "and then do it again. Right, obviously in the machine, in a, in a coding"
+  },
+  {
+    "sentence_id": 985,
+    "start": 3960.219,
+    "end": 3965.25,
+    "text": "sense this automatically happens with the iteration functions, but um,"
+  },
+  {
+    "sentence_id": 986,
+    "start": 3965.59,
+    "end": 3967.389,
+    "text": "Effectively this is how you compute."
+  },
+  {
+    "sentence_id": 987,
+    "start": 3968.52,
+    "end": 3972.419,
+    "text": "Um, And so you can see the predicted class, right?"
+  },
+  {
+    "sentence_id": 988,
+    "start": 3972.459,
+    "end": 3975.34,
+    "text": "In this case, it is a classifier, right?"
+  },
+  {
+    "sentence_id": 989,
+    "start": 3975.459,
+    "end": 3977.85,
+    "text": "It's, it's like, you know, using the apple again."
+  },
+  {
+    "sentence_id": 990,
+    "start": 3978.179,
+    "end": 3982.409,
+    "text": "It's either tasty, not tasty, not yet ready or whatever,"
+  },
+  {
+    "sentence_id": 991,
+    "start": 3982.82,
+    "end": 3986.62,
+    "text": "right? You've got your understanding, you've got your different features, right,"
+  },
+  {
+    "sentence_id": 992,
+    "start": 3986.699,
+    "end": 3989.77,
+    "text": "labelled as X1 to XN. All right."
+  },
+  {
+    "sentence_id": 993,
+    "start": 3990.34,
+    "end": 3994.34,
+    "text": "And then the condition on that plus, either taste or"
+  },
+  {
+    "sentence_id": 994,
+    "start": 3994.34,
+    "end": 3996.729,
+    "text": "not, condition on those features."
+  },
+  {
+    "sentence_id": 995,
+    "start": 3997.1,
+    "end": 4000.86,
+    "text": "And the maximum likelihood of that is your arc max,"
+  },
+  {
+    "sentence_id": 996,
+    "start": 4001.389,
+    "end": 4004.229,
+    "text": "right, which then gives you the cla classification."
+  },
+  {
+    "sentence_id": 997,
+    "start": 4005.87,
+    "end": 4009.5,
+    "text": "And so using this formula, right, again, these are, these"
+  },
+  {
+    "sentence_id": 998,
+    "start": 4009.5,
+    "end": 4011.78,
+    "text": "are directly pulled out from the library."
+  },
+  {
+    "sentence_id": 999,
+    "start": 4011.82,
+    "end": 4015.86,
+    "text": "You don't really need to codify this, but just understand"
+  },
+  {
+    "sentence_id": 1000,
+    "start": 4015.86,
+    "end": 4018.179,
+    "text": "when you pull the library, this is the iteration it"
+  },
+  {
+    "sentence_id": 1001,
+    "start": 4018.179,
+    "end": 4022.06,
+    "text": "goes through. It first trains it based on the split, then it"
+  },
+  {
+    "sentence_id": 1002,
+    "start": 4022.06,
+    "end": 4025.05,
+    "text": "predicts this other thing, then it pulls out the parameters"
+  },
+  {
+    "sentence_id": 1003,
+    "start": 4025.26,
+    "end": 4028.219,
+    "text": "that gives you the most likelihood of something happening, and"
+  },
+  {
+    "sentence_id": 1004,
+    "start": 4028.219,
+    "end": 4031.389,
+    "text": "then it spits out a number, right, or a class"
+  },
+  {
+    "sentence_id": 1005,
+    "start": 4031.739,
+    "end": 4034.58,
+    "text": "to tell you, yes, it's tasty, not, it's not tasty."
+  },
+  {
+    "sentence_id": 1006,
+    "start": 4035.31,
+    "end": 4038.409,
+    "text": "But behind that, you're right, you can use the other,"
+  },
+  {
+    "sentence_id": 1007,
+    "start": 4038.689,
+    "end": 4042.169,
+    "text": "you can use the other syntax um method to pull"
+  },
+  {
+    "sentence_id": 1008,
+    "start": 4042.169,
+    "end": 4047.05,
+    "text": "out the actual probability, right, it's 0.6%, 0 sorry, it's"
+  },
+  {
+    "sentence_id": 1009,
+    "start": 4047.05,
+    "end": 4051.33,
+    "text": "like 60%, it's tasty, 40% not tasty."
+  },
+  {
+    "sentence_id": 1010,
+    "start": 4051.61,
+    "end": 4054.889,
+    "text": "And so that's your confidence of the prediction."
+  },
+  {
+    "sentence_id": 1011,
+    "start": 4056.239,
+    "end": 4059.83,
+    "text": "Using this equation, the predicted class therefore is one that"
+  },
+  {
+    "sentence_id": 1012,
+    "start": 4059.83,
+    "end": 4064.03,
+    "text": "maximises the likelihood, the product of likelihood and prior probability,"
+  },
+  {
+    "sentence_id": 1013,
+    "start": 4064.35,
+    "end": 4070.679,
+    "text": "OK. So how training, how the training data actually reduces the"
+  },
+  {
+    "sentence_id": 1014,
+    "start": 4070.679,
+    "end": 4075.639,
+    "text": "complexity of events. Now if you were to just to um without training"
+  },
+  {
+    "sentence_id": 1015,
+    "start": 4075.639,
+    "end": 4079.32,
+    "text": "data, you will need to guesstimate or need to estimate"
+  },
+  {
+    "sentence_id": 1016,
+    "start": 4079.32,
+    "end": 4084.03,
+    "text": "some sort of function. But because, you know, like if you don't have any"
+  },
+  {
+    "sentence_id": 1017,
+    "start": 4084.03,
+    "end": 4086.26,
+    "text": "prior knowledge to the system, how, how do you even,"
+  },
+  {
+    "sentence_id": 1018,
+    "start": 4086.389,
+    "end": 4091.29,
+    "text": "where do you even start? That's why training data or the training approach."
+  },
+  {
+    "sentence_id": 1019,
+    "start": 4092.229,
+    "end": 4093.969,
+    "text": "Reduces the complexity greatly."
+  },
+  {
+    "sentence_id": 1020,
+    "start": 4094.739,
+    "end": 4097.56,
+    "text": "Because based on what you can see in the collect"
+  },
+  {
+    "sentence_id": 1021,
+    "start": 4097.56,
+    "end": 4103.24,
+    "text": "data. You can now plot this to get a distribution, right,"
+  },
+  {
+    "sentence_id": 1022,
+    "start": 4103.31,
+    "end": 4106.859,
+    "text": "and you could use and assume that the distribution is"
+  },
+  {
+    "sentence_id": 1023,
+    "start": 4106.859,
+    "end": 4108.54,
+    "text": "a Gaussian normal distribution."
+  },
+  {
+    "sentence_id": 1024,
+    "start": 4109.508,
+    "end": 4113.278,
+    "text": "And from that, you can parameterize the whole distribution using"
+  },
+  {
+    "sentence_id": 1025,
+    "start": 4113.278,
+    "end": 4118.29,
+    "text": "these 22 parameters, which are, you know, your, your means"
+  },
+  {
+    "sentence_id": 1026,
+    "start": 4118.29,
+    "end": 4124.528,
+    "text": "and your fairiness. So as you know, that's an exponential, um, that, that's"
+  },
+  {
+    "sentence_id": 1027,
+    "start": 4124.528,
+    "end": 4129.818,
+    "text": "a normal distribution function that centres around a note, which"
+  },
+  {
+    "sentence_id": 1028,
+    "start": 4129.818,
+    "end": 4132.129,
+    "text": "is your mean, and then from that you have your"
+  },
+  {
+    "sentence_id": 1029,
+    "start": 4132.129,
+    "end": 4135.439,
+    "text": "variants, so how widely something spreads."
+  },
+  {
+    "sentence_id": 1030,
+    "start": 4136.16,
+    "end": 4139.879,
+    "text": "Right. So using just two parameters, you can define the whole"
+  },
+  {
+    "sentence_id": 1031,
+    "start": 4139.879,
+    "end": 4143.169,
+    "text": "set, and if you have multiple features, you can imagine"
+  },
+  {
+    "sentence_id": 1032,
+    "start": 4143.72,
+    "end": 4146.72,
+    "text": "each of those features, there's a distribution for each of"
+  },
+  {
+    "sentence_id": 1033,
+    "start": 4146.72,
+    "end": 4151.93,
+    "text": "them. The multiplication of that, right, would now be able to"
+  },
+  {
+    "sentence_id": 1034,
+    "start": 4151.93,
+    "end": 4157.399,
+    "text": "describe in full, right? At, at least if you're finding the maximum point of"
+  },
+  {
+    "sentence_id": 1035,
+    "start": 4157.399,
+    "end": 4160.318,
+    "text": "this distribution, what's the likelihood of something happening?"
+  },
+  {
+    "sentence_id": 1036,
+    "start": 4162.528,
+    "end": 4164.689,
+    "text": "There's a certain assumption here that."
+  },
+  {
+    "sentence_id": 1037,
+    "start": 4165.479,
+    "end": 4169.398,
+    "text": "Each of those distribution is independent of each other, right,"
+  },
+  {
+    "sentence_id": 1038,
+    "start": 4169.519,
+    "end": 4172.039,
+    "text": "hence the naive face, the naive part, right?"
+  },
+  {
+    "sentence_id": 1039,
+    "start": 4173.298,
+    "end": 4177.04,
+    "text": "I think this is a If you move on to"
+  },
+  {
+    "sentence_id": 1040,
+    "start": 4177.04,
+    "end": 4184.83,
+    "text": "next, well. Let me just go Right, so, if I just skip"
+  },
+  {
+    "sentence_id": 1041,
+    "start": 4184.83,
+    "end": 4187.39,
+    "text": "ahead, I think this will actually make a lot of"
+  },
+  {
+    "sentence_id": 1042,
+    "start": 4187.39,
+    "end": 4193.629,
+    "text": "sense. If you assume, right, so here's an example, right, and"
+  },
+  {
+    "sentence_id": 1043,
+    "start": 4193.629,
+    "end": 4196.589,
+    "text": "I actually have this in a pie script, I'll upload"
+  },
+  {
+    "sentence_id": 1044,
+    "start": 4196.589,
+    "end": 4202.35,
+    "text": "as well. Um, assuming 500 rows of historical data, so using the"
+  },
+  {
+    "sentence_id": 1045,
+    "start": 4202.35,
+    "end": 4206.709,
+    "text": "empirical approach, you have collected the data of people coming"
+  },
+  {
+    "sentence_id": 1046,
+    "start": 4206.709,
+    "end": 4210.549,
+    "text": "into a store and then people who are buying, and"
+  },
+  {
+    "sentence_id": 1047,
+    "start": 4210.549,
+    "end": 4212.069,
+    "text": "the average sales amount."
+  },
+  {
+    "sentence_id": 1048,
+    "start": 4213.049,
+    "end": 4216.049,
+    "text": "Based on those two parameters, now obviously here you can"
+  },
+  {
+    "sentence_id": 1049,
+    "start": 4216.049,
+    "end": 4219.25,
+    "text": "already see there's an issue because people coming in and"
+  },
+  {
+    "sentence_id": 1050,
+    "start": 4219.25,
+    "end": 4221.799,
+    "text": "people buying are correlated."
+  },
+  {
+    "sentence_id": 1051,
+    "start": 4222.129,
+    "end": 4224.529,
+    "text": "It's not independent, they're actually dependent."
+  },
+  {
+    "sentence_id": 1052,
+    "start": 4225.37,
+    "end": 4229.45,
+    "text": "But in most cases, if you assume there's an independency"
+  },
+  {
+    "sentence_id": 1053,
+    "start": 4229.95,
+    "end": 4233.35,
+    "text": "between each of them, the model works good enough to"
+  },
+  {
+    "sentence_id": 1054,
+    "start": 4233.35,
+    "end": 4236.83,
+    "text": "give you this um this sort of um prediction."
+  },
+  {
+    "sentence_id": 1055,
+    "start": 4237.83,
+    "end": 4240.79,
+    "text": "But nonetheless, right, if you just go, count the number"
+  },
+  {
+    "sentence_id": 1056,
+    "start": 4240.79,
+    "end": 4243.75,
+    "text": "of people walking right on the street, count the people"
+  },
+  {
+    "sentence_id": 1057,
+    "start": 4243.75,
+    "end": 4249.31,
+    "text": "walking into the shop. Right, count the number between every hour, say for example,"
+  },
+  {
+    "sentence_id": 1058,
+    "start": 4249.879,
+    "end": 4253.87,
+    "text": "the, the people buying, and then the average sales price."
+  },
+  {
+    "sentence_id": 1059,
+    "start": 4254.12,
+    "end": 4258.069,
+    "text": "So just think about, You know, Lululemon or something, right?"
+  },
+  {
+    "sentence_id": 1060,
+    "start": 4258.189,
+    "end": 4260.149,
+    "text": "There's one in Wynyard, right?"
+  },
+  {
+    "sentence_id": 1061,
+    "start": 4260.27,
+    "end": 4263.31,
+    "text": "There's people walking through the station, Wynyard station, they can"
+  },
+  {
+    "sentence_id": 1062,
+    "start": 4263.31,
+    "end": 4266.629,
+    "text": "do the count. They can go, OK, with the percentage of people coming"
+  },
+  {
+    "sentence_id": 1063,
+    "start": 4266.629,
+    "end": 4269.22,
+    "text": "into the store, they can do that every hour."
+  },
+  {
+    "sentence_id": 1064,
+    "start": 4269.549,
+    "end": 4271.99,
+    "text": "They can go, All right, well, people look around, people"
+  },
+  {
+    "sentence_id": 1065,
+    "start": 4271.99,
+    "end": 4273.819,
+    "text": "buy stuff, people don't buy stuff."
+  },
+  {
+    "sentence_id": 1066,
+    "start": 4274.109,
+    "end": 4276.66,
+    "text": "And then what's the average price they, they, they purchase?"
+  },
+  {
+    "sentence_id": 1067,
+    "start": 4277.109,
+    "end": 4279.069,
+    "text": "They've got 500 rows of this information."
+  },
+  {
+    "sentence_id": 1068,
+    "start": 4280.41,
+    "end": 4283.439,
+    "text": "Now the prediction here, the model requires you to predict"
+  },
+  {
+    "sentence_id": 1069,
+    "start": 4284.169,
+    "end": 4286.6,
+    "text": "how many staff I need to staff on that day"
+  },
+  {
+    "sentence_id": 1070,
+    "start": 4286.85,
+    "end": 4290.359,
+    "text": "at different hours to try and surf the, the store,"
+  },
+  {
+    "sentence_id": 1071,
+    "start": 4290.37,
+    "end": 4294.85,
+    "text": "so then. People don't have to wait too long, right, very sensible"
+  },
+  {
+    "sentence_id": 1072,
+    "start": 4294.85,
+    "end": 4300.049,
+    "text": "questions there. It depends on what's the revenue and and potentially can"
+  },
+  {
+    "sentence_id": 1073,
+    "start": 4300.049,
+    "end": 4308.319,
+    "text": "you afford those stuff. Now, from these 3 different features, we, we can parameterize"
+  },
+  {
+    "sentence_id": 1074,
+    "start": 4308.319,
+    "end": 4313.54,
+    "text": "them, right? Uh, with a distribution, and you can see I've basically"
+  },
+  {
+    "sentence_id": 1075,
+    "start": 4313.54,
+    "end": 4318.45,
+    "text": "generated this information that you have customer walking in, uh,"
+  },
+  {
+    "sentence_id": 1076,
+    "start": 4318.529,
+    "end": 4321.799,
+    "text": "ranging, say, number of customers per hour."
+  },
+  {
+    "sentence_id": 1077,
+    "start": 4322.569,
+    "end": 4328.819,
+    "text": "A number of um. Customer buying things, and then the sales amount."
+  },
+  {
+    "sentence_id": 1078,
+    "start": 4329.709,
+    "end": 4332.43,
+    "text": "Each of them can be described in a normal distribution"
+  },
+  {
+    "sentence_id": 1079,
+    "start": 4332.43,
+    "end": 4337.629,
+    "text": "of some sort so. You plug that into the formula, right, and so if"
+  },
+  {
+    "sentence_id": 1080,
+    "start": 4337.629,
+    "end": 4341.109,
+    "text": "you assume you have a data frame with those information"
+  },
+  {
+    "sentence_id": 1081,
+    "start": 4341.109,
+    "end": 4345.759,
+    "text": "already. You wanna, you wanna come up with a classing system,"
+  },
+  {
+    "sentence_id": 1082,
+    "start": 4346.1,
+    "end": 4348.33,
+    "text": "right? You train your data set."
+  },
+  {
+    "sentence_id": 1083,
+    "start": 4349.12,
+    "end": 4351.83,
+    "text": "Right, and you split that with a with an 80/20,"
+  },
+  {
+    "sentence_id": 1084,
+    "start": 4352.08,
+    "end": 4355.24,
+    "text": "right, test is only 20%, you split that."
+  },
+  {
+    "sentence_id": 1085,
+    "start": 4356.009,
+    "end": 4361.879,
+    "text": "You do a naive based um model, training, you fit"
+  },
+  {
+    "sentence_id": 1086,
+    "start": 4361.879,
+    "end": 4365.649,
+    "text": "that, you then be able to predict using new information."
+  },
+  {
+    "sentence_id": 1087,
+    "start": 4366.56,
+    "end": 4369.52,
+    "text": "And you can see how, how everything works, right?"
+  },
+  {
+    "sentence_id": 1088,
+    "start": 4369.83,
+    "end": 4373.479,
+    "text": "So assuming that in for the last 10 hours, you"
+  },
+  {
+    "sentence_id": 1089,
+    "start": 4373.479,
+    "end": 4377.779,
+    "text": "do this mapping. And on the 11th hour, you provide it with some"
+  },
+  {
+    "sentence_id": 1090,
+    "start": 4377.779,
+    "end": 4381.979,
+    "text": "new information. This model should now be able to predict whether or"
+  },
+  {
+    "sentence_id": 1091,
+    "start": 4381.979,
+    "end": 4385.459,
+    "text": "not the, um, you know, the next hour based on"
+  },
+  {
+    "sentence_id": 1092,
+    "start": 4385.459,
+    "end": 4388.43,
+    "text": "those numbers is gonna be high sales, low sales, or"
+  },
+  {
+    "sentence_id": 1093,
+    "start": 4388.43,
+    "end": 4393.399,
+    "text": "medium sales. Right, so that's a tangible outcome of what we just"
+  },
+  {
+    "sentence_id": 1094,
+    "start": 4393.399,
+    "end": 4394.839,
+    "text": "talked about in the last hour and a bit."
+  },
+  {
+    "sentence_id": 1095,
+    "start": 4396.1,
+    "end": 4400.569,
+    "text": "Right. And so you can play around with this and, and"
+  },
+  {
+    "sentence_id": 1096,
+    "start": 4400.569,
+    "end": 4403.899,
+    "text": "tinker with it, literally, um, and see what you get."
+  },
+  {
+    "sentence_id": 1097,
+    "start": 4405.95,
+    "end": 4408.47,
+    "text": "So we go back a bit, right, this is just"
+  },
+  {
+    "sentence_id": 1098,
+    "start": 4408.47,
+    "end": 4413.35,
+    "text": "another example, instead of a continuous, um."
+  },
+  {
+    "sentence_id": 1099,
+    "start": 4414.279,
+    "end": 4419.27,
+    "text": "Sampling, right, or prediction of the sales number, you could"
+  },
+  {
+    "sentence_id": 1100,
+    "start": 4419.27,
+    "end": 4424.759,
+    "text": "do a classifier, um, using the same approach, because remember,"
+  },
+  {
+    "sentence_id": 1101,
+    "start": 4425.12,
+    "end": 4429.16,
+    "text": "if we don't describe the situation using a probability density"
+  },
+  {
+    "sentence_id": 1102,
+    "start": 4429.16,
+    "end": 4433.52,
+    "text": "function, we use a probability mass function, then we can"
+  },
+  {
+    "sentence_id": 1103,
+    "start": 4433.52,
+    "end": 4438.209,
+    "text": "still use this same approach to do classification based on"
+  },
+  {
+    "sentence_id": 1104,
+    "start": 4438.6,
+    "end": 4441.919,
+    "text": "different classes instead of a continuous output."
+  },
+  {
+    "sentence_id": 1105,
+    "start": 4444.209,
+    "end": 4447.93,
+    "text": "So, you know, similar situation, assume that you have a"
+  },
+  {
+    "sentence_id": 1106,
+    "start": 4447.93,
+    "end": 4452.209,
+    "text": "data set of 500 samples, you've got 200 of them"
+  },
+  {
+    "sentence_id": 1107,
+    "start": 4452.209,
+    "end": 4456.209,
+    "text": "belonging to class 1 or class 0, right, and 300"
+  },
+  {
+    "sentence_id": 1108,
+    "start": 4456.209,
+    "end": 4460.729,
+    "text": "belonging to class 1. These are label datas, obviously, right?"
+  },
+  {
+    "sentence_id": 1109,
+    "start": 4462.14,
+    "end": 4466.93,
+    "text": "You have the prior probability of 0.4 and 0.6 respectively,"
+  },
+  {
+    "sentence_id": 1110,
+    "start": 4467.379,
+    "end": 4471.49,
+    "text": "because it's simply 200 out of 500, right, being plus"
+  },
+  {
+    "sentence_id": 1111,
+    "start": 4471.49,
+    "end": 4476.419,
+    "text": "0 and 300 out of 500 being plus 1."
+  },
+  {
+    "sentence_id": 1112,
+    "start": 4477.149,
+    "end": 4479.45,
+    "text": "You have that prior prior knowledge."
+  },
+  {
+    "sentence_id": 1113,
+    "start": 4479.879,
+    "end": 4482.919,
+    "text": "You compute the means and variants of each of those"
+  },
+  {
+    "sentence_id": 1114,
+    "start": 4482.919,
+    "end": 4485.2,
+    "text": "features, and in this case there's only sort of two"
+  },
+  {
+    "sentence_id": 1115,
+    "start": 4485.2,
+    "end": 4491.08,
+    "text": "features, X1 and X2. Yeah, you parameterize them, and then you feed it with"
+  },
+  {
+    "sentence_id": 1116,
+    "start": 4491.08,
+    "end": 4494.91,
+    "text": "some unseen data, right? And then from that point."
+  },
+  {
+    "sentence_id": 1117,
+    "start": 4495.939,
+    "end": 4499.689,
+    "text": "You train. Sorry, I mean, you train based on what you have."
+  },
+  {
+    "sentence_id": 1118,
+    "start": 4500.1,
+    "end": 4502.779,
+    "text": "You have the boundary conditions, right?"
+  },
+  {
+    "sentence_id": 1119,
+    "start": 4503.089,
+    "end": 4505.58,
+    "text": "And you can see how shaded the, the colours just"
+  },
+  {
+    "sentence_id": 1120,
+    "start": 4505.58,
+    "end": 4511.41,
+    "text": "to illustrate how there's a, there's a certain condition, um,"
+  },
+  {
+    "sentence_id": 1121,
+    "start": 4511.459,
+    "end": 4513.379,
+    "text": "or decision condition, right?"
+  },
+  {
+    "sentence_id": 1122,
+    "start": 4513.459,
+    "end": 4516.33,
+    "text": "The red ones are, any dots that in, is in"
+  },
+  {
+    "sentence_id": 1123,
+    "start": 4516.33,
+    "end": 4519.39,
+    "text": "the red area will be classed as red, which is"
+  },
+  {
+    "sentence_id": 1124,
+    "start": 4519.39,
+    "end": 4522.509,
+    "text": "class one. And then for blue it's lustre."
+  },
+  {
+    "sentence_id": 1125,
+    "start": 4523.16,
+    "end": 4525.879,
+    "text": "And then from that point, the system should actually be"
+  },
+  {
+    "sentence_id": 1126,
+    "start": 4525.879,
+    "end": 4531.58,
+    "text": "able to update itself. Um, with every sort of iteration of information coming in."
+  },
+  {
+    "sentence_id": 1127,
+    "start": 4531.879,
+    "end": 4535.56,
+    "text": "If you want to make the, the model dynamic and"
+  },
+  {
+    "sentence_id": 1128,
+    "start": 4535.56,
+    "end": 4540.08,
+    "text": "stuff fixed. OK, so there's some, there's some nuance there."
+  },
+  {
+    "sentence_id": 1129,
+    "start": 4541.779,
+    "end": 4544.009,
+    "text": "But you can kind of generally see how all this"
+  },
+  {
+    "sentence_id": 1130,
+    "start": 4544.009,
+    "end": 4546.0,
+    "text": "applies to each other, right?"
+  },
+  {
+    "sentence_id": 1131,
+    "start": 4546.49,
+    "end": 4549.689,
+    "text": "Um, and what you really wanted to do is train"
+  },
+  {
+    "sentence_id": 1132,
+    "start": 4549.689,
+    "end": 4552.959,
+    "text": "the system to be able to tell you, There's a"
+  },
+  {
+    "sentence_id": 1133,
+    "start": 4552.959,
+    "end": 4557.27,
+    "text": "boundary condition here, and that if you display this properly,"
+  },
+  {
+    "sentence_id": 1134,
+    "start": 4557.399,
+    "end": 4559.16,
+    "text": "you can see and visualise that."
+  },
+  {
+    "sentence_id": 1135,
+    "start": 4560.899,
+    "end": 4566.799,
+    "text": "OK, so, um, examples, yeah, we've talked about how using"
+  },
+  {
+    "sentence_id": 1136,
+    "start": 4566.799,
+    "end": 4572.439,
+    "text": "the sales data, um, Limitations, right, so what I just"
+  },
+  {
+    "sentence_id": 1137,
+    "start": 4572.439,
+    "end": 4577.29,
+    "text": "presented there. There's an assumption, there's an assumption that each of those"
+  },
+  {
+    "sentence_id": 1138,
+    "start": 4577.29,
+    "end": 4579.529,
+    "text": "features are independent, which is not."
+  },
+  {
+    "sentence_id": 1139,
+    "start": 4579.95,
+    "end": 4583.419,
+    "text": "People walking in and people buying are correlated, it's probably"
+  },
+  {
+    "sentence_id": 1140,
+    "start": 4583.419,
+    "end": 4585.899,
+    "text": "the same person, right, it has to be a subset"
+  },
+  {
+    "sentence_id": 1141,
+    "start": 4585.899,
+    "end": 4589.83,
+    "text": "of the other one. Um, they can't just pop out somewhere, right?"
+  },
+  {
+    "sentence_id": 1142,
+    "start": 4590.87,
+    "end": 4596.359,
+    "text": "Um, The distribution of people coming in, generally are not"
+  },
+  {
+    "sentence_id": 1143,
+    "start": 4596.359,
+    "end": 4600.759,
+    "text": "well represented by Gaussian distribution, right, those kind of type"
+  },
+  {
+    "sentence_id": 1144,
+    "start": 4600.759,
+    "end": 4605.24,
+    "text": "events should actually be represented using a person distribution."
+  },
+  {
+    "sentence_id": 1145,
+    "start": 4606.029,
+    "end": 4611.31,
+    "text": "Um, number of people making purchases is a binomial distribution"
+  },
+  {
+    "sentence_id": 1146,
+    "start": 4611.31,
+    "end": 4616.569,
+    "text": "depending on the count. Uh, the sales amount though, are normally distributed."
+  },
+  {
+    "sentence_id": 1147,
+    "start": 4616.83,
+    "end": 4622.069,
+    "text": "So after 3, there's actually one sort of correctly described"
+  },
+  {
+    "sentence_id": 1148,
+    "start": 4622.069,
+    "end": 4625.229,
+    "text": "distribution of events, which is the sales number."
+  },
+  {
+    "sentence_id": 1149,
+    "start": 4626.58,
+    "end": 4630.109,
+    "text": "Um, so, you know, with this, there's a, there's a"
+  },
+  {
+    "sentence_id": 1150,
+    "start": 4630.109,
+    "end": 4634.02,
+    "text": "certain gross assumption that needs to be baked in, and"
+  },
+  {
+    "sentence_id": 1151,
+    "start": 4634.02,
+    "end": 4636.47,
+    "text": "we kind of expect you to be able to explain"
+  },
+  {
+    "sentence_id": 1152,
+    "start": 4636.47,
+    "end": 4638.54,
+    "text": "your model in your project."
+  },
+  {
+    "sentence_id": 1153,
+    "start": 4638.99,
+    "end": 4642.029,
+    "text": "So, you know, moving forward, when you go into your"
+  },
+  {
+    "sentence_id": 1154,
+    "start": 4642.029,
+    "end": 4646.54,
+    "text": "project work. You find a bunch of problems and then you go"
+  },
+  {
+    "sentence_id": 1155,
+    "start": 4646.54,
+    "end": 4649.589,
+    "text": "and grab a bunch of data, and from those you"
+  },
+  {
+    "sentence_id": 1156,
+    "start": 4649.589,
+    "end": 4653.68,
+    "text": "derive your models, but then there's a certain assumption that"
+  },
+  {
+    "sentence_id": 1157,
+    "start": 4653.68,
+    "end": 4656.359,
+    "text": "are inherent in your in your thinking process."
+  },
+  {
+    "sentence_id": 1158,
+    "start": 4656.879,
+    "end": 4659.24,
+    "text": "We want you to be able to detail that in"
+  },
+  {
+    "sentence_id": 1159,
+    "start": 4659.24,
+    "end": 4663.549,
+    "text": "your report. OK, it's not good enough to just say, Mo, Model"
+  },
+  {
+    "sentence_id": 1160,
+    "start": 4663.549,
+    "end": 4666.439,
+    "text": "B works the best in describing the theme because it"
+  },
+  {
+    "sentence_id": 1161,
+    "start": 4666.439,
+    "end": 4668.029,
+    "text": "gives you a high accuracy number."
+  },
+  {
+    "sentence_id": 1162,
+    "start": 4668.24,
+    "end": 4670.24,
+    "text": "We want to know what's the limitation."
+  },
+  {
+    "sentence_id": 1163,
+    "start": 4670.81,
+    "end": 4673.33,
+    "text": "Right, if you were to do more on this, how"
+  },
+  {
+    "sentence_id": 1164,
+    "start": 4673.33,
+    "end": 4674.14,
+    "text": "would you do it differently?"
+  },
+  {
+    "sentence_id": 1165,
+    "start": 4675.1,
+    "end": 4678.419,
+    "text": "Right, and that's really the analysis and the, and your"
+  },
+  {
+    "sentence_id": 1166,
+    "start": 4678.419,
+    "end": 4682.06,
+    "text": "job as an engineer in this whole work is supposed"
+  },
+  {
+    "sentence_id": 1167,
+    "start": 4682.06,
+    "end": 4688.899,
+    "text": "to provide value to. So here you can then see, you know, using this"
+  },
+  {
+    "sentence_id": 1168,
+    "start": 4688.899,
+    "end": 4692.1,
+    "text": "as an example, um, we came up with the boundary"
+  },
+  {
+    "sentence_id": 1169,
+    "start": 4692.1,
+    "end": 4696.089,
+    "text": "conditions, um, to then make predictions and then from that,"
+  },
+  {
+    "sentence_id": 1170,
+    "start": 4696.54,
+    "end": 4700.729,
+    "text": "you know, it's quick interpretable classification on, on at what"
+  },
+  {
+    "sentence_id": 1171,
+    "start": 4700.729,
+    "end": 4706.339,
+    "text": "hour, right? Um, the sales will go up because of foot traffic"
+  },
+  {
+    "sentence_id": 1172,
+    "start": 4706.339,
+    "end": 4708.709,
+    "text": "and, and general people buying things."
+  },
+  {
+    "sentence_id": 1173,
+    "start": 4711.779,
+    "end": 4714.229,
+    "text": "So we kind of already talked about how there are"
+  },
+  {
+    "sentence_id": 1174,
+    "start": 4714.229,
+    "end": 4718.83,
+    "text": "different ways of representing things uh PMF right?"
+  },
+  {
+    "sentence_id": 1175,
+    "start": 4718.979,
+    "end": 4724.069,
+    "text": "uh probability mass function and probability distribution function, um, you"
+  },
+  {
+    "sentence_id": 1176,
+    "start": 4724.069,
+    "end": 4727.75,
+    "text": "know, uh, just different ways of representation, so you can,"
+  },
+  {
+    "sentence_id": 1177,
+    "start": 4727.759,
+    "end": 4729.47,
+    "text": "you can have a play around with that."
+  },
+  {
+    "sentence_id": 1178,
+    "start": 4730.299,
+    "end": 4733.399,
+    "text": "I think this will all come together in your um"
+  },
+  {
+    "sentence_id": 1179,
+    "start": 4733.399,
+    "end": 4736.759,
+    "text": "tutorial this week when we actually go into some of"
+  },
+  {
+    "sentence_id": 1180,
+    "start": 4736.759,
+    "end": 4740.0,
+    "text": "the data set, um, and then play around with with"
+  },
+  {
+    "sentence_id": 1181,
+    "start": 4740.0,
+    "end": 4743.0,
+    "text": "making this model and you can tune the parameters."
+  },
+  {
+    "sentence_id": 1182,
+    "start": 4744.299,
+    "end": 4751.029,
+    "text": "OK, so I think. Yeah. We talked a bit about how to just pull this"
+  },
+  {
+    "sentence_id": 1183,
+    "start": 4751.029,
+    "end": 4754.83,
+    "text": "directly out from, from the Python libraries, right?"
+  },
+  {
+    "sentence_id": 1184,
+    "start": 4754.95,
+    "end": 4760.109,
+    "text": "So PyitLearn actually has this naive base, um, library, and"
+  },
+  {
+    "sentence_id": 1185,
+    "start": 4760.109,
+    "end": 4762.879,
+    "text": "you just simply put your data sets, split them up,"
+  },
+  {
+    "sentence_id": 1186,
+    "start": 4762.99,
+    "end": 4767.43,
+    "text": "or clean it first, do the pre-processing, clean it, split"
+  },
+  {
+    "sentence_id": 1187,
+    "start": 4767.43,
+    "end": 4772.16,
+    "text": "that, train your model, fit train, and then predict."
+  },
+  {
+    "sentence_id": 1188,
+    "start": 4772.64,
+    "end": 4776.89,
+    "text": "And you can actually split out the probability score instead"
+  },
+  {
+    "sentence_id": 1189,
+    "start": 4776.89,
+    "end": 4780.33,
+    "text": "of the actual class if you want, and then you"
+  },
+  {
+    "sentence_id": 1190,
+    "start": 4780.33,
+    "end": 4785.2,
+    "text": "can uh test how accurate by different training methods and"
+  },
+  {
+    "sentence_id": 1191,
+    "start": 4785.529,
+    "end": 4787.959,
+    "text": "um thresholds and so forth."
+  },
+  {
+    "sentence_id": 1192,
+    "start": 4788.45,
+    "end": 4792.85,
+    "text": "OK, so the top is how you utilise the library."
+  },
+  {
+    "sentence_id": 1193,
+    "start": 4793.569,
+    "end": 4795.97,
+    "text": "The bottom section of the code is simply just the"
+  },
+  {
+    "sentence_id": 1194,
+    "start": 4795.97,
+    "end": 4799.529,
+    "text": "display of the accuracy of this model."
+  },
+  {
+    "sentence_id": 1195,
+    "start": 4800.29,
+    "end": 4803.549,
+    "text": "OK. So I think you've done this, um, a few times"
+  },
+  {
+    "sentence_id": 1196,
+    "start": 4803.549,
+    "end": 4806.33,
+    "text": "now. Shouldn't be too hot."
+  },
+  {
+    "sentence_id": 1197,
+    "start": 4807.569,
+    "end": 4812.109,
+    "text": "OK, as a recap, as a recap, so we've introduced"
+  },
+  {
+    "sentence_id": 1198,
+    "start": 4812.109,
+    "end": 4817.709,
+    "text": "the concept of conditional probability, um, through a bunch of"
+  },
+  {
+    "sentence_id": 1199,
+    "start": 4817.99,
+    "end": 4823.99,
+    "text": "axiom definitions. We've talked about the joint probability, um, of events."
+  },
+  {
+    "sentence_id": 1200,
+    "start": 4824.109,
+    "end": 4827.83,
+    "text": "So independent events, what's the chance of them both happening"
+  },
+  {
+    "sentence_id": 1201,
+    "start": 4827.83,
+    "end": 4834.04,
+    "text": "at the same time? Simply the multiplication of that, if it's mutually exclusive, then"
+  },
+  {
+    "sentence_id": 1202,
+    "start": 4834.04,
+    "end": 4836.729,
+    "text": "it is the summation of those events."
+  },
+  {
+    "sentence_id": 1203,
+    "start": 4837.04,
+    "end": 4840.359,
+    "text": "The person in in classroom here, sits at this seat,"
+  },
+  {
+    "sentence_id": 1204,
+    "start": 4840.439,
+    "end": 4841.669,
+    "text": "they cannot sit at that seat."
+  },
+  {
+    "sentence_id": 1205,
+    "start": 4841.839,
+    "end": 4843.81,
+    "text": "What's the chance of both seats being filled?"
+  },
+  {
+    "sentence_id": 1206,
+    "start": 4844.359,
+    "end": 4846.12,
+    "text": "Well, you know, it's either or."
+  },
+  {
+    "sentence_id": 1207,
+    "start": 4847.52,
+    "end": 4851.779,
+    "text": "Um, The conditional probability of something, so."
+  },
+  {
+    "sentence_id": 1208,
+    "start": 4852.49,
+    "end": 4856.939,
+    "text": "Um, there is a correlation of given something happening, what's"
+  },
+  {
+    "sentence_id": 1209,
+    "start": 4856.939,
+    "end": 4858.819,
+    "text": "the chance of the other thing happening?"
+  },
+  {
+    "sentence_id": 1210,
+    "start": 4859.589,
+    "end": 4864.18,
+    "text": "OK. So, so there's a range of uh."
+  },
+  {
+    "sentence_id": 1211,
+    "start": 4864.97,
+    "end": 4870.149,
+    "text": "Conditions Independency, mutually exclusive events, we talked about that."
+  },
+  {
+    "sentence_id": 1212,
+    "start": 4870.319,
+    "end": 4872.919,
+    "text": "Random variable as a function to map."
+  },
+  {
+    "sentence_id": 1213,
+    "start": 4873.609,
+    "end": 4878.45,
+    "text": "The real space of outcomes to a numerical space, right,"
+  },
+  {
+    "sentence_id": 1214,
+    "start": 4878.529,
+    "end": 4883.029,
+    "text": "and this is now, Can then be parameterized uh in"
+  },
+  {
+    "sentence_id": 1215,
+    "start": 4883.029,
+    "end": 4885.33,
+    "text": "a soft distribution function."
+  },
+  {
+    "sentence_id": 1216,
+    "start": 4885.75,
+    "end": 4890.47,
+    "text": "You've got discrete events distributions, you've got continuous event distributions."
+  },
+  {
+    "sentence_id": 1217,
+    "start": 4891.35,
+    "end": 4894.709,
+    "text": "The maximum likelihood of something happening is really just the"
+  },
+  {
+    "sentence_id": 1218,
+    "start": 4894.709,
+    "end": 4899.589,
+    "text": "peak of those distributions, right, as we kinda."
+  },
+  {
+    "sentence_id": 1219,
+    "start": 4900.529,
+    "end": 4903.85,
+    "text": "So I really understand it intuitively anyway, um."
+  },
+  {
+    "sentence_id": 1220,
+    "start": 4904.569,
+    "end": 4907.419,
+    "text": "And then the machine learning approach to how all this"
+  },
+  {
+    "sentence_id": 1221,
+    "start": 4907.419,
+    "end": 4911.54,
+    "text": "translates into a GNB right, method."
+  },
+  {
+    "sentence_id": 1222,
+    "start": 4912.58,
+    "end": 4916.49,
+    "text": "Uh, there's a certain baked in assumption that there's independencies,"
+  },
+  {
+    "sentence_id": 1223,
+    "start": 4917.069,
+    "end": 4920.58,
+    "text": "but nonetheless, even though it's not truly representative of the"
+  },
+  {
+    "sentence_id": 1224,
+    "start": 4920.58,
+    "end": 4924.339,
+    "text": "real world, it's good enough to do, um, most of"
+  },
+  {
+    "sentence_id": 1225,
+    "start": 4924.339,
+    "end": 4927.66,
+    "text": "the calculation and it handles the mathematics well, right?"
+  },
+  {
+    "sentence_id": 1226,
+    "start": 4927.77,
+    "end": 4931.5,
+    "text": "It allows you to compute this, um, outcome with enough"
+  },
+  {
+    "sentence_id": 1227,
+    "start": 4931.5,
+    "end": 4934.81,
+    "text": "precision, right, within a given amount of time."
+  },
+  {
+    "sentence_id": 1228,
+    "start": 4935.14,
+    "end": 4939.509,
+    "text": "So that's really the key here, is out of practicality,"
+  },
+  {
+    "sentence_id": 1229,
+    "start": 4940.189,
+    "end": 4944.379,
+    "text": "To assume something is independent even though they're not."
+  },
+  {
+    "sentence_id": 1230,
+    "start": 4945.149,
+    "end": 4946.75,
+    "text": "Right, so bear that in mind."
+  },
+  {
+    "sentence_id": 1231,
+    "start": 4947.439,
+    "end": 4951.45,
+    "text": "And then moving forward, obviously you're not required to codify"
+  },
+  {
+    "sentence_id": 1232,
+    "start": 4951.45,
+    "end": 4954.729,
+    "text": "or write your own equation, you're simply required to pull"
+  },
+  {
+    "sentence_id": 1233,
+    "start": 4954.729,
+    "end": 4958.25,
+    "text": "them out from the um psychic learn library."
+  },
+  {
+    "sentence_id": 1234,
+    "start": 4959.0,
+    "end": 4962.24,
+    "text": "But there is that assumption that everything is a Gaussian"
+  },
+  {
+    "sentence_id": 1235,
+    "start": 4962.24,
+    "end": 4964.359,
+    "text": "distribution, and that's not always the case."
+  },
+  {
+    "sentence_id": 1236,
+    "start": 4966.25,
+    "end": 4970.56,
+    "text": "So with that, um, that concludes this week's lecture."
+  },
+  {
+    "sentence_id": 1237,
+    "start": 4970.689,
+    "end": 4972.399,
+    "text": "Do we have any questions?"
+  },
+  {
+    "sentence_id": 1238,
+    "start": 4972.52,
+    "end": 4976.759,
+    "text": "I know it's like a really rough and quick through,"
+  },
+  {
+    "sentence_id": 1239,
+    "start": 4977.089,
+    "end": 4981.609,
+    "text": "uh, put off, you know, the whole probability segment, but,"
+  },
+  {
+    "sentence_id": 1240,
+    "start": 4982.2,
+    "end": 4985.66,
+    "text": "I think all this comes together in your tutorial, when"
+  },
+  {
+    "sentence_id": 1241,
+    "start": 4985.66,
+    "end": 4988.7,
+    "text": "you're playing around with the data set, playing around with"
+  },
+  {
+    "sentence_id": 1242,
+    "start": 4988.7,
+    "end": 4991.819,
+    "text": "the actual parameters, and just bear in mind every time"
+  },
+  {
+    "sentence_id": 1243,
+    "start": 4991.819,
+    "end": 4994.87,
+    "text": "you spit out something, remind yourself where you're in that"
+  },
+  {
+    "sentence_id": 1244,
+    "start": 4994.87,
+    "end": 5001.02,
+    "text": "whole pipeline, right? Add more complexity as you go on, and then try"
+  },
+  {
+    "sentence_id": 1245,
+    "start": 5001.02,
+    "end": 5003.91,
+    "text": "to use a generative AI chat GPT."
+  },
+  {
+    "sentence_id": 1246,
+    "start": 5004.339,
+    "end": 5006.819,
+    "text": "You try and answer your own questions, right?"
+  },
+  {
+    "sentence_id": 1247,
+    "start": 5006.979,
+    "end": 5009.89,
+    "text": "You could put in some of these slides, right?"
+  },
+  {
+    "sentence_id": 1248,
+    "start": 5010.0,
+    "end": 5013.49,
+    "text": "You can screenshot them, chuck it in, and then go,"
+  },
+  {
+    "sentence_id": 1249,
+    "start": 5013.979,
+    "end": 5016.22,
+    "text": "ask it the question, you know, role play as this"
+  },
+  {
+    "sentence_id": 1250,
+    "start": 5016.22,
+    "end": 5018.529,
+    "text": "engineer, am I understanding this correctly?"
+  },
+  {
+    "sentence_id": 1251,
+    "start": 5018.62,
+    "end": 5022.66,
+    "text": "If I have XYZ, does this mean blah blah blah,"
+  },
+  {
+    "sentence_id": 1252,
+    "start": 5022.77,
+    "end": 5026.49,
+    "text": "right? And I think it's this dynamic interaction with the knowledge"
+  },
+  {
+    "sentence_id": 1253,
+    "start": 5026.49,
+    "end": 5029.649,
+    "text": "that actually gives you a better understanding on what you're"
+  },
+  {
+    "sentence_id": 1254,
+    "start": 5029.649,
+    "end": 5034.25,
+    "text": "dealing with right now. OK, any questions?"
+  },
+  {
+    "sentence_id": 1255,
+    "start": 5034.859,
+    "end": 5036.529,
+    "text": "Everyone did OK with the quiz?"
+  },
+  {
+    "sentence_id": 1256,
+    "start": 5036.979,
+    "end": 5044.359,
+    "text": "I assume? No, yes, Easy. Alright, there's another one coming along next week, so, so,"
+  },
+  {
+    "sentence_id": 1257,
+    "start": 5044.419,
+    "end": 5047.209,
+    "text": "you know, every 2 weeks we'll have a quiz, but,"
+  },
+  {
+    "sentence_id": 1258,
+    "start": 5047.22,
+    "end": 5050.209,
+    "text": "um, I assume everyone will have formed their teams by"
+  },
+  {
+    "sentence_id": 1259,
+    "start": 5050.209,
+    "end": 5054.43,
+    "text": "now, at least you put your names into the canvas."
+  },
+  {
+    "sentence_id": 1260,
+    "start": 5054.7,
+    "end": 5058.31,
+    "text": "Um, we have tutors renaming those groupings, so just make"
+  },
+  {
+    "sentence_id": 1261,
+    "start": 5058.31,
+    "end": 5061.939,
+    "text": "sure that you're like tutorial A, you know, tutorial 1."
+  },
+  {
+    "sentence_id": 1262,
+    "start": 5064.069,
+    "end": 5069.18,
+    "text": "Free or something, check your name, um, yeah, have fun,"
+  },
+  {
+    "sentence_id": 1263,
+    "start": 5069.43,
+    "end": 5110.75,
+    "text": "cool. Yeah. Yeah. It's like, you know, the Gaussian distribution."
+  },
+  {
+    "sentence_id": 1264,
+    "start": 5113.33,
+    "end": 5115.37,
+    "text": "Like, like the one that had middle."
+  },
+  {
+    "sentence_id": 1265,
+    "start": 5120.529,
+    "end": 5123.379,
+    "text": "So the, the most common one is this normal distribution,"
+  },
+  {
+    "sentence_id": 1266,
+    "start": 5123.5,
+    "end": 5126.25,
+    "text": "which also is known as Gaussian distribution."
+  },
+  {
+    "sentence_id": 1267,
+    "start": 5126.62,
+    "end": 5129.799,
+    "text": "There's other parameters that shakes the shape of it instead"
+  },
+  {
+    "sentence_id": 1268,
+    "start": 5129.799,
+    "end": 5131.14,
+    "text": "of like doing this, whatever."
+  },
+  {
+    "sentence_id": 1269,
+    "start": 5133.189,
+    "end": 5135.669,
+    "text": "This, the really sharpness of it."
+  },
+  {
+    "sentence_id": 1270,
+    "start": 5136.33,
+    "end": 5139.16,
+    "text": "It's just different ways of like there's different parameters."
+  },
+  {
+    "sentence_id": 1271,
+    "start": 5147.24,
+    "end": 5153.299,
+    "text": "The calculation of You just plug that in, you start"
+  },
+  {
+    "sentence_id": 1272,
+    "start": 5153.299,
+    "end": 5155.979,
+    "text": "like giving a number into the formulation."
+  },
+  {
+    "sentence_id": 1273,
+    "start": 5156.37,
+    "end": 5157.64,
+    "text": "You plug in the whole formula."
+  },
+  {
+    "sentence_id": 1274,
+    "start": 5159.7,
+    "end": 5162.54,
+    "text": "So like when you're describing the formula, there's only two"
+  },
+  {
+    "sentence_id": 1275,
+    "start": 5162.54,
+    "end": 5164.66,
+    "text": "terms you need to, which is the mean and."
+  },
+  {
+    "sentence_id": 1276,
+    "start": 5165.89,
+    "end": 5167.89,
+    "text": "But very often like in the back end when you"
+  },
+  {
+    "sentence_id": 1277,
+    "start": 5167.89,
+    "end": 5170.879,
+    "text": "pull this from the library, it does the first compute"
+  },
+  {
+    "sentence_id": 1278,
+    "start": 5170.879,
+    "end": 5174.169,
+    "text": "and go look through all the robes, what's that, doesn't"
+  },
+  {
+    "sentence_id": 1279,
+    "start": 5174.169,
+    "end": 5175.97,
+    "text": "plot it because computers doesn't."
+  },
+  {
+    "sentence_id": 1280,
+    "start": 5177.399,
+    "end": 5179.799,
+    "text": "But then it comes out with, OK, well, he's the"
+  },
+  {
+    "sentence_id": 1281,
+    "start": 5179.799,
+    "end": 5181.399,
+    "text": "mean of something, he's the fairy something."
+  },
+  {
+    "sentence_id": 1282,
+    "start": 5182.109,
+    "end": 5183.99,
+    "text": "They use this to then compute the mix."
+  },
+  {
+    "sentence_id": 1283,
+    "start": 5185.56,
+    "end": 5187.83,
+    "text": "And all that sort of stacked up and then get"
+  },
+  {
+    "sentence_id": 1284,
+    "start": 5187.83,
+    "end": 5190.43,
+    "text": "this number, this number is the probability of."
+  },
+  {
+    "sentence_id": 1285,
+    "start": 5191.2,
+    "end": 5195.799,
+    "text": "You know, given this new line of condition, what's the"
+  },
+  {
+    "sentence_id": 1286,
+    "start": 5195.799,
+    "end": 5198.04,
+    "text": "chance of that being certain plants?"
+  },
+  {
+    "sentence_id": 1287,
+    "start": 5200.91,
+    "end": 5219.16,
+    "text": "Oh, right. Random variable Me At the table of You don't need"
+  },
+  {
+    "sentence_id": 1288,
+    "start": 5219.16,
+    "end": 5226.319,
+    "text": "to No But when you see that in the post,"
+  },
+  {
+    "sentence_id": 1289,
+    "start": 5226.93,
+    "end": 5228.729,
+    "text": "you know that oh right this is."
+  },
+  {
+    "sentence_id": 1290,
+    "start": 5230.759,
+    "end": 5232.879,
+    "text": "What we pays a bit of, I mean it will"
+  },
+  {
+    "sentence_id": 1291,
+    "start": 5232.879,
+    "end": 5236.12,
+    "text": "be useful to go so this is the parameter."
+  },
+  {
+    "sentence_id": 1292,
+    "start": 5238.069,
+    "end": 5256.419,
+    "text": "Most cases, the Gaus. I don't think they are like niche."
+  },
+  {
+    "sentence_id": 1293,
+    "start": 5277.379,
+    "end": 5300.85,
+    "text": "That I think there's Asking for output."
+  },
+  {
+    "sentence_id": 1294,
+    "start": 5314.339,
+    "end": 5317.89,
+    "text": "Know I think it's like quizzing on the nuances of."
+  },
+  {
+    "sentence_id": 1295,
+    "start": 5325.72,
+    "end": 5332.419,
+    "text": "I think the quiz is 234. That that's not syntax."
+  },
+  {
+    "sentence_id": 1296,
+    "start": 5334.5,
+    "end": 5336.939,
+    "text": "Generally if you're if you're like doing the coding of."
+  },
+  {
+    "sentence_id": 1297,
+    "start": 5338.379,
+    "end": 5345.549,
+    "text": "You will have Some some very typical some places will"
+  },
+  {
+    "sentence_id": 1298,
+    "start": 5345.549,
+    "end": 5361.169,
+    "text": "be like, oh you do mind. I so many like abstraction questions."
+  },
+  {
+    "sentence_id": 1299,
+    "start": 5363.89,
+    "end": 5386.009,
+    "text": "I My question Yeah, it's it's really pretty."
+  },
+  {
+    "sentence_id": 1300,
+    "start": 5391.0,
+    "end": 5397.99,
+    "text": "The American lives how you have Sample say may not"
+  },
+  {
+    "sentence_id": 1301,
+    "start": 5400.06,
+    "end": 5403.91,
+    "text": "There's all the possibilities And somehow you need to represent"
+  },
+  {
+    "sentence_id": 1302,
+    "start": 5403.91,
+    "end": 5420.85,
+    "text": "this. The best way to do that For What I think"
+  },
+  {
+    "sentence_id": 1303,
+    "start": 5420.85,
+    "end": 5421.979,
+    "text": "you want to describe that."
+  },
+  {
+    "sentence_id": 1304,
+    "start": 5423.189,
+    "end": 5433.22,
+    "text": "OK Not that. Whatever This case is made."
+  },
+  {
+    "sentence_id": 1305,
+    "start": 5436.229,
+    "end": 5457.35,
+    "text": "Ethereum. The You see the highest like."
+  },
+  {
+    "sentence_id": 1306,
+    "start": 5461.27,
+    "end": 5475.52,
+    "text": "A And like I And your The classify the the"
+  },
+  {
+    "sentence_id": 1307,
+    "start": 5476.56,
+    "end": 5479.93,
+    "text": "Oh In order to protect the light."
+  },
+  {
+    "sentence_id": 1308,
+    "start": 5482.589,
+    "end": 5490.069,
+    "text": "You understand. Yeah, so like if I give you a new line"
+  },
+  {
+    "sentence_id": 1309,
+    "start": 5490.069,
+    "end": 5509.299,
+    "text": "of. I I want to know What's the likelihood of We'll"
+  },
+  {
+    "sentence_id": 1310,
+    "start": 5509.299,
+    "end": 5517.509,
+    "text": "compute this one. Based on what I've seen This is the likelihood Based"
+  },
+  {
+    "sentence_id": 1311,
+    "start": 5517.509,
+    "end": 5523.14,
+    "text": "on Be in the food, the maximum 2."
+  },
+  {
+    "sentence_id": 1312,
+    "start": 5524.069,
+    "end": 5530.91,
+    "text": "Now you Same road because So like I give you"
+  },
+  {
+    "sentence_id": 1313,
+    "start": 5530.91,
+    "end": 5532.109,
+    "text": "500 roll, you train more."
+  },
+  {
+    "sentence_id": 1314,
+    "start": 5532.839,
+    "end": 5541.939,
+    "text": "I'll give you the 501. Are you using the machine learning to predict?"
+  },
+  {
+    "sentence_id": 1315,
+    "start": 5542.939,
+    "end": 5565.379,
+    "text": "But he Is it That possibility Now Whatever the distribution."
+  },
+  {
+    "sentence_id": 1316,
+    "start": 5569.549,
+    "end": 5580.14,
+    "text": "Nonetheless I It's Somewhat like it's unintuitive like."
+  },
+  {
+    "sentence_id": 1317,
+    "start": 5581.62,
+    "end": 5585.89,
+    "text": "Easy to say it like. How come why position on."
+  },
+  {
+    "sentence_id": 1318,
+    "start": 5589.41,
+    "end": 5598.149,
+    "text": "have seen So even in maximum likelihood of 5."
+  },
+  {
+    "sentence_id": 1319,
+    "start": 5599.479,
+    "end": 5621.16,
+    "text": "He Or if it's a 15. At the You want to integrate this 501 Models are"
+  },
+  {
+    "sentence_id": 1320,
+    "start": 5621.41,
+    "end": 5638.029,
+    "text": "free. so But generally speaking, like in the."
+  },
+  {
+    "sentence_id": 1321,
+    "start": 5638.72,
+    "end": 5650.479,
+    "text": "It What Oh, like one B of 2, right?"
+  },
+  {
+    "sentence_id": 1322,
+    "start": 5651.74,
+    "end": 5673.72,
+    "text": "The It Why The The likelihood All the possible parameter"
+  },
+  {
+    "sentence_id": 1323,
+    "start": 5675.12,
+    "end": 5751.879,
+    "text": "And I mean not always And 35."
+  },
+  {
+    "sentence_id": 1324,
+    "start": 5754.399,
+    "end": 5774.879,
+    "text": "I I think Uh, I think it makes sense if"
+  },
+  {
+    "sentence_id": 1325,
+    "start": 5774.879,
+    "end": 5776.04,
+    "text": "you start playing around with."
+  },
+  {
+    "sentence_id": 1326,
+    "start": 5779.229,
+    "end": 5784.819,
+    "text": "OK, I stop this person. And yeah, honestly like."
+  },
+  {
+    "sentence_id": 1327,
+    "start": 5785.759,
+    "end": 5797.49,
+    "text": "This directly Cool, all right."
+  },
+  {
+    "sentence_id": 1328,
+    "start": 5817.91,
+    "end": 5818.5,
+    "text": "Thanks"
+  }
+]

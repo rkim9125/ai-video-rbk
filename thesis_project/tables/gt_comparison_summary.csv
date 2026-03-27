@@ -1,0 +1,8 @@
+experiment_family,setting,n_lectures,avg_f1_orig,avg_f1_corrected,delta_avg_f1,avg_precision_orig,avg_precision_corrected,avg_recall_orig,avg_recall_corrected
+expA_representation,sentence_w5_t055_d20,4,0.11,0.11,0.0,0.0812,0.0812,0.1765,0.1765
+expA_representation,time_10s_t055_d20,4,0.112,0.112,0.0,0.0713,0.0713,0.2644,0.2644
+expB_window_size,sentence_w10_t055_d20,4,0.0417,0.0417,0.0,0.125,0.125,0.025,0.025
+expB_window_size,sentence_w1_t055_d20,4,0.1205,0.1205,0.0,0.0641,0.0641,1.0,1.0
+expB_window_size,sentence_w3_t055_d20,4,0.1234,0.1234,0.0,0.0678,0.0678,0.7079,0.7079
+expB_window_size,sentence_w5_t055_d20,4,0.11,0.11,0.0,0.0812,0.0812,0.1765,0.1765
+expB_window_size,sentence_w7_t055_d20,4,0.0384,0.0384,0.0,0.0833,0.0833,0.025,0.025
