@@ -1,2 +1,6 @@
 Window Size,Precision,Recall,F1,Predicted Boundaries,Interpretation
-5,0.125,0.2222,0.16,16.0,balanced baseline
+1,0.0641,1.0,0.1205,154.0,very sensitive / noisy
+3,0.0678,0.7079,0.1234,102.75,local context
+5,0.0812,0.1765,0.11,21.5,balanced baseline
+7,0.0833,0.025,0.0384,3.0,smoother context
+10,0.125,0.025,0.0417,1.25,overly broad context

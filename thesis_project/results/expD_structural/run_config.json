@@ -1,0 +1,9 @@
+{
+  "experiment": "expD_structural",
+  "window_size": 3,
+  "threshold": 0.55,
+  "min_distance_seconds": 20.0,
+  "tolerance_seconds": 30.0,
+  "slides_dir": "/Users/robinkim/Desktop/Uni/Units/Thesis/ai-video-rbk/thesis_project/data/slide_transitions",
+  "slide_files_missing": []
+}
