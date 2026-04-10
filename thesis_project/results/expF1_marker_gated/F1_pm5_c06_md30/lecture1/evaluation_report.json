@@ -1,33 +1,73 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 9,
+  "gt_count": 33,
   "pred_count": 16,
-  "TP": 2,
-  "FP": 14,
-  "FN": 7,
-  "precision": 0.125,
-  "recall": 0.2222222222222222,
-  "f1": 0.16,
+  "TP": 6,
+  "FP": 10,
+  "FN": 27,
+  "precision": 0.375,
+  "recall": 0.18181818181818182,
+  "f1": 0.24489795918367344,
   "matches": [
     {
-      "gt_index": 6,
-      "gt_time": 3435,
-      "gt_time_str": "00:57:15",
-      "gt_title": "Machine Learning Paradigms and Generalization",
+      "gt_index": 4,
+      "gt_time": 1058,
+      "gt_time_str": "00:17:38",
+      "gt_title": "S005\tE1_High_Value_QA\tDesign Principles and MVP Approach : Machine Learning Concept",
+      "pred_index": 3,
+      "pred_time": 1076.959,
+      "pred_similarity": 0.34141337871551514,
+      "abs_error_sec": 18.95900000000006
+    },
+    {
+      "gt_index": 11,
+      "gt_time": 2546,
+      "gt_time_str": "00:42:26",
+      "gt_title": "S012\tD_Practical_Important_Point\tInteractive Discussion and Problem Definition : Practical Guidance",
+      "pred_index": 5,
+      "pred_time": 2534.0,
+      "pred_similarity": 0.4940652847290039,
+      "abs_error_sec": 12.0
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 3443,
+      "gt_time_str": "00:57:23",
+      "gt_title": "S019\tA_Concept_Introduction\tMachine Learning Paradigms and Generalization : Concept Definition",
       "pred_index": 7,
       "pred_time": 3458.84,
       "pred_similarity": 0.48890066146850586,
-      "abs_error_sec": 23.840000000000146
+      "abs_error_sec": 15.840000000000146
     },
     {
-      "gt_index": 8,
-      "gt_time": 4197,
-      "gt_time_str": "01:09:57",
-      "gt_title": "Data Quality and Engineering Judgment",
+      "gt_index": 23,
+      "gt_time": 4180,
+      "gt_time_str": "01:09:40",
+      "gt_title": "S024\tA_Concept_Introduction\tSelf-adaptive Systems and Complexity : Concept Definition",
       "pred_index": 10,
       "pred_time": 4209.609,
       "pred_similarity": 0.5945364832878113,
-      "abs_error_sec": 12.609000000000378
+      "abs_error_sec": 29.60900000000038
+    },
+    {
+      "gt_index": 28,
+      "gt_time": 4570,
+      "gt_time_str": "01:16:10",
+      "gt_title": "S029\tA_Concept_Introduction\tData Quality and Engineering Judgment : Concept Definition",
+      "pred_index": 12,
+      "pred_time": 4589.02,
+      "pred_similarity": 0.5127042531967163,
+      "abs_error_sec": 19.020000000000437
+    },
+    {
+      "gt_index": 30,
+      "gt_time": 4688,
+      "gt_time_str": "01:18:08",
+      "gt_title": "S031\tE1_High_Value_QA\tData Quality and Engineering Judgment : NumPy Array Operation",
+      "pred_index": 13,
+      "pred_time": 4690.319,
+      "pred_similarity": 0.4835161566734314,
+      "abs_error_sec": 2.3190000000004147
     }
   ]
 }

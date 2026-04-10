@@ -1,23 +1,193 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 11,
+  "gt_count": 49,
   "pred_count": 47,
-  "TP": 1,
-  "FP": 46,
-  "FN": 10,
-  "precision": 0.02127659574468085,
-  "recall": 0.09090909090909091,
-  "f1": 0.034482758620689655,
+  "TP": 18,
+  "FP": 29,
+  "FN": 31,
+  "precision": 0.3829787234042553,
+  "recall": 0.3673469387755102,
+  "f1": 0.37499999999999994,
   "matches": [
     {
-      "gt_index": 6,
+      "gt_index": 8,
+      "gt_time": 1006,
+      "gt_time_str": "00:16:46",
+      "gt_title": "S009\tA_Concept_Introduction\tData Representation and Mathematical Foundations of ML : Concept Definition",
+      "pred_index": 5,
+      "pred_time": 996.4200000000001,
+      "pred_similarity": 0.43903687596321106,
+      "abs_error_sec": 9.579999999999927
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 1141,
+      "gt_time_str": "00:19:01",
+      "gt_title": "S010\tB_Worked_Example\tData Representation and Mathematical Foundations of ML : Machine Learning Concept",
+      "pred_index": 6,
+      "pred_time": 1126.42,
+      "pred_similarity": 0.484360933303833,
+      "abs_error_sec": 14.579999999999927
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 2531,
+      "gt_time_str": "00:42:11",
+      "gt_title": "S019\tB_Worked_Example\tClassification and Decision Making : Worked Example",
+      "pred_index": 12,
+      "pred_time": 2526.42,
+      "pred_similarity": 0.4948115646839142,
+      "abs_error_sec": 4.579999999999927
+    },
+    {
+      "gt_index": 19,
+      "gt_time": 2602,
+      "gt_time_str": "00:43:22",
+      "gt_title": "S020\tD_Practical_Important_Point\tClassification and Decision Making : Practical Guidance",
+      "pred_index": 13,
+      "pred_time": 2596.42,
+      "pred_similarity": 0.4867105185985565,
+      "abs_error_sec": 5.579999999999927
+    },
+    {
+      "gt_index": 20,
       "gt_time": 2672,
       "gt_time_str": "00:44:32",
-      "gt_title": "Model Confidence and Prediction Metrics",
+      "gt_title": "S021\tE1_High_Value_QA\tModel Confidence and Prediction Metrics : High-value Clarification",
       "pred_index": 15,
       "pred_time": 2666.42,
       "pred_similarity": 0.38525334000587463,
       "abs_error_sec": 5.579999999999927
+    },
+    {
+      "gt_index": 23,
+      "gt_time": 2815,
+      "gt_time_str": "00:46:55",
+      "gt_title": "S024\tE1_High_Value_QA\tModel Confidence and Prediction Metrics : High-value Clarification",
+      "pred_index": 16,
+      "pred_time": 2826.42,
+      "pred_similarity": 0.43234699964523315,
+      "abs_error_sec": 11.420000000000073
+    },
+    {
+      "gt_index": 26,
+      "gt_time": 3295,
+      "gt_time_str": "00:54:55",
+      "gt_title": "S027\tB_Worked_Example\tModel Confidence and Prediction Metrics : Worked Example",
+      "pred_index": 18,
+      "pred_time": 3316.42,
+      "pred_similarity": 0.5272543430328369,
+      "abs_error_sec": 21.420000000000073
+    },
+    {
+      "gt_index": 27,
+      "gt_time": 3341,
+      "gt_time_str": "00:55:41",
+      "gt_title": "S028\tA_Concept_Introduction\tModel Confidence and Prediction Metrics : Concept Definition",
+      "pred_index": 19,
+      "pred_time": 3366.42,
+      "pred_similarity": 0.48620298504829407,
+      "abs_error_sec": 25.420000000000073
+    },
+    {
+      "gt_index": 32,
+      "gt_time": 4013,
+      "gt_time_str": "01:06:53",
+      "gt_title": "S033\tE1_High_Value_QA\tActivation Functions and Model Outputs : Machine Learning Concept",
+      "pred_index": 21,
+      "pred_time": 4036.42,
+      "pred_similarity": 0.548160970211029,
+      "abs_error_sec": 23.420000000000073
+    },
+    {
+      "gt_index": 36,
+      "gt_time": 4459,
+      "gt_time_str": "01:14:19",
+      "gt_title": "S037\tC_Explanation_Shift_Major\tActivation Functions and Model Outputs : Theory-to-Practice Shift",
+      "pred_index": 24,
+      "pred_time": 4486.42,
+      "pred_similarity": 0.41499435901641846,
+      "abs_error_sec": 27.420000000000073
+    },
+    {
+      "gt_index": 38,
+      "gt_time": 4888,
+      "gt_time_str": "01:21:28",
+      "gt_title": "S039\tC_Explanation_Shift_Major\tModel Evaluation (ROC/AUC) : Theory-to-Practice Shift",
+      "pred_index": 27,
+      "pred_time": 4886.42,
+      "pred_similarity": 0.5223950147628784,
+      "abs_error_sec": 1.5799999999999272
+    },
+    {
+      "gt_index": 39,
+      "gt_time": 4950,
+      "gt_time_str": "01:22:30",
+      "gt_title": "S040\tA_Concept_Introduction\tModel Evaluation (ROC/AUC) : Concept Definition",
+      "pred_index": 28,
+      "pred_time": 4936.42,
+      "pred_similarity": 0.541396975517273,
+      "abs_error_sec": 13.579999999999927
+    },
+    {
+      "gt_index": 40,
+      "gt_time": 5041,
+      "gt_time_str": "01:24:01",
+      "gt_title": "S041\tE1_High_Value_QA\tModel Evaluation (ROC/AUC) : Technical Clarification",
+      "pred_index": 29,
+      "pred_time": 5036.42,
+      "pred_similarity": 0.42160868644714355,
+      "abs_error_sec": 4.579999999999927
+    },
+    {
+      "gt_index": 42,
+      "gt_time": 5626,
+      "gt_time_str": "01:33:46",
+      "gt_title": "S043\tE2_Minor_QA\tHyperparameters and Training Process : Minor Clarification",
+      "pred_index": 34,
+      "pred_time": 5596.42,
+      "pred_similarity": 0.5185630917549133,
+      "abs_error_sec": 29.579999999999927
+    },
+    {
+      "gt_index": 43,
+      "gt_time": 5727,
+      "gt_time_str": "01:35:27",
+      "gt_title": "S044\tB_Worked_Example\tDemonstration and Q&A : Worked Example",
+      "pred_index": 35,
+      "pred_time": 5746.42,
+      "pred_similarity": 0.5471435189247131,
+      "abs_error_sec": 19.420000000000073
+    },
+    {
+      "gt_index": 44,
+      "gt_time": 5937,
+      "gt_time_str": "01:38:57",
+      "gt_title": "S045\tE2_Minor_QA\tDemonstration and Q&A : Minor Clarification",
+      "pred_index": 38,
+      "pred_time": 5916.42,
+      "pred_similarity": 0.37509751319885254,
+      "abs_error_sec": 20.579999999999927
+    },
+    {
+      "gt_index": 45,
+      "gt_time": 6150,
+      "gt_time_str": "01:42:30",
+      "gt_title": "S046\tE2_Minor_QA\tDemonstration and Q&A : Minor Clarification",
+      "pred_index": 43,
+      "pred_time": 6156.42,
+      "pred_similarity": 0.3894762396812439,
+      "abs_error_sec": 6.420000000000073
+    },
+    {
+      "gt_index": 48,
+      "gt_time": 6500,
+      "gt_time_str": "01:48:20",
+      "gt_title": "S049\tE2_Minor_QA\tDemonstration and Q&A : Minor Clarification",
+      "pred_index": 46,
+      "pred_time": 6486.42,
+      "pred_similarity": 0.5138232111930847,
+      "abs_error_sec": 13.579999999999927
     }
   ]
 }

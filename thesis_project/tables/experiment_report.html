@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Experiment Report (A/B/C/D/E)</title>
+  <title>Experiment Report (A/B/C/D/E/F)</title>
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
@@ -76,21 +76,34 @@
 </head>
 <body>
   <h1>Experiment Report</h1>
-  <div class="sub">A/B/C/D/E results in readable table format (best F1 highlighted in green)</div>
+  <div class="sub">A/B/C/D/E/F results in readable table format (best F1 highlighted in green)</div>
   <div class="headline">
     <strong>Key Findings</strong>
     <ul>
-      <li>A best: Time-based (F1=0.112)</li>
-      <li>B best: ws=3 (F1=0.1234)</li>
-      <li>C best: Threshold + Local minima + Min-distance (F1=0.1234)</li>
-      <li>D best: Marker (F1=0.1698)</li>
-      <li>E best: min-distance=30s (F1=0.1446)</li>
-      <li>Overall: structural/marker cues help, but absolute F1 remains low -&gt; hybrid refinement still needed.</li>
+      <li>A best: Time-based (F1=0.3523)</li>
+      <li>B best: ws=3 (F1=0.3702)</li>
+      <li>C best: Threshold + Local minima + Min-distance (F1=0.3702)</li>
+      <li>D best: Baseline (F1=0.3702)</li>
+      <li>E best: min-distance=30s (F1=0.4083)</li>
+      <li>F1 best: F1_pm15_c06_md30 (F1=0.3114)</li>
+      <li>F2 best: F2_pm15_c06_p00_md30_s1 (F1=0.3114)</li>
+      <li>F3 best: F3_OR_sw20_pm15_c06_md30 (F1=0.3088)</li>
+      <li>Report generated from latest run outputs (current setup: fine GT).</li>
     </ul>
   </div>
 
+  <h2>Coarse vs Fine GT (Best F1)</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>Experiment</th><th>Coarse Best F1</th><th>Fine Best F1</th><th>Delta (Fine-Coarse)</th></tr></thead>
+      <tbody>
+        <tr><td>A</td><td>0.1120</td><td>0.1120</td><td class="">+0.0000</td></tr><tr><td>B</td><td>0.1234</td><td>0.3702</td><td class="best">+0.2468</td></tr><tr><td>C</td><td>0.1234</td><td>0.3702</td><td class="best">+0.2468</td></tr><tr><td>D</td><td>0.1698</td><td>0.3702</td><td class="best">+0.2004</td></tr><tr><td>E</td><td>0.1446</td><td>0.4083</td><td class="best">+0.2637</td></tr><tr><td>F1</td><td>0.1802</td><td>0.3114</td><td class="best">+0.1312</td></tr><tr><td>F2</td><td>0.1802</td><td>0.3114</td><td class="best">+0.1312</td></tr><tr><td>F3</td><td>0.1935</td><td>0.3088</td><td class="best">+0.1153</td></tr>
+      </tbody>
+    </table>
+  </div>
+
   <h2>Experiment A - Representation</h2>
-  <div class="bestline">Best setting: Time-based, F1=0.112</div>
+  <div class="bestline">Best setting: Time-based, F1=0.3523</div>
   <div class="card">
     <h3>A Summary</h3>
 <table>
@@ -114,9 +127,9 @@
 <td>0.55</td>
 <td>Yes</td>
 <td>20s</td>
-<td>0.0812</td>
-<td>0.1765</td>
-<td>0.11</td>
+<td>0.3323</td>
+<td>0.198</td>
+<td>0.2456</td>
 </tr>
 <tr>
 <td>A2</td>
@@ -126,9 +139,9 @@
 <td>0.55</td>
 <td>Yes</td>
 <td>20s</td>
-<td>0.0713</td>
-<td>0.2644</td>
-<td class="best">0.112</td>
+<td>0.3417</td>
+<td>0.3694</td>
+<td class="best">0.3523</td>
 </tr>
 </tbody></table>
     <h3>A Lecture-level</h3>
@@ -145,80 +158,80 @@
 <tr>
 <td>Sentence-based</td>
 <td>lecture1</td>
-<td>0.1250</td>
-<td>0.2222</td>
-<td class="best">0.1600</td>
+<td>0.5000</td>
+<td>0.2424</td>
+<td>0.3265</td>
 <td>16</td>
-<td>9</td>
+<td>33</td>
 </tr>
 <tr>
 <td>Sentence-based</td>
 <td>lecture2</td>
-<td>0.0909</td>
-<td>0.2727</td>
-<td>0.1364</td>
+<td>0.3939</td>
+<td>0.2653</td>
+<td>0.3171</td>
 <td>33</td>
-<td>11</td>
+<td>49</td>
 </tr>
 <tr>
 <td>Sentence-based</td>
 <td>lecture3</td>
-<td>0.0500</td>
-<td>0.1000</td>
-<td>0.0667</td>
+<td>0.2000</td>
+<td>0.1667</td>
+<td>0.1818</td>
 <td>20</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>Sentence-based</td>
 <td>lecture4</td>
-<td>0.0588</td>
-<td>0.1111</td>
-<td>0.0769</td>
+<td>0.2353</td>
+<td>0.1176</td>
+<td>0.1569</td>
 <td>17</td>
-<td>9</td>
+<td>34</td>
 </tr>
 <tr>
 <td>Time-based</td>
 <td>lecture1</td>
-<td>0.0732</td>
-<td>0.3333</td>
-<td>0.1200</td>
+<td>0.3415</td>
+<td>0.4242</td>
+<td class="best">0.3784</td>
 <td>41</td>
-<td>9</td>
+<td>33</td>
 </tr>
 <tr>
 <td>Time-based</td>
 <td>lecture2</td>
-<td>0.0213</td>
-<td>0.0909</td>
-<td>0.0345</td>
+<td>0.3830</td>
+<td>0.3673</td>
+<td>0.3750</td>
 <td>47</td>
-<td>11</td>
+<td>49</td>
 </tr>
 <tr>
 <td>Time-based</td>
 <td>lecture3</td>
-<td>0.0909</td>
-<td>0.3000</td>
-<td>0.1395</td>
+<td>0.2424</td>
+<td>0.3333</td>
+<td>0.2807</td>
 <td>33</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>Time-based</td>
 <td>lecture4</td>
-<td>0.1000</td>
-<td>0.3333</td>
-<td>0.1538</td>
+<td>0.4000</td>
+<td>0.3529</td>
+<td>0.3750</td>
 <td>30</td>
-<td>9</td>
+<td>34</td>
 </tr>
 </tbody></table>
   </div>
 
   <h2>Experiment B - Window Size Effect</h2>
-  <div class="bestline">Best setting: window size 3, F1=0.1234</div>
+  <div class="bestline">Best setting: window size 3, F1=0.3702</div>
   <div class="card">
     <h3>B Summary</h3>
 <table>
@@ -232,41 +245,41 @@
 </tr></thead><tbody>
 <tr>
 <td>1</td>
-<td>0.0641</td>
-<td>1.0</td>
-<td>0.1205</td>
+<td>0.2221</td>
+<td>0.9924</td>
+<td>0.3622</td>
 <td>154.0</td>
 <td>very sensitive / noisy</td>
 </tr>
 <tr>
 <td>3</td>
-<td>0.0678</td>
-<td>0.7079</td>
-<td class="best">0.1234</td>
+<td>0.2481</td>
+<td>0.7354</td>
+<td class="best">0.3702</td>
 <td>102.75</td>
 <td>local context</td>
 </tr>
 <tr>
 <td>5</td>
-<td>0.0812</td>
-<td>0.1765</td>
-<td>0.11</td>
+<td>0.3323</td>
+<td>0.198</td>
+<td>0.2456</td>
 <td>21.5</td>
 <td>balanced baseline</td>
 </tr>
 <tr>
 <td>7</td>
-<td>0.0833</td>
-<td>0.025</td>
-<td>0.0384</td>
+<td>0.3333</td>
+<td>0.0353</td>
+<td>0.0637</td>
 <td>3.0</td>
 <td>smoother context</td>
 </tr>
 <tr>
 <td>10</td>
-<td>0.125</td>
-<td>0.025</td>
-<td>0.0417</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
 <td>1.25</td>
 <td>overly broad context</td>
 </tr>
@@ -283,49 +296,49 @@
 </tr></thead><tbody>
 <tr>
 <td>1</td>
-<td>0.1184</td>
-<td>0.1095</td>
-<td>0.1429</td>
-<td>0.1111</td>
-<td>0.1205</td>
+<td>0.3636</td>
+<td>0.41</td>
+<td>0.3117</td>
+<td>0.3636</td>
+<td>0.3622</td>
 </tr>
 <tr>
 <td>3</td>
-<td>0.1132</td>
-<td>0.1342</td>
-<td>0.1443</td>
-<td>0.102</td>
-<td class="best">0.1234</td>
+<td>0.4</td>
+<td>0.4492</td>
+<td>0.3063</td>
+<td>0.3252</td>
+<td class="best">0.3702</td>
 </tr>
 <tr>
 <td>5</td>
-<td>0.16</td>
-<td>0.1364</td>
-<td>0.0667</td>
-<td>0.0769</td>
-<td>0.11</td>
+<td>0.3265</td>
+<td>0.3171</td>
+<td>0.1818</td>
+<td>0.1569</td>
+<td>0.2456</td>
 </tr>
 <tr>
 <td>7</td>
 <td>0.0</td>
-<td>0.0</td>
-<td>0.1538</td>
-<td>0.0</td>
-<td>0.0384</td>
+<td>0.0755</td>
+<td>0.0741</td>
+<td>0.1053</td>
+<td>0.0637</td>
 </tr>
 <tr>
 <td>10</td>
 <td>0.0</td>
 <td>0.0</td>
-<td>0.1667</td>
 <td>0.0</td>
-<td>0.0417</td>
+<td>0.0</td>
+<td>0.0</td>
 </tr>
 </tbody></table>
   </div>
 
   <h2>Experiment C - Boundary Rule</h2>
-  <div class="bestline">Best setting: Threshold + Local minima + Min-distance, F1=0.1234</div>
+  <div class="bestline">Best setting: Threshold + Local minima + Min-distance, F1=0.3702</div>
   <div class="card">
     <h3>C Summary</h3>
 <table>
@@ -339,25 +352,25 @@
 </tr></thead><tbody>
 <tr>
 <td>Threshold only</td>
-<td>0.0474</td>
-<td>0.7634</td>
-<td>0.0891</td>
+<td>0.169</td>
+<td>0.7814</td>
+<td>0.2771</td>
 <td>161.25</td>
 <td>most sensitive / highest noise risk</td>
 </tr>
 <tr>
 <td>Threshold + Local minima</td>
-<td>0.0483</td>
-<td>0.7079</td>
-<td>0.0903</td>
+<td>0.1875</td>
+<td>0.7814</td>
+<td>0.3016</td>
 <td>145.25</td>
 <td>noise-suppressed local dips</td>
 </tr>
 <tr>
 <td>Threshold + Local minima + Min-distance</td>
-<td>0.0678</td>
-<td>0.7079</td>
-<td class="best">0.1234</td>
+<td>0.2481</td>
+<td>0.7354</td>
+<td class="best">0.3702</td>
 <td>102.75</td>
 <td>redundancy-reduced practical segmentation</td>
 </tr>
@@ -374,33 +387,33 @@
 </tr></thead><tbody>
 <tr>
 <td>Threshold only</td>
-<td>0.0779</td>
-<td>0.0816</td>
-<td>0.0946</td>
-<td>0.1022</td>
-<td>0.0891</td>
+<td>0.3034</td>
+<td>0.311</td>
+<td>0.2346</td>
+<td>0.2593</td>
+<td>0.2771</td>
 </tr>
 <tr>
 <td>Threshold + Local minima</td>
-<td>0.087</td>
-<td>0.0901</td>
-<td>0.1061</td>
-<td>0.0781</td>
-<td>0.0903</td>
+<td>0.3333</td>
+<td>0.3385</td>
+<td>0.2603</td>
+<td>0.2745</td>
+<td>0.3016</td>
 </tr>
 <tr>
 <td>Threshold + Local minima + Min-distance</td>
-<td>0.1132</td>
-<td>0.1342</td>
-<td>0.1443</td>
-<td>0.102</td>
-<td class="best">0.1234</td>
+<td>0.4</td>
+<td>0.4492</td>
+<td>0.3063</td>
+<td>0.3252</td>
+<td class="best">0.3702</td>
 </tr>
 </tbody></table>
   </div>
 
   <h2>Experiment D - Structural Signals</h2>
-  <div class="bestline">Best setting: Marker, F1=0.1698</div>
+  <div class="bestline">Best setting: Baseline, F1=0.3702</div>
   <div class="card">
     <h3>D Summary</h3>
 <table>
@@ -421,9 +434,9 @@
 <td>×</td>
 <td>×</td>
 <td>×</td>
-<td>0.0678</td>
-<td>0.7079</td>
-<td>0.1234</td>
+<td>0.2481</td>
+<td>0.7354</td>
+<td class="best">0.3702</td>
 <td>102.75</td>
 </tr>
 <tr>
@@ -432,9 +445,9 @@
 <td>✓</td>
 <td>×</td>
 <td>×</td>
-<td>0.1058</td>
-<td>0.4358</td>
-<td class="best">0.1698</td>
+<td>0.2806</td>
+<td>0.3362</td>
+<td>0.302</td>
 <td>40.75</td>
 </tr>
 <tr>
@@ -443,9 +456,9 @@
 <td>×</td>
 <td>✓</td>
 <td>×</td>
-<td>0.0655</td>
-<td>0.8134</td>
-<td>0.1212</td>
+<td>0.2249</td>
+<td>0.8068</td>
+<td>0.3484</td>
 <td>122.0</td>
 </tr>
 <tr>
@@ -454,9 +467,9 @@
 <td>×</td>
 <td>×</td>
 <td>✓</td>
-<td>0.1027</td>
-<td>0.121</td>
-<td>0.1057</td>
+<td>0.2054</td>
+<td>0.0867</td>
+<td>0.1212</td>
 <td>13.0</td>
 </tr>
 <tr>
@@ -465,9 +478,9 @@
 <td>✓</td>
 <td>×</td>
 <td>×</td>
-<td>0.0725</td>
-<td>0.8639</td>
-<td>0.1336</td>
+<td>0.2389</td>
+<td>0.8055</td>
+<td>0.3674</td>
 <td>117.5</td>
 </tr>
 <tr>
@@ -476,9 +489,9 @@
 <td>×</td>
 <td>✓</td>
 <td>×</td>
-<td>0.057</td>
-<td>0.9194</td>
-<td>0.1072</td>
+<td>0.2042</td>
+<td>0.9356</td>
+<td>0.3337</td>
 <td>158.0</td>
 </tr>
 <tr>
@@ -487,9 +500,9 @@
 <td>×</td>
 <td>×</td>
 <td>✓</td>
-<td>0.071</td>
-<td>0.7606</td>
-<td>0.1295</td>
+<td>0.2405</td>
+<td>0.7405</td>
+<td>0.3623</td>
 <td>106.75</td>
 </tr>
 <tr>
@@ -498,9 +511,9 @@
 <td>✓</td>
 <td>✓</td>
 <td>✓</td>
-<td>0.0568</td>
-<td>0.9722</td>
-<td>0.1073</td>
+<td>0.1951</td>
+<td>0.9481</td>
+<td>0.3221</td>
 <td>167.75</td>
 </tr>
 </tbody></table>
@@ -518,296 +531,296 @@
 <tr>
 <td>Baseline</td>
 <td>lecture1</td>
-<td>0.0619</td>
-<td>0.6667</td>
-<td>0.1132</td>
-<td>97</td>
-<td>9</td>
-</tr>
-<tr>
-<td>Marker</td>
-<td>lecture1</td>
-<td>0.122</td>
-<td>0.5556</td>
-<td class="best">0.2</td>
-<td>41</td>
-<td>9</td>
-</tr>
-<tr>
-<td>Filler</td>
-<td>lecture1</td>
-<td>0.048</td>
-<td>0.6667</td>
-<td>0.0896</td>
-<td>125</td>
-<td>9</td>
-</tr>
-<tr>
-<td>Slide</td>
-<td>lecture1</td>
-<td>0.0</td>
-<td>0.0</td>
-<td>0.0</td>
-<td>16</td>
-<td>9</td>
-</tr>
-<tr>
-<td>+Marker</td>
-<td>lecture1</td>
-<td>0.0667</td>
-<td>0.7778</td>
-<td>0.1228</td>
-<td>105</td>
-<td>9</td>
-</tr>
-<tr>
-<td>+Filler</td>
-<td>lecture1</td>
-<td>0.0513</td>
-<td>0.8889</td>
-<td>0.097</td>
-<td>156</td>
-<td>9</td>
-</tr>
-<tr>
-<td>+Slide</td>
-<td>lecture1</td>
-<td>0.0583</td>
-<td>0.6667</td>
-<td>0.1071</td>
-<td>103</td>
-<td>9</td>
-</tr>
-<tr>
-<td>All</td>
-<td>lecture1</td>
-<td>0.0482</td>
-<td>0.8889</td>
-<td>0.0914</td>
-<td>166</td>
-<td>9</td>
-</tr>
-<tr>
-<td>Baseline</td>
-<td>lecture2</td>
-<td>0.0725</td>
-<td>0.9091</td>
-<td>0.1342</td>
-<td>138</td>
-<td>11</td>
-</tr>
-<tr>
-<td>Marker</td>
-<td>lecture2</td>
-<td>0.125</td>
-<td>0.4545</td>
-<td>0.1961</td>
-<td>40</td>
-<td>11</td>
-</tr>
-<tr>
-<td>Filler</td>
-<td>lecture2</td>
-<td>0.0741</td>
-<td>0.9091</td>
-<td>0.137</td>
-<td>135</td>
-<td>11</td>
-</tr>
-<tr>
-<td>Slide</td>
-<td>lecture2</td>
-<td>0.1429</td>
-<td>0.2727</td>
-<td>0.1875</td>
-<td>21</td>
-<td>11</td>
-</tr>
-<tr>
-<td>+Marker</td>
-<td>lecture2</td>
-<td>0.0748</td>
-<td>1.0</td>
-<td>0.1392</td>
-<td>147</td>
-<td>11</td>
-</tr>
-<tr>
-<td>+Filler</td>
-<td>lecture2</td>
-<td>0.0585</td>
-<td>1.0</td>
-<td>0.1106</td>
-<td>188</td>
-<td>11</td>
-</tr>
-<tr>
-<td>+Slide</td>
-<td>lecture2</td>
-<td>0.069</td>
-<td>0.9091</td>
-<td>0.1282</td>
-<td>145</td>
-<td>11</td>
-</tr>
-<tr>
-<td>All</td>
-<td>lecture2</td>
-<td>0.0561</td>
-<td>1.0</td>
-<td>0.1063</td>
-<td>196</td>
-<td>11</td>
-</tr>
-<tr>
-<td>Baseline</td>
-<td>lecture3</td>
-<td>0.0805</td>
-<td>0.7</td>
-<td>0.1443</td>
-<td>87</td>
-<td>10</td>
-</tr>
-<tr>
-<td>Marker</td>
-<td>lecture3</td>
-<td>0.1111</td>
+<td>0.268</td>
+<td>0.7879</td>
 <td>0.4</td>
-<td>0.1739</td>
+<td>97</td>
+<td>33</td>
+</tr>
+<tr>
+<td>Marker</td>
+<td>lecture1</td>
+<td>0.2927</td>
+<td>0.3636</td>
+<td>0.3243</td>
+<td>41</td>
+<td>33</td>
+</tr>
+<tr>
+<td>Filler</td>
+<td>lecture1</td>
+<td>0.224</td>
+<td>0.8485</td>
+<td>0.3544</td>
+<td>125</td>
+<td>33</td>
+</tr>
+<tr>
+<td>Slide</td>
+<td>lecture1</td>
+<td>0.25</td>
+<td>0.1212</td>
+<td>0.1633</td>
+<td>16</td>
+<td>33</td>
+</tr>
+<tr>
+<td>+Marker</td>
+<td>lecture1</td>
+<td>0.2571</td>
+<td>0.8182</td>
+<td>0.3913</td>
+<td>105</td>
+<td>33</td>
+</tr>
+<tr>
+<td>+Filler</td>
+<td>lecture1</td>
+<td>0.1987</td>
+<td>0.9394</td>
+<td>0.328</td>
+<td>156</td>
+<td>33</td>
+</tr>
+<tr>
+<td>+Slide</td>
+<td>lecture1</td>
+<td>0.2524</td>
+<td>0.7879</td>
+<td>0.3824</td>
+<td>103</td>
+<td>33</td>
+</tr>
+<tr>
+<td>All</td>
+<td>lecture1</td>
+<td>0.1867</td>
+<td>0.9394</td>
+<td>0.3116</td>
+<td>166</td>
+<td>33</td>
+</tr>
+<tr>
+<td>Baseline</td>
+<td>lecture2</td>
+<td>0.3043</td>
+<td>0.8571</td>
+<td>0.4492</td>
+<td>138</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Marker</td>
+<td>lecture2</td>
+<td>0.325</td>
+<td>0.2653</td>
+<td>0.2921</td>
+<td>40</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Filler</td>
+<td>lecture2</td>
+<td>0.2593</td>
+<td>0.7143</td>
+<td>0.3804</td>
+<td>135</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Slide</td>
+<td>lecture2</td>
+<td>0.4286</td>
+<td>0.1837</td>
+<td>0.2571</td>
+<td>21</td>
+<td>49</td>
+</tr>
+<tr>
+<td>+Marker</td>
+<td>lecture2</td>
+<td>0.3061</td>
+<td>0.9184</td>
+<td class="best">0.4592</td>
+<td>147</td>
+<td>49</td>
+</tr>
+<tr>
+<td>+Filler</td>
+<td>lecture2</td>
+<td>0.2553</td>
+<td>0.9796</td>
+<td>0.4051</td>
+<td>188</td>
+<td>49</td>
+</tr>
+<tr>
+<td>+Slide</td>
+<td>lecture2</td>
+<td>0.2966</td>
+<td>0.8776</td>
+<td>0.4433</td>
+<td>145</td>
+<td>49</td>
+</tr>
+<tr>
+<td>All</td>
+<td>lecture2</td>
+<td>0.25</td>
+<td>1.0</td>
+<td>0.4</td>
+<td>196</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Baseline</td>
+<td>lecture3</td>
+<td>0.1954</td>
+<td>0.7083</td>
+<td>0.3063</td>
+<td>87</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Marker</td>
+<td>lecture3</td>
+<td>0.2222</td>
+<td>0.3333</td>
+<td>0.2667</td>
 <td>36</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>Filler</td>
 <td>lecture3</td>
-<td>0.0726</td>
-<td>0.9</td>
-<td>0.1343</td>
+<td>0.1855</td>
+<td>0.9583</td>
+<td>0.3108</td>
 <td>124</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>Slide</td>
 <td>lecture3</td>
 <td>0.1429</td>
-<td>0.1</td>
-<td>0.1176</td>
+<td>0.0417</td>
+<td>0.0645</td>
 <td>7</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>+Marker</td>
 <td>lecture3</td>
-<td>0.0874</td>
-<td>0.9</td>
-<td>0.1593</td>
+<td>0.1748</td>
+<td>0.75</td>
+<td>0.2835</td>
 <td>103</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>+Filler</td>
 <td>lecture3</td>
-<td>0.06</td>
-<td>0.9</td>
-<td>0.1125</td>
+<td>0.16</td>
+<td>1.0</td>
+<td>0.2759</td>
 <td>150</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>+Slide</td>
 <td>lecture3</td>
-<td>0.0899</td>
-<td>0.8</td>
-<td>0.1616</td>
+<td>0.191</td>
+<td>0.7083</td>
+<td>0.3009</td>
 <td>89</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>All</td>
 <td>lecture3</td>
-<td>0.0637</td>
+<td>0.1529</td>
 <td>1.0</td>
-<td>0.1198</td>
+<td>0.2652</td>
 <td>157</td>
-<td>10</td>
+<td>24</td>
 </tr>
 <tr>
 <td>Baseline</td>
 <td>lecture4</td>
-<td>0.0562</td>
-<td>0.5556</td>
-<td>0.102</td>
+<td>0.2247</td>
+<td>0.5882</td>
+<td>0.3252</td>
 <td>89</td>
-<td>9</td>
+<td>34</td>
 </tr>
 <tr>
 <td>Marker</td>
 <td>lecture4</td>
-<td>0.0652</td>
-<td>0.3333</td>
-<td>0.1091</td>
+<td>0.2826</td>
+<td>0.3824</td>
+<td>0.325</td>
 <td>46</td>
-<td>9</td>
+<td>34</td>
 </tr>
 <tr>
 <td>Filler</td>
 <td>lecture4</td>
-<td>0.0673</td>
-<td>0.7778</td>
-<td>0.1239</td>
+<td>0.2308</td>
+<td>0.7059</td>
+<td>0.3478</td>
 <td>104</td>
-<td>9</td>
+<td>34</td>
 </tr>
 <tr>
 <td>Slide</td>
 <td>lecture4</td>
-<td>0.125</td>
-<td>0.1111</td>
-<td>0.1176</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
 <td>8</td>
-<td>9</td>
+<td>34</td>
 </tr>
 <tr>
 <td>+Marker</td>
 <td>lecture4</td>
-<td>0.0609</td>
-<td>0.7778</td>
-<td>0.1129</td>
+<td>0.2174</td>
+<td>0.7353</td>
+<td>0.3356</td>
 <td>115</td>
-<td>9</td>
+<td>34</td>
 </tr>
 <tr>
 <td>+Filler</td>
 <td>lecture4</td>
-<td>0.058</td>
-<td>0.8889</td>
-<td>0.1088</td>
+<td>0.2029</td>
+<td>0.8235</td>
+<td>0.3256</td>
 <td>138</td>
-<td>9</td>
+<td>34</td>
 </tr>
 <tr>
 <td>+Slide</td>
 <td>lecture4</td>
-<td>0.0667</td>
-<td>0.6667</td>
-<td>0.1212</td>
+<td>0.2222</td>
+<td>0.5882</td>
+<td>0.3226</td>
 <td>90</td>
-<td>9</td>
+<td>34</td>
 </tr>
 <tr>
 <td>All</td>
 <td>lecture4</td>
-<td>0.0592</td>
-<td>1.0</td>
-<td>0.1118</td>
+<td>0.1908</td>
+<td>0.8529</td>
+<td>0.3118</td>
 <td>152</td>
-<td>9</td>
+<td>34</td>
 </tr>
 </tbody></table>
   </div>
 
   <h2>Experiment E - Prediction count / min-distance sweep</h2>
-  <div class="bestline">Best setting: min-distance 30s, F1=0.1446</div>
+  <div class="bestline">Best setting: min-distance 30s, F1=0.4083</div>
   <div class="card">
     <h3>E Summary (pruning)</h3>
 <table>
@@ -829,9 +842,9 @@
 <td>Yes</td>
 <td>20s</td>
 <td>-</td>
-<td>0.0678</td>
-<td>0.7079</td>
-<td>0.1234</td>
+<td>0.2481</td>
+<td>0.7354</td>
+<td>0.3702</td>
 <td>102.75</td>
 <td>baseline pruning</td>
 </tr>
@@ -841,9 +854,9 @@
 <td>Yes</td>
 <td>30s</td>
 <td>-</td>
-<td>0.081</td>
-<td>0.6801</td>
-<td class="best">0.1446</td>
+<td>0.2905</td>
+<td>0.6923</td>
+<td class="best">0.4083</td>
 <td>82.75</td>
 <td>fewer close duplicates</td>
 </tr>
@@ -853,9 +866,9 @@
 <td>Yes</td>
 <td>45s</td>
 <td>-</td>
-<td>0.0729</td>
-<td>0.4684</td>
-<td>0.1259</td>
+<td>0.3082</td>
+<td>0.5586</td>
+<td>0.3954</td>
 <td>62.0</td>
 <td>stronger suppression</td>
 </tr>
@@ -865,9 +878,9 @@
 <td>Yes</td>
 <td>60s</td>
 <td>-</td>
-<td>0.0524</td>
-<td>0.2719</td>
-<td>0.0876</td>
+<td>0.3229</td>
+<td>0.472</td>
+<td>0.3821</td>
 <td>50.25</td>
 <td>very strict spacing</td>
 </tr>
@@ -884,35 +897,249 @@
 </tr></thead><tbody>
 <tr>
 <td>20s</td>
-<td>0.1132</td>
-<td>0.1342</td>
-<td>0.1443</td>
-<td>0.102</td>
-<td>0.1234</td>
+<td>0.4</td>
+<td>0.4492</td>
+<td>0.3063</td>
+<td>0.3252</td>
+<td>0.3702</td>
 </tr>
 <tr>
 <td>30s</td>
-<td>0.1163</td>
-<td>0.1724</td>
-<td>0.1772</td>
-<td>0.1124</td>
-<td class="best">0.1446</td>
+<td>0.4364</td>
+<td>0.5195</td>
+<td>0.3441</td>
+<td>0.3333</td>
+<td class="best">0.4083</td>
 </tr>
 <tr>
 <td>45s</td>
-<td>0.0625</td>
-<td>0.1978</td>
-<td>0.1538</td>
-<td>0.0896</td>
-<td>0.1259</td>
+<td>0.3636</td>
+<td>0.4651</td>
+<td>0.4051</td>
+<td>0.3478</td>
+<td>0.3954</td>
 </tr>
 <tr>
 <td>60s</td>
-<td>0.0377</td>
-<td>0.1282</td>
-<td>0.1132</td>
-<td>0.0714</td>
-<td>0.0876</td>
+<td>0.3636</td>
+<td>0.431</td>
+<td>0.3881</td>
+<td>0.3457</td>
+<td>0.3821</td>
+</tr>
+</tbody></table>
+  </div>
+
+  <h2>Experiment F1 - Marker-Gated Semantic</h2>
+  <div class="bestline">Best setting: F1_pm15_c06_md30, F1=0.3114</div>
+  <div class="card">
+    <h3>F1 Summary</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>marker_window_pm_sec</th>
+<th>semantic_confirm_threshold</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr>
+<td>F1_pm5_c055_md30</td>
+<td>5</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.4047</td>
+<td>0.124</td>
+<td>0.1859</td>
+<td>12.0</td>
+</tr>
+<tr>
+<td>F1_pm5_c06_md30</td>
+<td>5</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3273</td>
+<td>0.1745</td>
+<td>0.2242</td>
+<td>18.5</td>
+</tr>
+<tr>
+<td>F1_pm10_c055_md30</td>
+<td>10</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.3535</td>
+<td>0.2078</td>
+<td>0.2606</td>
+<td>20.5</td>
+</tr>
+<tr>
+<td>F1_pm10_c06_md30</td>
+<td>10</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3374</td>
+<td>0.2634</td>
+<td>0.2935</td>
+<td>27.0</td>
+</tr>
+<tr>
+<td>F1_pm15_c055_md30</td>
+<td>15</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.3505</td>
+<td>0.2487</td>
+<td>0.2891</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td>F1_pm15_c06_md30</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3381</td>
+<td>0.2939</td>
+<td class="best">0.3114</td>
+<td>30.25</td>
+</tr>
+</tbody></table>
+  </div>
+
+  <h2>Experiment F2 - Prominence on F1-best</h2>
+  <div class="bestline">Best setting: F2_pm15_c06_p00_md30_s1, F1=0.3114</div>
+  <div class="card">
+    <h3>F2 Summary</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>marker_window_pm_sec</th>
+<th>confirm_threshold</th>
+<th>prominence_min</th>
+<th>context_span</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr>
+<td>F2_pm15_c06_p00_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.0</td>
+<td>1</td>
+<td>30</td>
+<td>0.3381</td>
+<td>0.2939</td>
+<td class="best">0.3114</td>
+<td>30.25</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p002_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.02</td>
+<td>1</td>
+<td>30</td>
+<td>0.3327</td>
+<td>0.2758</td>
+<td>0.2987</td>
+<td>29.25</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p004_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.04</td>
+<td>1</td>
+<td>30</td>
+<td>0.3296</td>
+<td>0.2683</td>
+<td>0.2932</td>
+<td>28.75</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p006_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.06</td>
+<td>1</td>
+<td>30</td>
+<td>0.3266</td>
+<td>0.2556</td>
+<td>0.2848</td>
+<td>27.5</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p008_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.08</td>
+<td>1</td>
+<td>30</td>
+<td>0.3347</td>
+<td>0.2556</td>
+<td>0.2885</td>
+<td>26.75</td>
+</tr>
+</tbody></table>
+  </div>
+
+  <h2>Experiment F3 - Marker + Slide Fusion</h2>
+  <div class="bestline">Best setting: F3_OR_sw20_pm15_c06_md30, F1=0.3088</div>
+  <div class="card">
+    <h3>F3 Summary</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>Rule</th>
+<th>slide_window_sec</th>
+<th>marker_window_pm_sec</th>
+<th>confirm_threshold</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr>
+<td>F3_OR_sw20_pm15_c06_md30</td>
+<td>OR</td>
+<td>20.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3316</td>
+<td>0.2939</td>
+<td class="best">0.3088</td>
+<td>30.75</td>
+</tr>
+<tr>
+<td>F3_OR_sw30_pm15_c06_md30</td>
+<td>OR</td>
+<td>30.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3316</td>
+<td>0.2939</td>
+<td class="best">0.3088</td>
+<td>30.75</td>
+</tr>
+<tr>
+<td>F3_AND_sw20_pm15_c06_md30</td>
+<td>AND</td>
+<td>20.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.625</td>
+<td>0.0333</td>
+<td>0.0631</td>
+<td>2.25</td>
 </tr>
 </tbody></table>
   </div>

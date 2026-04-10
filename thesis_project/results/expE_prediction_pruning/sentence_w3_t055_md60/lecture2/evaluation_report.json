@@ -1,63 +1,263 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 11,
+  "gt_count": 49,
   "pred_count": 67,
-  "TP": 5,
-  "FP": 62,
-  "FN": 6,
-  "precision": 0.07462686567164178,
-  "recall": 0.45454545454545453,
-  "f1": 0.1282051282051282,
+  "TP": 25,
+  "FP": 42,
+  "FN": 24,
+  "precision": 0.373134328358209,
+  "recall": 0.5102040816326531,
+  "f1": 0.4310344827586207,
   "matches": [
     {
-      "gt_index": 1,
-      "gt_time": 258,
-      "gt_time_str": "00:04:18",
-      "gt_title": "Project Team Formation and Collaboration",
-      "pred_index": 1,
-      "pred_time": 239.57,
-      "pred_similarity": 0.3544248938560486,
-      "abs_error_sec": 18.430000000000007
+      "gt_index": 3,
+      "gt_time": 340,
+      "gt_time_str": "00:05:40",
+      "gt_title": "S004\tA_Concept_Introduction\tProject Team Formation and Collaboration : Concept Definition",
+      "pred_index": 2,
+      "pred_time": 328.149,
+      "pred_similarity": 0.45808711647987366,
+      "abs_error_sec": 11.850999999999999
     },
     {
       "gt_index": 4,
-      "gt_time": 1489,
-      "gt_time_str": "00:24:49",
-      "gt_title": "Machine Learning Paradigms (Supervised vs Unsupervised)",
-      "pred_index": 13,
-      "pred_time": 1473.8,
-      "pred_similarity": 0.2651771605014801,
-      "abs_error_sec": 15.200000000000045
+      "gt_time": 482,
+      "gt_time_str": "00:08:02",
+      "gt_title": "S005\tC_Explanation_Shift_Major\tProject Team Formation and Collaboration : Theory-to-Practice Shift",
+      "pred_index": 3,
+      "pred_time": 479.299,
+      "pred_similarity": 0.5494403839111328,
+      "abs_error_sec": 2.701000000000022
     },
     {
-      "gt_index": 5,
-      "gt_time": 1767,
-      "gt_time_str": "00:29:27",
-      "gt_title": "Classification and Decision Making",
-      "pred_index": 16,
-      "pred_time": 1767.719,
-      "pred_similarity": 0.39006537199020386,
-      "abs_error_sec": 0.7190000000000509
+      "gt_index": 8,
+      "gt_time": 1006,
+      "gt_time_str": "00:16:46",
+      "gt_title": "S009\tA_Concept_Introduction\tData Representation and Mathematical Foundations of ML : Concept Definition",
+      "pred_index": 7,
+      "pred_time": 988.599,
+      "pred_similarity": 0.4119989573955536,
+      "abs_error_sec": 17.400999999999954
     },
     {
-      "gt_index": 6,
+      "gt_index": 9,
+      "gt_time": 1141,
+      "gt_time_str": "00:19:01",
+      "gt_title": "S010\tB_Worked_Example\tData Representation and Mathematical Foundations of ML : Machine Learning Concept",
+      "pred_index": 9,
+      "pred_time": 1126.3,
+      "pred_similarity": 0.5369822978973389,
+      "abs_error_sec": 14.700000000000045
+    },
+    {
+      "gt_index": 11,
+      "gt_time": 1696,
+      "gt_time_str": "00:28:16",
+      "gt_title": "S012\tE2_Minor_QA\tMachine Learning Paradigms (Supervised vs Unsupervised) : Minor Clarification",
+      "pred_index": 15,
+      "pred_time": 1706.969,
+      "pred_similarity": 0.25925561785697937,
+      "abs_error_sec": 10.969000000000051
+    },
+    {
+      "gt_index": 13,
+      "gt_time": 2098,
+      "gt_time_str": "00:34:58",
+      "gt_title": "S014\tE2_Minor_QA\tClassification and Decision Making : Minor Clarification",
+      "pred_index": 19,
+      "pred_time": 2078.61,
+      "pred_similarity": 0.5213393568992615,
+      "abs_error_sec": 19.389999999999873
+    },
+    {
+      "gt_index": 15,
+      "gt_time": 2322,
+      "gt_time_str": "00:38:42",
+      "gt_title": "S016\tC_Explanation_Shift_Major\tClassification and Decision Making : Theory-to-Practice Shift",
+      "pred_index": 21,
+      "pred_time": 2326.09,
+      "pred_similarity": 0.4547843337059021,
+      "abs_error_sec": 4.0900000000001455
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 2531,
+      "gt_time_str": "00:42:11",
+      "gt_title": "S019\tB_Worked_Example\tClassification and Decision Making : Worked Example",
+      "pred_index": 22,
+      "pred_time": 2530.87,
+      "pred_similarity": 0.3297349512577057,
+      "abs_error_sec": 0.13000000000010914
+    },
+    {
+      "gt_index": 19,
+      "gt_time": 2602,
+      "gt_time_str": "00:43:22",
+      "gt_title": "S020\tD_Practical_Important_Point\tClassification and Decision Making : Practical Guidance",
+      "pred_index": 23,
+      "pred_time": 2600.87,
+      "pred_similarity": 0.3490225672721863,
+      "abs_error_sec": 1.1300000000001091
+    },
+    {
+      "gt_index": 20,
       "gt_time": 2672,
       "gt_time_str": "00:44:32",
-      "gt_title": "Model Confidence and Prediction Metrics",
+      "gt_title": "S021\tE1_High_Value_QA\tModel Confidence and Prediction Metrics : High-value Clarification",
       "pred_index": 24,
       "pred_time": 2679.82,
       "pred_similarity": 0.2311561107635498,
       "abs_error_sec": 7.820000000000164
     },
     {
-      "gt_index": 10,
-      "gt_time": 5660,
-      "gt_time_str": "01:34:20",
-      "gt_title": "Demonstration and Q&A",
-      "pred_index": 55,
-      "pred_time": 5658.29,
-      "pred_similarity": 0.48511990904808044,
-      "abs_error_sec": 1.7100000000000364
+      "gt_index": 21,
+      "gt_time": 2740,
+      "gt_time_str": "00:45:40",
+      "gt_title": "S022\tC_Explanation_Shift_Major\tModel Confidence and Prediction Metrics : Theory-to-Practice Shift",
+      "pred_index": 25,
+      "pred_time": 2744.02,
+      "pred_similarity": 0.3035058379173279,
+      "abs_error_sec": 4.019999999999982
+    },
+    {
+      "gt_index": 23,
+      "gt_time": 2815,
+      "gt_time_str": "00:46:55",
+      "gt_title": "S024\tE1_High_Value_QA\tModel Confidence and Prediction Metrics : High-value Clarification",
+      "pred_index": 26,
+      "pred_time": 2832.949,
+      "pred_similarity": 0.25924909114837646,
+      "abs_error_sec": 17.94900000000007
+    },
+    {
+      "gt_index": 24,
+      "gt_time": 2999,
+      "gt_time_str": "00:49:59",
+      "gt_title": "S025\tA_Concept_Introduction\tModel Confidence and Prediction Metrics : Model Training",
+      "pred_index": 28,
+      "pred_time": 2991.889,
+      "pred_similarity": 0.46660861372947693,
+      "abs_error_sec": 7.110999999999876
+    },
+    {
+      "gt_index": 27,
+      "gt_time": 3341,
+      "gt_time_str": "00:55:41",
+      "gt_title": "S028\tA_Concept_Introduction\tModel Confidence and Prediction Metrics : Concept Definition",
+      "pred_index": 31,
+      "pred_time": 3367.06,
+      "pred_similarity": 0.3276888430118561,
+      "abs_error_sec": 26.059999999999945
+    },
+    {
+      "gt_index": 28,
+      "gt_time": 3638,
+      "gt_time_str": "01:00:38",
+      "gt_title": "S029\tA_Concept_Introduction\tActivation Functions and Model Outputs : Concept Definition",
+      "pred_index": 34,
+      "pred_time": 3617.03,
+      "pred_similarity": 0.46522897481918335,
+      "abs_error_sec": 20.9699999999998
+    },
+    {
+      "gt_index": 30,
+      "gt_time": 3706,
+      "gt_time_str": "01:01:46",
+      "gt_title": "S031\tE2_Minor_QA\tActivation Functions and Model Outputs : Minor Clarification",
+      "pred_index": 35,
+      "pred_time": 3713.61,
+      "pred_similarity": 0.4588416516780853,
+      "abs_error_sec": 7.610000000000127
+    },
+    {
+      "gt_index": 31,
+      "gt_time": 3825,
+      "gt_time_str": "01:03:45",
+      "gt_title": "S032\tB_Worked_Example\tActivation Functions and Model Outputs : Worked Example",
+      "pred_index": 36,
+      "pred_time": 3853.5,
+      "pred_similarity": 0.3959381580352783,
+      "abs_error_sec": 28.5
+    },
+    {
+      "gt_index": 32,
+      "gt_time": 4013,
+      "gt_time_str": "01:06:53",
+      "gt_title": "S033\tE1_High_Value_QA\tActivation Functions and Model Outputs : Machine Learning Concept",
+      "pred_index": 38,
+      "pred_time": 4019.82,
+      "pred_similarity": 0.438463032245636,
+      "abs_error_sec": 6.820000000000164
+    },
+    {
+      "gt_index": 34,
+      "gt_time": 4302,
+      "gt_time_str": "01:11:42",
+      "gt_title": "S035\tA_Concept_Introduction\tActivation Functions and Model Outputs : Concept Definition",
+      "pred_index": 41,
+      "pred_time": 4313.319,
+      "pred_similarity": 0.42725494503974915,
+      "abs_error_sec": 11.319000000000415
+    },
+    {
+      "gt_index": 38,
+      "gt_time": 4888,
+      "gt_time_str": "01:21:28",
+      "gt_title": "S039\tC_Explanation_Shift_Major\tModel Evaluation (ROC/AUC) : Theory-to-Practice Shift",
+      "pred_index": 46,
+      "pred_time": 4888.02,
+      "pred_similarity": 0.4194961190223694,
+      "abs_error_sec": 0.020000000000436557
+    },
+    {
+      "gt_index": 39,
+      "gt_time": 4950,
+      "gt_time_str": "01:22:30",
+      "gt_title": "S040\tA_Concept_Introduction\tModel Evaluation (ROC/AUC) : Concept Definition",
+      "pred_index": 47,
+      "pred_time": 4962.95,
+      "pred_similarity": 0.40004995465278625,
+      "abs_error_sec": 12.949999999999818
+    },
+    {
+      "gt_index": 40,
+      "gt_time": 5041,
+      "gt_time_str": "01:24:01",
+      "gt_title": "S041\tE1_High_Value_QA\tModel Evaluation (ROC/AUC) : Technical Clarification",
+      "pred_index": 48,
+      "pred_time": 5027.419,
+      "pred_similarity": 0.11048183590173721,
+      "abs_error_sec": 13.581000000000131
+    },
+    {
+      "gt_index": 43,
+      "gt_time": 5727,
+      "gt_time_str": "01:35:27",
+      "gt_title": "S044\tB_Worked_Example\tDemonstration and Q&A : Worked Example",
+      "pred_index": 56,
+      "pred_time": 5726.899,
+      "pred_similarity": 0.30817803740501404,
+      "abs_error_sec": 0.10099999999965803
+    },
+    {
+      "gt_index": 45,
+      "gt_time": 6150,
+      "gt_time_str": "01:42:30",
+      "gt_title": "S046\tE2_Minor_QA\tDemonstration and Q&A : Minor Clarification",
+      "pred_index": 61,
+      "pred_time": 6150.39,
+      "pred_similarity": 0.4385280907154083,
+      "abs_error_sec": 0.3900000000003274
+    },
+    {
+      "gt_index": 46,
+      "gt_time": 6235,
+      "gt_time_str": "01:43:55",
+      "gt_title": "S047\tA_Concept_Introduction\tDemonstration and Q&A : Concept Definition",
+      "pred_index": 62,
+      "pred_time": 6229.879,
+      "pred_similarity": 0.4245832562446594,
+      "abs_error_sec": 5.121000000000095
     }
   ]
 }

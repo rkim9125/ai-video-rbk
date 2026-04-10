@@ -1,0 +1,5 @@
+Setting,Threshold,Local Minima,Min-distance,Prominence,Precision,Recall,F1,Predicted Boundaries,Interpretation
+E1,0.55,Yes,20s,-,0.2481,0.7354,0.3702,102.75,baseline pruning
+E2,0.55,Yes,30s,-,0.2905,0.6923,0.4083,82.75,fewer close duplicates
+E3,0.55,Yes,45s,-,0.3082,0.5586,0.3954,62.0,stronger suppression
+E4,0.55,Yes,60s,-,0.3229,0.472,0.3821,50.25,very strict spacing

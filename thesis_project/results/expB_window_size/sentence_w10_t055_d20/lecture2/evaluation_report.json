@@ -1,10 +1,10 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 11,
+  "gt_count": 49,
   "pred_count": 2,
   "TP": 0,
   "FP": 2,
-  "FN": 11,
+  "FN": 49,
   "precision": 0.0,
   "recall": 0.0,
   "f1": 0.0,

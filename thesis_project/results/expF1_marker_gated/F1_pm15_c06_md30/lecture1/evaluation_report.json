@@ -1,63 +1,123 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 9,
+  "gt_count": 33,
   "pred_count": 33,
-  "TP": 5,
-  "FP": 28,
-  "FN": 4,
-  "precision": 0.15151515151515152,
-  "recall": 0.5555555555555556,
-  "f1": 0.2380952380952381,
+  "TP": 11,
+  "FP": 22,
+  "FN": 22,
+  "precision": 0.3333333333333333,
+  "recall": 0.3333333333333333,
+  "f1": 0.3333333333333333,
   "matches": [
     {
       "gt_index": 2,
-      "gt_time": 584,
-      "gt_time_str": "00:09:44",
-      "gt_title": "Project Roadmap and Team Formation",
+      "gt_time": 612,
+      "gt_time_str": "00:10:12",
+      "gt_title": "S003\tB_Worked_Example\tProject Roadmap and Team Formation : Software Engineering Example",
       "pred_index": 3,
       "pred_time": 595.63,
       "pred_similarity": 0.531536340713501,
-      "abs_error_sec": 11.629999999999995
+      "abs_error_sec": 16.370000000000005
     },
     {
       "gt_index": 4,
-      "gt_time": 1424,
-      "gt_time_str": "00:23:44",
-      "gt_title": "Interactive Discussion and Problem Definition",
-      "pred_index": 10,
-      "pred_time": 1450.979,
-      "pred_similarity": 0.48386648297309875,
-      "abs_error_sec": 26.979000000000042
+      "gt_time": 1058,
+      "gt_time_str": "00:17:38",
+      "gt_title": "S005\tE1_High_Value_QA\tDesign Principles and MVP Approach : Machine Learning Concept",
+      "pred_index": 7,
+      "pred_time": 1036.349,
+      "pred_similarity": 0.544558584690094,
+      "abs_error_sec": 21.651000000000067
     },
     {
       "gt_index": 6,
-      "gt_time": 3435,
-      "gt_time_str": "00:57:15",
-      "gt_title": "Machine Learning Paradigms and Generalization",
+      "gt_time": 1370,
+      "gt_time_str": "00:22:50",
+      "gt_title": "S007\tE2_Minor_QA\tDesign Principles and MVP Approach : Minor Clarification",
+      "pred_index": 9,
+      "pred_time": 1353.819,
+      "pred_similarity": 0.3672398328781128,
+      "abs_error_sec": 16.18100000000004
+    },
+    {
+      "gt_index": 10,
+      "gt_time": 2217,
+      "gt_time_str": "00:36:57",
+      "gt_title": "S011\tA_Concept_Introduction\tInteractive Discussion and Problem Definition : Project Design",
+      "pred_index": 13,
+      "pred_time": 2187.989,
+      "pred_similarity": 0.5067239999771118,
+      "abs_error_sec": 29.010999999999967
+    },
+    {
+      "gt_index": 11,
+      "gt_time": 2546,
+      "gt_time_str": "00:42:26",
+      "gt_title": "S012\tD_Practical_Important_Point\tInteractive Discussion and Problem Definition : Practical Guidance",
+      "pred_index": 15,
+      "pred_time": 2534.0,
+      "pred_similarity": 0.4940652847290039,
+      "abs_error_sec": 12.0
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 3443,
+      "gt_time_str": "00:57:23",
+      "gt_title": "S019\tA_Concept_Introduction\tMachine Learning Paradigms and Generalization : Concept Definition",
       "pred_index": 20,
       "pred_time": 3458.84,
       "pred_similarity": 0.48890066146850586,
-      "abs_error_sec": 23.840000000000146
+      "abs_error_sec": 15.840000000000146
     },
     {
-      "gt_index": 7,
-      "gt_time": 3819,
-      "gt_time_str": "01:03:39",
-      "gt_title": "Self-adaptive Systems and Complexity",
+      "gt_index": 20,
+      "gt_time": 3838,
+      "gt_time_str": "01:03:58",
+      "gt_title": "S021\tE2_Minor_QA\tSelf-adaptive Systems and Complexity : Minor Clarification",
       "pred_index": 23,
       "pred_time": 3822.6,
       "pred_similarity": 0.4337000250816345,
-      "abs_error_sec": 3.599999999999909
+      "abs_error_sec": 15.400000000000091
     },
     {
-      "gt_index": 8,
-      "gt_time": 4197,
-      "gt_time_str": "01:09:57",
-      "gt_title": "Data Quality and Engineering Judgment",
+      "gt_index": 22,
+      "gt_time": 4080,
+      "gt_time_str": "01:08:00",
+      "gt_title": "S023\tB_Worked_Example\tSelf-adaptive Systems and Complexity : Worked Example",
+      "pred_index": 24,
+      "pred_time": 4054.6,
+      "pred_similarity": 0.5266852974891663,
+      "abs_error_sec": 25.40000000000009
+    },
+    {
+      "gt_index": 23,
+      "gt_time": 4180,
+      "gt_time_str": "01:09:40",
+      "gt_title": "S024\tA_Concept_Introduction\tSelf-adaptive Systems and Complexity : Concept Definition",
       "pred_index": 26,
       "pred_time": 4209.609,
       "pred_similarity": 0.5945364832878113,
-      "abs_error_sec": 12.609000000000378
+      "abs_error_sec": 29.60900000000038
+    },
+    {
+      "gt_index": 28,
+      "gt_time": 4570,
+      "gt_time_str": "01:16:10",
+      "gt_title": "S029\tA_Concept_Introduction\tData Quality and Engineering Judgment : Concept Definition",
+      "pred_index": 28,
+      "pred_time": 4589.02,
+      "pred_similarity": 0.5127042531967163,
+      "abs_error_sec": 19.020000000000437
+    },
+    {
+      "gt_index": 30,
+      "gt_time": 4688,
+      "gt_time_str": "01:18:08",
+      "gt_title": "S031\tE1_High_Value_QA\tData Quality and Engineering Judgment : NumPy Array Operation",
+      "pred_index": 29,
+      "pred_time": 4680.41,
+      "pred_similarity": 0.39647072553634644,
+      "abs_error_sec": 7.5900000000001455
     }
   ]
 }

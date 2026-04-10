@@ -1,33 +1,103 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 9,
+  "gt_count": 34,
   "pred_count": 24,
-  "TP": 2,
-  "FP": 22,
-  "FN": 7,
-  "precision": 0.08333333333333333,
-  "recall": 0.2222222222222222,
-  "f1": 0.12121212121212122,
+  "TP": 9,
+  "FP": 15,
+  "FN": 25,
+  "precision": 0.375,
+  "recall": 0.2647058823529412,
+  "f1": 0.31034482758620696,
   "matches": [
     {
-      "gt_index": 0,
-      "gt_time": 12,
-      "gt_time_str": "00:00:12",
-      "gt_title": "Review of Tutorials",
-      "pred_index": 0,
-      "pred_time": 13.0,
-      "pred_similarity": 1.0,
-      "abs_error_sec": 1.0
+      "gt_index": 6,
+      "gt_time": 964,
+      "gt_time_str": "00:16:04",
+      "gt_title": "S007\tD_Practical_Important_Point\tCNN Introduction : Practical Guidance",
+      "pred_index": 4,
+      "pred_time": 961.08,
+      "pred_similarity": 0.5396121740341187,
+      "abs_error_sec": 2.919999999999959
     },
     {
-      "gt_index": 5,
-      "gt_time": 3135,
-      "gt_time_str": "00:52:15",
-      "gt_title": "Flattening and Fully Connected Layers",
-      "pred_index": 13,
-      "pred_time": 3129.37,
-      "pred_similarity": 0.46226346492767334,
-      "abs_error_sec": 5.630000000000109
+      "gt_index": 7,
+      "gt_time": 1145,
+      "gt_time_str": "00:19:05",
+      "gt_title": "S008\tE2_Minor_QA\tCNN Introduction : Minor Clarification",
+      "pred_index": 5,
+      "pred_time": 1172.089,
+      "pred_similarity": 0.4682219624519348,
+      "abs_error_sec": 27.088999999999942
+    },
+    {
+      "gt_index": 11,
+      "gt_time": 1979,
+      "gt_time_str": "00:32:59",
+      "gt_title": "S012\tB_Worked_Example\tConvolution Operations : Worked Example",
+      "pred_index": 7,
+      "pred_time": 1982.29,
+      "pred_similarity": 0.5362098813056946,
+      "abs_error_sec": 3.2899999999999636
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 2672,
+      "gt_time_str": "00:44:32",
+      "gt_title": "S019\tA_Concept_Introduction\tPooling Layers : Concept Definition",
+      "pred_index": 10,
+      "pred_time": 2643.389,
+      "pred_similarity": 0.5632650852203369,
+      "abs_error_sec": 28.610999999999876
+    },
+    {
+      "gt_index": 19,
+      "gt_time": 2720,
+      "gt_time_str": "00:45:20",
+      "gt_title": "S020\tE2_Minor_QA\tPooling Layers : Minor Clarification",
+      "pred_index": 11,
+      "pred_time": 2709.52,
+      "pred_similarity": 0.5623241662979126,
+      "abs_error_sec": 10.480000000000018
+    },
+    {
+      "gt_index": 22,
+      "gt_time": 2949,
+      "gt_time_str": "00:49:09",
+      "gt_title": "S023\tE2_Minor_QA\tPooling Layers : Minor Clarification",
+      "pred_index": 12,
+      "pred_time": 2978.709,
+      "pred_similarity": 0.5203301310539246,
+      "abs_error_sec": 29.708999999999833
+    },
+    {
+      "gt_index": 25,
+      "gt_time": 3489,
+      "gt_time_str": "00:58:09",
+      "gt_title": "S026\tE1_High_Value_QA\tFlattening and Fully Connected Layers : High-value Clarification",
+      "pred_index": 14,
+      "pred_time": 3475.719,
+      "pred_similarity": 0.5313906073570251,
+      "abs_error_sec": 13.280999999999949
+    },
+    {
+      "gt_index": 29,
+      "gt_time": 4084,
+      "gt_time_str": "01:08:04",
+      "gt_title": "S030\tE1_High_Value_QA\tReLU Activation : Technical Clarification",
+      "pred_index": 16,
+      "pred_time": 4059.83,
+      "pred_similarity": 0.5629393458366394,
+      "abs_error_sec": 24.170000000000073
+    },
+    {
+      "gt_index": 32,
+      "gt_time": 5014,
+      "gt_time_str": "01:23:34",
+      "gt_title": "S033\tE2_Minor_QA\tModel Building Workflow : Minor Clarification",
+      "pred_index": 21,
+      "pred_time": 5026.49,
+      "pred_similarity": 0.5640416741371155,
+      "abs_error_sec": 12.489999999999782
     }
   ]
 }

@@ -1,0 +1,33 @@
+00:05:22	S001	B_Worked_Example	Introduction and Administrative Overview : Worked Example
+00:05:53	S002	E2_Minor_QA	Technical Infrastructure and Prerequisite Review : Minor Clarification
+00:10:12	S003	B_Worked_Example	Project Roadmap and Team Formation : Software Engineering Example
+00:11:22	S004	E1_High_Value_QA	Project Roadmap and Team Formation : Technical Clarification
+00:17:38	S005	E1_High_Value_QA	Design Principles and MVP Approach : Machine Learning Concept
+00:20:47	S006	E2_Minor_QA	Design Principles and MVP Approach : Minor Clarification
+00:22:50	S007	E2_Minor_QA	Design Principles and MVP Approach : Minor Clarification
+00:24:47	S008	C_Explanation_Shift_Major	Interactive Discussion and Problem Definition : Theory-to-Practice Shift
+00:29:57	S009	A_Concept_Introduction	Interactive Discussion and Problem Definition : Concept Definition
+00:34:57	S010	E2_Minor_QA	Interactive Discussion and Problem Definition : Minor Clarification
+00:36:57	S011	A_Concept_Introduction	Interactive Discussion and Problem Definition : Project Design
+00:42:26	S012	D_Practical_Important_Point	Interactive Discussion and Problem Definition : Practical Guidance
+00:43:51	S013	E2_Minor_QA	Interactive Discussion and Problem Definition : Minor Clarification
+00:44:27	S014	B_Worked_Example	Interactive Discussion and Problem Definition : Worked Example
+00:46:19	S015	B_Worked_Example	Fundamentals of Generative AI : DataFrame Processing Example
+00:47:05	S016	E1_High_Value_QA	Fundamentals of Generative AI : Technical Clarification
+00:47:42	S017	E2_Minor_QA	Fundamentals of Generative AI : Minor Clarification
+00:50:21	S018	A_Concept_Introduction	Fundamentals of Generative AI : AI Definition
+00:57:23	S019	A_Concept_Introduction	Machine Learning Paradigms and Generalization : Concept Definition
+01:00:49	S020	E2_Minor_QA	Machine Learning Paradigms and Generalization : Minor Clarification
+01:03:58	S021	E2_Minor_QA	Self-adaptive Systems and Complexity : Minor Clarification
+01:05:35	S022	C_Explanation_Shift_Major	Self-adaptive Systems and Complexity : Theory-to-Practice Shift
+01:08:00	S023	B_Worked_Example	Self-adaptive Systems and Complexity : Worked Example
+01:09:40	S024	A_Concept_Introduction	Self-adaptive Systems and Complexity : Concept Definition
+01:13:00	S025	B_Worked_Example	Data Quality and Engineering Judgment : Self-driving Car Example
+01:14:23	S026	B_Worked_Example	Data Quality and Engineering Judgment : Worked Example
+01:14:48	S027	C_Explanation_Shift_Major	Data Quality and Engineering Judgment : Theory-to-Practice Shift
+01:15:26	S028	E2_Minor_QA	Data Quality and Engineering Judgment : Minor Clarification
+01:16:10	S029	A_Concept_Introduction	Data Quality and Engineering Judgment : Concept Definition
+01:17:02	S030	E2_Minor_QA	Data Quality and Engineering Judgment : Minor Clarification
+01:18:08	S031	E1_High_Value_QA	Data Quality and Engineering Judgment : NumPy Array Operation
+01:19:53	S032	E2_Minor_QA	Data Quality and Engineering Judgment : Minor Clarification
+01:21:45	S033	E2_Minor_QA	Data Quality and Engineering Judgment : Minor Clarification

@@ -1,0 +1,34 @@
+00:01:24	S001	B_Worked_Example	Review of Tutorials : Worked Example
+00:02:00	S002	A_Concept_Introduction	Review of Tutorials : Concept Definition
+00:03:44	S003	E2_Minor_QA	Review of Tutorials : Minor Clarification
+00:07:26	S004	E2_Minor_QA	Image Data as Matrices : Minor Clarification
+00:09:27	S005	E2_Minor_QA	Image Data as Matrices : Minor Clarification
+00:10:03	S006	C_Explanation_Shift_Major	Image Data as Matrices : Theory-to-Practice Shift
+00:16:04	S007	D_Practical_Important_Point	CNN Introduction : Practical Guidance
+00:19:05	S008	E2_Minor_QA	CNN Introduction : Minor Clarification
+00:25:55	S009	B_Worked_Example	Convolution Operations : Worked Example
+00:26:37	S010	C_Explanation_Shift_Major	Convolution Operations : Theory-to-Practice Shift
+00:30:28	S011	A_Concept_Introduction	Convolution Operations : Concept Definition
+00:32:59	S012	B_Worked_Example	Convolution Operations : Worked Example
+00:34:21	S013	C_Explanation_Shift_Major	Convolution Operations : Theory-to-Practice Shift
+00:36:55	S014	E2_Minor_QA	Convolution Operations : Minor Clarification
+00:38:37	S015	A_Concept_Introduction	Convolution Operations : Core Concept
+00:39:07	S016	B_Worked_Example	Pooling Layers : Worked Example
+00:41:05	S017	A_Concept_Introduction	Pooling Layers : Concept Definition
+00:41:54	S018	B_Worked_Example	Pooling Layers : Worked Example
+00:44:32	S019	A_Concept_Introduction	Pooling Layers : Concept Definition
+00:45:20	S020	E2_Minor_QA	Pooling Layers : Minor Clarification
+00:47:09	S021	E2_Minor_QA	Pooling Layers : Minor Clarification
+00:48:01	S022	E1_High_Value_QA	Pooling Layers : Machine Learning Concept
+00:49:09	S023	E2_Minor_QA	Pooling Layers : Minor Clarification
+00:50:42	S024	A_Concept_Introduction	Pooling Layers : Concept Definition
+00:54:53	S025	E2_Minor_QA	Flattening and Fully Connected Layers : Minor Clarification
+00:58:09	S026	E1_High_Value_QA	Flattening and Fully Connected Layers : High-value Clarification
+01:01:02	S027	C_Explanation_Shift_Major	Flattening and Fully Connected Layers : Theory-to-Practice Shift
+01:02:44	S028	C_Explanation_Shift_Major	Flattening and Fully Connected Layers : Theory-to-Practice Shift
+01:03:30	S029	A_Concept_Introduction	Flattening and Fully Connected Layers : Concept Definition
+01:08:04	S030	E1_High_Value_QA	ReLU Activation : Technical Clarification
+01:10:46	S031	B_Worked_Example	ReLU Activation : Worked Example
+01:22:01	S032	C_Explanation_Shift_Major	Model Building Workflow : Theory-to-Practice Shift
+01:23:34	S033	E2_Minor_QA	Model Building Workflow : Minor Clarification
+01:29:24	S034	E2_Minor_QA	Implementation Tips / Q&A : Minor Clarification

@@ -1,23 +1,63 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 10,
+  "gt_count": 24,
   "pred_count": 20,
-  "TP": 1,
-  "FP": 19,
-  "FN": 9,
-  "precision": 0.05,
-  "recall": 0.1,
-  "f1": 0.06666666666666667,
+  "TP": 5,
+  "FP": 15,
+  "FN": 19,
+  "precision": 0.25,
+  "recall": 0.20833333333333334,
+  "f1": 0.22727272727272727,
   "matches": [
     {
-      "gt_index": 1,
-      "gt_time": 255,
-      "gt_time_str": "00:04:15",
-      "gt_title": "Linear Regression",
-      "pred_index": 1,
-      "pred_time": 277.25,
-      "pred_similarity": 0.593148946762085,
-      "abs_error_sec": 22.25
+      "gt_index": 0,
+      "gt_time": 384,
+      "gt_time_str": "00:06:24",
+      "gt_title": "S001\tE2_Minor_QA\tLinear Regression : Minor Clarification",
+      "pred_index": 2,
+      "pred_time": 384.45,
+      "pred_similarity": 0.21519267559051514,
+      "abs_error_sec": 0.44999999999998863
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 1070,
+      "gt_time_str": "00:17:50",
+      "gt_title": "S007\tD_Practical_Important_Point\tGradient Descent : Practical Guidance",
+      "pred_index": 5,
+      "pred_time": 1085.449,
+      "pred_similarity": 0.5824108123779297,
+      "abs_error_sec": 15.44900000000007
+    },
+    {
+      "gt_index": 13,
+      "gt_time": 3003,
+      "gt_time_str": "00:50:03",
+      "gt_title": "S014\tA_Concept_Introduction\tMulti-Layer Perceptrons : Concept Definition",
+      "pred_index": 13,
+      "pred_time": 3032.06,
+      "pred_similarity": 0.4786853492259979,
+      "abs_error_sec": 29.059999999999945
+    },
+    {
+      "gt_index": 16,
+      "gt_time": 3664,
+      "gt_time_str": "01:01:04",
+      "gt_title": "S017\tE1_High_Value_QA\tMulti-Layer Perceptrons : Technical Clarification",
+      "pred_index": 17,
+      "pred_time": 3657.02,
+      "pred_similarity": 0.5867378115653992,
+      "abs_error_sec": 6.980000000000018
+    },
+    {
+      "gt_index": 17,
+      "gt_time": 3818,
+      "gt_time_str": "01:03:38",
+      "gt_title": "S018\tA_Concept_Introduction\tBackpropagation : Concept Definition",
+      "pred_index": 18,
+      "pred_time": 3790.77,
+      "pred_similarity": 0.3728134036064148,
+      "abs_error_sec": 27.230000000000018
     }
   ]
 }

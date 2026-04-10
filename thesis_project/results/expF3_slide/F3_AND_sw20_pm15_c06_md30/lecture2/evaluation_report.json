@@ -1,12 +1,43 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 11,
+  "gt_count": 49,
   "pred_count": 3,
-  "TP": 0,
-  "FP": 3,
-  "FN": 11,
-  "precision": 0.0,
-  "recall": 0.0,
-  "f1": 0.0,
-  "matches": []
+  "TP": 3,
+  "FP": 0,
+  "FN": 46,
+  "precision": 1.0,
+  "recall": 0.061224489795918366,
+  "f1": 0.11538461538461538,
+  "matches": [
+    {
+      "gt_index": 23,
+      "gt_time": 2815,
+      "gt_time_str": "00:46:55",
+      "gt_title": "S024\tE1_High_Value_QA\tModel Confidence and Prediction Metrics : High-value Clarification",
+      "pred_index": 0,
+      "pred_time": 2832.949,
+      "pred_similarity": 0.25924909114837646,
+      "abs_error_sec": 17.94900000000007
+    },
+    {
+      "gt_index": 30,
+      "gt_time": 3706,
+      "gt_time_str": "01:01:46",
+      "gt_title": "S031\tE2_Minor_QA\tActivation Functions and Model Outputs : Minor Clarification",
+      "pred_index": 1,
+      "pred_time": 3713.61,
+      "pred_similarity": 0.4588416516780853,
+      "abs_error_sec": 7.610000000000127
+    },
+    {
+      "gt_index": 36,
+      "gt_time": 4459,
+      "gt_time_str": "01:14:19",
+      "gt_title": "S037\tC_Explanation_Shift_Major\tActivation Functions and Model Outputs : Theory-to-Practice Shift",
+      "pred_index": 2,
+      "pred_time": 4486.669,
+      "pred_similarity": 0.5413839221000671,
+      "abs_error_sec": 27.66899999999987
+    }
+  ]
 }

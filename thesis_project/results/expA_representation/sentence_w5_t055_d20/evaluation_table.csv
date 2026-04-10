@@ -1,5 +1,5 @@
 Method,Lecture,Precision,Recall,F1,Predicted Boundaries,Ground Truth Boundaries,tp,fp,fn,tolerance_sec
-sentence_w5_t055_d20,lecture1,0.125,0.2222,0.16,16,9,2,14,7,30.0
-sentence_w5_t055_d20,lecture2,0.0909,0.2727,0.1364,33,11,3,30,8,30.0
-sentence_w5_t055_d20,lecture3,0.05,0.1,0.0667,20,10,1,19,9,30.0
-sentence_w5_t055_d20,lecture4,0.0588,0.1111,0.0769,17,9,1,16,8,30.0
+sentence_w5_t055_d20,lecture1,0.5,0.2424,0.3265,16,33,8,8,25,30.0
+sentence_w5_t055_d20,lecture2,0.3939,0.2653,0.3171,33,49,13,20,36,30.0
+sentence_w5_t055_d20,lecture3,0.2,0.1667,0.1818,20,24,4,16,20,30.0
+sentence_w5_t055_d20,lecture4,0.2353,0.1176,0.1569,17,34,4,13,30,30.0

@@ -1,12 +1,43 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 10,
+  "gt_count": 24,
   "pred_count": 13,
-  "TP": 0,
-  "FP": 13,
-  "FN": 10,
-  "precision": 0.0,
-  "recall": 0.0,
-  "f1": 0.0,
-  "matches": []
+  "TP": 3,
+  "FP": 10,
+  "FN": 21,
+  "precision": 0.23076923076923078,
+  "recall": 0.125,
+  "f1": 0.16216216216216217,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 384,
+      "gt_time_str": "00:06:24",
+      "gt_title": "S001\tE2_Minor_QA\tLinear Regression : Minor Clarification",
+      "pred_index": 0,
+      "pred_time": 384.45,
+      "pred_similarity": 0.21519267559051514,
+      "abs_error_sec": 0.44999999999998863
+    },
+    {
+      "gt_index": 13,
+      "gt_time": 3003,
+      "gt_time_str": "00:50:03",
+      "gt_title": "S014\tA_Concept_Introduction\tMulti-Layer Perceptrons : Concept Definition",
+      "pred_index": 7,
+      "pred_time": 3032.06,
+      "pred_similarity": 0.4786853492259979,
+      "abs_error_sec": 29.059999999999945
+    },
+    {
+      "gt_index": 17,
+      "gt_time": 3818,
+      "gt_time_str": "01:03:38",
+      "gt_title": "S018\tA_Concept_Introduction\tBackpropagation : Concept Definition",
+      "pred_index": 11,
+      "pred_time": 3790.77,
+      "pred_similarity": 0.3728134036064148,
+      "abs_error_sec": 27.230000000000018
+    }
+  ]
 }

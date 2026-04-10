@@ -258,6 +258,58 @@ In Experiment F3, the marker-gated framework is extended by incorporating slide 
 
 ---
 
+## GT protocol rerun (coarse vs hierarchical fine GT)
+
+To check whether section-level GT underestimates clip-oriented detection quality, Experiments **F1–F3** were rerun on two annotation protocols:
+- **Coarse GT:** `ai_video_rbk/annotations_corrected` (section-level boundaries)
+- **Fine GT:** `ai_video_rbk/annotations_fine` (hierarchical labels: `Section : Subtopic`)
+
+### Best-setting comparison
+| Experiment | Coarse best setting | Coarse best F1 | Fine best setting | Fine best F1 | Δ (Fine - Coarse) |
+|------------|---------------------|----------------|-------------------|--------------|-------------------|
+| F1 | `F1_pm15_c06_md30` | 0.1802 | `F1_pm15_c06_md30` | 0.3114 | +0.1312 |
+| F2 | `F2_pm15_c06_p00_md30_s1` | 0.1802 | `F2_pm15_c06_p00_md30_s1` | 0.3114 | +0.1312 |
+| F3 | `F3_OR_sw20_pm15_c06_md30` (=`sw30`) | 0.1935 | `F3_OR_sw20_pm15_c06_md30` (=`sw30`) | 0.3088 | +0.1153 |
+
+### Interpretation (important)
+- Fine GT substantially raises measured precision/F1 for F1–F3, consistent with the hypothesis that many former "false positives" are actually valid **clip-worthy fine transitions** under a finer annotation protocol.
+- Under fine GT, **F1/F2 best (0.3114)** slightly exceeds **F3 OR best (0.3088)**; this suggests slide cues are still useful structurally, but are not automatically superior when the semantic-marker pair already aligns well with fine-grained labels.
+- F2 still peaks at `prominence=0.00`, confirming the earlier conclusion: additional prominence filtering does not improve this pipeline on this dataset.
+
+### Comparison artifacts
+- Coarse snapshots: `tables/expF/expF1_marker_gated_summary_coarse.csv`, `tables/expF/expF2_prominence_summary_coarse.csv`, `tables/expF/expF3_slide_summary_coarse.csv`
+- Fine snapshots: `tables/expF/expF1_marker_gated_summary_fine.csv`, `tables/expF/expF2_prominence_summary_fine.csv`, `tables/expF/expF3_slide_summary_fine.csv`
+- Side-by-side HTML: `tables/expF/expF_gt_comparison.html`
+
+---
+
+## Full rerun on fine GT (A-F)
+
+All experiments were rerun using `ai_video_rbk/annotations_fine` to align evaluation with clip-oriented, hierarchical boundaries (`Section : Subtopic`).
+
+### Best setting per experiment (fine GT)
+| Experiment | Best setting | Precision | Recall | F1 | Avg pred / lecture |
+|------------|--------------|-----------|--------|----|--------------------|
+| A | `A2` (time-based, 10s) | 0.0713 | 0.2644 | 0.1120 | - |
+| B | `window_size=3` | 0.2481 | 0.7354 | 0.3702 | 102.75 |
+| C | `Threshold + Local minima + Min-distance` | 0.2481 | 0.7354 | 0.3702 | 102.75 |
+| D | `Baseline (semantic only)` | 0.2481 | 0.7354 | 0.3702 | 102.75 |
+| E | `E2 (min-distance=30s)` | 0.2905 | 0.6923 | **0.4083** | 82.75 |
+| F1 | `F1_pm15_c06_md30` | 0.3381 | 0.2939 | 0.3114 | 30.25 |
+| F2 | `F2_pm15_c06_p00_md30_s1` | 0.3381 | 0.2939 | 0.3114 | 30.25 |
+| F3 | `F3_OR_sw20_pm15_c06_md30` (=`sw30`) | 0.3316 | 0.2939 | 0.3088 | 30.75 |
+
+### Key observations
+- Under fine GT, **E2 (30s pruning)** gives the highest macro F1 among A-F (**0.4083**), indicating that redundancy control remains highly effective.
+- F-branch methods (F1/F2/F3) become substantially stronger than under coarse GT, but in this run they do not surpass E2 macro F1.
+- F2 still peaks at `prominence=0.00`, reinforcing that added prominence filtering does not help on this dataset/settings.
+
+### Updated reports
+- Main report (A-F): `tables/experiment_report.html`
+- F coarse-vs-fine comparison report: `tables/expF/expF_gt_comparison.html`
+
+---
+
 ## Cross-cutting summary (A–E, + F1, + F2, + F3)
 
 1. **Representation (A) and window size (B)** did not yield large F1 gains alone; **rules (C) and pruning (E)** most directly control **prediction density**.
@@ -265,7 +317,8 @@ In Experiment F3, the marker-gated framework is extended by incorporating slide 
 3. **Follow-up manual analysis** (separate artifacts): many `spurious_far` cases resemble **fine-grained explanation shifts** rather than meaningless noise, motivating **coarse-aware detection (Experiment F)**.
 4. **F1** shows that **marker-primary + semantic validation** can improve F1 while keeping an interpretable design.
 5. **F2** (prominence on top of F1-best): on the tested grid, **no macro gain** vs F1-best; supports treating remaining errors as **not fully fixable by dip sharpness alone** and motivates **F3** (e.g. slide / richer cues), especially for **lecture4**.
-6. **F3** (slides + F1-best): **OR** rule improves **macro F1** and **lecture4** vs F1-best; **AND** rule is a **strict** ablation with near-zero F1 — consistent with **coarse GT** vs **misaligned slide/semantic timing**.
+6. **F3** (slides + F1-best): **OR** rule improves **macro F1** and **lecture4** vs F1-best under coarse GT; **AND** is a strict ablation with near-zero F1.
+7. Re-running F1–F3 on **hierarchical fine GT** materially changes absolute metrics (higher F1), showing that GT granularity is not a minor detail but a core evaluation design choice for clip-oriented segmentation.
 
 ---
 
@@ -278,9 +331,9 @@ In Experiment F3, the marker-gated framework is extended by incorporating slide 
 | C | `expC_rule_summary.csv` | `results/expC_boundary_rule/` |
 | D | `expD_model_comparison.csv` | `results/expD_structural/` |
 | E | `expE_pruning_summary.csv` | `results/expE_prediction_pruning/` |
-| F1 | `expF1_marker_gated_summary.csv` (+ `expF1_marker_gated_lecture_f1.csv`, `expF1_marker_gated_lecture_delta_vs_baseline.csv`, `expF1_marker_gated_improvement_counts.csv`) | `results/expF1_marker_gated/` |
-| F2 | `expF2_prominence_summary.csv` (+ `expF2_prominence_lecture_f1.csv`, `expF2_prominence_lecture_improvement_vs_prom0.csv`) | `results/expF2_prominence/` |
-| F3 | `expF3_slide_summary.csv` (+ `expF3_slide_lecture_f1.csv`, `expF3_slide_lecture_delta_vs_f1best.csv`) | `results/expF3_slide/` |
+| F1 | `expF1_marker_gated_summary.csv` (+ lecture tables) and coarse/fine snapshots in `expF/` | `results/expF1_marker_gated/` |
+| F2 | `expF2_prominence_summary.csv` (+ lecture tables) and coarse/fine snapshots in `expF/` | `results/expF2_prominence/` |
+| F3 | `expF3_slide_summary.csv` (+ lecture tables) and coarse/fine snapshots in `expF/` | `results/expF3_slide/` |
 
 Combined HTML report: `tables/experiment_report.html`  
 Experiment F proposal: `tables/experiment_F_coarse_aware_proposal.md`

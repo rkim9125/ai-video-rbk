@@ -1,0 +1,6 @@
+Setting,marker_window_pm_sec,confirm_threshold,prominence_min,context_span,min_distance_sec,Precision,Recall,F1,Predicted Boundaries
+F2_pm15_c06_p00_md30_s1,15,0.6,0.0,1,30,0.3381,0.2939,0.3114,30.25
+F2_pm15_c06_p002_md30_s1,15,0.6,0.02,1,30,0.3327,0.2758,0.2987,29.25
+F2_pm15_c06_p004_md30_s1,15,0.6,0.04,1,30,0.3296,0.2683,0.2932,28.75
+F2_pm15_c06_p006_md30_s1,15,0.6,0.06,1,30,0.3266,0.2556,0.2848,27.5
+F2_pm15_c06_p008_md30_s1,15,0.6,0.08,1,30,0.3347,0.2556,0.2885,26.75

@@ -1,23 +1,53 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 9,
+  "gt_count": 34,
   "pred_count": 17,
-  "TP": 1,
-  "FP": 16,
-  "FN": 8,
-  "precision": 0.058823529411764705,
-  "recall": 0.1111111111111111,
-  "f1": 0.07692307692307691,
+  "TP": 4,
+  "FP": 13,
+  "FN": 30,
+  "precision": 0.23529411764705882,
+  "recall": 0.11764705882352941,
+  "f1": 0.15686274509803924,
   "matches": [
     {
-      "gt_index": 7,
-      "gt_time": 4510,
-      "gt_time_str": "01:15:10",
-      "gt_title": "Model Building Workflow",
-      "pred_index": 11,
-      "pred_time": 4535.56,
-      "pred_similarity": 0.33333879709243774,
-      "abs_error_sec": 25.5600000000004
+      "gt_index": 1,
+      "gt_time": 120,
+      "gt_time_str": "00:02:00",
+      "gt_title": "S002\tA_Concept_Introduction\tReview of Tutorials : Concept Definition",
+      "pred_index": 0,
+      "pred_time": 128.88,
+      "pred_similarity": 0.3940759301185608,
+      "abs_error_sec": 8.879999999999995
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 446,
+      "gt_time_str": "00:07:26",
+      "gt_title": "S004\tE2_Minor_QA\tImage Data as Matrices : Minor Clarification",
+      "pred_index": 1,
+      "pred_time": 468.32,
+      "pred_similarity": 0.524170994758606,
+      "abs_error_sec": 22.319999999999993
+    },
+    {
+      "gt_index": 26,
+      "gt_time": 3662,
+      "gt_time_str": "01:01:02",
+      "gt_title": "S027\tC_Explanation_Shift_Major\tFlattening and Fully Connected Layers : Theory-to-Practice Shift",
+      "pred_index": 7,
+      "pred_time": 3657.729,
+      "pred_similarity": 0.39560666680336,
+      "abs_error_sec": 4.2710000000001855
+    },
+    {
+      "gt_index": 29,
+      "gt_time": 4084,
+      "gt_time_str": "01:08:04",
+      "gt_title": "S030\tE1_High_Value_QA\tReLU Activation : Technical Clarification",
+      "pred_index": 8,
+      "pred_time": 4097.56,
+      "pred_similarity": 0.5236303806304932,
+      "abs_error_sec": 13.5600000000004
     }
   ]
 }

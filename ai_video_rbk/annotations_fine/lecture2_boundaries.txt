@@ -1,0 +1,49 @@
+00:00:45	S001	E2_Minor_QA	Recap and Administrative Updates : Minor Clarification
+00:03:05	S002	E2_Minor_QA	Recap and Administrative Updates : Minor Clarification
+00:04:37	S003	E2_Minor_QA	Project Team Formation and Collaboration : Minor Clarification
+00:05:40	S004	A_Concept_Introduction	Project Team Formation and Collaboration : Concept Definition
+00:08:02	S005	C_Explanation_Shift_Major	Project Team Formation and Collaboration : Theory-to-Practice Shift
+00:08:29	S006	A_Concept_Introduction	Project Team Formation and Collaboration : Machine Learning Concept
+00:12:53	S007	E2_Minor_QA	Engineers' Role in Autonomous Systems : Minor Clarification
+00:15:43	S008	E1_High_Value_QA	Engineers' Role in Autonomous Systems : Technical Clarification
+00:16:46	S009	A_Concept_Introduction	Data Representation and Mathematical Foundations of ML : Concept Definition
+00:19:01	S010	B_Worked_Example	Data Representation and Mathematical Foundations of ML : Machine Learning Concept
+00:25:49	S011	A_Concept_Introduction	Machine Learning Paradigms (Supervised vs Unsupervised) : Concept Definition
+00:28:16	S012	E2_Minor_QA	Machine Learning Paradigms (Supervised vs Unsupervised) : Minor Clarification
+00:30:22	S013	B_Worked_Example	Classification and Decision Making : Worked Example
+00:34:58	S014	E2_Minor_QA	Classification and Decision Making : Minor Clarification
+00:35:50	S015	A_Concept_Introduction	Classification and Decision Making : Concept Definition
+00:38:42	S016	C_Explanation_Shift_Major	Classification and Decision Making : Theory-to-Practice Shift
+00:40:35	S017	E1_High_Value_QA	Classification and Decision Making : Technical Clarification
+00:41:11	S018	B_Worked_Example	Classification and Decision Making : Self-driving Car Example
+00:42:11	S019	B_Worked_Example	Classification and Decision Making : Worked Example
+00:43:22	S020	D_Practical_Important_Point	Classification and Decision Making : Practical Guidance
+00:44:32	S021	E1_High_Value_QA	Model Confidence and Prediction Metrics : High-value Clarification
+00:45:40	S022	C_Explanation_Shift_Major	Model Confidence and Prediction Metrics : Theory-to-Practice Shift
+00:46:15	S023	E2_Minor_QA	Model Confidence and Prediction Metrics : Minor Clarification
+00:46:55	S024	E1_High_Value_QA	Model Confidence and Prediction Metrics : High-value Clarification
+00:49:59	S025	A_Concept_Introduction	Model Confidence and Prediction Metrics : Model Training
+00:52:42	S026	B_Worked_Example	Model Confidence and Prediction Metrics : Worked Example
+00:54:55	S027	B_Worked_Example	Model Confidence and Prediction Metrics : Worked Example
+00:55:41	S028	A_Concept_Introduction	Model Confidence and Prediction Metrics : Concept Definition
+01:00:38	S029	A_Concept_Introduction	Activation Functions and Model Outputs : Concept Definition
+01:01:16	S030	A_Concept_Introduction	Activation Functions and Model Outputs : Classification
+01:01:46	S031	E2_Minor_QA	Activation Functions and Model Outputs : Minor Clarification
+01:03:45	S032	B_Worked_Example	Activation Functions and Model Outputs : Worked Example
+01:06:53	S033	E1_High_Value_QA	Activation Functions and Model Outputs : Machine Learning Concept
+01:09:52	S034	E2_Minor_QA	Activation Functions and Model Outputs : Minor Clarification
+01:11:42	S035	A_Concept_Introduction	Activation Functions and Model Outputs : Concept Definition
+01:12:33	S036	C_Explanation_Shift_Major	Activation Functions and Model Outputs : Theory-to-Practice Shift
+01:14:19	S037	C_Explanation_Shift_Major	Activation Functions and Model Outputs : Theory-to-Practice Shift
+01:20:03	S038	A_Concept_Introduction	Model Evaluation (ROC/AUC) : Concept Definition
+01:21:28	S039	C_Explanation_Shift_Major	Model Evaluation (ROC/AUC) : Theory-to-Practice Shift
+01:22:30	S040	A_Concept_Introduction	Model Evaluation (ROC/AUC) : Concept Definition
+01:24:01	S041	E1_High_Value_QA	Model Evaluation (ROC/AUC) : Technical Clarification
+01:29:43	S042	B_Worked_Example	Hyperparameters and Training Process : Worked Example
+01:33:46	S043	E2_Minor_QA	Hyperparameters and Training Process : Minor Clarification
+01:35:27	S044	B_Worked_Example	Demonstration and Q&A : Worked Example
+01:38:57	S045	E2_Minor_QA	Demonstration and Q&A : Minor Clarification
+01:42:30	S046	E2_Minor_QA	Demonstration and Q&A : Minor Clarification
+01:43:55	S047	A_Concept_Introduction	Demonstration and Q&A : Concept Definition
+01:44:30	S048	E2_Minor_QA	Demonstration and Q&A : Minor Clarification
+01:48:20	S049	E2_Minor_QA	Demonstration and Q&A : Minor Clarification

@@ -1,0 +1,469 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>F1-F3 GT Comparison</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; line-height: 1.45; }
+    h1, h2, h3 { margin: 10px 0; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .card { border: 1px solid #ddd; border-radius: 8px; padding: 14px; }
+    table { border-collapse: collapse; width: 100%; font-size: 13px; }
+    th, td { border: 1px solid #ddd; padding: 6px 8px; text-align: left; }
+    th { background: #f7f7f7; }
+    .bestrow td { background: #eefbea; }
+    .pos { color: #1d7a1d; font-weight: bold; }
+    .subtle { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Experiment F1-F3: Coarse vs Fine GT</h1>
+  <p class="subtle">Coarse GT: <code>ai_video_rbk/annotations_corrected</code> | Fine GT: <code>ai_video_rbk/annotations_fine</code></p>
+
+  <h2>Best-Setting Comparison</h2>
+  <table>
+<thead><tr>
+<th>Experiment</th>
+<th>Coarse Best Setting</th>
+<th>Coarse Best F1</th>
+<th>Fine Best Setting</th>
+<th>Fine Best F1</th>
+<th>Delta (Fine - Coarse)</th>
+</tr></thead><tbody>
+<tr>
+<td>F1</td>
+<td>F1_pm15_c06_md30</td>
+<td>0.1802</td>
+<td>F1_pm15_c06_md30</td>
+<td>0.3114</td>
+<td class="pos">+0.1312</td>
+</tr>
+<tr>
+<td>F2</td>
+<td>F2_pm15_c06_p00_md30_s1</td>
+<td>0.1802</td>
+<td>F2_pm15_c06_p00_md30_s1</td>
+<td>0.3114</td>
+<td class="pos">+0.1312</td>
+</tr>
+<tr>
+<td>F3</td>
+<td>F3_OR_sw20_pm15_c06_md30</td>
+<td>0.1935</td>
+<td>F3_OR_sw20_pm15_c06_md30</td>
+<td>0.3088</td>
+<td class="pos">+0.1153</td>
+</tr>
+</tbody></table>
+
+  <h2>F1 Marker-Gated</h2>
+  <div class="grid">
+    <div class="card"><h3>Coarse GT</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>marker_window_pm_sec</th>
+<th>semantic_confirm_threshold</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr>
+<td>F1_pm5_c055_md30</td>
+<td>5</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.0888</td>
+<td>0.101</td>
+<td>0.0921</td>
+<td>12.0</td>
+</tr>
+<tr>
+<td>F1_pm5_c06_md30</td>
+<td>5</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.0822</td>
+<td>0.1538</td>
+<td>0.1069</td>
+<td>18.5</td>
+</tr>
+<tr>
+<td>F1_pm10_c055_md30</td>
+<td>10</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.0959</td>
+<td>0.2015</td>
+<td>0.129</td>
+<td>20.5</td>
+</tr>
+<tr>
+<td>F1_pm10_c06_md30</td>
+<td>10</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.1059</td>
+<td>0.2997</td>
+<td>0.1562</td>
+<td>27.0</td>
+</tr>
+<tr>
+<td>F1_pm15_c055_md30</td>
+<td>15</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.1066</td>
+<td>0.2798</td>
+<td>0.153</td>
+<td>24.5</td>
+</tr>
+<tr class="bestrow">
+<td>F1_pm15_c06_md30</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.1187</td>
+<td>0.3803</td>
+<td>0.1802</td>
+<td>30.25</td>
+</tr>
+</tbody></table></div>
+    <div class="card"><h3>Fine GT</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>marker_window_pm_sec</th>
+<th>semantic_confirm_threshold</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr>
+<td>F1_pm5_c055_md30</td>
+<td>5</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.4047</td>
+<td>0.124</td>
+<td>0.1859</td>
+<td>12.0</td>
+</tr>
+<tr>
+<td>F1_pm5_c06_md30</td>
+<td>5</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3273</td>
+<td>0.1745</td>
+<td>0.2242</td>
+<td>18.5</td>
+</tr>
+<tr>
+<td>F1_pm10_c055_md30</td>
+<td>10</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.3535</td>
+<td>0.2078</td>
+<td>0.2606</td>
+<td>20.5</td>
+</tr>
+<tr>
+<td>F1_pm10_c06_md30</td>
+<td>10</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3374</td>
+<td>0.2634</td>
+<td>0.2935</td>
+<td>27.0</td>
+</tr>
+<tr>
+<td>F1_pm15_c055_md30</td>
+<td>15</td>
+<td>0.55</td>
+<td>30</td>
+<td>0.3505</td>
+<td>0.2487</td>
+<td>0.2891</td>
+<td>24.5</td>
+</tr>
+<tr class="bestrow">
+<td>F1_pm15_c06_md30</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3381</td>
+<td>0.2939</td>
+<td>0.3114</td>
+<td>30.25</td>
+</tr>
+</tbody></table></div>
+  </div>
+
+  <h2>F2 Prominence</h2>
+  <div class="grid">
+    <div class="card"><h3>Coarse GT</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>marker_window_pm_sec</th>
+<th>confirm_threshold</th>
+<th>prominence_min</th>
+<th>context_span</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr class="bestrow">
+<td>F2_pm15_c06_p00_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.0</td>
+<td>1</td>
+<td>30</td>
+<td>0.1187</td>
+<td>0.3803</td>
+<td>0.1802</td>
+<td>30.25</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p002_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.02</td>
+<td>1</td>
+<td>30</td>
+<td>0.113</td>
+<td>0.3553</td>
+<td>0.1709</td>
+<td>29.25</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p004_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.04</td>
+<td>1</td>
+<td>30</td>
+<td>0.1073</td>
+<td>0.3275</td>
+<td>0.1611</td>
+<td>28.75</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p006_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.06</td>
+<td>1</td>
+<td>30</td>
+<td>0.097</td>
+<td>0.277</td>
+<td>0.1432</td>
+<td>27.5</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p008_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.08</td>
+<td>1</td>
+<td>30</td>
+<td>0.099</td>
+<td>0.272</td>
+<td>0.1444</td>
+<td>26.75</td>
+</tr>
+</tbody></table></div>
+    <div class="card"><h3>Fine GT</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>marker_window_pm_sec</th>
+<th>confirm_threshold</th>
+<th>prominence_min</th>
+<th>context_span</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr class="bestrow">
+<td>F2_pm15_c06_p00_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.0</td>
+<td>1</td>
+<td>30</td>
+<td>0.3381</td>
+<td>0.2939</td>
+<td>0.3114</td>
+<td>30.25</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p002_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.02</td>
+<td>1</td>
+<td>30</td>
+<td>0.3327</td>
+<td>0.2758</td>
+<td>0.2987</td>
+<td>29.25</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p004_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.04</td>
+<td>1</td>
+<td>30</td>
+<td>0.3296</td>
+<td>0.2683</td>
+<td>0.2932</td>
+<td>28.75</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p006_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.06</td>
+<td>1</td>
+<td>30</td>
+<td>0.3266</td>
+<td>0.2556</td>
+<td>0.2848</td>
+<td>27.5</td>
+</tr>
+<tr>
+<td>F2_pm15_c06_p008_md30_s1</td>
+<td>15</td>
+<td>0.6</td>
+<td>0.08</td>
+<td>1</td>
+<td>30</td>
+<td>0.3347</td>
+<td>0.2556</td>
+<td>0.2885</td>
+<td>26.75</td>
+</tr>
+</tbody></table></div>
+  </div>
+
+  <h2>F3 Slide-Assisted</h2>
+  <div class="grid">
+    <div class="card"><h3>Coarse GT</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>Rule</th>
+<th>slide_window_sec</th>
+<th>marker_window_pm_sec</th>
+<th>confirm_threshold</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr class="bestrow">
+<td>F3_OR_sw20_pm15_c06_md30</td>
+<td>OR</td>
+<td>20.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.1275</td>
+<td>0.4081</td>
+<td>0.1935</td>
+<td>30.75</td>
+</tr>
+<tr>
+<td>F3_OR_sw30_pm15_c06_md30</td>
+<td>OR</td>
+<td>30.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.1275</td>
+<td>0.4081</td>
+<td>0.1935</td>
+<td>30.75</td>
+</tr>
+<tr>
+<td>F3_AND_sw20_pm15_c06_md30</td>
+<td>AND</td>
+<td>20.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>2.25</td>
+</tr>
+</tbody></table></div>
+    <div class="card"><h3>Fine GT</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>Rule</th>
+<th>slide_window_sec</th>
+<th>marker_window_pm_sec</th>
+<th>confirm_threshold</th>
+<th>min_distance_sec</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+</tr></thead><tbody>
+<tr class="bestrow">
+<td>F3_OR_sw20_pm15_c06_md30</td>
+<td>OR</td>
+<td>20.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3316</td>
+<td>0.2939</td>
+<td>0.3088</td>
+<td>30.75</td>
+</tr>
+<tr>
+<td>F3_OR_sw30_pm15_c06_md30</td>
+<td>OR</td>
+<td>30.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.3316</td>
+<td>0.2939</td>
+<td>0.3088</td>
+<td>30.75</td>
+</tr>
+<tr>
+<td>F3_AND_sw20_pm15_c06_md30</td>
+<td>AND</td>
+<td>20.0</td>
+<td>15</td>
+<td>0.6</td>
+<td>30</td>
+<td>0.625</td>
+<td>0.0333</td>
+<td>0.0631</td>
+<td>2.25</td>
+</tr>
+</tbody></table></div>
+  </div>
+</body>
+</html>

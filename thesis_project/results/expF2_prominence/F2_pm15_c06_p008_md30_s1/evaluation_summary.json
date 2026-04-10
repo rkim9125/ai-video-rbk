@@ -8,9 +8,9 @@
     "prominence_min": 0.08,
     "context_span": 1,
     "min_distance_sec": 30,
-    "Precision": 0.099,
-    "Recall": 0.272,
-    "F1": 0.1444,
+    "Precision": 0.3347,
+    "Recall": 0.2556,
+    "F1": 0.2885,
     "Predicted Boundaries": 26.75
   },
   "lectures": [
@@ -22,11 +22,11 @@
       "prominence_min": 0.08,
       "context_span": 1,
       "min_distance_sec": 30.0,
-      "Precision": 0.0714,
-      "Recall": 0.2222,
-      "F1": 0.1081,
+      "Precision": 0.2857,
+      "Recall": 0.2424,
+      "F1": 0.2623,
       "Predicted Boundaries": 28,
-      "GT Boundaries": 9,
+      "GT Boundaries": 33,
       "semantic_after_prominence": 157
     },
     {
@@ -37,11 +37,11 @@
       "prominence_min": 0.08,
       "context_span": 1,
       "min_distance_sec": 30.0,
-      "Precision": 0.1429,
-      "Recall": 0.4545,
-      "F1": 0.2174,
+      "Precision": 0.3714,
+      "Recall": 0.2653,
+      "F1": 0.3095,
       "Predicted Boundaries": 35,
-      "GT Boundaries": 11,
+      "GT Boundaries": 49,
       "semantic_after_prominence": 235
     },
     {
@@ -52,11 +52,11 @@
       "prominence_min": 0.08,
       "context_span": 1,
       "min_distance_sec": 30.0,
-      "Precision": 0.1364,
-      "Recall": 0.3,
-      "F1": 0.1875,
+      "Precision": 0.2727,
+      "Recall": 0.25,
+      "F1": 0.2609,
       "Predicted Boundaries": 22,
-      "GT Boundaries": 10,
+      "GT Boundaries": 24,
       "semantic_after_prominence": 146
     },
     {
@@ -67,11 +67,11 @@
       "prominence_min": 0.08,
       "context_span": 1,
       "min_distance_sec": 30.0,
-      "Precision": 0.0455,
-      "Recall": 0.1111,
-      "F1": 0.0645,
+      "Precision": 0.4091,
+      "Recall": 0.2647,
+      "F1": 0.3214,
       "Predicted Boundaries": 22,
-      "GT Boundaries": 9,
+      "GT Boundaries": 34,
       "semantic_after_prominence": 145
     }
   ]

@@ -1,0 +1,24 @@
+00:06:24	S001	E2_Minor_QA	Linear Regression : Minor Clarification
+00:08:24	S002	A_Concept_Introduction	Linear Regression : Concept Definition
+00:10:27	S003	E2_Minor_QA	Loss Functions (MSE) : Minor Clarification
+00:14:10	S004	E1_High_Value_QA	Loss Functions (MSE) : Technical Clarification
+00:15:29	S005	E2_Minor_QA	Loss Functions (MSE) : Minor Clarification
+00:16:24	S006	B_Worked_Example	Gradient Descent : Worked Example
+00:17:50	S007	D_Practical_Important_Point	Gradient Descent : Practical Guidance
+00:21:34	S008	D_Practical_Important_Point	Gradient Descent : Practical Guidance
+00:22:20	S009	B_Worked_Example	Gradient Descent : Worked Example
+00:25:57	S010	E2_Minor_QA	Feature Engineering : Minor Clarification
+00:26:31	S011	A_Concept_Introduction	Feature Engineering : Core Concept
+00:31:04	S012	E1_High_Value_QA	Feature Engineering : AI Definition
+00:41:54	S013	B_Worked_Example	Neural Networks Intro : Worked Example
+00:50:03	S014	A_Concept_Introduction	Multi-Layer Perceptrons : Concept Definition
+00:52:42	S015	E1_High_Value_QA	Multi-Layer Perceptrons : Technical Clarification
+00:59:43	S016	E2_Minor_QA	Multi-Layer Perceptrons : Minor Clarification
+01:01:04	S017	E1_High_Value_QA	Multi-Layer Perceptrons : Technical Clarification
+01:03:38	S018	A_Concept_Introduction	Backpropagation : Concept Definition
+01:04:34	S019	E1_High_Value_QA	Backpropagation : Model Training
+01:05:54	S020	E1_High_Value_QA	Backpropagation : High-value Clarification
+01:07:46	S021	B_Worked_Example	Backpropagation : Worked Example
+01:13:19	S022	E2_Minor_QA	Python Demo : Minor Clarification
+01:15:06	S023	E2_Minor_QA	Python Demo : Minor Clarification
+01:16:00	S024	D_Practical_Important_Point	Python Demo : Practical Guidance

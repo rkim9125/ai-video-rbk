@@ -1,5 +1,5 @@
 Window Size,Lecture,Precision,Recall,F1,Predicted Boundaries,Ground Truth Boundaries,tp,fp,fn,tolerance_sec
-7,lecture1,0.0,0.0,0.0,1,9,0,1,9,30.0
-7,lecture2,0.0,0.0,0.0,4,11,0,4,11,30.0
-7,lecture3,0.3333,0.1,0.1538,3,10,1,2,9,30.0
-7,lecture4,0.0,0.0,0.0,4,9,0,4,9,30.0
+7,lecture1,0.0,0.0,0.0,1,33,0,1,33,30.0
+7,lecture2,0.5,0.0408,0.0755,4,49,2,2,47,30.0
+7,lecture3,0.3333,0.0417,0.0741,3,24,1,2,23,30.0
+7,lecture4,0.5,0.0588,0.1053,4,34,2,2,32,30.0

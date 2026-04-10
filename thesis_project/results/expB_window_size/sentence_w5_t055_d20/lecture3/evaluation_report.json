@@ -1,23 +1,53 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 10,
+  "gt_count": 24,
   "pred_count": 20,
-  "TP": 1,
-  "FP": 19,
-  "FN": 9,
-  "precision": 0.05,
-  "recall": 0.1,
-  "f1": 0.06666666666666667,
+  "TP": 4,
+  "FP": 16,
+  "FN": 20,
+  "precision": 0.2,
+  "recall": 0.16666666666666666,
+  "f1": 0.1818181818181818,
   "matches": [
     {
+      "gt_index": 0,
+      "gt_time": 384,
+      "gt_time_str": "00:06:24",
+      "gt_title": "S001\tE2_Minor_QA\tLinear Regression : Minor Clarification",
+      "pred_index": 1,
+      "pred_time": 384.45,
+      "pred_similarity": 0.47636881470680237,
+      "abs_error_sec": 0.44999999999998863
+    },
+    {
       "gt_index": 7,
-      "gt_time": 3725,
-      "gt_time_str": "01:02:05",
-      "gt_title": "Backpropagation",
-      "pred_index": 12,
-      "pred_time": 3737.679,
-      "pred_similarity": 0.5024658441543579,
-      "abs_error_sec": 12.679000000000087
+      "gt_time": 1294,
+      "gt_time_str": "00:21:34",
+      "gt_title": "S008\tD_Practical_Important_Point\tGradient Descent : Practical Guidance",
+      "pred_index": 3,
+      "pred_time": 1293.93,
+      "pred_similarity": 0.4638043940067291,
+      "abs_error_sec": 0.06999999999993634
+    },
+    {
+      "gt_index": 13,
+      "gt_time": 3003,
+      "gt_time_str": "00:50:03",
+      "gt_title": "S014\tA_Concept_Introduction\tMulti-Layer Perceptrons : Concept Definition",
+      "pred_index": 10,
+      "pred_time": 2997.07,
+      "pred_similarity": 0.5073456168174744,
+      "abs_error_sec": 5.929999999999836
+    },
+    {
+      "gt_index": 17,
+      "gt_time": 3818,
+      "gt_time_str": "01:03:38",
+      "gt_title": "S018\tA_Concept_Introduction\tBackpropagation : Concept Definition",
+      "pred_index": 14,
+      "pred_time": 3803.389,
+      "pred_similarity": 0.47971609234809875,
+      "abs_error_sec": 14.610999999999876
     }
   ]
 }

@@ -1,33 +1,93 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 9,
+  "gt_count": 33,
   "pred_count": 16,
-  "TP": 2,
-  "FP": 14,
-  "FN": 7,
-  "precision": 0.125,
-  "recall": 0.2222222222222222,
-  "f1": 0.16,
+  "TP": 8,
+  "FP": 8,
+  "FN": 25,
+  "precision": 0.5,
+  "recall": 0.24242424242424243,
+  "f1": 0.326530612244898,
   "matches": [
     {
-      "gt_index": 3,
-      "gt_time": 930,
-      "gt_time_str": "00:15:30",
-      "gt_title": "Design Principles and MVP Approach",
-      "pred_index": 3,
-      "pred_time": 951.419,
-      "pred_similarity": 0.48807334899902344,
-      "abs_error_sec": 21.418999999999983
+      "gt_index": 0,
+      "gt_time": 322,
+      "gt_time_str": "00:05:22",
+      "gt_title": "S001\tB_Worked_Example\tIntroduction and Administrative Overview : Worked Example",
+      "pred_index": 1,
+      "pred_time": 302.019,
+      "pred_similarity": 0.5174251198768616,
+      "abs_error_sec": 19.980999999999995
     },
     {
-      "gt_index": 7,
-      "gt_time": 3819,
-      "gt_time_str": "01:03:39",
-      "gt_title": "Self-adaptive Systems and Complexity",
+      "gt_index": 8,
+      "gt_time": 1797,
+      "gt_time_str": "00:29:57",
+      "gt_title": "S009\tA_Concept_Introduction\tInteractive Discussion and Problem Definition : Concept Definition",
+      "pred_index": 5,
+      "pred_time": 1823.52,
+      "pred_similarity": 0.5004013180732727,
+      "abs_error_sec": 26.519999999999982
+    },
+    {
+      "gt_index": 13,
+      "gt_time": 2667,
+      "gt_time_str": "00:44:27",
+      "gt_title": "S014\tB_Worked_Example\tInteractive Discussion and Problem Definition : Worked Example",
+      "pred_index": 8,
+      "pred_time": 2669.989,
+      "pred_similarity": 0.54857337474823,
+      "abs_error_sec": 2.9890000000000327
+    },
+    {
+      "gt_index": 15,
+      "gt_time": 2825,
+      "gt_time_str": "00:47:05",
+      "gt_title": "S016\tE1_High_Value_QA\tFundamentals of Generative AI : Technical Clarification",
+      "pred_index": 10,
+      "pred_time": 2824.679,
+      "pred_similarity": 0.4806847870349884,
+      "abs_error_sec": 0.3209999999999127
+    },
+    {
+      "gt_index": 16,
+      "gt_time": 2862,
+      "gt_time_str": "00:47:42",
+      "gt_title": "S017\tE2_Minor_QA\tFundamentals of Generative AI : Minor Clarification",
+      "pred_index": 11,
+      "pred_time": 2889.139,
+      "pred_similarity": 0.5322157144546509,
+      "abs_error_sec": 27.139000000000124
+    },
+    {
+      "gt_index": 20,
+      "gt_time": 3838,
+      "gt_time_str": "01:03:58",
+      "gt_title": "S021\tE2_Minor_QA\tSelf-adaptive Systems and Complexity : Minor Clarification",
       "pred_index": 12,
       "pred_time": 3819.739,
       "pred_similarity": 0.49807095527648926,
-      "abs_error_sec": 0.7390000000000327
+      "abs_error_sec": 18.260999999999967
+    },
+    {
+      "gt_index": 28,
+      "gt_time": 4570,
+      "gt_time_str": "01:16:10",
+      "gt_title": "S029\tA_Concept_Introduction\tData Quality and Engineering Judgment : Concept Definition",
+      "pred_index": 14,
+      "pred_time": 4553.7,
+      "pred_similarity": 0.5013101696968079,
+      "abs_error_sec": 16.300000000000182
+    },
+    {
+      "gt_index": 30,
+      "gt_time": 4688,
+      "gt_time_str": "01:18:08",
+      "gt_title": "S031\tE1_High_Value_QA\tData Quality and Engineering Judgment : NumPy Array Operation",
+      "pred_index": 15,
+      "pred_time": 4690.319,
+      "pred_similarity": 0.4811250865459442,
+      "abs_error_sec": 2.3190000000004147
     }
   ]
 }

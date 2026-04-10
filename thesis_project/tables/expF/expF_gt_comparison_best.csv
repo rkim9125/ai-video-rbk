@@ -1,0 +1,7 @@
+Experiment,GT,Best Setting,Best F1,Precision,Recall,Predicted Boundaries
+F1,coarse,F1_pm15_c06_md30,0.1802,0.1187,0.3803,30.25
+F1,fine,F1_pm15_c06_md30,0.3114,0.3381,0.2939,30.25
+F2,coarse,F2_pm15_c06_p00_md30_s1,0.1802,0.1187,0.3803,30.25
+F2,fine,F2_pm15_c06_p00_md30_s1,0.3114,0.3381,0.2939,30.25
+F3,coarse,F3_OR_sw20_pm15_c06_md30,0.1935,0.1275,0.4081,30.75
+F3,fine,F3_OR_sw20_pm15_c06_md30,0.3088,0.3316,0.2939,30.75

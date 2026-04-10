@@ -1,12 +1,33 @@
 {
   "tolerance_sec": 30.0,
-  "gt_count": 9,
+  "gt_count": 34,
   "pred_count": 4,
-  "TP": 0,
-  "FP": 4,
-  "FN": 9,
-  "precision": 0.0,
-  "recall": 0.0,
-  "f1": 0.0,
-  "matches": []
+  "TP": 2,
+  "FP": 2,
+  "FN": 32,
+  "precision": 0.5,
+  "recall": 0.058823529411764705,
+  "f1": 0.10526315789473684,
+  "matches": [
+    {
+      "gt_index": 7,
+      "gt_time": 1145,
+      "gt_time_str": "00:19:05",
+      "gt_title": "S008\tE2_Minor_QA\tCNN Introduction : Minor Clarification",
+      "pred_index": 0,
+      "pred_time": 1154.02,
+      "pred_similarity": 0.47670450806617737,
+      "abs_error_sec": 9.019999999999982
+    },
+    {
+      "gt_index": 13,
+      "gt_time": 2215,
+      "gt_time_str": "00:36:55",
+      "gt_title": "S014\tE2_Minor_QA\tConvolution Operations : Minor Clarification",
+      "pred_index": 1,
+      "pred_time": 2194.61,
+      "pred_similarity": 0.5138197541236877,
+      "abs_error_sec": 20.389999999999873
+    }
+  ]
 }

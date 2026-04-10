@@ -1,0 +1,4 @@
+Rule,Precision,Recall,F1,Predicted Boundaries,Interpretation
+Threshold only,0.0474,0.7634,0.0891,161.25,most sensitive / highest noise risk
+Threshold + Local minima,0.0483,0.7079,0.0903,145.25,noise-suppressed local dips
+Threshold + Local minima + Min-distance,0.0678,0.7079,0.1234,102.75,redundancy-reduced practical segmentation
