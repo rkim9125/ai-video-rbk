@@ -310,6 +310,66 @@ All experiments were rerun using `ai_video_rbk/annotations_fine` to align evalua
 
 ---
 
+## Experiment log (coarse -> fine -> retuning)
+
+This section records the major workflow steps and fixes applied during the current study iteration.
+
+### 1) Coarse-GT baseline rerun (A-F)
+- Annotation protocol: `ai_video_rbk/annotations_corrected` (section-level).
+- All experiments A-F were rerun and saved; coarse snapshots were preserved under experiment folders as `*_coarse.csv`.
+- Under coarse GT, F-branch bests were:
+  - F1 best: `F1_pm15_c06_md30` (F1=0.1802)
+  - F2 best: `F2_pm15_c06_p00_md30_s1` (F1=0.1802)
+  - F3 best: `F3_OR_sw20_pm15_c06_md30` (F1=0.1935)
+
+### 2) Fine-GT construction and rerun (A-F)
+- Fine GT generated as hierarchical labels (`Section : Subtopic`) in `ai_video_rbk/annotations_fine`.
+- Initial full rerun on fine GT showed substantial gains in many experiments (especially B-E and F branch vs coarse).
+- Snapshots saved as `*_fine.csv` in each experiment folder.
+
+### 3) Issue discovered and fixed (Experiment A stale table)
+- Problem: `A` lecture-level table in report still displayed coarse GT counts (9/11/10/9) even after fine rerun.
+- Root cause: Experiment A summary/lecture tables are produced by a separate builder script, and stale table files were referenced.
+- Fix:
+  - Rebuilt `expA/expA_lecture_level_table.csv` from latest `results/expA_representation/*/evaluation_table.csv`.
+  - Rebuilt `expA/expA_summary_table.csv` and refreshed fine report.
+- Verified fine counts for A lecture-level are now 33/49/24/34 as expected.
+
+### 4) Experiment A extension (fine GT)
+- Expanded A grid:
+  - Sentence: `w = 3, 5, 7`
+  - Time: `t = 5s, 10s, 15s`
+- Fine-GT A result:
+  - Best setting: `A1 sentence w=3` with F1=0.3702
+  - Time-based settings remained competitive (best time-based F1=0.3523 at 10s).
+
+### 5) Fine-GT-focused F retuning
+- Motivation: adapt F branch to fine-GT boundary density rather than reusing coarse-tuned defaults.
+- Retuned F1 sweep:
+  - `marker-window`: 10/15/20/25
+  - `confirm-threshold`: 0.55/0.60/0.65
+  - `min-distance`: 20s
+- Retuned F1 best:
+  - `F1_pm20_c06_md20` with F1=0.3161 (improved vs prior fine F1 best 0.3114)
+- Retuned F2 base:
+  - Fixed to F1 retuned best (`pm20`, `c0.60`, `md20`), prominence sweep repeated.
+  - Best remained at `prominence=0.00` (F1=0.3161), so added prominence still did not help.
+- Retuned F3:
+  - Run with `pm20`, `c0.60`, `md20`.
+  - Best OR setting: `F3_OR_sw20_pm20_c06_md20` (F1=0.3140).
+- Retuned snapshots preserved:
+  - `expF/expF1_marker_gated_summary_fine_retuned.csv`
+  - `expF/expF2_prominence_summary_fine_retuned.csv`
+  - `expF/expF3_slide_summary_fine_retuned.csv`
+
+### 6) Current findings summary
+- Fine GT materially changes conclusions by rewarding clip-level transitions that coarse GT labels as false positives.
+- E branch remains strongest macro baseline in current fine setup (`E2` F1=0.4083).
+- F branch improves under fine GT vs coarse GT, and fine-focused retuning gives small extra gains in F1/F2/F3, but does not surpass E2 macro F1 in this run.
+- F2 result is stable across runs: prominence filtering is not the main improvement lever on this dataset.
+
+---
+
 ## Cross-cutting summary (A–E, + F1, + F2, + F3)
 
 1. **Representation (A) and window size (B)** did not yield large F1 gains alone; **rules (C) and pruning (E)** most directly control **prediction density**.

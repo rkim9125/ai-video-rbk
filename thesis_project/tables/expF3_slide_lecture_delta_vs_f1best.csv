@@ -1,5 +1,5 @@
-Lecture,F1_best_F1_ref,deltaF1_vs_F1best_F3_OR_sw20_pm15_c06_md30,deltaF1_vs_F1best_F3_OR_sw30_pm15_c06_md30,deltaF1_vs_F1best_F3_AND_sw20_pm15_c06_md30
-lecture1,0.1802,0.1482,0.1482,-0.1231
-lecture2,0.1802,0.1416,0.1416,-0.0648
-lecture3,0.1802,0.0943,0.0943,-0.1002
-lecture4,0.1802,0.1301,0.1301,-0.1802
+Lecture,F1_best_F1_ref,deltaF1_vs_F1best_F3_OR_sw20_pm20_c06_md20,deltaF1_vs_F1best_F3_OR_sw30_pm20_c06_md20,deltaF1_vs_F1best_F3_AND_sw20_pm20_c06_md20
+lecture1,0.1802,0.1531,0.1531,-0.1246
+lecture2,0.1802,0.1667,0.1667,-0.067
+lecture3,0.1802,0.1055,0.1055,-0.0264
+lecture4,0.1802,0.1097,0.1097,-0.1802

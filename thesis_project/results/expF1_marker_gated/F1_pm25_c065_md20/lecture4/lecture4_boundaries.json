@@ -1,0 +1,686 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      6,
+      7
+    ],
+    "boundary_time": 38.95,
+    "similarity": 0.5885671973228455,
+    "left_window_end": 47.36,
+    "right_window_start": 38.95,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      68,
+      69
+    ],
+    "boundary_time": 278.23,
+    "similarity": 0.43001800775527954,
+    "left_window_end": 284.589,
+    "right_window_start": 278.23,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 2,
+    "between_windows": [
+      130,
+      131
+    ],
+    "boundary_time": 512.979,
+    "similarity": 0.5485652089118958,
+    "left_window_end": 519.439,
+    "right_window_start": 512.979,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 3,
+    "between_windows": [
+      190,
+      191
+    ],
+    "boundary_time": 747.539,
+    "similarity": 0.598950982093811,
+    "left_window_end": 752.5,
+    "right_window_start": 747.539,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 4,
+    "between_windows": [
+      197,
+      198
+    ],
+    "boundary_time": 774.71,
+    "similarity": 0.5300505757331848,
+    "left_window_end": 785.14,
+    "right_window_start": 774.71,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 5,
+    "between_windows": [
+      232,
+      233
+    ],
+    "boundary_time": 930.909,
+    "similarity": 0.621570348739624,
+    "left_window_end": 938.909,
+    "right_window_start": 930.909,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 6,
+    "between_windows": [
+      243,
+      244
+    ],
+    "boundary_time": 973.08,
+    "similarity": 0.5048831701278687,
+    "left_window_end": 979.549,
+    "right_window_start": 973.08,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 7,
+    "between_windows": [
+      286,
+      287
+    ],
+    "boundary_time": 1144.939,
+    "similarity": 0.6408922672271729,
+    "left_window_end": 1151.42,
+    "right_window_start": 1144.939,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 8,
+    "between_windows": [
+      293,
+      294
+    ],
+    "boundary_time": 1172.089,
+    "similarity": 0.4682219624519348,
+    "left_window_end": 1176.599,
+    "right_window_start": 1172.089,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 9,
+    "between_windows": [
+      305,
+      306
+    ],
+    "boundary_time": 1219.849,
+    "similarity": 0.5793125629425049,
+    "left_window_end": 1227.06,
+    "right_window_start": 1219.849,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 10,
+    "between_windows": [
+      316,
+      317
+    ],
+    "boundary_time": 1260.699,
+    "similarity": 0.6264111399650574,
+    "left_window_end": 1267.31,
+    "right_window_start": 1260.699,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 11,
+    "between_windows": [
+      335,
+      336
+    ],
+    "boundary_time": 1329.66,
+    "similarity": 0.618655800819397,
+    "left_window_end": 1335.51,
+    "right_window_start": 1329.66,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 12,
+    "between_windows": [
+      343,
+      344
+    ],
+    "boundary_time": 1360.719,
+    "similarity": 0.6421160101890564,
+    "left_window_end": 1370.199,
+    "right_window_start": 1360.719,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 13,
+    "between_windows": [
+      355,
+      356
+    ],
+    "boundary_time": 1412.16,
+    "similarity": 0.5219781994819641,
+    "left_window_end": 1418.77,
+    "right_window_start": 1412.16,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 14,
+    "between_windows": [
+      391,
+      392
+    ],
+    "boundary_time": 1554.52,
+    "similarity": 0.6210275888442993,
+    "left_window_end": 1563.069,
+    "right_window_start": 1554.52,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 15,
+    "between_windows": [
+      491,
+      492
+    ],
+    "boundary_time": 1982.29,
+    "similarity": 0.5362098813056946,
+    "left_window_end": 1987.65,
+    "right_window_start": 1982.29,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 16,
+    "between_windows": [
+      524,
+      525
+    ],
+    "boundary_time": 2104.8,
+    "similarity": 0.565479040145874,
+    "left_window_end": 2110.159,
+    "right_window_start": 2104.8,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 17,
+    "between_windows": [
+      536,
+      537
+    ],
+    "boundary_time": 2143.489,
+    "similarity": 0.2931041419506073,
+    "left_window_end": 2149.909,
+    "right_window_start": 2143.489,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 18,
+    "between_windows": [
+      552,
+      553
+    ],
+    "boundary_time": 2194.61,
+    "similarity": 0.39566779136657715,
+    "left_window_end": 2200.79,
+    "right_window_start": 2194.61,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 19,
+    "between_windows": [
+      563,
+      564
+    ],
+    "boundary_time": 2237.889,
+    "similarity": 0.37099236249923706,
+    "left_window_end": 2247.659,
+    "right_window_start": 2237.889,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 20,
+    "between_windows": [
+      568,
+      569
+    ],
+    "boundary_time": 2258.149,
+    "similarity": 0.4560583233833313,
+    "left_window_end": 2264.55,
+    "right_window_start": 2258.149,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 21,
+    "between_windows": [
+      574,
+      575
+    ],
+    "boundary_time": 2280.399,
+    "similarity": 0.6466426253318787,
+    "left_window_end": 2288.05,
+    "right_window_start": 2280.399,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 22,
+    "between_windows": [
+      628,
+      629
+    ],
+    "boundary_time": 2493.3,
+    "similarity": 0.5132547616958618,
+    "left_window_end": 2500.33,
+    "right_window_start": 2493.3,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 23,
+    "between_windows": [
+      639,
+      640
+    ],
+    "boundary_time": 2534.35,
+    "similarity": 0.46117275953292847,
+    "left_window_end": 2542.389,
+    "right_window_start": 2534.35,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 24,
+    "between_windows": [
+      647,
+      648
+    ],
+    "boundary_time": 2565.57,
+    "similarity": 0.4044535160064697,
+    "left_window_end": 2571.51,
+    "right_window_start": 2565.57,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 25,
+    "between_windows": [
+      655,
+      656
+    ],
+    "boundary_time": 2599.979,
+    "similarity": 0.5828391313552856,
+    "left_window_end": 2613.679,
+    "right_window_start": 2599.979,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 26,
+    "between_windows": [
+      665,
+      666
+    ],
+    "boundary_time": 2643.389,
+    "similarity": 0.5632650852203369,
+    "left_window_end": 2651.449,
+    "right_window_start": 2643.389,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 27,
+    "between_windows": [
+      673,
+      674
+    ],
+    "boundary_time": 2679.6,
+    "similarity": 0.6081885695457458,
+    "left_window_end": 2685.149,
+    "right_window_start": 2679.6,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 28,
+    "between_windows": [
+      681,
+      682
+    ],
+    "boundary_time": 2709.52,
+    "similarity": 0.5623241662979126,
+    "left_window_end": 2723.729,
+    "right_window_start": 2709.52,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 29,
+    "between_windows": [
+      702,
+      703
+    ],
+    "boundary_time": 2797.52,
+    "similarity": 0.5700323581695557,
+    "left_window_end": 2801.76,
+    "right_window_start": 2797.52,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 30,
+    "between_windows": [
+      715,
+      716
+    ],
+    "boundary_time": 2849.959,
+    "similarity": 0.6147673726081848,
+    "left_window_end": 2859.189,
+    "right_window_start": 2849.959,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 31,
+    "between_windows": [
+      752,
+      753
+    ],
+    "boundary_time": 2997.35,
+    "similarity": 0.47493594884872437,
+    "left_window_end": 3003.149,
+    "right_window_start": 2997.35,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 32,
+    "between_windows": [
+      776,
+      777
+    ],
+    "boundary_time": 3104.199,
+    "similarity": 0.5434997081756592,
+    "left_window_end": 3109.5,
+    "right_window_start": 3104.199,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 33,
+    "between_windows": [
+      783,
+      784
+    ],
+    "boundary_time": 3129.37,
+    "similarity": 0.46226346492767334,
+    "left_window_end": 3138.31,
+    "right_window_start": 3129.37,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 34,
+    "between_windows": [
+      790,
+      791
+    ],
+    "boundary_time": 3168.76,
+    "similarity": 0.622272789478302,
+    "left_window_end": 3176.379,
+    "right_window_start": 3168.76,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 35,
+    "between_windows": [
+      801,
+      802
+    ],
+    "boundary_time": 3207.889,
+    "similarity": 0.5488680005073547,
+    "left_window_end": 3215.879,
+    "right_window_start": 3207.889,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 36,
+    "between_windows": [
+      821,
+      822
+    ],
+    "boundary_time": 3292.939,
+    "similarity": 0.439314603805542,
+    "left_window_end": 3301.959,
+    "right_window_start": 3292.939,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 37,
+    "between_windows": [
+      830,
+      831
+    ],
+    "boundary_time": 3330.08,
+    "similarity": 0.5499516129493713,
+    "left_window_end": 3341.159,
+    "right_window_start": 3330.08,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 38,
+    "between_windows": [
+      868,
+      869
+    ],
+    "boundary_time": 3490.919,
+    "similarity": 0.45595771074295044,
+    "left_window_end": 3502.26,
+    "right_window_start": 3490.919,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 39,
+    "between_windows": [
+      872,
+      873
+    ],
+    "boundary_time": 3512.449,
+    "similarity": 0.5503944754600525,
+    "left_window_end": 3518.86,
+    "right_window_start": 3512.449,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 40,
+    "between_windows": [
+      984,
+      985
+    ],
+    "boundary_time": 3960.219,
+    "similarity": 0.6078603267669678,
+    "left_window_end": 3967.389,
+    "right_window_start": 3960.219,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 41,
+    "between_windows": [
+      1011,
+      1012
+    ],
+    "boundary_time": 4059.83,
+    "similarity": 0.5629393458366394,
+    "left_window_end": 4070.679,
+    "right_window_start": 4059.83,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 42,
+    "between_windows": [
+      1020,
+      1021
+    ],
+    "boundary_time": 4097.56,
+    "similarity": 0.4704924523830414,
+    "left_window_end": 4106.859,
+    "right_window_start": 4097.56,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 43,
+    "between_windows": [
+      1027,
+      1028
+    ],
+    "boundary_time": 4129.818,
+    "similarity": 0.6440722942352295,
+    "left_window_end": 4135.439,
+    "right_window_start": 4129.818,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 44,
+    "between_windows": [
+      1040,
+      1041
+    ],
+    "boundary_time": 4184.83,
+    "similarity": 0.4156552255153656,
+    "left_window_end": 4193.629,
+    "right_window_start": 4184.83,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 45,
+    "between_windows": [
+      1046,
+      1047
+    ],
+    "boundary_time": 4210.549,
+    "similarity": 0.5883903503417969,
+    "left_window_end": 4216.049,
+    "right_window_start": 4210.549,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 46,
+    "between_windows": [
+      1053,
+      1054
+    ],
+    "boundary_time": 4233.35,
+    "similarity": 0.5788360834121704,
+    "left_window_end": 4240.79,
+    "right_window_start": 4233.35,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 47,
+    "between_windows": [
+      1059,
+      1060
+    ],
+    "boundary_time": 4258.189,
+    "similarity": 0.5801588892936707,
+    "left_window_end": 4263.31,
+    "right_window_start": 4258.189,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 48,
+    "between_windows": [
+      1070,
+      1071
+    ],
+    "boundary_time": 4290.37,
+    "similarity": 0.6329177618026733,
+    "left_window_end": 4300.049,
+    "right_window_start": 4290.37,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 49,
+    "between_windows": [
+      1085,
+      1086
+    ],
+    "boundary_time": 4361.879,
+    "similarity": 0.5682306289672852,
+    "left_window_end": 4369.52,
+    "right_window_start": 4361.879,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 50,
+    "between_windows": [
+      1093,
+      1094
+    ],
+    "boundary_time": 4393.399,
+    "similarity": 0.43718647956848145,
+    "left_window_end": 4400.569,
+    "right_window_start": 4393.399,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 51,
+    "between_windows": [
+      1190,
+      1191
+    ],
+    "boundary_time": 4785.529,
+    "similarity": 0.5045987963676453,
+    "left_window_end": 4792.85,
+    "right_window_start": 4785.529,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 52,
+    "between_windows": [
+      1218,
+      1219
+    ],
+    "boundary_time": 4900.529,
+    "similarity": 0.4495091736316681,
+    "left_window_end": 4907.419,
+    "right_window_start": 4900.529,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 53,
+    "between_windows": [
+      1252,
+      1253
+    ],
+    "boundary_time": 5026.49,
+    "similarity": 0.5640416741371155,
+    "left_window_end": 5034.25,
+    "right_window_start": 5026.49,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 54,
+    "between_windows": [
+      1260,
+      1261
+    ],
+    "boundary_time": 5058.31,
+    "similarity": 0.38465502858161926,
+    "left_window_end": 5069.18,
+    "right_window_start": 5058.31,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 55,
+    "between_windows": [
+      1310,
+      1311
+    ],
+    "boundary_time": 5517.509,
+    "similarity": 0.5228970646858215,
+    "left_window_end": 5530.91,
+    "right_window_start": 5517.509,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 56,
+    "between_windows": [
+      1314,
+      1315
+    ],
+    "boundary_time": 5542.939,
+    "similarity": 0.39674803614616394,
+    "left_window_end": 5580.14,
+    "right_window_start": 5542.939,
+    "reason": "marker_gated_semantic"
+  }
+]

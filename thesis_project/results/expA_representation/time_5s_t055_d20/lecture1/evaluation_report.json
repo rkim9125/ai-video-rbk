@@ -1,0 +1,133 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 33,
+  "pred_count": 36,
+  "TP": 12,
+  "FP": 24,
+  "FN": 21,
+  "precision": 0.3333333333333333,
+  "recall": 0.36363636363636365,
+  "f1": 0.34782608695652173,
+  "matches": [
+    {
+      "gt_index": 5,
+      "gt_time": 1247,
+      "gt_time_str": "00:20:47",
+      "gt_title": "S006\tE2_Minor_QA\tDesign Principles and MVP Approach : Minor Clarification",
+      "pred_index": 8,
+      "pred_time": 1242.489,
+      "pred_similarity": 0.5416244268417358,
+      "abs_error_sec": 4.510999999999967
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 1797,
+      "gt_time_str": "00:29:57",
+      "gt_title": "S009\tA_Concept_Introduction\tInteractive Discussion and Problem Definition : Concept Definition",
+      "pred_index": 12,
+      "pred_time": 1792.489,
+      "pred_similarity": 0.40284183621406555,
+      "abs_error_sec": 4.510999999999967
+    },
+    {
+      "gt_index": 10,
+      "gt_time": 2217,
+      "gt_time_str": "00:36:57",
+      "gt_title": "S011\tA_Concept_Introduction\tInteractive Discussion and Problem Definition : Project Design",
+      "pred_index": 14,
+      "pred_time": 2242.489,
+      "pred_similarity": 0.48168012499809265,
+      "abs_error_sec": 25.489000000000033
+    },
+    {
+      "gt_index": 14,
+      "gt_time": 2779,
+      "gt_time_str": "00:46:19",
+      "gt_title": "S015\tB_Worked_Example\tFundamentals of Generative AI : DataFrame Processing Example",
+      "pred_index": 16,
+      "pred_time": 2757.489,
+      "pred_similarity": 0.5259798765182495,
+      "abs_error_sec": 21.510999999999967
+    },
+    {
+      "gt_index": 16,
+      "gt_time": 2862,
+      "gt_time_str": "00:47:42",
+      "gt_title": "S017\tE2_Minor_QA\tFundamentals of Generative AI : Minor Clarification",
+      "pred_index": 17,
+      "pred_time": 2847.489,
+      "pred_similarity": 0.44572052359580994,
+      "abs_error_sec": 14.510999999999967
+    },
+    {
+      "gt_index": 17,
+      "gt_time": 3021,
+      "gt_time_str": "00:50:21",
+      "gt_title": "S018\tA_Concept_Introduction\tFundamentals of Generative AI : AI Definition",
+      "pred_index": 19,
+      "pred_time": 3002.489,
+      "pred_similarity": 0.541373074054718,
+      "abs_error_sec": 18.510999999999967
+    },
+    {
+      "gt_index": 19,
+      "gt_time": 3649,
+      "gt_time_str": "01:00:49",
+      "gt_title": "S020\tE2_Minor_QA\tMachine Learning Paradigms and Generalization : Minor Clarification",
+      "pred_index": 26,
+      "pred_time": 3652.489,
+      "pred_similarity": 0.4210726022720337,
+      "abs_error_sec": 3.4890000000000327
+    },
+    {
+      "gt_index": 21,
+      "gt_time": 3935,
+      "gt_time_str": "01:05:35",
+      "gt_title": "S022\tC_Explanation_Shift_Major\tSelf-adaptive Systems and Complexity : Theory-to-Practice Shift",
+      "pred_index": 29,
+      "pred_time": 3937.489,
+      "pred_similarity": 0.5441370606422424,
+      "abs_error_sec": 2.4890000000000327
+    },
+    {
+      "gt_index": 22,
+      "gt_time": 4080,
+      "gt_time_str": "01:08:00",
+      "gt_title": "S023\tB_Worked_Example\tSelf-adaptive Systems and Complexity : Worked Example",
+      "pred_index": 30,
+      "pred_time": 4062.489,
+      "pred_similarity": 0.4475049376487732,
+      "abs_error_sec": 17.510999999999967
+    },
+    {
+      "gt_index": 24,
+      "gt_time": 4380,
+      "gt_time_str": "01:13:00",
+      "gt_title": "S025\tB_Worked_Example\tData Quality and Engineering Judgment : Self-driving Car Example",
+      "pred_index": 32,
+      "pred_time": 4357.489,
+      "pred_similarity": 0.378345251083374,
+      "abs_error_sec": 22.511000000000422
+    },
+    {
+      "gt_index": 30,
+      "gt_time": 4688,
+      "gt_time_str": "01:18:08",
+      "gt_title": "S031\tE1_High_Value_QA\tData Quality and Engineering Judgment : NumPy Array Operation",
+      "pred_index": 33,
+      "pred_time": 4692.489,
+      "pred_similarity": 0.4936344623565674,
+      "abs_error_sec": 4.488999999999578
+    },
+    {
+      "gt_index": 32,
+      "gt_time": 4905,
+      "gt_time_str": "01:21:45",
+      "gt_title": "S033\tE2_Minor_QA\tData Quality and Engineering Judgment : Minor Clarification",
+      "pred_index": 34,
+      "pred_time": 4907.489,
+      "pred_similarity": 0.480476051568985,
+      "abs_error_sec": 2.488999999999578
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 24,
+  "pred_count": 26,
+  "TP": 6,
+  "FP": 20,
+  "FN": 18,
+  "precision": 0.23076923076923078,
+  "recall": 0.25,
+  "f1": 0.24000000000000002,
+  "matches": [
+    {
+      "gt_index": 14,
+      "gt_time": 3162,
+      "gt_time_str": "00:52:42",
+      "gt_title": "S015\tE1_High_Value_QA\tMulti-Layer Perceptrons : Technical Clarification",
+      "pred_index": 10,
+      "pred_time": 3182.51,
+      "pred_similarity": 0.5062035918235779,
+      "abs_error_sec": 20.51000000000022
+    },
+    {
+      "gt_index": 15,
+      "gt_time": 3583,
+      "gt_time_str": "00:59:43",
+      "gt_title": "S016\tE2_Minor_QA\tMulti-Layer Perceptrons : Minor Clarification",
+      "pred_index": 13,
+      "pred_time": 3582.51,
+      "pred_similarity": 0.5015382766723633,
+      "abs_error_sec": 0.4899999999997817
+    },
+    {
+      "gt_index": 16,
+      "gt_time": 3664,
+      "gt_time_str": "01:01:04",
+      "gt_title": "S017\tE1_High_Value_QA\tMulti-Layer Perceptrons : Technical Clarification",
+      "pred_index": 15,
+      "pred_time": 3672.51,
+      "pred_similarity": 0.543639063835144,
+      "abs_error_sec": 8.510000000000218
+    },
+    {
+      "gt_index": 17,
+      "gt_time": 3818,
+      "gt_time_str": "01:03:38",
+      "gt_title": "S018\tA_Concept_Introduction\tBackpropagation : Concept Definition",
+      "pred_index": 17,
+      "pred_time": 3797.51,
+      "pred_similarity": 0.501922607421875,
+      "abs_error_sec": 20.48999999999978
+    },
+    {
+      "gt_index": 19,
+      "gt_time": 3954,
+      "gt_time_str": "01:05:54",
+      "gt_title": "S020\tE1_High_Value_QA\tBackpropagation : High-value Clarification",
+      "pred_index": 18,
+      "pred_time": 3977.51,
+      "pred_similarity": 0.4831574261188507,
+      "abs_error_sec": 23.51000000000022
+    },
+    {
+      "gt_index": 21,
+      "gt_time": 4399,
+      "gt_time_str": "01:13:19",
+      "gt_title": "S022\tE2_Minor_QA\tPython Demo : Minor Clarification",
+      "pred_index": 22,
+      "pred_time": 4407.51,
+      "pred_similarity": 0.5405995845794678,
+      "abs_error_sec": 8.510000000000218
+    }
+  ]
+}

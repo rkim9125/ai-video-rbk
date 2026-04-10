@@ -1,0 +1,183 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 49,
+  "pred_count": 46,
+  "TP": 17,
+  "FP": 29,
+  "FN": 32,
+  "precision": 0.3695652173913043,
+  "recall": 0.3469387755102041,
+  "f1": 0.3578947368421052,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 45,
+      "gt_time_str": "00:00:45",
+      "gt_title": "S001\tE2_Minor_QA\tRecap and Administrative Updates : Minor Clarification",
+      "pred_index": 0,
+      "pred_time": 51.74,
+      "pred_similarity": 0.38930484652519226,
+      "abs_error_sec": 6.740000000000002
+    },
+    {
+      "gt_index": 2,
+      "gt_time": 277,
+      "gt_time_str": "00:04:37",
+      "gt_title": "S003\tE2_Minor_QA\tProject Team Formation and Collaboration : Minor Clarification",
+      "pred_index": 5,
+      "pred_time": 279.75,
+      "pred_similarity": 0.597051203250885,
+      "abs_error_sec": 2.75
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 340,
+      "gt_time_str": "00:05:40",
+      "gt_title": "S004\tA_Concept_Introduction\tProject Team Formation and Collaboration : Concept Definition",
+      "pred_index": 6,
+      "pred_time": 328.149,
+      "pred_similarity": 0.45808711647987366,
+      "abs_error_sec": 11.850999999999999
+    },
+    {
+      "gt_index": 4,
+      "gt_time": 482,
+      "gt_time_str": "00:08:02",
+      "gt_title": "S005\tC_Explanation_Shift_Major\tProject Team Formation and Collaboration : Theory-to-Practice Shift",
+      "pred_index": 7,
+      "pred_time": 479.299,
+      "pred_similarity": 0.5494403839111328,
+      "abs_error_sec": 2.701000000000022
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 509,
+      "gt_time_str": "00:08:29",
+      "gt_title": "S006\tA_Concept_Introduction\tProject Team Formation and Collaboration : Machine Learning Concept",
+      "pred_index": 8,
+      "pred_time": 538.229,
+      "pred_similarity": 0.5793774127960205,
+      "abs_error_sec": 29.229000000000042
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 773,
+      "gt_time_str": "00:12:53",
+      "gt_title": "S007\tE2_Minor_QA\tEngineers' Role in Autonomous Systems : Minor Clarification",
+      "pred_index": 12,
+      "pred_time": 749.909,
+      "pred_similarity": 0.5770823359489441,
+      "abs_error_sec": 23.091000000000008
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 1006,
+      "gt_time_str": "00:16:46",
+      "gt_title": "S009\tA_Concept_Introduction\tData Representation and Mathematical Foundations of ML : Concept Definition",
+      "pred_index": 13,
+      "pred_time": 1007.53,
+      "pred_similarity": 0.5274280905723572,
+      "abs_error_sec": 1.5299999999999727
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 1141,
+      "gt_time_str": "00:19:01",
+      "gt_title": "S010\tB_Worked_Example\tData Representation and Mathematical Foundations of ML : Machine Learning Concept",
+      "pred_index": 17,
+      "pred_time": 1147.369,
+      "pred_similarity": 0.5525537133216858,
+      "abs_error_sec": 6.3689999999999145
+    },
+    {
+      "gt_index": 11,
+      "gt_time": 1696,
+      "gt_time_str": "00:28:16",
+      "gt_title": "S012\tE2_Minor_QA\tMachine Learning Paradigms (Supervised vs Unsupervised) : Minor Clarification",
+      "pred_index": 20,
+      "pred_time": 1695.729,
+      "pred_similarity": 0.5441290140151978,
+      "abs_error_sec": 0.27099999999995816
+    },
+    {
+      "gt_index": 23,
+      "gt_time": 2815,
+      "gt_time_str": "00:46:55",
+      "gt_title": "S024\tE1_High_Value_QA\tModel Confidence and Prediction Metrics : High-value Clarification",
+      "pred_index": 22,
+      "pred_time": 2832.949,
+      "pred_similarity": 0.25924909114837646,
+      "abs_error_sec": 17.94900000000007
+    },
+    {
+      "gt_index": 27,
+      "gt_time": 3341,
+      "gt_time_str": "00:55:41",
+      "gt_title": "S028\tA_Concept_Introduction\tModel Confidence and Prediction Metrics : Concept Definition",
+      "pred_index": 26,
+      "pred_time": 3367.06,
+      "pred_similarity": 0.3276888430118561,
+      "abs_error_sec": 26.059999999999945
+    },
+    {
+      "gt_index": 30,
+      "gt_time": 3706,
+      "gt_time_str": "01:01:46",
+      "gt_title": "S031\tE2_Minor_QA\tActivation Functions and Model Outputs : Minor Clarification",
+      "pred_index": 29,
+      "pred_time": 3713.61,
+      "pred_similarity": 0.4588416516780853,
+      "abs_error_sec": 7.610000000000127
+    },
+    {
+      "gt_index": 32,
+      "gt_time": 4013,
+      "gt_time_str": "01:06:53",
+      "gt_title": "S033\tE1_High_Value_QA\tActivation Functions and Model Outputs : Machine Learning Concept",
+      "pred_index": 30,
+      "pred_time": 4019.82,
+      "pred_similarity": 0.438463032245636,
+      "abs_error_sec": 6.820000000000164
+    },
+    {
+      "gt_index": 33,
+      "gt_time": 4192,
+      "gt_time_str": "01:09:52",
+      "gt_title": "S034\tE2_Minor_QA\tActivation Functions and Model Outputs : Minor Clarification",
+      "pred_index": 31,
+      "pred_time": 4209.7,
+      "pred_similarity": 0.49897095561027527,
+      "abs_error_sec": 17.699999999999818
+    },
+    {
+      "gt_index": 36,
+      "gt_time": 4459,
+      "gt_time_str": "01:14:19",
+      "gt_title": "S037\tC_Explanation_Shift_Major\tActivation Functions and Model Outputs : Theory-to-Practice Shift",
+      "pred_index": 35,
+      "pred_time": 4480.439,
+      "pred_similarity": 0.4800918698310852,
+      "abs_error_sec": 21.439000000000306
+    },
+    {
+      "gt_index": 41,
+      "gt_time": 5383,
+      "gt_time_str": "01:29:43",
+      "gt_title": "S042\tB_Worked_Example\tHyperparameters and Training Process : Worked Example",
+      "pred_index": 39,
+      "pred_time": 5389.689,
+      "pred_similarity": 0.5008541941642761,
+      "abs_error_sec": 6.689000000000306
+    },
+    {
+      "gt_index": 46,
+      "gt_time": 6235,
+      "gt_time_str": "01:43:55",
+      "gt_title": "S047\tA_Concept_Introduction\tDemonstration and Q&A : Concept Definition",
+      "pred_index": 44,
+      "pred_time": 6208.16,
+      "pred_similarity": 0.5396996140480042,
+      "abs_error_sec": 26.840000000000146
+    }
+  ]
+}

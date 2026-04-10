@@ -1,0 +1,83 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 24,
+  "pred_count": 28,
+  "TP": 7,
+  "FP": 21,
+  "FN": 17,
+  "precision": 0.25,
+  "recall": 0.2916666666666667,
+  "f1": 0.2692307692307692,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 384,
+      "gt_time_str": "00:06:24",
+      "gt_title": "S001\tE2_Minor_QA\tLinear Regression : Minor Clarification",
+      "pred_index": 2,
+      "pred_time": 384.45,
+      "pred_similarity": 0.21519267559051514,
+      "abs_error_sec": 0.44999999999998863
+    },
+    {
+      "gt_index": 4,
+      "gt_time": 929,
+      "gt_time_str": "00:15:29",
+      "gt_title": "S005\tE2_Minor_QA\tLoss Functions (MSE) : Minor Clarification",
+      "pred_index": 5,
+      "pred_time": 928.869,
+      "pred_similarity": 0.499531626701355,
+      "abs_error_sec": 0.1309999999999718
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 1070,
+      "gt_time_str": "00:17:50",
+      "gt_title": "S007\tD_Practical_Important_Point\tGradient Descent : Practical Guidance",
+      "pred_index": 7,
+      "pred_time": 1085.449,
+      "pred_similarity": 0.5824108123779297,
+      "abs_error_sec": 15.44900000000007
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 1340,
+      "gt_time_str": "00:22:20",
+      "gt_title": "S009\tB_Worked_Example\tGradient Descent : Worked Example",
+      "pred_index": 9,
+      "pred_time": 1323.199,
+      "pred_similarity": 0.47904565930366516,
+      "abs_error_sec": 16.80099999999993
+    },
+    {
+      "gt_index": 13,
+      "gt_time": 3003,
+      "gt_time_str": "00:50:03",
+      "gt_title": "S014\tA_Concept_Introduction\tMulti-Layer Perceptrons : Concept Definition",
+      "pred_index": 20,
+      "pred_time": 3032.06,
+      "pred_similarity": 0.4786853492259979,
+      "abs_error_sec": 29.059999999999945
+    },
+    {
+      "gt_index": 16,
+      "gt_time": 3664,
+      "gt_time_str": "01:01:04",
+      "gt_title": "S017\tE1_High_Value_QA\tMulti-Layer Perceptrons : Technical Clarification",
+      "pred_index": 24,
+      "pred_time": 3657.02,
+      "pred_similarity": 0.5867378115653992,
+      "abs_error_sec": 6.980000000000018
+    },
+    {
+      "gt_index": 17,
+      "gt_time": 3818,
+      "gt_time_str": "01:03:38",
+      "gt_title": "S018\tA_Concept_Introduction\tBackpropagation : Concept Definition",
+      "pred_index": 25,
+      "pred_time": 3803.389,
+      "pred_similarity": 0.31584519147872925,
+      "abs_error_sec": 14.610999999999876
+    }
+  ]
+}

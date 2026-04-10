@@ -1,0 +1,2756 @@
+[
+  {
+    "window_id": 0,
+    "start": 16.42,
+    "end": 31.42,
+    "text": "<v Speaker 0>He floating control. <v Speaker 0>Yeah. <v Speaker 0>Alright, recap, recap for week one. <v Speaker 0>So last week we obviously went through a bunch of <v Speaker 0>uh housekeeping items, right, we went through, um, where you"
+  },
+  {
+    "window_id": 1,
+    "start": 31.42,
+    "end": 46.42,
+    "text": "<v Speaker 0>uh housekeeping items, right, we went through, um, where you <v Speaker 0>can find all the informations, it's on Canvas. <v Speaker 0>um I'll also periodically send you all emails just to <v Speaker 0>see how you guys are going, um, as well as <v Speaker 0>if you miss out on some question sets and maybe"
+  },
+  {
+    "window_id": 2,
+    "start": 46.42,
+    "end": 61.42,
+    "text": "<v Speaker 0>if you miss out on some question sets and maybe <v Speaker 0>participation. <v Speaker 0>I think the system will be able to highlight that <v Speaker 0>and I'll just send you emails as well. <v Speaker 0>So just make sure that is um the the the <v Speaker 0>way you keep yourself updated. <v Speaker 0>Course requirement, general attitude to learning, uh, shouldn't need to"
+  },
+  {
+    "window_id": 3,
+    "start": 61.42,
+    "end": 76.42,
+    "text": "<v Speaker 0>Course requirement, general attitude to learning, uh, shouldn't need to <v Speaker 0>reiterate that too much because you guys are all adults, <v Speaker 0>you know, coming from high school into now 2nd year <v Speaker 0>and 3rd year possibly. <v Speaker 0>Uh, universally, you should know how everything floats. <v Speaker 0>If you haven't quite worked that out yet, it is"
+  },
+  {
+    "window_id": 4,
+    "start": 76.42,
+    "end": 91.42,
+    "text": "<v Speaker 0>If you haven't quite worked that out yet, it is <v Speaker 0>a very self-motivated environment. <v Speaker 0>Make sure that you do participate, and obviously I'm talking <v Speaker 0>to the crowd that do participate in the lectures, so, <v Speaker 0>you know. <v Speaker 0>Thank you for coming, I guess. <v Speaker 0>Um, for those who cannot make it, um, obviously I'm"
+  },
+  {
+    "window_id": 5,
+    "start": 91.42,
+    "end": 106.42,
+    "text": "<v Speaker 0>Um, for those who cannot make it, um, obviously I'm <v Speaker 0>trying my best with recording and so I'm doing this, <v Speaker 0>um, soon. <v Speaker 0>We'll see how this works, right? <v Speaker 0>So the idea is to capture a feed so that <v Speaker 0>you can at least see me interacting with the slides <v Speaker 0>and whatnot. <v Speaker 0>It's a bit more engaging and, uh, over time, I'm"
+  },
+  {
+    "window_id": 6,
+    "start": 106.42,
+    "end": 121.42,
+    "text": "<v Speaker 0>It's a bit more engaging and, uh, over time, I'm <v Speaker 0>trying to change that up as well, so any feedback <v Speaker 0>from you, that would be welcome. <v Speaker 0>Um, our general attitude towards using Gen AI to do <v Speaker 0>a lot of your work. <v Speaker 0>Now, my take is Gen AI is a great study"
+  },
+  {
+    "window_id": 7,
+    "start": 121.42,
+    "end": 136.42000000000002,
+    "text": "<v Speaker 0>Now, my take is Gen AI is a great study <v Speaker 0>buddy, right, so make sure that you use it as <v Speaker 0>a study buddy, right, meaning that, you know, it only <v Speaker 0>responds to the, to the prompts that you give them, <v Speaker 0>right, and it also hallucinates, and by that I mean <v Speaker 0>it's a probabilistic model."
+  },
+  {
+    "window_id": 8,
+    "start": 136.42000000000002,
+    "end": 151.42000000000002,
+    "text": "<v Speaker 0>it's a probabilistic model. <v Speaker 0>So, You know, trust it with a grain of salt, <v Speaker 0>but if you test it enough times, right, you'll understand <v Speaker 0>roughly it it's kinda doing the thing as you want. <v Speaker 0>Um, the, the sort of important thing is that you"
+  },
+  {
+    "window_id": 9,
+    "start": 151.42000000000002,
+    "end": 166.42000000000002,
+    "text": "<v Speaker 0>Um, the, the sort of important thing is that you <v Speaker 0>need to feed the information. <v Speaker 0>So, the most useful prompts that I've used tends to <v Speaker 0>be me giving it both the context as well as <v Speaker 0>the sub role it plays, and I've already put up <v Speaker 0>a prompt last week and perhaps you can play around <v Speaker 0>with that, so, I think this is like your part"
+  },
+  {
+    "window_id": 10,
+    "start": 166.42000000000002,
+    "end": 181.42000000000002,
+    "text": "<v Speaker 0>with that, so, I think this is like your part <v Speaker 0>of your toolkit in learning and moving forward, right? <v Speaker 0>I don't know how, how many people are using Gen <v Speaker 0>AI but I think everyone should be using it and <v Speaker 0>getting understanding with it. <v Speaker 0>Just like how in the first original days when Search"
+  },
+  {
+    "window_id": 11,
+    "start": 181.42000000000002,
+    "end": 196.42000000000002,
+    "text": "<v Speaker 0>Just like how in the first original days when Search <v Speaker 0>Engine came about, right, looking for keywords and asking the <v Speaker 0>right question, finding what you need. <v Speaker 0>So use that to reframe the different, Examples give you <v Speaker 0>sort of insight into, into, um, the topic, try and"
+  },
+  {
+    "window_id": 12,
+    "start": 196.42000000000002,
+    "end": 211.42000000000002,
+    "text": "<v Speaker 0>sort of insight into, into, um, the topic, try and <v Speaker 0>chat with it, you know, you can ask it, you <v Speaker 0>know, to to be a student and you can be <v Speaker 0>the teacher trying to teach it and then say, ask <v Speaker 0>me questions that you don't understand. <v Speaker 0>And perhaps in those discussions, right, even though it is <v Speaker 0>a bit artificial, um, you'll learn a bit more about"
+  },
+  {
+    "window_id": 13,
+    "start": 211.42000000000002,
+    "end": 226.42000000000002,
+    "text": "<v Speaker 0>a bit artificial, um, you'll learn a bit more about <v Speaker 0>the topic, you may understand that, oh, you don't really <v Speaker 0>know that area that much. <v Speaker 0>Um, but don't use it to completely do all your <v Speaker 0>work for you, even though, you know, you can, now. <v Speaker 0>If you go to the tutorial questions, if the whole"
+  },
+  {
+    "window_id": 14,
+    "start": 226.42000000000002,
+    "end": 241.42000000000002,
+    "text": "<v Speaker 0>If you go to the tutorial questions, if the whole <v Speaker 0>point is just to fulfil the requirements and like tick <v Speaker 0>the box, then yeah, you can literally copy and paste <v Speaker 0>those questions set into a chatbot, and then out comes <v Speaker 0>the code and then paste it and say, I've done <v Speaker 0>it. <v Speaker 0>But what does that do to you, right?"
+  },
+  {
+    "window_id": 15,
+    "start": 241.42000000000002,
+    "end": 256.42,
+    "text": "<v Speaker 0>But what does that do to you, right? <v Speaker 0>You don't really learn anything for yourself. <v Speaker 0>So, you know, just be very mindful of delusion of <v Speaker 0>competency. <v Speaker 0>The second that tool goes offline, can you still understand <v Speaker 0>what you're asked to do? <v Speaker 0>Right, if you can't, then maybe there's uh room for"
+  },
+  {
+    "window_id": 16,
+    "start": 256.42,
+    "end": 271.42,
+    "text": "<v Speaker 0>Right, if you can't, then maybe there's uh room for <v Speaker 0>growth there. <v Speaker 0>Um, I've also mentioned the project work. <v Speaker 0>So the project work is to come from, um, week <v Speaker 0>56 onwards. <v Speaker 0>So by next week, right, week 3, you'll need to <v Speaker 0>formalise your team. <v Speaker 0>And I'll talk more about the team formation and the"
+  },
+  {
+    "window_id": 17,
+    "start": 271.42,
+    "end": 286.42,
+    "text": "<v Speaker 0>And I'll talk more about the team formation and the <v Speaker 0>process of finding the right candidates and whatnot. <v Speaker 0>I've already had a question on Thursday class on, You <v Speaker 0>know, can we have the same discipline in the mix? <v Speaker 0>Uh, the official guideline is no, we want you to <v Speaker 0>be interdisciplinary."
+  },
+  {
+    "window_id": 18,
+    "start": 286.42,
+    "end": 301.42,
+    "text": "<v Speaker 0>be interdisciplinary. <v Speaker 0>So two members from each of the, of the, um, <v Speaker 0>disciplines. <v Speaker 0>So if you find a mate who's in bio met <v Speaker 0>and, uh, and bioengineering, and another who's in, uh, civil, <v Speaker 0>you know, pair that up, that's your 4 people team, <v Speaker 0>right?"
+  },
+  {
+    "window_id": 19,
+    "start": 301.42,
+    "end": 316.42,
+    "text": "<v Speaker 0>But in some situation, because of the class constraints, uh, <v Speaker 0>we may not actually have that split. <v Speaker 0>So under those situations we try to, we try to <v Speaker 0>be, um, you know, ad hoc with what needs to <v Speaker 0>happen. <v Speaker 0>But it is in your best interest to work with"
+  },
+  {
+    "window_id": 20,
+    "start": 316.42,
+    "end": 331.42,
+    "text": "<v Speaker 0>But it is in your best interest to work with <v Speaker 0>other members who are not in your discipline. <v Speaker 0>Now that's because in the real world, right, you often <v Speaker 0>interact with people who don't have the same background as <v Speaker 0>you, and so you need to learn the common language, <v Speaker 0>and that is a training ground for it. <v Speaker 0>Right, you can't just always expect, ah, to be talking"
+  },
+  {
+    "window_id": 21,
+    "start": 331.42,
+    "end": 346.42,
+    "text": "<v Speaker 0>Right, you can't just always expect, ah, to be talking <v Speaker 0>to a mechanical engineer and then just, you know. <v Speaker 0>So of word exchange means the same thing, right? <v Speaker 0>But when you're working with different engineers, perhaps your definition <v Speaker 0>of stress is not the same as their stress, like,"
+  },
+  {
+    "window_id": 22,
+    "start": 346.42,
+    "end": 361.42,
+    "text": "<v Speaker 0>of stress is not the same as their stress, like, <v Speaker 0>you know, like, I'm talking about material stress and whatnot, <v Speaker 0>right? <v Speaker 0>Or, or some other technical term. <v Speaker 0>So it is a bit, you know, useful to, to <v Speaker 0>have an interaction with different domains of expertise. <v Speaker 0>Um, and then finally, again, the learner expectation, just, um,"
+  },
+  {
+    "window_id": 23,
+    "start": 361.42,
+    "end": 376.42,
+    "text": "<v Speaker 0>Um, and then finally, again, the learner expectation, just, um, <v Speaker 0>contribution towards those surveys. <v Speaker 0>Um, the Google Form has already got a bunch of, <v Speaker 0>uh, information in there, which is great. <v Speaker 0>So if you haven't already completed the, um, Google Form <v Speaker 0>survey last time, try to do that."
+  },
+  {
+    "window_id": 24,
+    "start": 376.42,
+    "end": 391.42,
+    "text": "<v Speaker 0>survey last time, try to do that. <v Speaker 0>Um, we're just trying to create. <v Speaker 0>A data set, maybe we can play around with it. <v Speaker 0>I'm not sure. <v Speaker 0>Um, but that's the intent, right? <v Speaker 0>We're just gonna do a social experiment in our class <v Speaker 0>and then through that, because part of your learning is <v Speaker 0>to learn how to process the data, how to come"
+  },
+  {
+    "window_id": 25,
+    "start": 391.42,
+    "end": 406.42,
+    "text": "<v Speaker 0>to learn how to process the data, how to come <v Speaker 0>up with, um, machine learning pipelines, um, maybe you can <v Speaker 0>use that as a, uh, experiment to it. <v Speaker 0>OK?"
+  },
+  {
+    "window_id": 26,
+    "start": 406.42,
+    "end": 421.42,
+    "text": "<v Speaker 0>OK, alright, recap from week one. <v Speaker 0>What is an intelligence system? <v Speaker 0>We talked briefly about that, it's uh basically anything that, <v Speaker 0>you know, it takes a takes an action based on"
+  },
+  {
+    "window_id": 27,
+    "start": 421.42,
+    "end": 436.42,
+    "text": "<v Speaker 0>you know, it takes a takes an action based on <v Speaker 0>a uncertain information set, um, so that it delivers a, <v Speaker 0>A very highly desirable outcome, and a lot of those <v Speaker 0>words are subjective, right, so it is up to you"
+  },
+  {
+    "window_id": 28,
+    "start": 436.42,
+    "end": 451.42,
+    "text": "<v Speaker 0>words are subjective, right, so it is up to you <v Speaker 0>as an engineer, designing a system to then be able <v Speaker 0>to take action, fill in the blank what action that <v Speaker 0>is, desirable outcome, fill in what desirable outcome is, right, <v Speaker 0>and then obviously the highly probable thing is, is your <v Speaker 0>environment."
+  },
+  {
+    "window_id": 29,
+    "start": 451.42,
+    "end": 466.42,
+    "text": "<v Speaker 0>environment. <v Speaker 0>Now you imagine a self-driving car, right? <v Speaker 0>There's a lot of moving parts in there. <v Speaker 0>You've got various different driving environments, you've got the car <v Speaker 0>moving left and right and starting and stopping and when <v Speaker 0>to make those judgement calls, and then the desirable outcome"
+  },
+  {
+    "window_id": 30,
+    "start": 466.42,
+    "end": 481.42,
+    "text": "<v Speaker 0>is to keep the passengers safe and alive, right, and <v Speaker 0>not to kill other bystanders as well. <v Speaker 0>OK, so, so that is a very sim simplistic way <v Speaker 0>of describing a self-driving car system. <v Speaker 0>uh, obviously it is very challenging and you've seen in"
+  },
+  {
+    "window_id": 31,
+    "start": 481.42,
+    "end": 496.42,
+    "text": "<v Speaker 0>uh, obviously it is very challenging and you've seen in <v Speaker 0>the real world, it is not as simple as just <v Speaker 0>what I just stated. <v Speaker 0>It's taking them what, 45, about 78 years now since <v Speaker 0>the first launching of those autonomous vehicles, and even Teslas <v Speaker 0>are collecting dataset every day just so they can better"
+  },
+  {
+    "window_id": 32,
+    "start": 496.42,
+    "end": 511.42,
+    "text": "<v Speaker 0>are collecting dataset every day just so they can better <v Speaker 0>their, their intelligence system. <v Speaker 0>Now intelligence systems, um, so I've talked about that, that <v Speaker 0>takes actions to achieve a highly desirable outcome. <v Speaker 0>Machine learning algorithm, um, What is, what is, yeah, there's"
+  },
+  {
+    "window_id": 33,
+    "start": 511.42,
+    "end": 526.4200000000001,
+    "text": "<v Speaker 0>Machine learning algorithm, um, What is, what is, yeah, there's <v Speaker 0>a cut off here, strangely, to output, potentially self-adjusting with <v Speaker 0>data set. <v Speaker 0>Now why machine learning is so interesting compared to conventional <v Speaker 0>system control um algorithms is that once you set this"
+  },
+  {
+    "window_id": 34,
+    "start": 526.4200000000001,
+    "end": 541.4200000000001,
+    "text": "<v Speaker 0>system control um algorithms is that once you set this <v Speaker 0>thing in motion, By definition, it should be able to <v Speaker 0>adjust itself to different data sets and uncertainties. <v Speaker 0>Right, you give it a data set that you've seen, <v Speaker 0>much like yourself, right, if you think about it, right,"
+  },
+  {
+    "window_id": 35,
+    "start": 541.4200000000001,
+    "end": 556.4200000000001,
+    "text": "<v Speaker 0>much like yourself, right, if you think about it, right, <v Speaker 0>everyone is almost like a pseudo machine learning, or we <v Speaker 0>should say the machine learning systems has emulated the human <v Speaker 0>psychology, right? <v Speaker 0>You don't see everything in your life, right, up to <v Speaker 0>this point, but at least you have all the judgement"
+  },
+  {
+    "window_id": 36,
+    "start": 556.4200000000001,
+    "end": 571.4200000000001,
+    "text": "<v Speaker 0>this point, but at least you have all the judgement <v Speaker 0>calls and the policies involved, so that you can make <v Speaker 0>the right call. <v Speaker 0>In an uncertain situation. <v Speaker 0>That is really what you're trying to replicate here, but <v Speaker 0>in a more sort of dumbed down environment, a dumbed <v Speaker 0>down sort of situation where there's only one or two"
+  },
+  {
+    "window_id": 37,
+    "start": 571.4200000000001,
+    "end": 586.4200000000001,
+    "text": "<v Speaker 0>down sort of situation where there's only one or two <v Speaker 0>actions, um, to be made. <v Speaker 0>OK, so that's really the definition of machine learning, it's, <v Speaker 0>it's like a, it's like a parallel to to human <v Speaker 0>learning. <v Speaker 0>Um, and a lot of this comes down to good <v Speaker 0>data sets."
+  },
+  {
+    "window_id": 38,
+    "start": 586.4200000000001,
+    "end": 601.4200000000001,
+    "text": "<v Speaker 0>data sets. <v Speaker 0>Now if you don't collect a good data set, then <v Speaker 0>you don't have the best representation of what is, um, <v Speaker 0>you know, what is being shown, right, in the real <v Speaker 0>world. <v Speaker 0>And so you don't actually, you can't train the the"
+  },
+  {
+    "window_id": 39,
+    "start": 601.4200000000001,
+    "end": 616.4200000000001,
+    "text": "<v Speaker 0>And so you don't actually, you can't train the the <v Speaker 0>machine learning algorithm to the, to the right level. <v Speaker 0>Just because you want good data set doesn't mean that <v Speaker 0>collecting everything is good, right, there's something called dimensionality, which <v Speaker 0>is basically every single row uh columns, right, you have"
+  },
+  {
+    "window_id": 40,
+    "start": 616.4200000000001,
+    "end": 631.4200000000001,
+    "text": "<v Speaker 0>is basically every single row uh columns, right, you have <v Speaker 0>an extra parameter, it is a dimension. <v Speaker 0>And you know, with more dimension, yes, you can have <v Speaker 0>better forecasts, you have better accuracy and the precision, but <v Speaker 0>there is also a compute issue, right?"
+  },
+  {
+    "window_id": 41,
+    "start": 631.4200000000001,
+    "end": 646.4200000000001,
+    "text": "<v Speaker 0>there is also a compute issue, right? <v Speaker 0>It will take exponentially more compute power just to do <v Speaker 0>something simple. <v Speaker 0>So the curse of dimensionality, um, basically says that there <v Speaker 0>should be an optimum number of features that you're looking <v Speaker 0>for that best represents the environment."
+  },
+  {
+    "window_id": 42,
+    "start": 646.4200000000001,
+    "end": 661.4200000000001,
+    "text": "<v Speaker 0>for that best represents the environment. <v Speaker 0>Alright, best represents the environment, so that you can make <v Speaker 0>the right actions, so then you can have that desirable <v Speaker 0>outcome. <v Speaker 0>Um, you also need to be wary about how the <v Speaker 0>data is being represented, right? <v Speaker 0>Now, I, I don't know if I have the picture,"
+  },
+  {
+    "window_id": 43,
+    "start": 661.4200000000001,
+    "end": 676.4200000000001,
+    "text": "<v Speaker 0>Now, I, I don't know if I have the picture, <v Speaker 0>but you can imagine, right, if you have Cartesian coordinates, <v Speaker 0>right, X and Y numbers. <v Speaker 0>If you plot that in a, in a, in a <v Speaker 0>soft scattered plot, right, where there's two colours, the central, <v Speaker 0>central bit maybe is like green or something, the outer"
+  },
+  {
+    "window_id": 44,
+    "start": 676.4200000000001,
+    "end": 691.4200000000001,
+    "text": "<v Speaker 0>central bit maybe is like green or something, the outer <v Speaker 0>ring will be red. <v Speaker 0>That is actually quite confusing for machine learning because, you <v Speaker 0>know, the two different colour data pots exist in both <v Speaker 0>quadrants, in 4 quadrants of your, of your pseudo sort"
+  },
+  {
+    "window_id": 45,
+    "start": 691.4200000000001,
+    "end": 706.4200000000001,
+    "text": "<v Speaker 0>quadrants, in 4 quadrants of your, of your pseudo sort <v Speaker 0>of aximet. <v Speaker 0>If you were to re-represent this and transform the data <v Speaker 0>into polar coordinates, then that's very different because there could <v Speaker 0>be a centroid and then a central point and around <v Speaker 0>that is a ring of colours, right? <v Speaker 0>And so representation comes into play."
+  },
+  {
+    "window_id": 46,
+    "start": 706.4200000000001,
+    "end": 721.4200000000001,
+    "text": "<v Speaker 0>And so representation comes into play. <v Speaker 0>It's not just a data set, it is your job <v Speaker 0>to find the right representation that best represent the environment, <v Speaker 0>and then also then compute what those machine learning. <v Speaker 0>Um, You know, linear, linear maths, uh, equation would be."
+  },
+  {
+    "window_id": 47,
+    "start": 721.4200000000001,
+    "end": 736.4200000000001,
+    "text": "<v Speaker 0>Um, You know, linear, linear maths, uh, equation would be. <v Speaker 0>So there's a lot involved, um, for the human in <v Speaker 0>this loop, it's not just autonomous everything, right, part of <v Speaker 0>your job for now, until we, we have some sort"
+  },
+  {
+    "window_id": 48,
+    "start": 736.4200000000001,
+    "end": 751.4200000000001,
+    "text": "<v Speaker 0>your job for now, until we, we have some sort <v Speaker 0>of singularity, AGI. <v Speaker 0>Whatever that happens in the next 5 years, um, you, <v Speaker 0>you guys are still a big part of this whole <v Speaker 0>process, and describing the system to an autonomous, um, compute <v Speaker 0>is actually part of the job of an engineer."
+  },
+  {
+    "window_id": 49,
+    "start": 751.4200000000001,
+    "end": 766.4200000000001,
+    "text": "<v Speaker 0>is actually part of the job of an engineer. <v Speaker 0>So your job is not really just to solve problems. <v Speaker 0>I would say it's better stated that, you know, your <v Speaker 0>job as engineers is developing the right mindset to describe <v Speaker 0>a problem to then dissect that problem and then autonomously"
+  },
+  {
+    "window_id": 50,
+    "start": 766.4200000000001,
+    "end": 781.4200000000001,
+    "text": "<v Speaker 0>a problem to then dissect that problem and then autonomously <v Speaker 0>get bits and pieces solved and bring it back together. <v Speaker 0>Now there was a question yesterday, oh sorry, last week, <v Speaker 0>on, on, um, is there any, is there any textbooks? <v Speaker 0>Um, and I've put up this 4 textbooks I thought"
+  },
+  {
+    "window_id": 51,
+    "start": 781.4200000000001,
+    "end": 796.4200000000001,
+    "text": "<v Speaker 0>Um, and I've put up this 4 textbooks I thought <v Speaker 0>would be quite a good broad introduction, um, you can <v Speaker 0>read the different chapters as you need. <v Speaker 0>I'm not gonna map the the notes to each of <v Speaker 0>those chapters, it's also not, Uh, linear to the, to <v Speaker 0>the chapter's description either, but all these books are on,"
+  },
+  {
+    "window_id": 52,
+    "start": 796.4200000000001,
+    "end": 811.4200000000001,
+    "text": "<v Speaker 0>the chapter's description either, but all these books are on, <v Speaker 0>um, in the library as well, so I put up <v Speaker 0>the book list on Canvas. <v Speaker 0>Um, you should be able to borrow these ebooks online <v Speaker 0>as well, right? <v Speaker 0>Or, you know, do your, do your sort of, um,"
+  },
+  {
+    "window_id": 53,
+    "start": 811.4200000000001,
+    "end": 826.4200000000001,
+    "text": "<v Speaker 0>Or, you know, do your, do your sort of, um, <v Speaker 0>resourcefulness and find a copy somewhere on the, on the <v Speaker 0>www bid, right, white web. <v Speaker 0>But they should be accessible, um, you know, in the <v Speaker 0>Fisher library anyway."
+  },
+  {
+    "window_id": 54,
+    "start": 826.4200000000001,
+    "end": 841.4200000000001,
+    "text": "<v Speaker 0>There's um, from last week we had the, we have <v Speaker 0>the tutorial question one, right? <v Speaker 0>I've also put up the model answers. <v Speaker 0>So for those who are quite new to programming, make <v Speaker 0>sure you go through and look at, you know, what"
+  },
+  {
+    "window_id": 55,
+    "start": 841.4200000000001,
+    "end": 856.4200000000001,
+    "text": "<v Speaker 0>sure you go through and look at, you know, what <v Speaker 0>your answers and what some of the provider answers may <v Speaker 0>look like. <v Speaker 0>Um, in terms of the functionality, there's no difference, but <v Speaker 0>it is the way it's been represented. <v Speaker 0>So there is a workflow, right, and try to design <v Speaker 0>your own workflow. <v Speaker 0>This is how we can distinguish different people from, you"
+  },
+  {
+    "window_id": 56,
+    "start": 856.4200000000001,
+    "end": 871.4200000000001,
+    "text": "<v Speaker 0>This is how we can distinguish different people from, you <v Speaker 0>know, their work, uh, amongst yourselves, right, because everyone has <v Speaker 0>a slightly different way of coding and commenting your code <v Speaker 0>and how to layer it up. <v Speaker 0>I've noticed that a lot of students are using the, <v Speaker 0>the codes directly as a pie script, you know, don't"
+  },
+  {
+    "window_id": 57,
+    "start": 871.4200000000001,
+    "end": 886.4200000000001,
+    "text": "<v Speaker 0>the codes directly as a pie script, you know, don't <v Speaker 0>do that. <v Speaker 0>Use a Jupiter notebook set up so then you can <v Speaker 0>run little boxes of codes, then you can do experiments <v Speaker 0>that way, comment on that, and then, you know, develop <v Speaker 0>that pipeline."
+  },
+  {
+    "window_id": 58,
+    "start": 886.4200000000001,
+    "end": 901.4200000000001,
+    "text": "<v Speaker 0>It makes a big difference because later down the track, <v Speaker 0>and today we'll talk about how to compare models. <v Speaker 0>And when we're comparing, um, different model sets, you want <v Speaker 0>to know the accuracy and the precision. <v Speaker 0>And if you just have your codes everywhere, it's really <v Speaker 0>difficult to go, all right, this coat is, you know,"
+  },
+  {
+    "window_id": 59,
+    "start": 901.4200000000001,
+    "end": 916.4200000000001,
+    "text": "<v Speaker 0>difficult to go, all right, this coat is, you know, <v Speaker 0>better than that coat, better than that one. <v Speaker 0>So, you know, develop your own pipeline on how to <v Speaker 0>code, how to experiment, how to understand what you're doing. <v Speaker 0>And obviously I put up with 2's tutorial questions this <v Speaker 0>morning, along with the data set."
+  },
+  {
+    "window_id": 60,
+    "start": 916.4200000000001,
+    "end": 931.4200000000001,
+    "text": "<v Speaker 0>morning, along with the data set. <v Speaker 0>So, this week we're gonna be talking about um conceptual <v Speaker 0>description of machine learning as a as a problem, right? <v Speaker 0>There's a major class differences between classification and regression."
+  },
+  {
+    "window_id": 61,
+    "start": 931.4200000000001,
+    "end": 946.4200000000001,
+    "text": "<v Speaker 0>There's a major class differences between classification and regression. <v Speaker 0>Um, and sort of the bigger extent, we touched base <v Speaker 0>on that last time about supervised versus unsupervised learning. <v Speaker 0>And how do you really compare, um, performances?"
+  },
+  {
+    "window_id": 62,
+    "start": 946.4200000000001,
+    "end": 961.4200000000001,
+    "text": "<v Speaker 0>And how do you really compare, um, performances? <v Speaker 0>Because, you know, you could be doing things with this <v Speaker 0>black box, but then how do you know this black <v Speaker 0>box is better than this other black box? <v Speaker 0>They equally the same, right? <v Speaker 0>Like, if you don't know anything about it. <v Speaker 0>So, understanding what you're looking for and what problems that <v Speaker 0>you're trying to solve is very important."
+  },
+  {
+    "window_id": 63,
+    "start": 961.4200000000001,
+    "end": 976.4200000000001,
+    "text": "<v Speaker 0>you're trying to solve is very important. <v Speaker 0>And then maybe we're in on um data preprocessing. <v Speaker 0>Yes, I think, I think we'll talk about um. <v Speaker 0>Training sets and how to cut the data up so <v Speaker 0>then you can, you can get more, more use out"
+  },
+  {
+    "window_id": 64,
+    "start": 976.4200000000001,
+    "end": 991.4200000000001,
+    "text": "<v Speaker 0>then you can, you can get more, more use out <v Speaker 0>of the same data set, right, because, as I said <v Speaker 0>before, it is about representation, if it's not well captured <v Speaker 0>in your original input, you cannot develop the thing that's <v Speaker 0>in the middle for your output to be mapped out."
+  },
+  {
+    "window_id": 65,
+    "start": 991.4200000000001,
+    "end": 1006.4200000000001,
+    "text": "<v Speaker 1>So we'll go through that. <v Speaker 0>So who he just roughly has already worked with CSV <v Speaker 0>files and massive data sets of sorts? <v Speaker 0>Yeah, a portion of you. <v Speaker 0>So some of you guys would be like, what is"
+  },
+  {
+    "window_id": 66,
+    "start": 1006.4200000000001,
+    "end": 1021.4200000000001,
+    "text": "<v Speaker 0>So some of you guys would be like, what is <v Speaker 0>this massive table of thing, right? <v Speaker 0>Now we described last time that basically you're working towards <v Speaker 0>a function, right, a function is any sort of mathematical <v Speaker 0>compute that takes a X and a Y, it's a <v Speaker 0>mapping process."
+  },
+  {
+    "window_id": 67,
+    "start": 1021.4200000000001,
+    "end": 1036.42,
+    "text": "<v Speaker 0>mapping process. <v Speaker 0>Now, in order to develop this ML you need to <v Speaker 0>train it. <v Speaker 0>So then you need to bring in the data, and <v Speaker 0>obviously, the organisation of this data set is often in <v Speaker 0>um CSV which is a comma separated values."
+  },
+  {
+    "window_id": 68,
+    "start": 1036.42,
+    "end": 1051.42,
+    "text": "<v Speaker 0>um CSV which is a comma separated values. <v Speaker 0>It's simply just every value, com, right? <v Speaker 0>These are, these are easy stuff for you. <v Speaker 0>Um, but then every role you have is basically a <v Speaker 0>new entry, obviously. <v Speaker 0>But then every column is a feature."
+  },
+  {
+    "window_id": 69,
+    "start": 1051.42,
+    "end": 1066.42,
+    "text": "<v Speaker 0>But then every column is a feature. <v Speaker 0>Now future could be things that you're looking for, or <v Speaker 0>could be things that you already have and are using <v Speaker 0>those as a predictor for something else. <v Speaker 0>Right, this is where some of the confusion comes in, <v Speaker 0>right? <v Speaker 0>Because you're like, well, I have, I have, you know, <v Speaker 0>100 roles, right?"
+  },
+  {
+    "window_id": 70,
+    "start": 1066.42,
+    "end": 1081.42,
+    "text": "<v Speaker 0>100 roles, right? <v Speaker 0>I have only 3 columns. <v Speaker 0>Is that enough? <v Speaker 0>Is that enough to train a machine learning model to <v Speaker 0>predict something? <v Speaker 0>Right, it could be predicting missing values within that column, <v Speaker 0>or it could be predicting a new column altogether."
+  },
+  {
+    "window_id": 71,
+    "start": 1081.42,
+    "end": 1096.42,
+    "text": "<v Speaker 0>or it could be predicting a new column altogether. <v Speaker 0>Right, so it's, that is really what we're talking about <v Speaker 0>in terms of dimensionality. <v Speaker 0>So in this particular example, you have column A to <v Speaker 0>what M, which is 13. <v Speaker 0>Right, and so forth."
+  },
+  {
+    "window_id": 72,
+    "start": 1096.42,
+    "end": 1111.42,
+    "text": "<v Speaker 0>So there's almost already 14 dimensions if you're looking at <v Speaker 0>column N next to M as well. <v Speaker 0>Um, but some columns are more useful than others. <v Speaker 0>So part of your job is to tease out what <v Speaker 0>are the features that you're gonna put into your machine"
+  },
+  {
+    "window_id": 73,
+    "start": 1111.42,
+    "end": 1126.42,
+    "text": "<v Speaker 0>are the features that you're gonna put into your machine <v Speaker 0>learning model. <v Speaker 0>What are the, what is the final label that you <v Speaker 0>want to create, now it could be again a categorical <v Speaker 0>label or it could be a a continuous data set, <v Speaker 0>right?"
+  },
+  {
+    "window_id": 74,
+    "start": 1126.42,
+    "end": 1141.42,
+    "text": "<v Speaker 0>right? <v Speaker 0>So this is what you'll be dealing with, you know, <v Speaker 0>day in, day out for the next, for the, for <v Speaker 0>the next remaining weeks. <v Speaker 0>The same thing happens for an image, right? <v Speaker 0>If you take a um a a JPEG, right? <v Speaker 0>JPEG file, like for example, I'm developing a machine learning"
+  },
+  {
+    "window_id": 75,
+    "start": 1141.42,
+    "end": 1156.42,
+    "text": "<v Speaker 0>JPEG file, like for example, I'm developing a machine learning <v Speaker 0>model to recognise car plates, right? <v Speaker 0>You just take a picture, right. <v Speaker 0>Now the first thing about that is processing that into <v Speaker 0>some sort of matrix, so then it's represented as one <v Speaker 0>long row of something, right?"
+  },
+  {
+    "window_id": 76,
+    "start": 1156.42,
+    "end": 1171.42,
+    "text": "<v Speaker 0>long row of something, right? <v Speaker 0>Each entry point, each car plate, is going to be <v Speaker 0>one row. <v Speaker 0>Right. <v Speaker 0>And you can imagine, well, it's like, well how do <v Speaker 0>I represent what happens to each of the pixels? <v Speaker 0>Well, pixels have 3 colours, right? <v Speaker 0>So you've got 3 values."
+  },
+  {
+    "window_id": 77,
+    "start": 1171.42,
+    "end": 1186.42,
+    "text": "<v Speaker 0>So you've got 3 values. <v Speaker 0>And so in a sort of 10 by 10, I <v Speaker 0>don't know, like maybe 100 pixel by 100 pixel image, <v Speaker 0>there's already quite a number of columns you can imagine, <v Speaker 0>but then you have to times that by 3 because <v Speaker 0>of the colour integers, right?"
+  },
+  {
+    "window_id": 78,
+    "start": 1186.42,
+    "end": 1201.42,
+    "text": "<v Speaker 0>of the colour integers, right? <v Speaker 0>So, when you're dealing with images, you have a lot <v Speaker 0>more dimensions. <v Speaker 0>When you're dealing with something like a text or a <v Speaker 0>numerical um dataset, you know, it is something that you <v Speaker 0>can almost imagine and visualise because it's, it's still within"
+  },
+  {
+    "window_id": 79,
+    "start": 1201.42,
+    "end": 1216.42,
+    "text": "<v Speaker 0>can almost imagine and visualise because it's, it's still within <v Speaker 0>your sort of cognitive ability to go, all right, yeah, <v Speaker 0>that's 100 columns, you know, can you imagine 1000, a <v Speaker 0>million columns and then going through this convolution neural net <v Speaker 0>that pushes it down to like 100, 100 labels."
+  },
+  {
+    "window_id": 80,
+    "start": 1216.42,
+    "end": 1231.42,
+    "text": "<v Speaker 0>So it's kind of like, you know, that's the scale <v Speaker 0>we're working towards. <v Speaker 0>I think by the end of the course, we will <v Speaker 0>be talking about convolution neural networks, because some of the <v Speaker 0>projects in the past uh involves using MRI MRI data,"
+  },
+  {
+    "window_id": 81,
+    "start": 1231.42,
+    "end": 1246.42,
+    "text": "<v Speaker 0>projects in the past uh involves using MRI MRI data, <v Speaker 0>MI MRI, yeah, correct. <v Speaker 0>MRI data is, right, to, to basically forecast if there's <v Speaker 0>a tumour or not. <v Speaker 0>So, you know, don't, don't be too afraid of those <v Speaker 0>more complicated systems, it is just a, So of linear"
+  },
+  {
+    "window_id": 82,
+    "start": 1246.42,
+    "end": 1261.42,
+    "text": "<v Speaker 0>more complicated systems, it is just a, So of linear <v Speaker 0>scaling up of this particular system, right? <v Speaker 0>So as a recap, we have a number of K <v Speaker 0>values on the right, um, streaming that way, dimensionality, some <v Speaker 0>are representative of the system, some are redundancy, right, so"
+  },
+  {
+    "window_id": 83,
+    "start": 1261.42,
+    "end": 1276.42,
+    "text": "<v Speaker 0>are representative of the system, some are redundancy, right, so <v Speaker 0>if you're looking at maybe gearbox, One, right, the shifting <v Speaker 0>of gearbox, like column B and column D, they could <v Speaker 0>be like mirrored off each other, right, when one value <v Speaker 0>goes up, the other value goes down."
+  },
+  {
+    "window_id": 84,
+    "start": 1276.42,
+    "end": 1291.42,
+    "text": "<v Speaker 0>goes up, the other value goes down. <v Speaker 0>So they're actually describing the same thing, right, so the <v Speaker 0>first thing is obviously to look at if the correlator <v Speaker 0>in any way. <v Speaker 0>I've put up two exercises here which I think you"
+  },
+  {
+    "window_id": 85,
+    "start": 1291.42,
+    "end": 1306.42,
+    "text": "<v Speaker 0>I've put up two exercises here which I think you <v Speaker 0>you guys should um take some time to do this <v Speaker 0>in addition to your tutorial questions, which is to go <v Speaker 0>to Kegle to download a CSV file and then use <v Speaker 0>Pandas to read it, and then process that in some"
+  },
+  {
+    "window_id": 86,
+    "start": 1306.42,
+    "end": 1321.42,
+    "text": "<v Speaker 0>Pandas to read it, and then process that in some <v Speaker 0>ways. <v Speaker 0>If you're able to do this, you'll be able to <v Speaker 0>do this week's tutorial questions with ease because there's a <v Speaker 0>lot of questions similar to that. <v Speaker 0>It's processing it. <v Speaker 0>Finding the statistics, the descriptive statistics around that, and then"
+  },
+  {
+    "window_id": 87,
+    "start": 1321.42,
+    "end": 1336.42,
+    "text": "<v Speaker 0>Finding the statistics, the descriptive statistics around that, and then <v Speaker 0>yielding some sort of information about your system. <v Speaker 0>So you can find any data set and this website <v Speaker 0>provides a lot of free data sets, um, you can <v Speaker 0>play around with that and later in the project we'll <v Speaker 0>expect you to come to this website to find things"
+  },
+  {
+    "window_id": 88,
+    "start": 1336.42,
+    "end": 1351.42,
+    "text": "<v Speaker 0>expect you to come to this website to find things <v Speaker 0>and also other places as well. <v Speaker 0>Um, if you have access to your own data set, <v Speaker 0>by all means bring it to your table. <v Speaker 0>Um, but again, this is up to you and your <v Speaker 0>and your team to discuss. <v Speaker 0>It's like, OK, well, what problem are we trying to <v Speaker 0>work out, you know."
+  },
+  {
+    "window_id": 89,
+    "start": 1351.42,
+    "end": 1366.42,
+    "text": "<v Speaker 0>work out, you know. <v Speaker 0>And unfortunately, right, when we're fighting for this particular problem, <v Speaker 0>um, project that is, it's gonna be a two part <v Speaker 0>challenge. <v Speaker 0>It's, you know, how accessible do you, do you, uh, <v Speaker 0>are you able to get the data set and how"
+  },
+  {
+    "window_id": 90,
+    "start": 1366.42,
+    "end": 1381.42,
+    "text": "<v Speaker 0>are you able to get the data set and how <v Speaker 0>passionate you are about a certain problem. <v Speaker 0>If you're passionate about a problem but you have no <v Speaker 0>data set, then unfortunately within this 13 week process, it's <v Speaker 0>not, Possible to like be collecting some of the data,"
+  },
+  {
+    "window_id": 91,
+    "start": 1381.42,
+    "end": 1396.42,
+    "text": "<v Speaker 0>not, Possible to like be collecting some of the data, <v Speaker 0>then to get the data, um, get the problem done. <v Speaker 0>So it is a bit uh tricky that way, but <v Speaker 0>that's OK, we can, we can fix that soon. <v Speaker 0>All right. <v Speaker 0>So, conceptual description of a machine learning model."
+  },
+  {
+    "window_id": 92,
+    "start": 1396.42,
+    "end": 1411.42,
+    "text": "<v Speaker 0>So, conceptual description of a machine learning model. <v Speaker 0>Problem, we've described that often it is mapped out, um, <v Speaker 0>your data record is in roads, the different columns is <v Speaker 0>your dimension. <v Speaker 0>They can be labelled, um, in a situation where you"
+  },
+  {
+    "window_id": 93,
+    "start": 1411.42,
+    "end": 1426.42,
+    "text": "<v Speaker 0>They can be labelled, um, in a situation where you <v Speaker 0>have the labels and responses, right, and then you're training <v Speaker 0>it, that's called supervised learning. <v Speaker 0>So that is actually the label you have already, right? <v Speaker 0>Imagine, right, I give you 100 apples, and you have"
+  },
+  {
+    "window_id": 94,
+    "start": 1426.42,
+    "end": 1441.42,
+    "text": "<v Speaker 0>Imagine, right, I give you 100 apples, and you have <v Speaker 0>the size of each apple, you have the colour, intensity <v Speaker 0>of the retinas, and maybe the weight of it. <v Speaker 0>And then you eat all 100 apples, right? <v Speaker 0>And then you go, alright, well this is tasty, this <v Speaker 0>is not tasty, this is tasty, this is sour, this <v Speaker 0>is not. <v Speaker 0>You label your 100 rolls."
+  },
+  {
+    "window_id": 95,
+    "start": 1441.42,
+    "end": 1456.42,
+    "text": "<v Speaker 0>You label your 100 rolls. <v Speaker 0>And I'll give you another 100 apples, right? <v Speaker 0>I'll give you those three measurements, and I'm gonna ask <v Speaker 0>you to predict, do you think that apple is gonna <v Speaker 0>be tasty, sour, not so much. <v Speaker 0>Training that label set from the 1st 100 is really"
+  },
+  {
+    "window_id": 96,
+    "start": 1456.42,
+    "end": 1471.42,
+    "text": "<v Speaker 0>Training that label set from the 1st 100 is really <v Speaker 0>what supervised learning is about, right? <v Speaker 0>When you don't even have the original, you know, taste <v Speaker 0>assessment, that's when we're talking about without labels, and that's <v Speaker 0>called an unsupervised learning."
+  },
+  {
+    "window_id": 97,
+    "start": 1471.42,
+    "end": 1486.42,
+    "text": "<v Speaker 0>called an unsupervised learning. <v Speaker 0>And actually that is uh a lot more powerful in, <v Speaker 0>in, well in a given sort of scenario, um, because <v Speaker 0>not, not all the time do you have all the <v Speaker 0>labels in place."
+  },
+  {
+    "window_id": 98,
+    "start": 1486.42,
+    "end": 1501.42,
+    "text": "<v Speaker 0>And so the second, the second part of that, like <v Speaker 0>the unsupervised learning, as we talked about last time, I <v Speaker 0>sort of pointed it out, it's really about discovery, right? <v Speaker 0>It's about looking for patterns that you can perhaps then <v Speaker 0>devise new experiments to then generate some sort of confirmation"
+  },
+  {
+    "window_id": 99,
+    "start": 1501.42,
+    "end": 1516.42,
+    "text": "<v Speaker 0>devise new experiments to then generate some sort of confirmation <v Speaker 0>pieces around that. <v Speaker 0>But in most cases for now, right, we can, we <v Speaker 0>can, uh, assume that, you know, we're gonna learn about <v Speaker 0>machine learning. <v Speaker 0>We're gonna use label situations, so it's a supervised learning, <v Speaker 0>so then you can train the system, you can verify"
+  },
+  {
+    "window_id": 100,
+    "start": 1516.42,
+    "end": 1531.42,
+    "text": "<v Speaker 0>so then you can train the system, you can verify <v Speaker 0>if the system's correct, and then you can use that <v Speaker 0>same system to then generate new information without seeing, you <v Speaker 0>know, the latter 100 apples for example. <v Speaker 0>OK."
+  },
+  {
+    "window_id": 101,
+    "start": 1531.42,
+    "end": 1546.42,
+    "text": "<v Speaker 0>So, once the experiment, suppose our model um it's a <v Speaker 0>linear algebra bit, so it's a linear equation Y equals <v Speaker 0>axe, um there's only one scalar function, uh, feature. <v Speaker 0>Right, the unknoying parameter. <v Speaker 0>So you can imagine here."
+  },
+  {
+    "window_id": 102,
+    "start": 1546.42,
+    "end": 1561.42,
+    "text": "<v Speaker 0>So you can imagine here. <v Speaker 0>What is the best way to find A? <v Speaker 0>A is simply a gradient, right? <v Speaker 0>That's uh, you know, Y equals MX plus B if <v Speaker 0>you want to have a, have a, um, intercept function <v Speaker 0>there."
+  },
+  {
+    "window_id": 103,
+    "start": 1561.42,
+    "end": 1576.42,
+    "text": "<v Speaker 0>But really the question here is between method A or <v Speaker 0>make method one, which is taking the average of all <v Speaker 0>the ratios, right, you imagine. <v Speaker 0>And then, um, averaging that out, right? <v Speaker 0>Is that a better way of finding the gradient or"
+  },
+  {
+    "window_id": 104,
+    "start": 1576.42,
+    "end": 1591.42,
+    "text": "<v Speaker 0>Is that a better way of finding the gradient or <v Speaker 0>is it to take the ratio across? <v Speaker 0>So you can see this is kind of a trick <v Speaker 0>question because if you've actually done any maths and everyone's <v Speaker 0>done that, right, it's not as simple as just that."
+  },
+  {
+    "window_id": 105,
+    "start": 1591.42,
+    "end": 1606.42,
+    "text": "<v Speaker 0>done that, right, it's not as simple as just that. <v Speaker 0>In fact, the better way, right, in neither way is <v Speaker 0>actually good. <v Speaker 0>The better way is actually to do a regression. <v Speaker 0>Right? <v Speaker 0>It's more than just taking the average of the ratio, <v Speaker 0>it's more than the ratio of the means of each <v Speaker 0>of them."
+  },
+  {
+    "window_id": 106,
+    "start": 1606.42,
+    "end": 1621.42,
+    "text": "<v Speaker 0>of them. <v Speaker 0>It's in fact trying to minimise the square um differences <v Speaker 0>between the values. <v Speaker 0>So here you can see just three different lines, um, <v Speaker 0>showing the 3 different cases, um, but there is a"
+  },
+  {
+    "window_id": 107,
+    "start": 1621.42,
+    "end": 1636.42,
+    "text": "<v Speaker 0>showing the 3 different cases, um, but there is a <v Speaker 0>slight difference. <v Speaker 0>Now that's because it's not, it's not like it's not <v Speaker 0>lying exactly on the line, right? <v Speaker 0>Like some parts is overestimating, some parts is underestimating, and <v Speaker 0>so the third method is actually the best, uh, approach,"
+  },
+  {
+    "window_id": 108,
+    "start": 1636.42,
+    "end": 1651.42,
+    "text": "<v Speaker 0>so the third method is actually the best, uh, approach, <v Speaker 0>and most of your mathematics are in, in machine learning <v Speaker 0>is about finding that function. <v Speaker 0>Right? <v Speaker 0>What is the best function to best describe your data <v Speaker 0>set, because within your data set, there's actual signal and <v Speaker 0>noise part, right?"
+  },
+  {
+    "window_id": 109,
+    "start": 1651.42,
+    "end": 1666.42,
+    "text": "<v Speaker 0>noise part, right? <v Speaker 0>If you, if you have a function that's really convoluted, <v Speaker 0>right, fits all the data points, you have a situation <v Speaker 0>where it's overfitting. <v Speaker 0>If you have a function that, you know, does blah <v Speaker 0>whatever, kind of like the other two, then you're um"
+  },
+  {
+    "window_id": 110,
+    "start": 1666.42,
+    "end": 1681.42,
+    "text": "<v Speaker 0>whatever, kind of like the other two, then you're um <v Speaker 0>underfitting, right? <v Speaker 0>So it's not describing your data set well enough to <v Speaker 0>then say this is a signal. <v Speaker 0>It's just describing random. <v Speaker 0>If it's describing too well, then it's also describing the <v Speaker 0>noise. <v Speaker 0>So the sweet spot is about finding a good regression"
+  },
+  {
+    "window_id": 111,
+    "start": 1681.42,
+    "end": 1696.42,
+    "text": "<v Speaker 0>So the sweet spot is about finding a good regression <v Speaker 0>that you can then compare, right? <v Speaker 0>Like right now it's easy because it's a linear line. <v Speaker 0>But when you have a polynomial, where, you know, is <v Speaker 0>it like, is it 3 power, is it 4 power? <v Speaker 0>How do you compare that?"
+  },
+  {
+    "window_id": 112,
+    "start": 1696.42,
+    "end": 1711.42,
+    "text": "<v Speaker 0>How do you compare that? <v Speaker 0>And so a lot of today's work we'll be talking <v Speaker 0>about for a given system, how do we compare A <v Speaker 0>and B, which model better describe the problem and why <v Speaker 0>do we want to describe it in that way? <v Speaker 0>OK. <v Speaker 0>So these are all very high level, we're not gonna"
+  },
+  {
+    "window_id": 113,
+    "start": 1711.42,
+    "end": 1726.42,
+    "text": "<v Speaker 0>So these are all very high level, we're not gonna <v Speaker 0>get you to do the maths derivation because part of <v Speaker 0>your job here isn't really to learn about the maths, <v Speaker 0>it's about applying the, the math skills and knowing enough <v Speaker 0>of it to then pull out computer library codes to"
+  },
+  {
+    "window_id": 114,
+    "start": 1726.42,
+    "end": 1741.42,
+    "text": "<v Speaker 0>of it to then pull out computer library codes to <v Speaker 0>then apply to POL. <v Speaker 0>So it's a, it's a very abstract level already, a <v Speaker 0>higher level, I would say. <v Speaker 0>Um, OK. <v Speaker 0>Any questions so far? <v Speaker 0>No? <v Speaker 0>OK."
+  },
+  {
+    "window_id": 115,
+    "start": 1741.42,
+    "end": 1756.42,
+    "text": "<v Speaker 0>So, um, we've talked about two classes. <v Speaker 0>Now, what, what just happened with the regression? <v Speaker 0>The backdrop of that is in, it's in the mix <v Speaker 0>of both of these type of questions, uh, problem sets."
+  },
+  {
+    "window_id": 116,
+    "start": 1756.42,
+    "end": 1771.42,
+    "text": "<v Speaker 0>of both of these type of questions, uh, problem sets. <v Speaker 0>But in terms of actual machine learning code, right, you, <v Speaker 0>you can almost categorically put problems into 22 beams, right? <v Speaker 0>You have classification, which is grouping data into groups, and"
+  },
+  {
+    "window_id": 117,
+    "start": 1771.42,
+    "end": 1786.42,
+    "text": "<v Speaker 0>You have classification, which is grouping data into groups, and <v Speaker 0>this is just a label. <v Speaker 0>It could be as simple as just, you know, is <v Speaker 0>this Apple good? <v Speaker 0>Yes, no. <v Speaker 0>Right? <v Speaker 0>Or it could be how good is this Apple, which <v Speaker 0>is actually the regression bit, right?"
+  },
+  {
+    "window_id": 118,
+    "start": 1786.42,
+    "end": 1801.42,
+    "text": "<v Speaker 0>So it, when it's a continuous, um, when it's a <v Speaker 0>continuous spectrum, right, continuous data set, it's a regression type <v Speaker 0>of problem, right? <v Speaker 0>Almost like forecasting raindrops, right? <v Speaker 0>You can have 0.1 mil, 0.2, 0.3, all the way"
+  },
+  {
+    "window_id": 119,
+    "start": 1801.42,
+    "end": 1816.42,
+    "text": "<v Speaker 0>You can have 0.1 mil, 0.2, 0.3, all the way <v Speaker 0>up, or you can just simply say, is it gonna <v Speaker 0>rain? <v Speaker 0>Yes, no. <v Speaker 0>Right, in terms of mathematics and the complexity behind it <v Speaker 0>all, it is quite different, um, the classification."
+  },
+  {
+    "window_id": 120,
+    "start": 1816.42,
+    "end": 1831.42,
+    "text": "<v Speaker 0>all, it is quite different, um, the classification. <v Speaker 0>Um, problem predicts an outcome, right? <v Speaker 0>So for example, you have a spam not spam, cat <v Speaker 0>do images, and some example models use logistic regression, which <v Speaker 0>in its name it's kind of confusing."
+  },
+  {
+    "window_id": 121,
+    "start": 1831.42,
+    "end": 1846.42,
+    "text": "<v Speaker 0>in its name it's kind of confusing. <v Speaker 0>You have deci decision trees, neural networks as well, um, <v Speaker 0>and it outputs a discrete category. <v Speaker 0>For a regression model, like house prices, temperatures, you have <v Speaker 0>a linear regression, right?"
+  },
+  {
+    "window_id": 122,
+    "start": 1846.42,
+    "end": 1861.42,
+    "text": "<v Speaker 0>a linear regression, right? <v Speaker 0>Uh, polynomial, which is just an extension of that linear. <v Speaker 0>Um, you have neural nets as well. <v Speaker 0>So neural nets is, it's a big fan of everyone <v Speaker 0>because it seems it does everything, depending on how you <v Speaker 0>create those neurons and the layers of, um, of, in,"
+  },
+  {
+    "window_id": 123,
+    "start": 1861.42,
+    "end": 1876.42,
+    "text": "<v Speaker 0>create those neurons and the layers of, um, of, in, <v Speaker 0>in your, in your neural net, you can actually get <v Speaker 0>both types of problems that solved. <v Speaker 0>And then the the yielding, the final outcome, the label, <v Speaker 0>call it label, right? <v Speaker 0>It's a number of a continuous value between a range"
+  },
+  {
+    "window_id": 124,
+    "start": 1876.42,
+    "end": 1891.42,
+    "text": "<v Speaker 0>It's a number of a continuous value between a range <v Speaker 0>perhaps. <v Speaker 0>Note that um classification generally is finite, right? <v Speaker 0>It depends on how you, how many you say, if <v Speaker 0>there's only like 4 types."
+  },
+  {
+    "window_id": 125,
+    "start": 1891.42,
+    "end": 1906.42,
+    "text": "<v Speaker 0>You know, Apple is good, Apple's not ripe yet. <v Speaker 0>Apple's well done, Apple's just right, you've got 4 labels. <v Speaker 0>Um, you can, you can put that as a, as <v Speaker 0>a finite case. <v Speaker 0>But for regression, it is uncountable, right? <v Speaker 0>So the obviously you can lock it down within a"
+  },
+  {
+    "window_id": 126,
+    "start": 1906.42,
+    "end": 1921.42,
+    "text": "<v Speaker 0>So the obviously you can lock it down within a <v Speaker 0>certain probability range, um, that's also already highlighted. <v Speaker 0>But the the idea is that it will give you <v Speaker 0>a continuous range unless constrained, right? <v Speaker 0>It can still give you this like infinite number, but"
+  },
+  {
+    "window_id": 127,
+    "start": 1921.42,
+    "end": 1936.42,
+    "text": "<v Speaker 0>It can still give you this like infinite number, but <v Speaker 0>it's highly improbable, right? <v Speaker 0>And that's why we have something called distribution uh probability <v Speaker 0>of distribution, right? <v Speaker 0>Anything can happen, just not really probable."
+  },
+  {
+    "window_id": 128,
+    "start": 1936.42,
+    "end": 1951.42,
+    "text": "<v Speaker 0>So, OK, so it features one class from one finite, <v Speaker 0>whether or not sensor reading. <v Speaker 0>To estimate, OK, I've been through all that. <v Speaker 0>So, a lot of this machine learning, they yield not"
+  },
+  {
+    "window_id": 129,
+    "start": 1951.42,
+    "end": 1966.42,
+    "text": "<v Speaker 0>So, a lot of this machine learning, they yield not <v Speaker 0>just a single point answer, right? <v Speaker 0>They, they yield a distribution with a certainty. <v Speaker 0>Much like how you face in life, right, every decision <v Speaker 0>you make when you make a choice, you're like, well, <v Speaker 0>I'm kind of confident with this."
+  },
+  {
+    "window_id": 130,
+    "start": 1966.42,
+    "end": 1981.42,
+    "text": "<v Speaker 0>I'm not really sure, right, those are, You know, I <v Speaker 0>think conceptually that that's a big difference. <v Speaker 0>It doesn't just say yes, no to things. <v Speaker 0>It gives you a confidence level. <v Speaker 0>And depending on what problems that you're dealing with, that <v Speaker 0>confidence level makes a big difference."
+  },
+  {
+    "window_id": 131,
+    "start": 1981.42,
+    "end": 1996.42,
+    "text": "<v Speaker 0>confidence level makes a big difference. <v Speaker 0>If I'm saying that, hey, looking at your, at your <v Speaker 0>images, and your medical scan looks like there's a tumour, <v Speaker 0>but guess what, I'm not really confident, right, you may <v Speaker 0>actually go, alright, you know what, let's just do another <v Speaker 0>test."
+  },
+  {
+    "window_id": 132,
+    "start": 1996.42,
+    "end": 2011.42,
+    "text": "<v Speaker 0>But if you're saying, oh, look, I'm, I've seen this <v Speaker 0>a lot, right, it's highly probable that you don't have <v Speaker 0>a tumour, you feel a lot more confident with the <v Speaker 0>decision. <v Speaker 0>So, moving from, like, you know, a deterministic approach to <v Speaker 0>problem solving, which is like your equation approaches in engineering,"
+  },
+  {
+    "window_id": 133,
+    "start": 2011.42,
+    "end": 2026.42,
+    "text": "<v Speaker 0>problem solving, which is like your equation approaches in engineering, <v Speaker 0>like, you know, you do this test and you built <v Speaker 0>this thing, you know it's gonna fail. <v Speaker 0>You know, and you can calculate that, versus, well we <v Speaker 0>know on average this is gonna happen with a certain"
+  },
+  {
+    "window_id": 134,
+    "start": 2026.42,
+    "end": 2041.42,
+    "text": "<v Speaker 0>know on average this is gonna happen with a certain <v Speaker 0>confidence that. <v Speaker 0>Um, that probability distribution makes a big difference. <v Speaker 0>And obviously it's challenging in in ways because we have <v Speaker 0>to understand what we're dealing with, it's no longer just <v Speaker 0>a point value, it is a distribution, even if it's"
+  },
+  {
+    "window_id": 135,
+    "start": 2041.42,
+    "end": 2056.42,
+    "text": "<v Speaker 0>a point value, it is a distribution, even if it's <v Speaker 0>a point. <v Speaker 0>So distribution is very useful, it's not one single point <v Speaker 0>estimate, but a range of outputs, um, which is called <v Speaker 0>soft limits. <v Speaker 0>So, I'm sure everyone knows generally what the word means,"
+  },
+  {
+    "window_id": 136,
+    "start": 2056.42,
+    "end": 2071.42,
+    "text": "<v Speaker 0>So, I'm sure everyone knows generally what the word means, <v Speaker 0>probability, right? <v Speaker 0>It's simply the number of favourable outcome over a total <v Speaker 0>possible outcome. <v Speaker 0>Sometimes it's called the odds, right, the odds of something"
+  },
+  {
+    "window_id": 137,
+    "start": 2071.42,
+    "end": 2086.42,
+    "text": "<v Speaker 0>Sometimes it's called the odds, right, the odds of something <v Speaker 0>happening, we understand. <v Speaker 0>Oh it's on gambling, right? <v Speaker 0>If you're if you're a betting person, you kind of <v Speaker 0>understand how that works. <v Speaker 0>Um, if not, it may be quite confusing. <v Speaker 0>The whole field of probability actually came out of that, <v Speaker 0>you know, in the, in, in, in ancient times and"
+  },
+  {
+    "window_id": 138,
+    "start": 2086.42,
+    "end": 2101.42,
+    "text": "<v Speaker 0>you know, in the, in, in, in ancient times and <v Speaker 0>someone's just trying to describe what's the chance of, you <v Speaker 0>know, I die 1 out of 6 faces becoming that <v Speaker 0>if you roll it 3 times, how do I describe <v Speaker 0>that, cut counting, things like that."
+  },
+  {
+    "window_id": 139,
+    "start": 2101.42,
+    "end": 2116.42,
+    "text": "<v Speaker 0>that, cut counting, things like that. <v Speaker 0>Um, so that's what a distribution, that's what a probability <v Speaker 0>means, and probability distribution is simply all the possible outcomes <v Speaker 0>with the most favourable outcome being in the centre possibly,"
+  },
+  {
+    "window_id": 140,
+    "start": 2116.42,
+    "end": 2131.42,
+    "text": "<v Speaker 0>with the most favourable outcome being in the centre possibly, <v Speaker 0>right, where you're counting the number of occurrences. <v Speaker 0>That whole curve is called distribution function, right, so. <v Speaker 0>You have your normal distribution function, which is also known <v Speaker 0>as a Gaussian distribution function."
+  },
+  {
+    "window_id": 141,
+    "start": 2131.42,
+    "end": 2146.42,
+    "text": "<v Speaker 0>You've got your other distributions as well, like a log <v Speaker 0>normal, um, a, um, a binary, um, distribution. <v Speaker 0>And the new case of this, obviously, listed here is <v Speaker 0>in forecasting rainfalls, for example."
+  },
+  {
+    "window_id": 142,
+    "start": 2146.42,
+    "end": 2161.42,
+    "text": "<v Speaker 0>in forecasting rainfalls, for example. <v Speaker 0>So you go, well, what is the chance of having <v Speaker 0>You know, zero raindrops. <v Speaker 0>It's actually zero chance of no rain, right, will be, <v Speaker 0>will be a, uh, example answer."
+  },
+  {
+    "window_id": 143,
+    "start": 2161.42,
+    "end": 2176.42,
+    "text": "<v Speaker 0>will be a, uh, example answer. <v Speaker 0>But what's the chance, what's the, what's the probability of <v Speaker 0>raindrops between 22 mils and 30 mils, right? <v Speaker 0>So it's kind of light rain, right? <v Speaker 0>You, you, from this model, you would say, OK, between"
+  },
+  {
+    "window_id": 144,
+    "start": 2176.42,
+    "end": 2191.42,
+    "text": "<v Speaker 0>You, you, from this model, you would say, OK, between <v Speaker 0>that is your area under the curve. <v Speaker 0>34% of light rain and uh and so forth. <v Speaker 0>So if you ever look at the BOS data, which <v Speaker 0>is your um, You know, the, the rainfall forecast, you, <v Speaker 0>you scroll through the actual by the hour raindrop."
+  },
+  {
+    "window_id": 145,
+    "start": 2191.42,
+    "end": 2206.42,
+    "text": "<v Speaker 0>you scroll through the actual by the hour raindrop. <v Speaker 0>It sometimes says 10%. <v Speaker 0>10% of what? <v Speaker 0>Right, so not a lot of, it's not very intuitive. <v Speaker 0>It actually takes a certain level of understanding and go, <v Speaker 0>oh, it says 10% chance of rain of this uh"
+  },
+  {
+    "window_id": 146,
+    "start": 2206.42,
+    "end": 2221.42,
+    "text": "<v Speaker 0>oh, it says 10% chance of rain of this uh <v Speaker 0>range of rain drop level. <v Speaker 0>So it will say, you know, between 0 to 5 <v Speaker 0>mil, 10%. <v Speaker 0>So that's a, you know, that's a pretty low occurrence <v Speaker 0>of, of rain. <v Speaker 0>And so we use those kind of um rhetorics, I"
+  },
+  {
+    "window_id": 147,
+    "start": 2221.42,
+    "end": 2236.42,
+    "text": "<v Speaker 0>And so we use those kind of um rhetorics, I <v Speaker 0>guess the way you describe the problem set in those <v Speaker 0>works, um you always include the level of confidence in <v Speaker 0>your answer. <v Speaker 0>It's not just like, is it gonna rain, yes, no. <v Speaker 0>You know, what's the chance of rain, probability."
+  },
+  {
+    "window_id": 148,
+    "start": 2236.42,
+    "end": 2251.42,
+    "text": "<v Speaker 0>You know, what's the chance of rain, probability. <v Speaker 0>So what this all means is that um there's a <v Speaker 0>lot more maths than you think. <v Speaker 0>But um but fortunately, you know, it's all embedded in <v Speaker 0>a library, which is great. <v Speaker 0>Um, taking that example at the top, you can see"
+  },
+  {
+    "window_id": 149,
+    "start": 2251.42,
+    "end": 2266.42,
+    "text": "<v Speaker 0>Um, taking that example at the top, you can see <v Speaker 0>if I show you this and say, is it a <v Speaker 0>dog, you know, your brain is already computing, yes, it's <v Speaker 0>a dog. <v Speaker 0>But in a, in a computer language, right, you need <v Speaker 0>to let it know, OK, what constitutes to being, A"
+  },
+  {
+    "window_id": 150,
+    "start": 2266.42,
+    "end": 2281.42,
+    "text": "<v Speaker 0>to let it know, OK, what constitutes to being, A <v Speaker 0>dog, it computes against all the classes that it's been <v Speaker 0>trained for, maybe a dog, maybe a cat, maybe a. <v Speaker 0>Horse, cheetah, but then, the most probable one is a <v Speaker 0>dog."
+  },
+  {
+    "window_id": 151,
+    "start": 2281.42,
+    "end": 2296.42,
+    "text": "<v Speaker 0>dog. <v Speaker 0>And so at that point, you will have something called <v Speaker 0>a threshold to say, well, if any number comes through <v Speaker 0>more than 0.6, right, that's like 60% or more, we'll <v Speaker 0>just give that as a single answer, because that's really <v Speaker 0>what you want. <v Speaker 0>You want to use the machine learning algorithm to make"
+  },
+  {
+    "window_id": 152,
+    "start": 2296.42,
+    "end": 2311.42,
+    "text": "<v Speaker 0>You want to use the machine learning algorithm to make <v Speaker 0>a decision, right? <v Speaker 0>So it computes all these numbers which adds up to <v Speaker 0>one, by the way, right, in a finite space of <v Speaker 0>probability, right, you've compacted it, you know, it's saying that, <v Speaker 0>well, I'm computing this to be 77% to be a"
+  },
+  {
+    "window_id": 153,
+    "start": 2311.42,
+    "end": 2326.42,
+    "text": "<v Speaker 0>well, I'm computing this to be 77% to be a <v Speaker 0>dog and so it would yield a label as a <v Speaker 0>dog. <v Speaker 0>So this is all compact in a way, right, intuitively <v Speaker 0>you know this, um, but you may not formally think"
+  },
+  {
+    "window_id": 154,
+    "start": 2326.42,
+    "end": 2341.42,
+    "text": "<v Speaker 0>you know this, um, but you may not formally think <v Speaker 0>about this process as such. <v Speaker 0>So You know, when you're classifying things, it, it's, it <v Speaker 0>also yields a probability and the max involved is what"
+  },
+  {
+    "window_id": 155,
+    "start": 2341.42,
+    "end": 2356.42,
+    "text": "<v Speaker 0>also yields a probability and the max involved is what <v Speaker 0>we call a softmax function. <v Speaker 0>We use different functions to, to compute that, and I'll <v Speaker 0>show you some examples of that. <v Speaker 0>Um, but here listed. <v Speaker 0>In a neural network for the classification of images, you <v Speaker 0>use something called softmax activation as a final layer, right,"
+  },
+  {
+    "window_id": 156,
+    "start": 2356.42,
+    "end": 2371.42,
+    "text": "<v Speaker 0>use something called softmax activation as a final layer, right, <v Speaker 0>the final layer gives you precisely which, you know, return <v Speaker 0>the highest probable number and call that the label. <v Speaker 0>In a regression, there's other probabilistic models known like things"
+  },
+  {
+    "window_id": 157,
+    "start": 2371.42,
+    "end": 2386.42,
+    "text": "<v Speaker 0>In a regression, there's other probabilistic models known like things <v Speaker 0>like Gaussian processes or um you have Basin regressions as <v Speaker 0>well, to output a distribution over all the possible values, <v Speaker 0>right? <v Speaker 0>Instead of just 11 point value. <v Speaker 0>So again, these are all sort of the layer behind,"
+  },
+  {
+    "window_id": 158,
+    "start": 2386.42,
+    "end": 2401.42,
+    "text": "<v Speaker 0>So again, these are all sort of the layer behind, <v Speaker 0>peeling back the, the systems, you have all these um <v Speaker 0>intricate mats that you kind of need to know what <v Speaker 0>you're selecting, right, again, because as I said, your job <v Speaker 0>here is to apply the machine learning for the, for"
+  },
+  {
+    "window_id": 159,
+    "start": 2401.42,
+    "end": 2416.42,
+    "text": "<v Speaker 0>here is to apply the machine learning for the, for <v Speaker 0>the um for the problems that you have. <v Speaker 0>You need not to necessarily go into the maths, but <v Speaker 0>you need to know the differences between using this function <v Speaker 0>versus that function versus that function. <v Speaker 0>And perhaps you don't even know what the difference is, <v Speaker 0>but you can compare and contrast the different uh output,"
+  },
+  {
+    "window_id": 160,
+    "start": 2416.42,
+    "end": 2431.42,
+    "text": "<v Speaker 0>but you can compare and contrast the different uh output, <v Speaker 0>whether or not something's more accurate or something's less accurate. <v Speaker 0>So we're coming down to the crux of this whole <v Speaker 0>lecture which is about, you know, what what would be,"
+  },
+  {
+    "window_id": 161,
+    "start": 2431.42,
+    "end": 2446.42,
+    "text": "<v Speaker 0>lecture which is about, you know, what what would be, <v Speaker 0>how do we evaluate accuracy, right, in selecting different moving <v Speaker 0>parts of this, right? <v Speaker 0>So you're assembling a system with a lot of maths"
+  },
+  {
+    "window_id": 162,
+    "start": 2446.42,
+    "end": 2461.42,
+    "text": "<v Speaker 0>So you're assembling a system with a lot of maths <v Speaker 0>behind it, and you're sort of understanding, OK, um, if <v Speaker 0>I pick this activation function. <v Speaker 0>Uh, I get that outcome, but is this a better <v Speaker 0>or or worse outcome? <v Speaker 0>So Here, I've listed different scenarios where you actually wanted"
+  },
+  {
+    "window_id": 163,
+    "start": 2461.42,
+    "end": 2476.42,
+    "text": "<v Speaker 0>So Here, I've listed different scenarios where you actually wanted <v Speaker 0>to be more confident in one scenario and less in <v Speaker 0>another. <v Speaker 0>Right? <v Speaker 0>For example, you have a self-driving car, which gives you <v Speaker 0>a high confidence interval, um, of saying, OK, I, if"
+  },
+  {
+    "window_id": 164,
+    "start": 2476.42,
+    "end": 2491.42,
+    "text": "<v Speaker 0>a high confidence interval, um, of saying, OK, I, if <v Speaker 0>I see all this kind of moving parts, I'm gonna <v Speaker 0>say stop, and I'm 100, I'm 99% confident. <v Speaker 0>That is actually gonna give you a lot more meaningful <v Speaker 0>real world situational outcome than, you know, something that says,"
+  },
+  {
+    "window_id": 165,
+    "start": 2491.42,
+    "end": 2506.42,
+    "text": "<v Speaker 0>real world situational outcome than, you know, something that says, <v Speaker 0>I would say stop but only 55% confidence. <v Speaker 0>So depending on your problem, those arbitrary things are being <v Speaker 0>locked down already, right, in, in order to develop a <v Speaker 0>machine learning model for self-driving car because human life is"
+  },
+  {
+    "window_id": 166,
+    "start": 2506.42,
+    "end": 2521.42,
+    "text": "<v Speaker 0>machine learning model for self-driving car because human life is <v Speaker 0>at risk. <v Speaker 0>You need to make sure the competence interval is so <v Speaker 0>high that, you know, there's only so many chance, you <v Speaker 0>know, one out of, 10,000 tonnes of false positive."
+  },
+  {
+    "window_id": 167,
+    "start": 2521.42,
+    "end": 2536.42,
+    "text": "<v Speaker 0>know, one out of, 10,000 tonnes of false positive. <v Speaker 0>Right? <v Speaker 0>And we'll talk about those metrics. <v Speaker 0>First is something that stock market prediction, you know, um, <v Speaker 0>for example, giving you a chance of up and down, <v Speaker 0>but you know, at the end of the day, it's,"
+  },
+  {
+    "window_id": 168,
+    "start": 2536.42,
+    "end": 2551.42,
+    "text": "<v Speaker 0>but you know, at the end of the day, it's, <v Speaker 0>it's not gonna kill someone per se, right? <v Speaker 0>Like instantly, it may slowly erode your wealth, but you <v Speaker 0>know, you, you, you want a different parameter to that. <v Speaker 0>And then some of the, some of the other situations <v Speaker 0>like medical devices, medical tests, you only want a competence"
+  },
+  {
+    "window_id": 169,
+    "start": 2551.42,
+    "end": 2566.42,
+    "text": "<v Speaker 0>like medical devices, medical tests, you only want a competence <v Speaker 0>interval of 95 plus. <v Speaker 0>For example, So that's just um another description of that <v Speaker 0>probability function, but for a continuous range of values."
+  },
+  {
+    "window_id": 170,
+    "start": 2566.42,
+    "end": 2581.42,
+    "text": "<v Speaker 0>probability function, but for a continuous range of values. <v Speaker 0>So continuous range is obviously your, you know, Gaussian distribution, <v Speaker 0>but in a very discrete probability for discrete classes, you <v Speaker 0>have like a bar chart. <v Speaker 0>OK, and they actually unfortunately have different names to it,"
+  },
+  {
+    "window_id": 171,
+    "start": 2581.42,
+    "end": 2596.42,
+    "text": "<v Speaker 0>OK, and they actually unfortunately have different names to it, <v Speaker 0>right? <v Speaker 0>One's called probability density function, much like materials, you have <v Speaker 0>the density is a continuous spread, and the other is <v Speaker 0>a mass function, which is like weighted mass at different <v Speaker 0>points. <v Speaker 0>So just knowing the terminology to search up in your,"
+  },
+  {
+    "window_id": 172,
+    "start": 2596.42,
+    "end": 2611.42,
+    "text": "<v Speaker 0>So just knowing the terminology to search up in your, <v Speaker 0>in your, you know, the use of Gen AI makes <v Speaker 0>a big difference. <v Speaker 0>So note that there's a, there's a subtlety there. <v Speaker 0>OK, we might actually go through and um do some <v Speaker 0>ment metering."
+  },
+  {
+    "window_id": 173,
+    "start": 2611.42,
+    "end": 2626.42,
+    "text": "<v Speaker 0>See, um, how you guys are understanding everything. <v Speaker 0>So everyone should be able to scan that, right? <v Speaker 0>Can you scan that page yet?"
+  },
+  {
+    "window_id": 174,
+    "start": 2626.42,
+    "end": 2641.42,
+    "text": "<v Speaker 0>Mm. <v Speaker 0>OK, swimming, everyone's scanned it, yeah."
+  },
+  {
+    "window_id": 175,
+    "start": 2641.42,
+    "end": 2656.42,
+    "text": "<v Speaker 0>This is a Confusing than I thought. <v Speaker 0>Scanned it, yeah. <v Speaker 0>I'm gonna change screen."
+  },
+  {
+    "window_id": 176,
+    "start": 2656.42,
+    "end": 2671.42,
+    "text": "<v Speaker 0>OK."
+  },
+  {
+    "window_id": 177,
+    "start": 2671.42,
+    "end": 2686.42,
+    "text": "<v Speaker 0>So the question is, um, why is it important for <v Speaker 0>machine learning model to provide confidence levels with the prediction? <v Speaker 0>Kind of talked about this at length. <v Speaker 0>So let's see if um Your answers are online."
+  },
+  {
+    "window_id": 178,
+    "start": 2686.42,
+    "end": 2701.42,
+    "text": "<v Speaker 0>So let's see if um Your answers are online. <v Speaker 0>So the first the first answer helps us understand how <v Speaker 0>certain the model is about the decision. <v Speaker 0>Yeah, sounds sensible. <v Speaker 0>Second one is it makes the model more complex but <v Speaker 0>doesn't actually change decision making."
+  },
+  {
+    "window_id": 179,
+    "start": 2701.42,
+    "end": 2716.42,
+    "text": "<v Speaker 0>doesn't actually change decision making. <v Speaker 0>Well, not really, because we've described at length again that <v Speaker 0>it does change a lot on how it makes decisions. <v Speaker 0>Right. <v Speaker 0>Um, that one is, it allows us to adjust actions"
+  },
+  {
+    "window_id": 180,
+    "start": 2716.42,
+    "end": 2731.42,
+    "text": "<v Speaker 0>Um, that one is, it allows us to adjust actions <v Speaker 0>based on risk rather than blindly trusting the prediction. <v Speaker 0>Definitely, right? <v Speaker 0>If you're in a medical situation, yeah, you wanna like <v Speaker 0>get a triple diagnosis just to make sure if that's <v Speaker 0>a real tumour or not. <v Speaker 0>Versus something like a spam email, like it's not that"
+  },
+  {
+    "window_id": 181,
+    "start": 2731.42,
+    "end": 2746.42,
+    "text": "<v Speaker 0>Versus something like a spam email, like it's not that <v Speaker 0>detrimental. <v Speaker 0>And then obviously the last one is also incorrect. <v Speaker 0>It only matters to AI researchers but not the real <v Speaker 0>world application. <v Speaker 0>So there's a pretty trivial. <v Speaker 0>And the second question."
+  },
+  {
+    "window_id": 182,
+    "start": 2746.42,
+    "end": 2761.42,
+    "text": "<v Speaker 0>Mm. <v Speaker 0>Actually a second question. <v Speaker 0>Whisper 2 when I meet him."
+  },
+  {
+    "window_id": 183,
+    "start": 2761.42,
+    "end": 2776.42,
+    "text": "<v Speaker 0>Oh. <v Speaker 0>I need the second question loaded."
+  },
+  {
+    "window_id": 184,
+    "start": 2776.42,
+    "end": 2791.42,
+    "text": "<v Speaker 0>I need the second question loaded. <v Speaker 0>Oops There's another question I'm prepared."
+  },
+  {
+    "window_id": 185,
+    "start": 2791.42,
+    "end": 2806.42,
+    "text": "<v Speaker 0>Oops There's another question I'm prepared."
+  },
+  {
+    "window_id": 186,
+    "start": 2806.42,
+    "end": 2821.42,
+    "text": "<v Speaker 0>Oops There's another question I'm prepared. <v Speaker 0>Um, not really sure what to load, let me, um, <v Speaker 0>get back to you on that one. <v Speaker 0>But the second question is really, why is it important <v Speaker 0>for machine learning model to provide us, um, Well, the <v Speaker 0>first question, sorry, what makes prediction using machine learning useful?"
+  },
+  {
+    "window_id": 187,
+    "start": 2821.42,
+    "end": 2836.42,
+    "text": "<v Speaker 0>first question, sorry, what makes prediction using machine learning useful? <v Speaker 0>More, which is generally more useful, so it's really just <v Speaker 0>testing the first set of um slides that we had. <v Speaker 0>OK. <v Speaker 0>OK, so, I think this is like one of the"
+  },
+  {
+    "window_id": 188,
+    "start": 2836.42,
+    "end": 2851.42,
+    "text": "<v Speaker 0>OK, so, I think this is like one of the <v Speaker 0>better way of representing what we've talked about. <v Speaker 0>You've by now, you've seen a lot of these names, <v Speaker 0>you know, repeated here and there. <v Speaker 0>But in, in a lot of ways, right, they're, they're <v Speaker 0>suited in different categories, right?"
+  },
+  {
+    "window_id": 189,
+    "start": 2851.42,
+    "end": 2866.42,
+    "text": "<v Speaker 0>suited in different categories, right? <v Speaker 0>You have classifications, you have regression, you have supervised learning, <v Speaker 0>and then unsupervised learning. <v Speaker 0>As I described before already, unsupervised learning is really for <v Speaker 0>pattern detection, so you're looking for new patterns, then you"
+  },
+  {
+    "window_id": 190,
+    "start": 2866.42,
+    "end": 2881.42,
+    "text": "<v Speaker 0>pattern detection, so you're looking for new patterns, then you <v Speaker 0>can sort of look into that furthermore. <v Speaker 0>Supervised learning is when you already have the labels and <v Speaker 0>that you're yielding, you know, a new bunch of unseen <v Speaker 0>environments to provide those labels. <v Speaker 0>Logistic regression is what we're probably gonna be looking at"
+  },
+  {
+    "window_id": 191,
+    "start": 2881.42,
+    "end": 2896.42,
+    "text": "<v Speaker 0>Logistic regression is what we're probably gonna be looking at <v Speaker 0>in the next few slides, uh, as a sort of <v Speaker 0>casing point. <v Speaker 0>But then there's also other um models. <v Speaker 0>So Neural Net, we've described that. <v Speaker 0>Pretty much that does most things, right? <v Speaker 0>You have random forest, you have Deciree which came, which,"
+  },
+  {
+    "window_id": 192,
+    "start": 2896.42,
+    "end": 2911.42,
+    "text": "<v Speaker 0>You have random forest, you have Deciree which came, which, <v Speaker 0>you know, Decision tree yields random forest when you assemble <v Speaker 0>an ensemble of that, and so forth. <v Speaker 0>But, you know, this is a little good reference point <v Speaker 0>to go, all right, well I have this sort of"
+  },
+  {
+    "window_id": 193,
+    "start": 2911.42,
+    "end": 2926.42,
+    "text": "<v Speaker 0>to go, all right, well I have this sort of <v Speaker 0>data in my project. <v Speaker 0>What am I supposed to do with it? <v Speaker 0>Well, is it a supervised learning problem that I'm dealing <v Speaker 0>with? <v Speaker 0>Is it a continuous data set that I'm dealing with? <v Speaker 0>Perhaps I could be looking at these models that I'm <v Speaker 0>gonna need to train up for. <v Speaker 0>Right, so any of those models you can just call"
+  },
+  {
+    "window_id": 194,
+    "start": 2926.42,
+    "end": 2941.42,
+    "text": "<v Speaker 0>Right, so any of those models you can just call <v Speaker 0>up in psychic Learn. <v Speaker 0>Type that out, and it'll pull out the parameters, then <v Speaker 0>you can tweak and play around with the parameters to <v Speaker 0>then go, alright, this is the model result. <v Speaker 0>This is model result 2 with different parameters, and then"
+  },
+  {
+    "window_id": 195,
+    "start": 2941.42,
+    "end": 2956.42,
+    "text": "<v Speaker 0>This is model result 2 with different parameters, and then <v Speaker 0>your job is to compare and contrast and then describe <v Speaker 0>what just happened. <v Speaker 0>Right, so that's really the pipeline that you're trying to <v Speaker 0>work towards. <v Speaker 0>So before I go further, we sort of need to"
+  },
+  {
+    "window_id": 196,
+    "start": 2956.42,
+    "end": 2971.42,
+    "text": "<v Speaker 0>So before I go further, we sort of need to <v Speaker 0>talk about for any supervised learning, uh, situations, you would <v Speaker 0>effectively need to split your data for training, right, because, <v Speaker 0>you know, you don't want to fit that 100%, you <v Speaker 0>have 100 ropes, right, using the Apple scenario again."
+  },
+  {
+    "window_id": 197,
+    "start": 2971.42,
+    "end": 2986.42,
+    "text": "<v Speaker 0>have 100 ropes, right, using the Apple scenario again. <v Speaker 0>You have 100 apples, but you're not gonna get another <v Speaker 0>100 apples, right, so the best way is just to <v Speaker 0>split it up and say, you know what, eat 80 <v Speaker 0>apples. <v Speaker 0>And then give me a model, so then you can"
+  },
+  {
+    "window_id": 198,
+    "start": 2986.42,
+    "end": 3001.42,
+    "text": "<v Speaker 0>And then give me a model, so then you can <v Speaker 0>test out and forecast the remaining 20 apples and see <v Speaker 0>if it's right or not. <v Speaker 0>Then we can eat it and see if, you know, <v Speaker 0>what you predict is correct. <v Speaker 0>So this is called a data split, right, a training"
+  },
+  {
+    "window_id": 199,
+    "start": 3001.42,
+    "end": 3016.42,
+    "text": "<v Speaker 0>So this is called a data split, right, a training <v Speaker 0>testing data split. <v Speaker 0>There are many ways to split the data. <v Speaker 0>What you do want to do is split at least. <v Speaker 0>You know, something like 60% training, right, or you can"
+  },
+  {
+    "window_id": 200,
+    "start": 3016.42,
+    "end": 3031.42,
+    "text": "<v Speaker 0>You know, something like 60% training, right, or you can <v Speaker 0>have more obviously depending on how much data you have, <v Speaker 0>um, but typically around 60 to 80% of your data <v Speaker 0>should be, Use for training and you reserve the last <v Speaker 0>10, 20% for validation."
+  },
+  {
+    "window_id": 201,
+    "start": 3031.42,
+    "end": 3046.42,
+    "text": "<v Speaker 0>Right. <v Speaker 0>And in, in that sort of training set. <v Speaker 0>There are ways of cutting it further, and I'll talk <v Speaker 0>about that in the very final slide. <v Speaker 0>But here you can see the effects of good splitting"
+  },
+  {
+    "window_id": 202,
+    "start": 3046.42,
+    "end": 3061.42,
+    "text": "<v Speaker 0>But here you can see the effects of good splitting <v Speaker 0>of data would result in either overfitting or underfitting or <v Speaker 0>just right, OK, of your model design. <v Speaker 0>If you do it, if the model predicts too much, <v Speaker 0>right, of everything, including both the signal and the noise,"
+  },
+  {
+    "window_id": 203,
+    "start": 3061.42,
+    "end": 3076.42,
+    "text": "<v Speaker 0>right, of everything, including both the signal and the noise, <v Speaker 0>it's called overfitting, and it's being too specific. <v Speaker 0>It cannot be generalised, which is your challenge. <v Speaker 0>But in, on the converse, if you have underfitted models, <v Speaker 0>that means it's too simplistic and it doesn't describe any <v Speaker 0>nuances between, you know, your system, so it's not doing"
+  },
+  {
+    "window_id": 204,
+    "start": 3076.42,
+    "end": 3091.42,
+    "text": "<v Speaker 0>nuances between, you know, your system, so it's not doing <v Speaker 0>its job in either case. <v Speaker 0>So you need to find a good way of splitting <v Speaker 0>data, getting a good accuracy result. <v Speaker 0>Um, fortunately, all this can be just caught up in"
+  },
+  {
+    "window_id": 205,
+    "start": 3091.42,
+    "end": 3106.42,
+    "text": "<v Speaker 0>Um, fortunately, all this can be just caught up in <v Speaker 0>a simple function in PyitLearn. <v Speaker 0>And by now, I think everyone should also learn the <v Speaker 0>art of reading the documentation if you don't already know <v Speaker 0>how to do that. <v Speaker 0>Um, obviously, co-pilot can help you with understanding that. <v Speaker 0>If not, you can easily find out, um, the documentation"
+  },
+  {
+    "window_id": 206,
+    "start": 3106.42,
+    "end": 3121.42,
+    "text": "<v Speaker 0>If not, you can easily find out, um, the documentation <v Speaker 0>related to this. <v Speaker 0>In this particular case, we're talking about training test split, <v Speaker 0>so you can just input that from, from Scikit learn, <v Speaker 0>state 70%. <v Speaker 0>So right here it says 0.7, um, the final random"
+  },
+  {
+    "window_id": 207,
+    "start": 3121.42,
+    "end": 3136.42,
+    "text": "<v Speaker 0>So right here it says 0.7, um, the final random <v Speaker 0>state is really just a seat number. <v Speaker 0>So if you wanted to make sure next time when <v Speaker 0>you do some other data set, you want to split <v Speaker 0>it in the same way, right? <v Speaker 0>You call up random state 10."
+  },
+  {
+    "window_id": 208,
+    "start": 3136.42,
+    "end": 3151.42,
+    "text": "<v Speaker 0>You call up random state 10. <v Speaker 0>And then that, that ensures that it does the same <v Speaker 0>thing. <v Speaker 0>Um, the two things that I'll probably reserve later down, <v Speaker 0>um, to the last slide is called random and stratified <v Speaker 0>splitting. <v Speaker 0>Basically it is as a picture shows, right, you could."
+  },
+  {
+    "window_id": 209,
+    "start": 3151.42,
+    "end": 3166.42,
+    "text": "<v Speaker 0>Basically it is as a picture shows, right, you could. <v Speaker 0>You could have your data set so then it actually <v Speaker 0>rotates the different testing segment. <v Speaker 0>So then every time you train that data in fault <v Speaker 0>one, for example. <v Speaker 0>Right. <v Speaker 0>The fault one, you have the 1st 200 as a"
+  },
+  {
+    "window_id": 210,
+    "start": 3166.42,
+    "end": 3181.42,
+    "text": "<v Speaker 0>The fault one, you have the 1st 200 as a <v Speaker 0>test, the last 800 roles as a training, but then <v Speaker 0>you repeat this experiment using your last 600 plus the <v Speaker 0>1st 200 as training, and then the middle 200 as"
+  },
+  {
+    "window_id": 211,
+    "start": 3181.42,
+    "end": 3196.42,
+    "text": "<v Speaker 0>1st 200 as training, and then the middle 200 as <v Speaker 0>testing, and you rotate that. <v Speaker 0>Your final model then computes an average of those, and <v Speaker 0>so you get a K fault, which is in this <v Speaker 0>case, 5, right, a 5-fold cross validation. <v Speaker 0>Um, process, and it's supposed to give you, um, better"
+  },
+  {
+    "window_id": 212,
+    "start": 3196.42,
+    "end": 3211.42,
+    "text": "<v Speaker 0>Um, process, and it's supposed to give you, um, better <v Speaker 0>results, depending on how many data, um, routes we're talking <v Speaker 0>about. <v Speaker 0>So we talked a bit about this already, we have <v Speaker 0>the easy to call functions, everything is like that. <v Speaker 0>You just listed XY test."
+  },
+  {
+    "window_id": 213,
+    "start": 3211.42,
+    "end": 3226.42,
+    "text": "<v Speaker 0>You just listed XY test. <v Speaker 0>Um, obviously this is an object-oriented language where you can <v Speaker 0>see the functions are being caught, right? <v Speaker 0>And so you're yielding 4 parameters, X train, X, XY <v Speaker 0>train, Y test, and obviously the training, um, parameters are"
+  },
+  {
+    "window_id": 214,
+    "start": 3226.42,
+    "end": 3241.42,
+    "text": "<v Speaker 0>train, Y test, and obviously the training, um, parameters are <v Speaker 0>paired up together for your model. <v Speaker 0>This should be pretty self-explanatory. <v Speaker 0>Um, the final random state option is really to ensure <v Speaker 0>if you were to repeat this experiment, um, different days,"
+  },
+  {
+    "window_id": 215,
+    "start": 3241.42,
+    "end": 3256.42,
+    "text": "<v Speaker 0>if you were to repeat this experiment, um, different days, <v Speaker 0>different computers, it should give you the same results. <v Speaker 0>So this is another summative table that kinda gives you <v Speaker 0>some guidance into what approaches to best use um to"
+  },
+  {
+    "window_id": 216,
+    "start": 3256.42,
+    "end": 3271.42,
+    "text": "<v Speaker 0>some guidance into what approaches to best use um to <v Speaker 0>get a good starting point when developing a model. <v Speaker 0>When you have a very large data set of more <v Speaker 0>than 100,000 samples, or 100,000 rolls, you can just do <v Speaker 0>a simple split, right, because you have plenty of data"
+  },
+  {
+    "window_id": 217,
+    "start": 3271.42,
+    "end": 3286.42,
+    "text": "<v Speaker 0>a simple split, right, because you have plenty of data <v Speaker 0>to play around. <v Speaker 0>Um, and just splitting it, say, OK, 80/20, 1st 80, <v Speaker 0>last 20, would, would do the job. <v Speaker 0>In a smaller situation, in a smaller data set, which <v Speaker 0>you'll probably all be in, right, um."
+  },
+  {
+    "window_id": 218,
+    "start": 3286.42,
+    "end": 3301.42,
+    "text": "<v Speaker 0>you'll probably all be in, right, um. <v Speaker 0>You need to start using K faults and cross validation <v Speaker 0>just to get better efficiency with that limited 5000 votes <v Speaker 0>that you have, for example. <v Speaker 0>Right, so if you have 10,000 rolls of sample or <v Speaker 0>maybe even less, like, 400, you know, 500 roles, you"
+  },
+  {
+    "window_id": 219,
+    "start": 3301.42,
+    "end": 3316.42,
+    "text": "<v Speaker 0>maybe even less, like, 400, you know, 500 roles, you <v Speaker 0>definitely need to consider using K uh fault of maybe <v Speaker 0>like 5, 10, nothing more than 20 because then if <v Speaker 0>every block is too little, there's not much of a <v Speaker 0>point. <v Speaker 0>Um, so something around those values will maximise the use"
+  },
+  {
+    "window_id": 220,
+    "start": 3316.42,
+    "end": 3331.42,
+    "text": "<v Speaker 0>Um, so something around those values will maximise the use <v Speaker 0>of your data and reduce the variance between them. <v Speaker 0>Um, In a lot of medical imaging data set, you <v Speaker 0>have this bias. <v Speaker 0>You have this bias of like, oh, I see tumour,"
+  },
+  {
+    "window_id": 221,
+    "start": 3331.42,
+    "end": 3346.42,
+    "text": "<v Speaker 0>You have this bias of like, oh, I see tumour, <v Speaker 0>but it's only 5, 10 images out of, The 500 <v Speaker 0>scans I have that doesn't seem to have tumours. <v Speaker 0>So it's not a good representation of what is a <v Speaker 0>positive case and what is a negative case."
+  },
+  {
+    "window_id": 222,
+    "start": 3346.42,
+    "end": 3361.42,
+    "text": "<v Speaker 0>positive case and what is a negative case. <v Speaker 0>The negative case of having no tumour has a lot <v Speaker 0>more images. <v Speaker 0>And so whatever your trained model could bias towards seeing <v Speaker 0>that, you know, it will just assume everything's like, oh, <v Speaker 0>there's no tumour. <v Speaker 0>But in fact, you know, there, there could be a"
+  },
+  {
+    "window_id": 223,
+    "start": 3361.42,
+    "end": 3376.42,
+    "text": "<v Speaker 0>But in fact, you know, there, there could be a <v Speaker 0>tumour, but you just, there is not a lot of <v Speaker 0>examples of what a tumour looks like. <v Speaker 0>Right, so in those situations and in balance set, you <v Speaker 0>really need to use other approaches. <v Speaker 0>So K fault stratified, um, approaches, but also weighted function."
+  },
+  {
+    "window_id": 224,
+    "start": 3376.42,
+    "end": 3391.42,
+    "text": "<v Speaker 0>So K fault stratified, um, approaches, but also weighted function. <v Speaker 0>So we'll talk about that next week, how to create <v Speaker 0>synthetic data, how to put more weighting on the 10 <v Speaker 0>occurrences that you've seen, and then bias towards that."
+  },
+  {
+    "window_id": 225,
+    "start": 3391.42,
+    "end": 3406.42,
+    "text": "<v Speaker 0>And for your time series, unless you're doing sort of <v Speaker 0>finance, um, maybe you're doing material testing where there's a <v Speaker 0>time component, um, a rolling window could be useful. <v Speaker 0>Um, but some people, you know, in, in the finance <v Speaker 0>world, you're doing machine learning, people often like to do"
+  },
+  {
+    "window_id": 226,
+    "start": 3406.42,
+    "end": 3421.42,
+    "text": "<v Speaker 0>world, you're doing machine learning, people often like to do <v Speaker 0>a test, like they like to train it, right? <v Speaker 0>And then they like to do a test, and then <v Speaker 0>they like to do a forward forecast. <v Speaker 0>So those are called backward testing, right? <v Speaker 0>You're looking in time data."
+  },
+  {
+    "window_id": 227,
+    "start": 3421.42,
+    "end": 3436.42,
+    "text": "<v Speaker 0>From this time onwards, but then, at some point you <v Speaker 0>want to basically run your model and run it forward, <v Speaker 0>but not actually make any traits or something, so then <v Speaker 0>you can see how effective that is. <v Speaker 0>Um, it's just inherent in the system, so there's something"
+  },
+  {
+    "window_id": 228,
+    "start": 3436.42,
+    "end": 3451.42,
+    "text": "<v Speaker 0>Um, it's just inherent in the system, so there's something <v Speaker 0>called leakages potentially, um, but those are very sample, How <v Speaker 0>should I say it? <v Speaker 0>These are very um problem centric issues, right, and it's <v Speaker 0>not as simple as just comparing a score and say,"
+  },
+  {
+    "window_id": 229,
+    "start": 3451.42,
+    "end": 3466.42,
+    "text": "<v Speaker 0>not as simple as just comparing a score and say, <v Speaker 0>oh look, this score is lower than that, you know, <v Speaker 0>given the, given a certain problem set, you may want <v Speaker 0>the score of that to be lower than higher, or <v Speaker 0>vice versa."
+  },
+  {
+    "window_id": 230,
+    "start": 3466.42,
+    "end": 3481.42,
+    "text": "<v Speaker 0>So again, training data set, um, easily callable as a <v Speaker 0>function, um, in terms of the scoring metrics, again, that <v Speaker 0>can be easily called up and we'll talk a bit <v Speaker 0>more about accuracy score, precision score, recall score, um, from"
+  },
+  {
+    "window_id": 231,
+    "start": 3481.42,
+    "end": 3496.42,
+    "text": "<v Speaker 0>more about accuracy score, precision score, recall score, um, from <v Speaker 0>this point onwards. <v Speaker 0>Before we go on to that though, um, just a <v Speaker 0>quick recap, just a quick reminder that. <v Speaker 0>For a lot of this classification problem sets, you have"
+  },
+  {
+    "window_id": 232,
+    "start": 3496.42,
+    "end": 3511.42,
+    "text": "<v Speaker 0>For a lot of this classification problem sets, you have <v Speaker 0>different activation functions, right? <v Speaker 0>The, the common ones that will be used in classification <v Speaker 0>problem sets is a sigmoid uh function or softmax function, <v Speaker 0>we talked about that. <v Speaker 0>Um, basically Softmax is an extension of the Sigmoid, but"
+  },
+  {
+    "window_id": 233,
+    "start": 3511.42,
+    "end": 3526.42,
+    "text": "<v Speaker 0>Um, basically Softmax is an extension of the Sigmoid, but <v Speaker 0>you can see how it's creating this continuous curve. <v Speaker 0>Um, and basically allows you to say, oh, well, if <v Speaker 0>my value is on this side, it's probably in class"
+  },
+  {
+    "window_id": 234,
+    "start": 3526.42,
+    "end": 3541.42,
+    "text": "<v Speaker 0>my value is on this side, it's probably in class <v Speaker 0>1. <v Speaker 0>If my value is on that other side, it's class <v Speaker 0>0, right? <v Speaker 0>And then you add up the classes and it gives <v Speaker 0>you that. <v Speaker 0>Um, every classification problem can generally be broken down to <v Speaker 0>a binary system. <v Speaker 0>It's either Apple's tasty or not really."
+  },
+  {
+    "window_id": 235,
+    "start": 3541.42,
+    "end": 3556.42,
+    "text": "<v Speaker 0>It's either Apple's tasty or not really. <v Speaker 0>And then the not really is like, how not really, <v Speaker 0>like really bad or, you know, slightly more than. <v Speaker 0>Bad, so now you have like a 3 class system, <v Speaker 0>but using two binary distribution as a as a way"
+  },
+  {
+    "window_id": 236,
+    "start": 3556.42,
+    "end": 3571.42,
+    "text": "<v Speaker 0>but using two binary distribution as a as a way <v Speaker 0>of sorting it, um. <v Speaker 0>So that's just stuff breaks it down further. <v Speaker 0>But it basically that just says that if you understand <v Speaker 0>how to how to describe two, then you can do <v Speaker 0>that for multiple classes as well."
+  },
+  {
+    "window_id": 237,
+    "start": 3571.42,
+    "end": 3586.42,
+    "text": "<v Speaker 0>So activation functions are just a mathematical equation that gives <v Speaker 0>you a distribution, um it gives you a uh probability, <v Speaker 0>and so it also constraints it to, Either or, right,"
+  },
+  {
+    "window_id": 238,
+    "start": 3586.42,
+    "end": 3601.42,
+    "text": "<v Speaker 0>and so it also constraints it to, Either or, right, <v Speaker 0>and that little gradient in between is what those um <v Speaker 0>differences are. <v Speaker 0>So you've got the sigmoid, which is like a um <v Speaker 0>like S curve, right, you've got the 10, hyperbolic 0 <v Speaker 0>function, which has a lot sharper drop-offs."
+  },
+  {
+    "window_id": 239,
+    "start": 3601.42,
+    "end": 3616.42,
+    "text": "<v Speaker 0>function, which has a lot sharper drop-offs. <v Speaker 0>But um those other things that I put in boxes <v Speaker 0>is for neural networks. <v Speaker 0>For this particular situation, we're just concerned with classification, it's <v Speaker 0>the two, it's the two boxes we have here, um,"
+  },
+  {
+    "window_id": 240,
+    "start": 3616.42,
+    "end": 3631.42,
+    "text": "<v Speaker 0>the two, it's the two boxes we have here, um, <v Speaker 0>very similar, um, probably not, doesn't make a lot of <v Speaker 0>sense to you at the moment. <v Speaker 0>OK, so, um. <v Speaker 0>Classification. <v Speaker 0>How do you evaluate the performance of your, of your"
+  },
+  {
+    "window_id": 241,
+    "start": 3631.42,
+    "end": 3646.42,
+    "text": "<v Speaker 0>How do you evaluate the performance of your, of your <v Speaker 0>model? <v Speaker 0>Well, in the, in the Apple case, right, we know <v Speaker 0>what is tasty, because you ate 80 apples already, and <v Speaker 0>you know what, what the, the tasty apple would look <v Speaker 0>like, how much they weigh, um, and also how red"
+  },
+  {
+    "window_id": 242,
+    "start": 3646.42,
+    "end": 3661.42,
+    "text": "<v Speaker 0>like, how much they weigh, um, and also how red <v Speaker 0>they look like. <v Speaker 0>So that truth, right, the label truth is your ground <v Speaker 0>truth. <v Speaker 0>So we have this term ground truth you're reading the <v Speaker 0>textbook. <v Speaker 0>You may actually want to be able to search that <v Speaker 0>term."
+  },
+  {
+    "window_id": 243,
+    "start": 3661.42,
+    "end": 3676.42,
+    "text": "<v Speaker 0>You know, when you see Gra trip, you know that <v Speaker 0>is what it's referring to is the objective, understood label <v Speaker 0>of the system. <v Speaker 0>The model itself predicts something from it. <v Speaker 0>So the predictor is what is the classifier is predicting,"
+  },
+  {
+    "window_id": 244,
+    "start": 3676.42,
+    "end": 3691.42,
+    "text": "<v Speaker 0>So the predictor is what is the classifier is predicting, <v Speaker 0>um, and depending if it's predicting it truly or not, <v Speaker 0>then you have something called like true positive, true negative, <v Speaker 0>and so forth. <v Speaker 0>I think this, this paragraph is confusing as, but this"
+  },
+  {
+    "window_id": 245,
+    "start": 3691.42,
+    "end": 3706.42,
+    "text": "<v Speaker 0>I think this, this paragraph is confusing as, but this <v Speaker 0>is a better, Better, um, showcase, so I don't really <v Speaker 0>have this. <v Speaker 0>It's unfortunate. <v Speaker 0>So right here, right, I'll fix this slight deck. <v Speaker 0>But it's supposed to be the flag of Panama. <v Speaker 0>And why do I say that?"
+  },
+  {
+    "window_id": 246,
+    "start": 3706.42,
+    "end": 3721.42,
+    "text": "<v Speaker 0>And why do I say that? <v Speaker 0>Because. <v Speaker 0>Panama's flag, if anyone's seen anything. <v Speaker 0>It's got the colour boxes as well as the stars, <v Speaker 0>right, so let me see if I can find, maybe <v Speaker 0>next picture I have it."
+  },
+  {
+    "window_id": 247,
+    "start": 3721.42,
+    "end": 3736.42,
+    "text": "<v Speaker 0>unfortunate Um, OK, so it's called confusion matrix. <v Speaker 0>I'm not sure if it's just a pun, someone created <v Speaker 0>the name, it's confusing as and they call it that"
+  },
+  {
+    "window_id": 248,
+    "start": 3736.42,
+    "end": 3751.42,
+    "text": "<v Speaker 0>the name, it's confusing as and they call it that <v Speaker 0>name just for the fun of it. <v Speaker 0>Um, but if you read it slowly, right, you have <v Speaker 0>the grand truth, which denotes as C, right? <v Speaker 0>So C equals to 0 is negative."
+  },
+  {
+    "window_id": 249,
+    "start": 3751.42,
+    "end": 3766.42,
+    "text": "<v Speaker 0>C equals to 1 is positive, so it is it <v Speaker 0>tasty, right, is your apple tasty? <v Speaker 0>No, that's C equals 0. <v Speaker 0>Right, and then C equals 1 is is positive, right. <v Speaker 0>The predictor, which is the model that you develop, C <v Speaker 0>hat."
+  },
+  {
+    "window_id": 250,
+    "start": 3766.42,
+    "end": 3781.42,
+    "text": "<v Speaker 0>Gives you two labels potentially, right, because we're looking at <v Speaker 0>the two classes. <v Speaker 0>So is it tasty? <v Speaker 0>Yes, right, but did the predictor say it's tasty? <v Speaker 0>Yes, well, that's great, you know, it's correctly predicted what"
+  },
+  {
+    "window_id": 251,
+    "start": 3781.42,
+    "end": 3796.42,
+    "text": "<v Speaker 0>Yes, well, that's great, you know, it's correctly predicted what <v Speaker 0>should happen, right? <v Speaker 0>Which is in the bottom right. <v Speaker 0>But in the case where is it tasty, yes. <v Speaker 0>But did the predictor says it's tasty? <v Speaker 0>No. <v Speaker 0>So it's actually giving you a false positive, a false <v Speaker 0>negative, right?"
+  },
+  {
+    "window_id": 252,
+    "start": 3796.42,
+    "end": 3811.42,
+    "text": "<v Speaker 0>negative, right? <v Speaker 0>So, you can see here, right, this little example. <v Speaker 0>Is a, it's a very typical machine learning problem where <v Speaker 0>they they they do the the handwritten notes, um your"
+  },
+  {
+    "window_id": 253,
+    "start": 3811.42,
+    "end": 3826.42,
+    "text": "<v Speaker 0>they they they do the the handwritten notes, um your <v Speaker 0>your integers, so it's trying to predict what value, what <v Speaker 0>number, um, you know, you're writing. <v Speaker 0>And in a case where it's predicting the number 5, <v Speaker 0>right, for example, predicting digits from and written number 5."
+  },
+  {
+    "window_id": 254,
+    "start": 3826.42,
+    "end": 3841.42,
+    "text": "<v Speaker 0>right, for example, predicting digits from and written number 5. <v Speaker 0>Bottom right is correctly predicting 5s are fives. <v Speaker 0>In the other case, it's correctly predicting that 5s are <v Speaker 0>not 5, right, so 8 is not 57 is not <v Speaker 0>53 is not 5."
+  },
+  {
+    "window_id": 255,
+    "start": 3841.42,
+    "end": 3856.42,
+    "text": "<v Speaker 0>53 is not 5. <v Speaker 0>And so those values makes a big um so once <v Speaker 0>you note that down, you can create the matrix you <v Speaker 0>need to compute how accurate your model is. <v Speaker 0>OK. <v Speaker 0>So take some time to sort of digest this, and"
+  },
+  {
+    "window_id": 256,
+    "start": 3856.42,
+    "end": 3871.42,
+    "text": "<v Speaker 0>So take some time to sort of digest this, and <v Speaker 0>I think the digestion of this needs some examples, obviously. <v Speaker 0>Assuming that you have a good understanding. <v Speaker 0>Right, and I, I'll show you some extent. <v Speaker 0>Alright, of which number falls into which, so if you"
+  },
+  {
+    "window_id": 257,
+    "start": 3871.42,
+    "end": 3886.42,
+    "text": "<v Speaker 0>Alright, of which number falls into which, so if you <v Speaker 0>have 100 experiments. <v Speaker 0>And then you go, right, for the first experiment. <v Speaker 0>This is the correct label, and then the predictor predicts, <v Speaker 0>no, the right label, the same label, you count that,"
+  },
+  {
+    "window_id": 258,
+    "start": 3886.42,
+    "end": 3901.42,
+    "text": "<v Speaker 0>no, the right label, the same label, you count that, <v Speaker 0>you tally that up. <v Speaker 0>And you put them into the quadrant. <v Speaker 0>What you then get is like 4 numbers. <v Speaker 0>Based on the 4 numbers, you can compute the various <v Speaker 0>different uh highlighted values on the right, which are then"
+  },
+  {
+    "window_id": 259,
+    "start": 3901.42,
+    "end": 3916.42,
+    "text": "<v Speaker 0>different uh highlighted values on the right, which are then <v Speaker 0>part of your scoring metrics. <v Speaker 0>So for specificity, right, how specific the model is, is <v Speaker 0>able to tell something is correct or not correct. <v Speaker 0>Is based on the total number of true negatives, right,"
+  },
+  {
+    "window_id": 260,
+    "start": 3916.42,
+    "end": 3931.42,
+    "text": "<v Speaker 0>Is based on the total number of true negatives, right, <v Speaker 0>over the total number of true negatives plus false positives, <v Speaker 0>right. <v Speaker 0>Recall, OK, sensitivity, so how often it can tell uh"
+  },
+  {
+    "window_id": 261,
+    "start": 3931.42,
+    "end": 3946.42,
+    "text": "<v Speaker 0>Recall, OK, sensitivity, so how often it can tell uh <v Speaker 0>the correct one, from the rest of everything. <v Speaker 0>I True positive over the total of false negative plus <v Speaker 0>true positives. <v Speaker 0>So that is exactly why I put it in those <v Speaker 0>quadrants because you can see the denominator takes the values"
+  },
+  {
+    "window_id": 262,
+    "start": 3946.42,
+    "end": 3961.42,
+    "text": "<v Speaker 0>quadrants because you can see the denominator takes the values <v Speaker 0>across and this kind of simplify your memory of how <v Speaker 0>things worked. <v Speaker 0>OK. <v Speaker 0>The two tick boxes obviously are the correct values, so, <v Speaker 0>you know, the model is doing what it's supposed to <v Speaker 0>do."
+  },
+  {
+    "window_id": 263,
+    "start": 3961.42,
+    "end": 3976.42,
+    "text": "<v Speaker 0>do. <v Speaker 0>Correctly predicting something, correctly predicting or not well, predicting what <v Speaker 0>isn't. <v Speaker 0>OK? <v Speaker 0>And then the other quadrants, the two crosses, is your <v Speaker 0>self mistakes, right?"
+  },
+  {
+    "window_id": 264,
+    "start": 3976.42,
+    "end": 3991.42,
+    "text": "<v Speaker 0>self mistakes, right? <v Speaker 0>That the, the model is incorrectly predicting. <v Speaker 0>Positive or what should be negative and vice versa. <v Speaker 0>Precision is how well it's um it's predicting, right, obviously <v Speaker 0>going down the column, and then finally, combining some of"
+  },
+  {
+    "window_id": 265,
+    "start": 3991.42,
+    "end": 4006.42,
+    "text": "<v Speaker 0>going down the column, and then finally, combining some of <v Speaker 0>these scoring, you can yield something called an accuracy number, <v Speaker 0>OK? <v Speaker 0>Now, just to confuse you even more. <v Speaker 0>Those aren't really your scoring numbers, right, like, very like"
+  },
+  {
+    "window_id": 266,
+    "start": 4006.42,
+    "end": 4021.42,
+    "text": "<v Speaker 0>Those aren't really your scoring numbers, right, like, very like <v Speaker 0>in the last hour or so I've basically posed this <v Speaker 0>question. <v Speaker 0>When you're creating a machine learning model, how do you <v Speaker 0>know it's good enough? <v Speaker 0>Right, how do you know it's good enough based on <v Speaker 0>various factors, right, based on the problems that you're dealing"
+  },
+  {
+    "window_id": 267,
+    "start": 4021.42,
+    "end": 4036.42,
+    "text": "<v Speaker 0>various factors, right, based on the problems that you're dealing <v Speaker 0>with, right, is it a medical situation, is it a, <v Speaker 0>is it a um, Is it a driving autonomous car <v Speaker 0>situation? <v Speaker 0>Is it a spam email situation? <v Speaker 0>Right, those different problem sets dictate different levels of confidence,"
+  },
+  {
+    "window_id": 268,
+    "start": 4036.42,
+    "end": 4051.42,
+    "text": "<v Speaker 0>Right, those different problem sets dictate different levels of confidence, <v Speaker 0>right? <v Speaker 0>And then after that point, assuming that you process your <v Speaker 0>data properly and do the training and generate your model <v Speaker 0>in a, in a proper fashion, then you can use <v Speaker 0>scoring values like this to then say, OK, well if"
+  },
+  {
+    "window_id": 269,
+    "start": 4051.42,
+    "end": 4066.42,
+    "text": "<v Speaker 0>scoring values like this to then say, OK, well if <v Speaker 0>I do it in this fashion, these are the scores <v Speaker 0>I get. <v Speaker 0>If I do it in this other fashion, Then this <v Speaker 0>is another set of scores I get. <v Speaker 0>Comparing those scores allows you to say, OK, this is <v Speaker 0>actually a better model, and so we can use that"
+  },
+  {
+    "window_id": 270,
+    "start": 4066.42,
+    "end": 4081.42,
+    "text": "<v Speaker 0>actually a better model, and so we can use that <v Speaker 0>model from that point onwards. <v Speaker 0>So you can see there's already many layers in the <v Speaker 0>design process. <v Speaker 0>Um, but when I, before, before this slide, I was <v Speaker 0>just showing you effectively. <v Speaker 0>4 highlight at once, right?"
+  },
+  {
+    "window_id": 271,
+    "start": 4081.42,
+    "end": 4096.42,
+    "text": "<v Speaker 0>4 highlight at once, right? <v Speaker 0>The accuracy value sometimes can be um. <v Speaker 0>Can be misguided. <v Speaker 0>Because it doesn't give you a good resolution between the <v Speaker 0>precision and the recall value."
+  },
+  {
+    "window_id": 272,
+    "start": 4096.42,
+    "end": 4111.42,
+    "text": "<v Speaker 0>precision and the recall value. <v Speaker 0>In some situations, you want to be more precise, right? <v Speaker 0>Be able to tell what it is should be. <v Speaker 0>In other situations, you wanna like, not make a false <v Speaker 0>positive um estimate, right?"
+  },
+  {
+    "window_id": 273,
+    "start": 4111.42,
+    "end": 4126.42,
+    "text": "<v Speaker 0>positive um estimate, right? <v Speaker 0>So like again medical data, just because you see a <v Speaker 0>shadow, can't just go around cutting people up. <v Speaker 0>Because it's gonna cost them, it's gonna, you know, there's <v Speaker 0>psychological issues, so you want to be more precise in <v Speaker 0>one situation and and less than the other ones."
+  },
+  {
+    "window_id": 274,
+    "start": 4126.42,
+    "end": 4141.42,
+    "text": "<v Speaker 0>one situation and and less than the other ones. <v Speaker 0>So the F1 score, the harmonic average, is actually a <v Speaker 0>better way of describing, The average score So, you know, <v Speaker 0>moving forward, when you're doing model comparison."
+  },
+  {
+    "window_id": 275,
+    "start": 4141.42,
+    "end": 4156.42,
+    "text": "<v Speaker 0>Use the, obviously, you know, or there's a generator using <v Speaker 0>the libraries, write a function to go evaluate my model <v Speaker 0>based on, right, those four factors or 5 here, right? <v Speaker 0>And then you will have a matrix to then compare"
+  },
+  {
+    "window_id": 276,
+    "start": 4156.42,
+    "end": 4171.42,
+    "text": "<v Speaker 0>And then you will have a matrix to then compare <v Speaker 0>and describe, right? <v Speaker 0>Why Model 3 is better than Model 5, because the <v Speaker 0>harmonic value is actually higher and so it's suitable for <v Speaker 0>this particular situation and problem set and so forth. <v Speaker 0>And then try and look into um what you can"
+  },
+  {
+    "window_id": 277,
+    "start": 4171.42,
+    "end": 4186.42,
+    "text": "<v Speaker 0>And then try and look into um what you can <v Speaker 0>optimise. <v Speaker 0>So here's some numbers um. <v Speaker 0>I think this was, this is definitely not apples because <v Speaker 0>there's like 1000 iteration of eating apples, but it will <v Speaker 0>be like some, some randomly generated problem set, um, then"
+  },
+  {
+    "window_id": 278,
+    "start": 4186.42,
+    "end": 4201.42,
+    "text": "<v Speaker 0>be like some, some randomly generated problem set, um, then <v Speaker 0>you have the 4 numbers here. <v Speaker 0>The question then becomes, OK, well, can you compute what <v Speaker 0>the values of each of those. <v Speaker 0>And so if you just apply it to formulas, you, <v Speaker 0>you basically get an accuracy of 95% for this model,"
+  },
+  {
+    "window_id": 279,
+    "start": 4201.42,
+    "end": 4216.42,
+    "text": "<v Speaker 0>you basically get an accuracy of 95% for this model, <v Speaker 0>um, but the harmonic F1 score is actually 88%. <v Speaker 0>You know, all this is very independent and abstract because <v Speaker 0>there is no context. <v Speaker 0>But if you assume, presumably if you have another model"
+  },
+  {
+    "window_id": 280,
+    "start": 4216.42,
+    "end": 4231.42,
+    "text": "<v Speaker 0>But if you assume, presumably if you have another model <v Speaker 0>created and that gives you a 99% accuracy, Right? <v Speaker 0>What does that now mean? <v Speaker 0>Or maybe you you could be overpopulating or overfitting your <v Speaker 0>models to the dataset."
+  },
+  {
+    "window_id": 281,
+    "start": 4231.42,
+    "end": 4246.42,
+    "text": "<v Speaker 0>models to the dataset. <v Speaker 0>So that's when you go back into looking at your <v Speaker 0>data processing process, or maybe the precision goes down as <v Speaker 0>the recall value goes up. <v Speaker 0>Is that suitable for your given for your given problem, <v Speaker 0>right, for your given challenge."
+  },
+  {
+    "window_id": 282,
+    "start": 4246.42,
+    "end": 4261.42,
+    "text": "<v Speaker 0>right, for your given challenge. <v Speaker 0>So when you have multiple different models with scoring, that's <v Speaker 0>when you can say, OK, this, this kind of makes <v Speaker 0>sense, this doesn't make sense. <v Speaker 0>There's a lot of interpretation in that, um, but generally <v Speaker 0>that's a stack up, OK?"
+  },
+  {
+    "window_id": 283,
+    "start": 4261.42,
+    "end": 4276.42,
+    "text": "<v Speaker 0>So, we talked about different models and it's, you know, <v Speaker 0>only makes sense when you have different models, changing it, <v Speaker 0>um, why does it matter? <v Speaker 0>Well, when you have different models, what you're effectively saying <v Speaker 0>is that the way to make decisions are different."
+  },
+  {
+    "window_id": 284,
+    "start": 4276.42,
+    "end": 4291.42,
+    "text": "<v Speaker 0>is that the way to make decisions are different. <v Speaker 0>So here we have 4 different diagrams, right, 4 different <v Speaker 0>images showing the SVC uh approach, right. <v Speaker 0>Um, but with a different kernel. <v Speaker 0>So forget about the naming, just call it model 123"
+  },
+  {
+    "window_id": 285,
+    "start": 4291.42,
+    "end": 4306.42,
+    "text": "<v Speaker 0>So forget about the naming, just call it model 123 <v Speaker 0>and 4, but it's basically different mathematical function behind it. <v Speaker 0>And you can see based on those mathematical functions. <v Speaker 0>The way it's interpreting what is a blue dot, what <v Speaker 0>is a red dot, what is a, a, a white"
+  },
+  {
+    "window_id": 286,
+    "start": 4306.42,
+    "end": 4321.42,
+    "text": "<v Speaker 0>is a red dot, what is a, a, a white <v Speaker 0>dot, the boundary conditions are very different, right? <v Speaker 0>And so, you know, it makes a big difference if <v Speaker 0>you're those starts in the sort of. <v Speaker 0>Sort of apex of those colours, right, like in some"
+  },
+  {
+    "window_id": 287,
+    "start": 4321.42,
+    "end": 4336.42,
+    "text": "<v Speaker 0>Sort of apex of those colours, right, like in some <v Speaker 0>situation, it will be classed as a red dot, in <v Speaker 0>other situations it will be classed as a blue dot, <v Speaker 0>right? <v Speaker 0>Those little boundary values makes a difference to your to <v Speaker 0>your confusion matrix. <v Speaker 0>And so part of your job is to evaluate what's"
+  },
+  {
+    "window_id": 288,
+    "start": 4336.42,
+    "end": 4351.42,
+    "text": "<v Speaker 0>And so part of your job is to evaluate what's <v Speaker 0>a suitable model for your problem set. <v Speaker 0>OK, so we have already 4 conditions, right, if you <v Speaker 0>just go through this again. <v Speaker 0>You have your representation, you have your data representation, assuming <v Speaker 0>you have a good set of data that is representative"
+  },
+  {
+    "window_id": 289,
+    "start": 4351.42,
+    "end": 4366.42,
+    "text": "<v Speaker 0>you have a good set of data that is representative <v Speaker 0>of the real world. <v Speaker 0>And that you process this properly by transforming the data <v Speaker 0>set into something that makes sense. <v Speaker 0>And then after that point, you would then You would <v Speaker 0>then apply the right training algorithm and right training slip"
+  },
+  {
+    "window_id": 290,
+    "start": 4366.42,
+    "end": 4381.42,
+    "text": "<v Speaker 0>then apply the right training algorithm and right training slip <v Speaker 0>for the given data set. <v Speaker 0>Then you would have the actual um mathematical model that <v Speaker 0>you pick and choose to do the training on. <v Speaker 0>And then after that point, you would then say, OK,"
+  },
+  {
+    "window_id": 291,
+    "start": 4381.42,
+    "end": 4396.42,
+    "text": "<v Speaker 0>And then after that point, you would then say, OK, <v Speaker 0>this model is better than that model. <v Speaker 0>For all these uh situations. <v Speaker 0>OK, so, so there's there's a, there's a long list <v Speaker 0>of conditions already stacking up, um, but in general, the"
+  },
+  {
+    "window_id": 292,
+    "start": 4396.42,
+    "end": 4411.42,
+    "text": "<v Speaker 0>of conditions already stacking up, um, but in general, the <v Speaker 0>last, last thing, unfortunately. <v Speaker 0>Um, is your threshold condition? <v Speaker 0>So right now we've made a bunch of decisions, but <v Speaker 0>what's a good enough decision? <v Speaker 0>OK, it's not a good enough model, it's a good"
+  },
+  {
+    "window_id": 293,
+    "start": 4411.42,
+    "end": 4426.42,
+    "text": "<v Speaker 0>OK, it's not a good enough model, it's a good <v Speaker 0>enough decision. <v Speaker 0>When you're talking about A threshold number, it's like the <v Speaker 0>spam email situation that we talked about, right? <v Speaker 0>Based on the work choice in the email presented, this"
+  },
+  {
+    "window_id": 294,
+    "start": 4426.42,
+    "end": 4441.42,
+    "text": "<v Speaker 0>Based on the work choice in the email presented, this <v Speaker 0>looks kinda like spamming. <v Speaker 0>OK, great. <v Speaker 0>It gives you a probability, right, it says 65% spamming. <v Speaker 0>OK, well, do I want to label this as spam <v Speaker 0>email. <v Speaker 0>Yes, no. <v Speaker 0>Should it be 70% or above, only at that point"
+  },
+  {
+    "window_id": 295,
+    "start": 4441.42,
+    "end": 4456.42,
+    "text": "<v Speaker 0>Should it be 70% or above, only at that point <v Speaker 0>do I block it and put it in junk mail. <v Speaker 0>Right, how often have you signed on to some random <v Speaker 0>pub crawl, you know, sign on foodie discount? <v Speaker 0>To then only have that email going to your spam"
+  },
+  {
+    "window_id": 296,
+    "start": 4456.42,
+    "end": 4471.42,
+    "text": "<v Speaker 0>To then only have that email going to your spam <v Speaker 0>email. <v Speaker 0>Right, that's a, that's a real world usage of like, <v Speaker 0>OK, well, maybe a threshold was a bit too low. <v Speaker 0>If I set that threshold to be higher, then it, <v Speaker 0>you know, that particular email will come through my inbox"
+  },
+  {
+    "window_id": 297,
+    "start": 4471.42,
+    "end": 4486.42,
+    "text": "<v Speaker 0>you know, that particular email will come through my inbox <v Speaker 0>properly, whereas the other one, you know, Nigerian prince trying <v Speaker 0>to sell me crypto with, with whatever just for Easter, <v Speaker 0>that's definitely spent, right? <v Speaker 0>So the threshold makes a big difference and you can"
+  },
+  {
+    "window_id": 298,
+    "start": 4486.42,
+    "end": 4501.42,
+    "text": "<v Speaker 0>So the threshold makes a big difference and you can <v Speaker 0>see here in the, in the breakdown, having a um, <v Speaker 0>Having a value, having different sort of conditions in that <v Speaker 0>matrix will give you different uh parameters, and I think <v Speaker 0>it's better represented in this next one."
+  },
+  {
+    "window_id": 299,
+    "start": 4501.42,
+    "end": 4516.42,
+    "text": "<v Speaker 0>So the best way to really evaluate thresholds um in <v Speaker 0>the, In the context of your true negatives and true <v Speaker 0>positives and recall values, is using something called a receiver"
+  },
+  {
+    "window_id": 300,
+    "start": 4516.42,
+    "end": 4531.42,
+    "text": "<v Speaker 0>positives and recall values, is using something called a receiver <v Speaker 0>operating characteristic. <v Speaker 0>Now I'll let you all read up on ROC at <v Speaker 0>home on how it came about. <v Speaker 0>It actually has a pretty interesting story, which originated from"
+  },
+  {
+    "window_id": 301,
+    "start": 4531.42,
+    "end": 4546.42,
+    "text": "<v Speaker 0>It actually has a pretty interesting story, which originated from <v Speaker 0>World War 2. <v Speaker 0>And it's basically back then, um, people look at radars, <v Speaker 0>they said blip on the screen, like, you know, beep, <v Speaker 0>beep, beep, and depending on how frequent it beeps, right, <v Speaker 0>and how, you know, reporting says, oh yeah, there's definitely"
+  },
+  {
+    "window_id": 302,
+    "start": 4546.42,
+    "end": 4561.42,
+    "text": "<v Speaker 0>and how, you know, reporting says, oh yeah, there's definitely <v Speaker 0>a plane coming inside, right? <v Speaker 0>That actually gave rise to this concept of ROC. <v Speaker 0>And so the ROC is really saying how, how, how <v Speaker 0>often do we say, how often do we read a <v Speaker 0>true positive case versus a false positive case."
+  },
+  {
+    "window_id": 303,
+    "start": 4561.42,
+    "end": 4576.42,
+    "text": "<v Speaker 0>true positive case versus a false positive case. <v Speaker 0>So TPR right, true positive rate. <v Speaker 0>Equals your sensitivity recall value, so what we did the <v Speaker 0>calculation before is that value. <v Speaker 0>The false positive rate FPR is 1 minus the specificity"
+  },
+  {
+    "window_id": 304,
+    "start": 4576.42,
+    "end": 4591.42,
+    "text": "<v Speaker 0>The false positive rate FPR is 1 minus the specificity <v Speaker 0>value, so you can go back to that formula and <v Speaker 0>apply and compute that. <v Speaker 0>The curve here, right, is at different threshold values, right,"
+  },
+  {
+    "window_id": 305,
+    "start": 4591.42,
+    "end": 4606.42,
+    "text": "<v Speaker 0>The curve here, right, is at different threshold values, right, <v Speaker 0>from 10% to 15% to 20%, blah blah blah all <v Speaker 0>the way to 100%. <v Speaker 0>We then give you a curve of responses, right, so <v Speaker 0>it's how sensitive it is to um to your system."
+  },
+  {
+    "window_id": 306,
+    "start": 4606.42,
+    "end": 4621.42,
+    "text": "<v Speaker 0>it's how sensitive it is to um to your system. <v Speaker 0>And the best way to compare between models, right, you <v Speaker 0>can see the models are represented in the different colours. <v Speaker 0>The diagonal curve here is basically a random classifier. <v Speaker 0>It's like tossing dies, like tossing a coin, you know,"
+  },
+  {
+    "window_id": 307,
+    "start": 4621.42,
+    "end": 4636.42,
+    "text": "<v Speaker 0>It's like tossing dies, like tossing a coin, you know, <v Speaker 0>you can't tell if the, if the model actually tells <v Speaker 0>you or forecasts something correctly. <v Speaker 0>That's your baseline. <v Speaker 0>Anything more than your baseline, showcase that it's probably a <v Speaker 0>good classifier."
+  },
+  {
+    "window_id": 308,
+    "start": 4636.42,
+    "end": 4651.42,
+    "text": "<v Speaker 0>The very top line, right, the purple one is your <v Speaker 0>perfect classifier which does not exist, because in life there's <v Speaker 0>always a trade-off. <v Speaker 0>You're always trading off on how often it can pull <v Speaker 0>the positive out, but at the same time, you know, <v Speaker 0>what's the chance of it saying that, you know, everything"
+  },
+  {
+    "window_id": 309,
+    "start": 4651.42,
+    "end": 4666.42,
+    "text": "<v Speaker 0>what's the chance of it saying that, you know, everything <v Speaker 0>is just one. <v Speaker 0>Right. <v Speaker 0>Cause then it will, it will 100% capture, like if <v Speaker 0>I give you that Apple uh example again, how tasty <v Speaker 0>is this uh apple? <v Speaker 0>Well, it's great, you know, and it just keeps saying"
+  },
+  {
+    "window_id": 310,
+    "start": 4666.42,
+    "end": 4681.42,
+    "text": "<v Speaker 0>Well, it's great, you know, and it just keeps saying <v Speaker 0>it's great. <v Speaker 0>Of course it's capturing all the tasty apples. <v Speaker 0>But what about all the other non-tasty apple, the really <v Speaker 0>sour ones, the overripe ones. <v Speaker 0>Those are false positives. <v Speaker 0>So either, either extreme, now obviously the converse is saying"
+  },
+  {
+    "window_id": 311,
+    "start": 4681.42,
+    "end": 4696.42,
+    "text": "<v Speaker 0>So either, either extreme, now obviously the converse is saying <v Speaker 0>that none of the apples are great. <v Speaker 0>It captures all the other sour apples, great, but then <v Speaker 0>it also miscalculated the good ones. <v Speaker 0>So there's a trade-off between the two, and looking under <v Speaker 0>the area of the curve is your best way of"
+  },
+  {
+    "window_id": 312,
+    "start": 4696.42,
+    "end": 4711.42,
+    "text": "<v Speaker 0>the area of the curve is your best way of <v Speaker 0>knowing if a model is good. <v Speaker 0>OK, so just a recap. <v Speaker 0>We've got a model. <v Speaker 0>From the model, we look at the label data, the <v Speaker 0>ground truth, and then the predicted truth, which is your"
+  },
+  {
+    "window_id": 313,
+    "start": 4711.42,
+    "end": 4726.42,
+    "text": "<v Speaker 0>ground truth, and then the predicted truth, which is your <v Speaker 0>C hat. <v Speaker 0>Based on that, you would tally up how often it <v Speaker 0>gets it right, how often it gets wrong, you create <v Speaker 0>the confusion matrix. <v Speaker 0>From the confusion matrix, we can then calculate a few <v Speaker 0>parameters like accuracy numbers, recall values, um, specificity, and also"
+  },
+  {
+    "window_id": 314,
+    "start": 4726.42,
+    "end": 4741.42,
+    "text": "<v Speaker 0>parameters like accuracy numbers, recall values, um, specificity, and also <v Speaker 0>precision, right? <v Speaker 0>From that, we can then apply different threshold conditions and <v Speaker 0>then generate these curves, right, and these are called ROC <v Speaker 0>curves."
+  },
+  {
+    "window_id": 315,
+    "start": 4741.42,
+    "end": 4756.42,
+    "text": "<v Speaker 0>curves. <v Speaker 0>And then from this ROC curve, we compute the area <v Speaker 0>underneath the curves to then yield the area under the <v Speaker 0>curve. <v Speaker 0>And using that as an ultimate sort of evaluator, we <v Speaker 0>can then say, our model with a given set of"
+  },
+  {
+    "window_id": 316,
+    "start": 4756.42,
+    "end": 4771.42,
+    "text": "<v Speaker 0>can then say, our model with a given set of <v Speaker 0>thresholds, right, is probably doing a pretty good job over <v Speaker 0>this other model with the same conditions, because that curve <v Speaker 0>is higher to the left top left corner, right? <v Speaker 0>Confusing, yeah."
+  },
+  {
+    "window_id": 317,
+    "start": 4771.42,
+    "end": 4786.42,
+    "text": "<v Speaker 0>Confusing, yeah. <v Speaker 0>It's a bit of a layup, but. <v Speaker 0>Just goes to show is not as simple as hitting <v Speaker 0>a key. <v Speaker 0>Um. <v Speaker 0>So really, your job is to say, what, what are <v Speaker 0>we optimising things for, right?"
+  },
+  {
+    "window_id": 318,
+    "start": 4786.42,
+    "end": 4801.42,
+    "text": "<v Speaker 0>we optimising things for, right? <v Speaker 0>You have false positive. <v Speaker 0>Obviously model predicts positively, but it's actually negative. <v Speaker 0>But then false negative is the opposite, it's model predicts <v Speaker 0>negative, but it's actually positive. <v Speaker 0>They're both incorrect, the point is."
+  },
+  {
+    "window_id": 319,
+    "start": 4801.42,
+    "end": 4816.42,
+    "text": "<v Speaker 0>They're both incorrect, the point is. <v Speaker 0>But what is the cost we're talking about here? <v Speaker 0>If you want to optimise for precision, again, precision, you <v Speaker 0>can just proxy that to medical situations, right? <v Speaker 0>You, you don't wanna like cut into random people for <v Speaker 0>no random reasons at all, just because you, you see"
+  },
+  {
+    "window_id": 320,
+    "start": 4816.42,
+    "end": 4831.42,
+    "text": "<v Speaker 0>no random reasons at all, just because you, you see <v Speaker 0>a dot on the, on the scan. <v Speaker 0>Um, You know, you want to optimise for precision. <v Speaker 0>That's your first case. <v Speaker 0>The cost of false positive is more than false negatives. <v Speaker 0>OK, so you're gonna get it wrong, but what's the"
+  },
+  {
+    "window_id": 321,
+    "start": 4831.42,
+    "end": 4846.42,
+    "text": "<v Speaker 0>OK, so you're gonna get it wrong, but what's the <v Speaker 0>cost of getting it wrong based on false positives, OK? <v Speaker 0>On the opposite end of the spectrum, you can optimise <v Speaker 0>for recall, right, which is the cost of false negative <v Speaker 0>is more than the cost of false positives."
+  },
+  {
+    "window_id": 322,
+    "start": 4846.42,
+    "end": 4861.42,
+    "text": "<v Speaker 0>is more than the cost of false positives. <v Speaker 0>OK, so, predicting propensity to buy certain things. <v Speaker 0>OK, a quick purchase call, uh, this is, this is <v Speaker 0>in reference to making a sales call, right? <v Speaker 0>If you have a client list, you could just make"
+  },
+  {
+    "window_id": 323,
+    "start": 4861.42,
+    "end": 4876.42,
+    "text": "<v Speaker 0>If you have a client list, you could just make <v Speaker 0>a sales call because you assume that they may buy. <v Speaker 0>But you got it wrong, like they, they don't have <v Speaker 0>money, you know, Nigerian prints doing spam emails. <v Speaker 0>They want the second one, right? <v Speaker 0>Just, just remember that. <v Speaker 0>They just want to spam everyone, right?"
+  },
+  {
+    "window_id": 324,
+    "start": 4876.42,
+    "end": 4891.42,
+    "text": "<v Speaker 0>They just want to spam everyone, right? <v Speaker 0>Maybe there will be a hit rate. <v Speaker 0>Because what's, what's worse? <v Speaker 0>Well, the person just ignores the email, right, you send <v Speaker 0>one extra email. <v Speaker 0>The cost isn't too much, OK? <v Speaker 0>And then in the real world scenario, right, you want <v Speaker 0>the goldilock moment where it is a good balance between"
+  },
+  {
+    "window_id": 325,
+    "start": 4891.42,
+    "end": 4906.42,
+    "text": "<v Speaker 0>the goldilock moment where it is a good balance between <v Speaker 0>the false positive and false negative. <v Speaker 0>So the actual, the shape of the curve could say <v Speaker 0>something about, even though you have different area under the <v Speaker 0>curve being the same. <v Speaker 0>But the shape of the curve could look different, you"
+  },
+  {
+    "window_id": 326,
+    "start": 4906.42,
+    "end": 4921.42,
+    "text": "<v Speaker 0>But the shape of the curve could look different, you <v Speaker 0>want to be able to say, OK, this shape is <v Speaker 2>suitable for my given problem set. <v Speaker 0>OK. <v Speaker 0>So here's a, here's an actual real curve, right, not,"
+  },
+  {
+    "window_id": 327,
+    "start": 4921.42,
+    "end": 4936.42,
+    "text": "<v Speaker 0>So here's a, here's an actual real curve, right, not, <v Speaker 0>not the spammy, Nigerian prints kind of thing, but you <v Speaker 0>can see here are three models, right, red, black, and <v Speaker 0>green. <v Speaker 0>Which one is actually better? <v Speaker 0>It's really hard to say, right, because A, we don't"
+  },
+  {
+    "window_id": 328,
+    "start": 4936.42,
+    "end": 4951.42,
+    "text": "<v Speaker 0>It's really hard to say, right, because A, we don't <v Speaker 0>know the problem here. <v Speaker 0>Right, we, assuming that the data treatments, it's, it's correct <v Speaker 0>and that you've trained the data in, in a good <v Speaker 0>fashion, the representation is good, but you still need to <v Speaker 0>understand the context of what is the problem here."
+  },
+  {
+    "window_id": 329,
+    "start": 4951.42,
+    "end": 4966.42,
+    "text": "<v Speaker 0>understand the context of what is the problem here. <v Speaker 0>What is it challenging. <v Speaker 0>If you have a good condition on that, then you <v Speaker 0>can say, OK, well, given that's the context. <v Speaker 0>Maybe the red one is good enough. <v Speaker 0>Because you know, a, that's kind of looking to be"
+  },
+  {
+    "window_id": 330,
+    "start": 4966.42,
+    "end": 4981.42,
+    "text": "<v Speaker 0>Because you know, a, that's kind of looking to be <v Speaker 0>more on the left side, the area under the curve <v Speaker 0>without doing a lot of the compute looks maybe more <v Speaker 0>than the black one and the green one. <v Speaker 0>So based on AUC."
+  },
+  {
+    "window_id": 331,
+    "start": 4981.42,
+    "end": 4996.42,
+    "text": "<v Speaker 0>It has probably the higher value. <v Speaker 0>But is that, is that good enough in terms of <v Speaker 0>the threshold conditions? <v Speaker 0>Right? <v Speaker 0>So there there's never really a clear winner. <v Speaker 0>By this stage, it's all about judgement."
+  },
+  {
+    "window_id": 332,
+    "start": 4996.42,
+    "end": 5011.42,
+    "text": "<v Speaker 0>It's like based on this judgement, these are the trade-offs <v Speaker 0>I'm willing to make. <v Speaker 0>And based on those trade-offs, you know, it's good enough <v Speaker 0>or not. <v Speaker 0>OK. <v Speaker 0>So this is basically a clue to when you're presenting <v Speaker 0>your report by the end of the term, right?"
+  },
+  {
+    "window_id": 333,
+    "start": 5011.42,
+    "end": 5026.42,
+    "text": "<v Speaker 0>your report by the end of the term, right? <v Speaker 0>We don't want to just say, OK, this is the <v Speaker 0>best, this is the best model. <v Speaker 0>We don't expect words like that. <v Speaker 0>We just wanna hear, know, like realistically you'll have to <v Speaker 0>say, this model is good enough for this job because <v Speaker 0>of those reasons, whereas this other one, whilst it can"
+  },
+  {
+    "window_id": 334,
+    "start": 5026.42,
+    "end": 5041.42,
+    "text": "<v Speaker 0>of those reasons, whereas this other one, whilst it can <v Speaker 0>do this and this and that, it's not, It's not <v Speaker 0>specific enough for what we want, and so forth. <v Speaker 0>Question. <v Speaker 0>How does the area under the curve show the signal?"
+  },
+  {
+    "window_id": 335,
+    "start": 5041.42,
+    "end": 5056.42,
+    "text": "<v Speaker 0>How does the area under the curve show the signal? <v Speaker 0>Single value performance."
+  },
+  {
+    "window_id": 336,
+    "start": 5056.42,
+    "end": 5071.42,
+    "text": "<v Speaker 0>So a single value performance measures. <v Speaker 0>Oh, so, so, as in it's a single metrics that <v Speaker 0>you're using. <v Speaker 0>So it gives you a number, right, it gives you <v Speaker 0>a, it gives you an area under the curve, like <v Speaker 0>0.6, whereas the red line is like 0.75."
+  },
+  {
+    "window_id": 337,
+    "start": 5071.42,
+    "end": 5086.42,
+    "text": "<v Speaker 0>0.6, whereas the red line is like 0.75. <v Speaker 0>So it's a single number, single numerical value. <v Speaker 0>Right, the, the, the area under the curve is a <v Speaker 0>value that you can compare between models that will give <v Speaker 0>you some clue, additional clue, yeah, I guess it's poorly"
+  },
+  {
+    "window_id": 338,
+    "start": 5086.42,
+    "end": 5101.42,
+    "text": "<v Speaker 0>you some clue, additional clue, yeah, I guess it's poorly <v Speaker 0>worded from my side, but that's what I mean, it's <v Speaker 0>a, it's a one number that you can say, oh <v Speaker 0>look, it's good. <v Speaker 0>Because of, you still need to fill in the because <v Speaker 0>of, right, as a, as a long form explanation to"
+  },
+  {
+    "window_id": 339,
+    "start": 5101.42,
+    "end": 5116.42,
+    "text": "<v Speaker 0>of, right, as a, as a long form explanation to <v Speaker 0>it. <v Speaker 0>But it's definitely more meaningful than the accuracy number and <v Speaker 0>the sensitivity number and the F1 scores and so forth, <v Speaker 0>OK? <v Speaker 0>So all of this does not exist in vacuum, it <v Speaker 0>needs context, which is really the biggest challenge here, right?"
+  },
+  {
+    "window_id": 340,
+    "start": 5116.42,
+    "end": 5131.42,
+    "text": "<v Speaker 0>needs context, which is really the biggest challenge here, right? <v Speaker 0>So fortunately, again, thank God to to people writing, um, <v Speaker 0>you know. <v Speaker 0>Libraries are ready, it's all callable functions."
+  },
+  {
+    "window_id": 341,
+    "start": 5131.42,
+    "end": 5146.42,
+    "text": "<v Speaker 0>Libraries are ready, it's all callable functions. <v Speaker 0>So here's, um, here's something that was generated using chat <v Speaker 0>GPT. <v Speaker 0>Obviously, GAI to the rescue. <v Speaker 0>Um, but you can, you can ask it enough, like, <v Speaker 0>you know, give me a templated, um, function that I"
+  },
+  {
+    "window_id": 342,
+    "start": 5146.42,
+    "end": 5161.42,
+    "text": "<v Speaker 0>you know, give me a templated, um, function that I <v Speaker 0>can call, you know, given a certain data set to <v Speaker 0>then compute the ROC curves, as well as the area <v Speaker 0>under the curve. <v Speaker 0>And you'll pull in those two functions, import ROC curve"
+  },
+  {
+    "window_id": 343,
+    "start": 5161.42,
+    "end": 5176.42,
+    "text": "<v Speaker 0>And you'll pull in those two functions, import ROC curve <v Speaker 0>function, um, sorry, library, um, and also the ROC area <v Speaker 0>under the curve score, which is basically your Skit learn <v Speaker 0>matrix, it's in that package. <v Speaker 0>I, I should also make a note now that I"
+  },
+  {
+    "window_id": 344,
+    "start": 5176.42,
+    "end": 5191.42,
+    "text": "<v Speaker 0>I, I should also make a note now that I <v Speaker 0>get, um, so the opportunity. <v Speaker 0>You can compute all this independent of it, but you <v Speaker 0>can also create a pipeline in the system to then <v Speaker 0>go compare those values, sorry, compare these models based on"
+  },
+  {
+    "window_id": 345,
+    "start": 5191.42,
+    "end": 5206.42,
+    "text": "<v Speaker 0>go compare those values, sorry, compare these models based on <v Speaker 0>this metrics. <v Speaker 0>The default setting is actually looking at accuracy number, um, <v Speaker 0>and I don't think it actually looks at F1 score, <v Speaker 0>but there will be um, There will be tutorials to <v Speaker 0>sort of driving the point that you can set in"
+  },
+  {
+    "window_id": 346,
+    "start": 5206.42,
+    "end": 5221.42,
+    "text": "<v Speaker 0>sort of driving the point that you can set in <v Speaker 0>whatever metrics you want, put that in the pipeline and <v Speaker 0>say when you're doing the compute, change these variables and <v Speaker 0>optimise these variables based on this scoring. <v Speaker 0>And at that point, you want to say, all right, <v Speaker 0>I want to evaluate my model based on F1 score,"
+  },
+  {
+    "window_id": 347,
+    "start": 5221.42,
+    "end": 5236.42,
+    "text": "<v Speaker 0>I want to evaluate my model based on F1 score, <v Speaker 0>area under the curve, and maybe sensitivity. <v Speaker 0>So if those are the three you want, you want <v Speaker 0>to set that in your pipeline, then it will do <v Speaker 0>the, it will do the compute for you. <v Speaker 0>And so once you, once you design your pipeline well, <v Speaker 0>you can just hit it and then go in and"
+  },
+  {
+    "window_id": 348,
+    "start": 5236.42,
+    "end": 5251.42,
+    "text": "<v Speaker 0>you can just hit it and then go in and <v Speaker 0>then come back and you should have a optimised model <v Speaker 0>and be able to then explain why. <v Speaker 0>That model is the way it is, right, but anyways, <v Speaker 0>in this case, you can see what I just described <v Speaker 0>before. <v Speaker 0>It's computing based on the example ground truth number, and"
+  },
+  {
+    "window_id": 349,
+    "start": 5251.42,
+    "end": 5266.42,
+    "text": "<v Speaker 0>It's computing based on the example ground truth number, and <v Speaker 0>then the predictive values. <v Speaker 0>It then computes the confusion matrix in the background, computes <v Speaker 0>the FPR and the TPR, um, based on your different <v Speaker 0>thresholds, right? <v Speaker 0>It then computes a table, and that table is then"
+  },
+  {
+    "window_id": 350,
+    "start": 5266.42,
+    "end": 5281.42,
+    "text": "<v Speaker 0>It then computes a table, and that table is then <v Speaker 0>mapped. <v Speaker 0>As your ROC curve, and then from that it computes <v Speaker 0>the area under the curve by integration, which is now, <v Speaker 0>you know, 0.72 in this case. <v Speaker 0>OK, so, so those, those mechanical steps shouldn't be too"
+  },
+  {
+    "window_id": 351,
+    "start": 5281.42,
+    "end": 5296.42,
+    "text": "<v Speaker 0>OK, so, so those, those mechanical steps shouldn't be too <v Speaker 0>difficult for you to understand. <v Speaker 0>You've all done calculus, you understand like, you know, basically <v Speaker 0>just around the curve, um. <v Speaker 0>Cool. <v Speaker 0>Alright, what's the time? <v Speaker 0>Half an hour."
+  },
+  {
+    "window_id": 352,
+    "start": 5296.42,
+    "end": 5311.42,
+    "text": "<v Speaker 0>Half an hour. <v Speaker 0>OK, so this will be the final slide, I think, <v Speaker 0>um, but this is to comment back to the very <v Speaker 0>beginning, when we talked about different data sets, right? <v Speaker 0>When we're handling different data sets, um, there's treatment to"
+  },
+  {
+    "window_id": 353,
+    "start": 5311.42,
+    "end": 5326.42,
+    "text": "<v Speaker 0>When we're handling different data sets, um, there's treatment to <v Speaker 0>data sets, you're cutting them up to training data set <v Speaker 0>and testing data set. <v Speaker 0>There's something called the K fault, which we touched based <v Speaker 0>on, and then the cross validation is really how you <v Speaker 0>fault that down. <v Speaker 0>So this is a, I guess this is the same"
+  },
+  {
+    "window_id": 354,
+    "start": 5326.42,
+    "end": 5341.42,
+    "text": "<v Speaker 0>So this is a, I guess this is the same <v Speaker 0>depiction of what that green diagram we had before. <v Speaker 0>You've got your data set, it's moving through the time <v Speaker 0>points, um. <v Speaker 0>You know, I think it's quite self-explanatory. <v Speaker 0>The way you call this thing up, um, again, it's"
+  },
+  {
+    "window_id": 355,
+    "start": 5341.42,
+    "end": 5356.42,
+    "text": "<v Speaker 0>The way you call this thing up, um, again, it's <v Speaker 0>in the pipeline, right? <v Speaker 0>So, I'm introducing all this terminology because in the real <v Speaker 0>use case, you just call up the function from Pyit <v Speaker 0>learn. <v Speaker 0>You plug in what model you want, you tell it <v Speaker 0>what parameter to train up, and then what condition you"
+  },
+  {
+    "window_id": 356,
+    "start": 5356.42,
+    "end": 5371.42,
+    "text": "<v Speaker 0>what parameter to train up, and then what condition you <v Speaker 0>also apply. <v Speaker 0>There's a really good explanation on cross validation. <v Speaker 0>Um, in the documentation. <v Speaker 0>So I advise everyone to read up on that and <v Speaker 0>move this around. <v Speaker 0>But you can, you can basically Google that up. <v Speaker 0>Um, no doubt you'll, you'll definitely look into that because"
+  },
+  {
+    "window_id": 357,
+    "start": 5371.42,
+    "end": 5386.42,
+    "text": "<v Speaker 0>Um, no doubt you'll, you'll definitely look into that because <v Speaker 0>as you're sort of applying this, um, pipeline, there will <v Speaker 0>be various different sub-parametters that you need to then learn. <v Speaker 0>So how many times you want to, like, for example, <v Speaker 0>the percentage, right, of your training set, how many iterations"
+  },
+  {
+    "window_id": 358,
+    "start": 5386.42,
+    "end": 5401.42,
+    "text": "<v Speaker 0>the percentage, right, of your training set, how many iterations <v Speaker 0>you want. <v Speaker 0>Do you want to have it randomised? <v Speaker 0>Do you not want to have it randomised? <v Speaker 0>Now, by randomising, I'm saying that the boxing here, so <v Speaker 0>you can see, there's 5 different circles, boxing sequences, right,"
+  },
+  {
+    "window_id": 359,
+    "start": 5401.42,
+    "end": 5416.42,
+    "text": "<v Speaker 0>you can see, there's 5 different circles, boxing sequences, right, <v Speaker 0>in a randomised fashion, you may actually pick out bits <v Speaker 0>and pieces from different parts. <v Speaker 0>And what that means is that you're really trying to <v Speaker 0>maximise the variation in your data set, in your sort <v Speaker 0>of training approach."
+  },
+  {
+    "window_id": 360,
+    "start": 5416.42,
+    "end": 5431.42,
+    "text": "<v Speaker 0>Because sometimes, like a hidden pattern could be things come <v Speaker 0>and go in a sort of, um, periodic situation. <v Speaker 0>So if you just pick out the periodicity where something <v Speaker 0>doesn't occur, like moon faces, right?"
+  },
+  {
+    "window_id": 361,
+    "start": 5431.42,
+    "end": 5446.42,
+    "text": "<v Speaker 0>doesn't occur, like moon faces, right? <v Speaker 0>Oh, you know, if you're looking at the tide, right, <v Speaker 0>water tide and wave tide, that is correlated to the <v Speaker 0>to the moon phase, we all know that, right, for <v Speaker 0>anyone who goes surfing or fishing, you know, that's a, <v Speaker 0>that's a given knowledge. <v Speaker 0>Um, but if you're just trying to understand, ah, you"
+  },
+  {
+    "window_id": 362,
+    "start": 5446.42,
+    "end": 5461.42,
+    "text": "<v Speaker 0>Um, but if you're just trying to understand, ah, you <v Speaker 0>know, when does the boy moves up and down, well, <v Speaker 0>there's a seasonality that is embedded in the data, and <v Speaker 0>if you don't use randomised data, right, you're gonna capture <v Speaker 0>that and and overtrain your model. <v Speaker 0>And so your model wouldn't be accurate in terms of"
+  },
+  {
+    "window_id": 363,
+    "start": 5461.42,
+    "end": 5476.42,
+    "text": "<v Speaker 0>And so your model wouldn't be accurate in terms of <v Speaker 0>description to when something happens. <v Speaker 0>Right, so those are situations where you need to consider, <v Speaker 0>should I randomise my um my training set or not?"
+  },
+  {
+    "window_id": 364,
+    "start": 5476.42,
+    "end": 5491.42,
+    "text": "<v Speaker 0>And I think. <v Speaker 0>OK, so in summary, um, whilst we did not go <v Speaker 0>through the whole drill of downloading CSV information from Kegle, <v Speaker 0>you can all go through that, but we did describe"
+  },
+  {
+    "window_id": 365,
+    "start": 5491.42,
+    "end": 5506.42,
+    "text": "<v Speaker 0>you can all go through that, but we did describe <v Speaker 0>how, um, the data set, how a typical data set <v Speaker 0>are arranged, at least for something that is a non-image, <v Speaker 0>right? <v Speaker 0>Something that is, um, More commonly a custom sort of"
+  },
+  {
+    "window_id": 366,
+    "start": 5506.42,
+    "end": 5521.42,
+    "text": "<v Speaker 0>Something that is, um, More commonly a custom sort of <v Speaker 0>input. <v Speaker 0>So you, you've got your numerical values, maybe some sort <v Speaker 0>of label data, that's organised in a CSV format. <v Speaker 0>If you're dealing with like sound bytes, that's gonna be <v Speaker 0>very different. <v Speaker 0>Uh, images are gonna be very different as well."
+  },
+  {
+    "window_id": 367,
+    "start": 5521.42,
+    "end": 5536.42,
+    "text": "<v Speaker 0>Uh, images are gonna be very different as well. <v Speaker 0>But for most cases, CSV will be your typical, uh, <v Speaker 0>file type, data source, and that, Different columns represent different <v Speaker 0>features. <v Speaker 0>Those features are AKA dimensions, um, they can be labelled,"
+  },
+  {
+    "window_id": 368,
+    "start": 5536.42,
+    "end": 5551.42,
+    "text": "<v Speaker 0>Those features are AKA dimensions, um, they can be labelled, <v Speaker 0>meaning that you can output things into those. <v Speaker 0>You can also be using that to output a new <v Speaker 0>column of some sort, um, and so, if you're predicting <v Speaker 0>things that are already as a label, that's really your"
+  },
+  {
+    "window_id": 369,
+    "start": 5551.42,
+    "end": 5566.42,
+    "text": "<v Speaker 0>things that are already as a label, that's really your <v Speaker 0>supervised training. <v Speaker 0>Um, for things that you have completely no idea what's <v Speaker 0>happening, that's like an unsupervised training approach, uh, you're discovering <v Speaker 0>a pattern, that's really what you're doing."
+  },
+  {
+    "window_id": 370,
+    "start": 5566.42,
+    "end": 5581.42,
+    "text": "<v Speaker 0>Um, from that point onwards, we talked about ground truth, <v Speaker 0>right, for classification models anyway. <v Speaker 0>And then from that ground truth, we evaluate how accurate <v Speaker 0>a model predicts something, right, which is a C hat."
+  },
+  {
+    "window_id": 371,
+    "start": 5581.42,
+    "end": 5596.42,
+    "text": "<v Speaker 0>a model predicts something, right, which is a C hat. <v Speaker 0>From all those numbers, you can then generate a confusion <v Speaker 0>matrix, which then gives you all the scores you need <v Speaker 0>to then generate your ROC curves. <v Speaker 0>From your ROC curves, you can then do the compute <v Speaker 0>for your area under the curve, and bringing all that"
+  },
+  {
+    "window_id": 372,
+    "start": 5596.42,
+    "end": 5611.42,
+    "text": "<v Speaker 0>for your area under the curve, and bringing all that <v Speaker 0>together, you can make some sense about how good your <v Speaker 0>black box model is. <v Speaker 0>Um, the missing context is obviously the problems that you're <v Speaker 0>dealing with and also what other models you have. <v Speaker 0>Um, and then once you understand what you're dealing with,"
+  },
+  {
+    "window_id": 373,
+    "start": 5611.42,
+    "end": 5626.42,
+    "text": "<v Speaker 0>Um, and then once you understand what you're dealing with, <v Speaker 0>you can just simply call them, call your functions from <v Speaker 0>Ski Learn. <v Speaker 0>Um, generating those performance matrix. <v Speaker 0>So it, it's probably pays, um, you know, I should <v Speaker 0>probably say in this week when you're working with that <v Speaker 0>in your tutorial question, try and write functions that you"
+  },
+  {
+    "window_id": 374,
+    "start": 5626.42,
+    "end": 5641.42,
+    "text": "<v Speaker 0>in your tutorial question, try and write functions that you <v Speaker 0>can just repeat call, because as you're dealing with this <v Speaker 0>this week, right? <v Speaker 0>Subsequent week we'll just rely on some other thing. <v Speaker 0>But if you have those functions called up, then in <v Speaker 0>your, in your final, um, project, you can just call,"
+  },
+  {
+    "window_id": 375,
+    "start": 5641.42,
+    "end": 5656.42,
+    "text": "<v Speaker 0>your, in your final, um, project, you can just call, <v Speaker 0>OK, compute. <v Speaker 0>And compare contrast function, right, and that will just take <v Speaker 0>in a list of your models that you've wrote, and <v Speaker 0>then give you a standardised table showing you the different <v Speaker 0>values and then you can copy and put this in"
+  },
+  {
+    "window_id": 376,
+    "start": 5656.42,
+    "end": 5671.42,
+    "text": "<v Speaker 0>values and then you can copy and put this in <v Speaker 0>your report and so forth. <v Speaker 0>Um, Yeah. <v Speaker 0>That's it, I think, I think this is, this is <v Speaker 0>the end of um this week's lecture. <v Speaker 0>Any questions?"
+  },
+  {
+    "window_id": 377,
+    "start": 5671.42,
+    "end": 5686.42,
+    "text": "<v Speaker 0>Yeah. <v Speaker 0>No. <v Speaker 0>Alright, so, good job everyone. <v Speaker 0>We finish a bit early, but um if you have <v Speaker 0>any questions to come down and ask. <v Speaker 0>All the tutorial questions is online as well, so, so"
+  },
+  {
+    "window_id": 378,
+    "start": 5686.42,
+    "end": 5701.42,
+    "text": "<v Speaker 0>All the tutorial questions is online as well, so, so <v Speaker 0>make sure you just go through that, um, Before your <v Speaker 0>lecture, uh, before your tutorials. <v Speaker 0>Yeah. <v Speaker 0>Cool, thanks."
+  },
+  {
+    "window_id": 379,
+    "start": 5701.42,
+    "end": 5716.42,
+    "text": "<v Speaker 0>Hey, hey, how are you? <v Speaker 3>Not too bad."
+  },
+  {
+    "window_id": 380,
+    "start": 5716.42,
+    "end": 5731.42,
+    "text": "<v Speaker 3>um, dealing with the data set has a lot of <v Speaker 4>people. <v Speaker 4>You might have multiple rules like A, B, and C <v Speaker 4>characteristics like that. <v Speaker 4>If you have outputs in the unsupervised, do you just <v Speaker 4>do or would you treat them all just it's hard <v Speaker 4>to say because sometimes there may be interactions if you, <v Speaker 4>if you have, um, say for example."
+  },
+  {
+    "window_id": 381,
+    "start": 5731.42,
+    "end": 5746.42,
+    "text": "<v Speaker 4>if you have, um, say for example."
+  },
+  {
+    "window_id": 382,
+    "start": 5746.42,
+    "end": 5761.42,
+    "text": "<v Speaker 0>If you're buying a car, right, you, you have a <v Speaker 0>bunch of car sales data, and you know, the, the <v Speaker 0>make of it, the year of it, the colour of <v Speaker 0>it, you've got your mileage of it. <v Speaker 0>And you're trying to predict not just the sales price,"
+  },
+  {
+    "window_id": 383,
+    "start": 5761.42,
+    "end": 5776.42,
+    "text": "<v Speaker 0>And you're trying to predict not just the sales price, <v Speaker 0>but also the maintenance costs and the running costs, right? <v Speaker 0>Does that make a big difference? <v Speaker 0>Well, I would say that your make and the year <v Speaker 0>and the running, uh, mileage are correlated to the maintenance"
+  },
+  {
+    "window_id": 384,
+    "start": 5776.42,
+    "end": 5791.42,
+    "text": "<v Speaker 0>and the running, uh, mileage are correlated to the maintenance <v Speaker 0>costs. <v Speaker 0>So at that point, you're gonna have to look at <v Speaker 0>the correlation curve. <v Speaker 0>You're gonna have to look at each of those parameters <v Speaker 0>and put it in a massive pairwise distribution to, to <v Speaker 0>look at if it's correlated. <v Speaker 0>And you want to ideally find things that are factors"
+  },
+  {
+    "window_id": 385,
+    "start": 5791.42,
+    "end": 5806.42,
+    "text": "<v Speaker 0>And you want to ideally find things that are factors <v Speaker 0>that are orthogonal, so they are independent ways of representing <v Speaker 0>your system, right? <v Speaker 0>Um, and there's something called a PCA, which is principal <v Speaker 0>component analysis, which basically takes your, takes your convoluted, you"
+  },
+  {
+    "window_id": 386,
+    "start": 5806.42,
+    "end": 5821.42,
+    "text": "<v Speaker 0>component analysis, which basically takes your, takes your convoluted, you <v Speaker 0>know, input data set where some parameters are representing both <v Speaker 0>both cases to dissect that and go, oh well, I'm <v Speaker 0>looking at half of this input. <v Speaker 0>To predict that other thing and so forth."
+  },
+  {
+    "window_id": 387,
+    "start": 5821.42,
+    "end": 5836.42,
+    "text": "<v Speaker 0>To predict that other thing and so forth. <v Speaker 0>But in, you know, in a very simple case, you, <v Speaker 0>yes, you want, you may want to just ignore some <v Speaker 0>of them and predict that, but then, you know, do <v Speaker 0>you then repeat that and predict the next column because <v Speaker 0>it might be overtrained for just that situation."
+  },
+  {
+    "window_id": 388,
+    "start": 5836.42,
+    "end": 5851.42,
+    "text": "<v Speaker 0>So it's not a simple answer to that, but you, <v Speaker 0>the general process will be to decouple them, right, by <v Speaker 0>doing a PCA, reduce the dimensionality, and then do the <v Speaker 0>compute on that. <v Speaker 0>At that point it's very abstract because your axes are <v Speaker 0>no longer price of, you know, price of car or"
+  },
+  {
+    "window_id": 389,
+    "start": 5851.42,
+    "end": 5866.42,
+    "text": "<v Speaker 0>no longer price of, you know, price of car or <v Speaker 0>the make of car, it's not, it's not gonna be <v Speaker 0>one of those, it's a latent, it's a latent hidden <v Speaker 0>dimension. <v Speaker 5>explains it. <v Speaker 4>is that it's not a single answer."
+  },
+  {
+    "window_id": 390,
+    "start": 5866.42,
+    "end": 5881.42,
+    "text": "<v Speaker 4>is that it's not a single answer. <v Speaker 4>I get that it's so abstract at that point that <v Speaker 0>you just have to trust the math because it's like <v Speaker 0>saying imagine a 5 dimension object. <v Speaker 0>You can imagine 3, you can imagine 4, which is <v Speaker 0>a movie. <v Speaker 0>But then like, you know, that's when the purest of"
+  },
+  {
+    "window_id": 391,
+    "start": 5881.42,
+    "end": 5896.42,
+    "text": "<v Speaker 0>But then like, you know, that's when the purest of <v Speaker 4>maths. <v Speaker 4>Like I And you have you just kind of shuffle <v Speaker 4>it. <v Speaker 0>You you can't because you don't know how to explain <v Speaker 0>it. <v Speaker 0>You want to layer up slowly."
+  },
+  {
+    "window_id": 392,
+    "start": 5896.42,
+    "end": 5911.42,
+    "text": "<v Speaker 0>You want to layer up slowly. <v Speaker 0>So then at some point you go, oh, wait a <v Speaker 0>minute, from this point to this point, this is what <v Speaker 2>I, I was intending. <v Speaker 2>But then this answer doesn't make sense. <v Speaker 0>So even though you could just shut them all, but <v Speaker 2>you want to layer it stage by stage so that <v Speaker 0>you can explain."
+  },
+  {
+    "window_id": 393,
+    "start": 5911.42,
+    "end": 5926.42,
+    "text": "<v Speaker 2>Yeah, yeah, I'm also thinking about the different model where <v Speaker 4>you have all your datasets. <v Speaker 4>Do you give it just as grammars or as like <v Speaker 4>information associated to very people? <v Speaker 4>Would you put them as equals? <v Speaker 4>Usual characteristics of a sample or theories of sample start"
+  },
+  {
+    "window_id": 394,
+    "start": 5926.42,
+    "end": 5941.42,
+    "text": "<v Speaker 4>Usual characteristics of a sample or theories of sample start <v Speaker 0>start with something simple, yeah. <v Speaker 1>Cool. <v Speaker 1>my question was. <v Speaker 1>Make the confusion matrix."
+  },
+  {
+    "window_id": 395,
+    "start": 5941.42,
+    "end": 5956.42,
+    "text": "<v Speaker 5>Oh yeah. <v Speaker 1>I just Basically, each of the, basically each of the"
+  },
+  {
+    "window_id": 396,
+    "start": 5956.42,
+    "end": 5971.42,
+    "text": "<v Speaker 5>each was there. <v Speaker 2>Because if you look at the axions, right, it's mapping <v Speaker 2>the TPR and the FPR centre, right, but then those <v Speaker 0>numbers only changes because you change the threshold. <v Speaker 0>So it's basically like every single confusion matrix will have"
+  },
+  {
+    "window_id": 397,
+    "start": 5971.42,
+    "end": 5986.42,
+    "text": "<v Speaker 0>So it's basically like every single confusion matrix will have <v Speaker 2>different threshold. <v Speaker 2>And that taking those numbers. <v Speaker 5>And then you're looking at the new phone. <v Speaker 1>Right, but then when you meet the confusion matrix. <v Speaker 1>So you just set up."
+  },
+  {
+    "window_id": 398,
+    "start": 5986.42,
+    "end": 6001.42,
+    "text": "<v Speaker 1>So you just set up. <v Speaker 0>The threshold is computed by when you call the function <v Speaker 5>and ask you to plot, which is plot based on. <v Speaker 5>You know, like I, I, every, every one of the <v Speaker 5>position."
+  },
+  {
+    "window_id": 399,
+    "start": 6001.42,
+    "end": 6016.42,
+    "text": "<v Speaker 5>position. <v Speaker 1>I can, um. <v Speaker 2>Like at least once you know which model you want, <v Speaker 5>then you go back and say this is a model <v Speaker 5>and this is the apex."
+  },
+  {
+    "window_id": 400,
+    "start": 6016.42,
+    "end": 6031.42,
+    "text": "<v Speaker 5>Now I need to look at Whatever model setting that <v Speaker 2>gives me that reass which thresholds. <v Speaker 1>so that it's more for like."
+  },
+  {
+    "window_id": 401,
+    "start": 6031.42,
+    "end": 6046.42,
+    "text": "<v Speaker 2>Yes, in a way. <v Speaker 0>In a way, because you're varying the different thresholds to <v Speaker 0>say which model is good, and then you want them <v Speaker 0>to put the parameters to work with the model, right, <v Speaker 5>so at some point it's back and forth so."
+  },
+  {
+    "window_id": 402,
+    "start": 6046.42,
+    "end": 6061.42,
+    "text": "<v Speaker 1>You mentioned. <v Speaker 0>The pipeline is just basically like step 1, step 2, <v Speaker 2>step 3, step 4. <v Speaker 2>The first bit is to get the data and then <v Speaker 0>do the, do the data cleaning, that's like step 5, <v Speaker 5>so data preprocessing."
+  },
+  {
+    "window_id": 403,
+    "start": 6061.42,
+    "end": 6076.42,
+    "text": "<v Speaker 5>so data preprocessing. <v Speaker 2>Uh, after that you do some transformation as required, you <v Speaker 2>reduce the dimension if you need, and then you find <v Speaker 5>a model and like those are the massive blocks and <v Speaker 5>that you stitch it up, and even if you just <v Speaker 2>change the different data set, you can just shove it <v Speaker 2>and do the same thing very seamless because these are"
+  },
+  {
+    "window_id": 404,
+    "start": 6076.42,
+    "end": 6091.42,
+    "text": "<v Speaker 2>and do the same thing very seamless because these are <v Speaker 0>like to. <v Speaker 2>It's right the function function where functions. <v Speaker 5>This this pipeline is actually embedded in the library core, <v Speaker 2>so you can just call psychic learning. <v Speaker 2>Machine learning pipeline and then it says, well, first step,"
+  },
+  {
+    "window_id": 405,
+    "start": 6091.42,
+    "end": 6106.42,
+    "text": "<v Speaker 2>Machine learning pipeline and then it says, well, first step, <v Speaker 0>select what models you wanna. <v Speaker 2>I said, what parameters do you want to shop into <v Speaker 2>this moment and. <v Speaker 1>Using the then then the threshold."
+  },
+  {
+    "window_id": 406,
+    "start": 6106.42,
+    "end": 6121.42,
+    "text": "<v Speaker 3>Because. <v Speaker 1>And the precision is the. <v Speaker 0>Anytime that those values changes, those things change. <v Speaker 5>Precision is how how precise you want how how how"
+  },
+  {
+    "window_id": 407,
+    "start": 6121.42,
+    "end": 6136.42,
+    "text": "<v Speaker 5>Precision is how how precise you want how how how <v Speaker 5>well is correctly predicted. <v Speaker 5>And then sensitivities also. <v Speaker 2>Sensitivity is how sensitive it is being."
+  },
+  {
+    "window_id": 408,
+    "start": 6136.42,
+    "end": 6151.42,
+    "text": "<v Speaker 2>Sensitivity is how sensitive it is being. <v Speaker 5>Not So how well is it at not doing for? <v Speaker 2>Look at the Panama flag. <v Speaker 5>It's a good leader. <v Speaker 1>Sorry, but the question."
+  },
+  {
+    "window_id": 409,
+    "start": 6151.42,
+    "end": 6166.42,
+    "text": "<v Speaker 1>Sorry, but the question. <v Speaker 1>Oh yeah. <v Speaker 0>So, when you, when you have a threshold, those number <v Speaker 0>changes, right, basically still, you know, positive or negative yeah."
+  },
+  {
+    "window_id": 410,
+    "start": 6166.42,
+    "end": 6181.42,
+    "text": "<v Speaker 0>Yeah, so all those things that were stated before, we <v Speaker 2>introduced the threshold. <v Speaker 2>The threshold is assumed as 0.5. <v Speaker 0>On once you sort of change that curve and say <v Speaker 5>look, you know, based on the sigmoid function, you're just"
+  },
+  {
+    "window_id": 411,
+    "start": 6181.42,
+    "end": 6196.42,
+    "text": "<v Speaker 5>look, you know, based on the sigmoid function, you're just <v Speaker 2>going to draw from this side onwards, it has to <v Speaker 2>be 0.7 and onwards to be deemed as a true <v Speaker 2>positive. <v Speaker 0>Then you go, OK, well now you've shifted that middle <v Speaker 5>section."
+  },
+  {
+    "window_id": 412,
+    "start": 6196.42,
+    "end": 6211.42,
+    "text": "<v Speaker 1>Thank you Yeah. <v Speaker 1>Yeah, yeah, he emailed that to me. <v Speaker 5>So is that so um you're claiming that now for"
+  },
+  {
+    "window_id": 413,
+    "start": 6211.42,
+    "end": 6226.42,
+    "text": "<v Speaker 5>So is that so um you're claiming that now for <v Speaker 5>like people that. <v Speaker 2>Yeah, yeah, send me that. <v Speaker 2>So you have the spreadsheet on, yeah, we do that, <v Speaker 5>yeah, 35. <v Speaker 5>What's the I mean."
+  },
+  {
+    "window_id": 414,
+    "start": 6226.42,
+    "end": 6241.42,
+    "text": "<v Speaker 1>Um, I was just putting two things on my. <v Speaker 3>Uh, what is probably the best thing? <v Speaker 3>Is that for those That's I'm going to release a"
+  },
+  {
+    "window_id": 415,
+    "start": 6241.42,
+    "end": 6256.42,
+    "text": "<v Speaker 3>Is that for those That's I'm going to release a <v Speaker 5>shirt. <v Speaker 1>It's a practise. <v Speaker 5>So that this is a kind of uh what I"
+  },
+  {
+    "window_id": 416,
+    "start": 6256.42,
+    "end": 6271.42,
+    "text": "<v Speaker 5>So that this is a kind of uh what I <v Speaker 5>see does to what is syntax. <v Speaker 5>Uh, in order to practise the see in this, uh, <v Speaker 5>kind of. <v Speaker 3>And is there a specific question?"
+  },
+  {
+    "window_id": 417,
+    "start": 6271.42,
+    "end": 6286.42,
+    "text": "<v Speaker 3>like all like. <v Speaker 5>Yeah, yeah, so for any, for any computer, uh. <v Speaker 1>Mm Your components you want to be able to as"
+  },
+  {
+    "window_id": 418,
+    "start": 6286.42,
+    "end": 6301.42,
+    "text": "<v Speaker 1>Mm Your components you want to be able to as <v Speaker 5>well. <v Speaker 5>Dealing with that. <v Speaker 1>non high I I can learn is really the mama"
+  },
+  {
+    "window_id": 419,
+    "start": 6301.42,
+    "end": 6316.42,
+    "text": "<v Speaker 1>non high I I can learn is really the mama <v Speaker 5>that's all. <v Speaker 5>I should know what. <v Speaker 5>OK, last one. <v Speaker 5>A classic. <v Speaker 5>Yeah I see are classified and you know that that <v Speaker 5>process it even though I don't really know the math,"
+  },
+  {
+    "window_id": 420,
+    "start": 6316.42,
+    "end": 6331.42,
+    "text": "<v Speaker 5>process it even though I don't really know the math, <v Speaker 5>you know, I kind of know how. <v Speaker 5>Yeah, well, um, so, you know, psyche learning is another <v Speaker 5>major. <v Speaker 5>Library including the need to get and then they like <v Speaker 5>bodies."
+  },
+  {
+    "window_id": 421,
+    "start": 6331.42,
+    "end": 6346.42,
+    "text": "<v Speaker 5>And if you look at, if you just Google. <v Speaker 5>You Google, see this is where I think generally I <v Speaker 5>really. <v Speaker 5>not very Using a You know, and, and there you"
+  },
+  {
+    "window_id": 422,
+    "start": 6346.42,
+    "end": 6361.42,
+    "text": "<v Speaker 5>not very Using a You know, and, and there you <v Speaker 0>go, show me um a coat title. <v Speaker 5>Free life Then you can contain contrast and say, well, <v Speaker 5>now I understand it as well. <v Speaker 5>How about I want to do."
+  },
+  {
+    "window_id": 423,
+    "start": 6361.42,
+    "end": 6376.42,
+    "text": "<v Speaker 5>How about I want to do. <v Speaker 5>You can now change your example. <v Speaker 5>And then compare the two books and all of this. <v Speaker 5>So if you're just chatting with the bar, I think"
+  },
+  {
+    "window_id": 424,
+    "start": 6376.42,
+    "end": 6391.42,
+    "text": "<v Speaker 5>So if you're just chatting with the bar, I think <v Speaker 5>a very short time frame, you can ask and learn <v Speaker 5>about things that you've got more. <v Speaker 5>Rather than finding documentation. <v Speaker 5>When you Then we exposed."
+  },
+  {
+    "window_id": 425,
+    "start": 6391.42,
+    "end": 6406.42,
+    "text": "<v Speaker 5>And um the other sort of resources I would say. <v Speaker 5>You're talking about That doesn't mean What A lot of"
+  },
+  {
+    "window_id": 426,
+    "start": 6406.42,
+    "end": 6421.42,
+    "text": "<v Speaker 5>You're talking about That doesn't mean What A lot of <v Speaker 5>people here top side and coding. <v Speaker 5>These are the kind of. <v Speaker 1>Um The final resource, maybe the first resource I say"
+  },
+  {
+    "window_id": 427,
+    "start": 6421.42,
+    "end": 6436.42,
+    "text": "<v Speaker 1>Um The final resource, maybe the first resource I say <v Speaker 5>let's go on to the. <v Speaker 5>The books are On the psychic learn It's pretty like <v Speaker 5>Proper to The first chapter, it just goes, well, do"
+  },
+  {
+    "window_id": 428,
+    "start": 6436.42,
+    "end": 6451.42,
+    "text": "<v Speaker 5>Proper to The first chapter, it just goes, well, do <v Speaker 5>this and then this is. <v Speaker 5>rather than here's the theory behind all that. <v Speaker 1>And then something That's This one And And But both"
+  },
+  {
+    "window_id": 429,
+    "start": 6451.42,
+    "end": 6466.42,
+    "text": "<v Speaker 1>And then something That's This one And And But both <v Speaker 5>on it and my advice is to change that. <v Speaker 5>See Because you know, the second you make modification for"
+  },
+  {
+    "window_id": 430,
+    "start": 6466.42,
+    "end": 6481.42,
+    "text": "<v Speaker 5>See Because you know, the second you make modification for <v Speaker 5>it, that's when you learn it, right? <v Speaker 5>Like if you're cooking, then like if I don't have <v Speaker 5>that much sugar, it shouldn't taste that sweet. <v Speaker 5>That's exactly what it is you understand the sugar goes <v Speaker 5>to the sweetness, right. <v Speaker 3>No, I tell you."
+  },
+  {
+    "window_id": 431,
+    "start": 6481.42,
+    "end": 6496.42,
+    "text": "<v Speaker 3>I think he's just like uploading that. <v Speaker 5>And it's a, it's a, it's why, it's why those <v Speaker 5>coding are needed."
+  },
+  {
+    "window_id": 432,
+    "start": 6496.42,
+    "end": 6511.42,
+    "text": "<v Speaker 5>coding are needed. <v Speaker 5>That's so then how do you do this and that <v Speaker 5>but what's in? <v Speaker 3>And also just with the eyes. <v Speaker 3>But That was the I'll see the same point that"
+  },
+  {
+    "window_id": 433,
+    "start": 6511.42,
+    "end": 6526.42,
+    "text": "<v Speaker 3>But That was the I'll see the same point that <v Speaker 3>actually showing. <v Speaker 1>I Like you said, once I do them saying that <v Speaker 3>you all have any value is 0. <v Speaker 3>OK."
+  },
+  {
+    "window_id": 434,
+    "start": 6526.42,
+    "end": 6541.42,
+    "text": "<v Speaker 3>I actually just don't understand. <v Speaker 2>So basically, you know, using, using the samples like 2 <v Speaker 5>slides before that time make sure. <v Speaker 5>He threshold 8.5 it's like. <v Speaker 5>There being one, you always see."
+  },
+  {
+    "window_id": 435,
+    "start": 6541.42,
+    "end": 6556.42,
+    "text": "<v Speaker 5>There being one, you always see. <v Speaker 5>So using that actual sample like how has this apple. <v Speaker 2>It's always there. <v Speaker 5>Well, that's not really useful. <v Speaker 5>That's on the extreme end on the. <v Speaker 5>Because basically saying all irrespective of what it is, it <v Speaker 5>la."
+  },
+  {
+    "window_id": 436,
+    "start": 6556.42,
+    "end": 6571.42,
+    "text": "<v Speaker 5>la. <v Speaker 5>It's always telling you the truth, so that's not necessarily <v Speaker 3>a perfect case, that is just. <v Speaker 2>I suppose yeah, wording is probably, it's a non-realistic, you <v Speaker 5>know, it's not useful."
+  },
+  {
+    "window_id": 437,
+    "start": 6571.42,
+    "end": 6586.42,
+    "text": "<v Speaker 5>Right, because it's always telling you like one and then <v Speaker 2>on the extreme and it's always telling you so. <v Speaker 5>So how, how is this really a salty butter? <v Speaker 5>Whereas on the other end of the spectrum the doctor. <v Speaker 5>It's like it's the point if they."
+  },
+  {
+    "window_id": 438,
+    "start": 6586.42,
+    "end": 6601.42,
+    "text": "<v Speaker 5>It's like it's the point if they. <v Speaker 5>So somewhat in between, it has the ability to distinguish. <v Speaker 5>That's when the real costs. <v Speaker 2>Even that like when the knee. <v Speaker 2>Telling you there's a biassing more towards recall or precision."
+  },
+  {
+    "window_id": 439,
+    "start": 6601.42,
+    "end": 6616.42,
+    "text": "<v Speaker 2>Telling you there's a biassing more towards recall or precision. <v Speaker 5>Yeah, right, so you want to have a sweet spot <v Speaker 2>where I give you an apple, like maybe all the <v Speaker 5>green apples are generally sour, so you could buy a, <v Speaker 5>yeah, it's not so, and every so often you get <v Speaker 5>a sweet one. <v Speaker 5>It's OK we're making."
+  },
+  {
+    "window_id": 440,
+    "start": 6616.42,
+    "end": 6631.42,
+    "text": "<v Speaker 5>It's OK we're making. <v Speaker 5>Issues using green apples, we don't really care about the <v Speaker 5>sweetness, you know, it's really the sourness. <v Speaker 5>Where's the like the the actual table or the red <v Speaker 5>hat? <v Speaker 5>You want to be sweet, you do want to give <v Speaker 5>it to the kids. <v Speaker 5>You don't wanna like, you know, put them off from"
+  },
+  {
+    "window_id": 441,
+    "start": 6631.42,
+    "end": 6646.42,
+    "text": "<v Speaker 5>You don't wanna like, you know, put them off from <v Speaker 5>anyrus forever. <v Speaker 5>Right, so maybe you wanna like. <v Speaker 5>OK, so like again using the Apple. <v Speaker 5>You can play around with that checking. <v Speaker 1>Yeah And I was like You don't Yeah hopefully yeah"
+  },
+  {
+    "window_id": 442,
+    "start": 6646.42,
+    "end": 6661.42,
+    "text": "<v Speaker 1>Yeah And I was like You don't Yeah hopefully yeah <v Speaker 5>cool, easy."
+  },
+  {
+    "window_id": 443,
+    "start": 6676.42,
+    "end": 6691.42,
+    "text": "<v Speaker 0>You guys do it? <v Speaker 1>No. <v Speaker 1>In all Yeah, you got a glass on it yeah."
+  },
+  {
+    "window_id": 444,
+    "start": 6691.42,
+    "end": 6706.42,
+    "text": "<v Speaker 1>In all Yeah, you got a glass on it yeah. <v Speaker 1>Same. <v Speaker 1>All right. <v Speaker 1>But I have to ask."
+  },
+  {
+    "window_id": 445,
+    "start": 6706.42,
+    "end": 6721.42,
+    "text": "<v Speaker 1>Right Um, but. <v Speaker 1>So And Um, she's better."
+  },
+  {
+    "window_id": 446,
+    "start": 6721.42,
+    "end": 6736.42,
+    "text": "<v Speaker 1>So And Um, she's better."
+  },
+  {
+    "window_id": 447,
+    "start": 6736.42,
+    "end": 6751.42,
+    "text": "<v Speaker 1>I So a longer sentence."
+  },
+  {
+    "window_id": 448,
+    "start": 6751.42,
+    "end": 6766.42,
+    "text": "<v Speaker 1>I So a longer sentence."
+  },
+  {
+    "window_id": 449,
+    "start": 6766.42,
+    "end": 6781.42,
+    "text": "<v Speaker 1>Um OK, so."
+  },
+  {
+    "window_id": 450,
+    "start": 6781.42,
+    "end": 6796.42,
+    "text": "<v Speaker 1>Um OK, so. <v Speaker 1>Um That was really right on the."
+  },
+  {
+    "window_id": 451,
+    "start": 6796.42,
+    "end": 6811.42,
+    "text": "<v Speaker 1>Um That was really right on the. <v Speaker 1>find a OK Yeah Yeah."
+  },
+  {
+    "window_id": 452,
+    "start": 6811.42,
+    "end": 6826.42,
+    "text": "<v Speaker 1>find a OK Yeah Yeah."
+  },
+  {
+    "window_id": 453,
+    "start": 6826.42,
+    "end": 6841.42,
+    "text": "<v Speaker 1>find a OK Yeah Yeah."
+  },
+  {
+    "window_id": 454,
+    "start": 6841.42,
+    "end": 6856.42,
+    "text": "<v Speaker 1>find a OK Yeah Yeah."
+  },
+  {
+    "window_id": 455,
+    "start": 6856.42,
+    "end": 6871.42,
+    "text": "<v Speaker 1>find a OK Yeah Yeah."
+  },
+  {
+    "window_id": 456,
+    "start": 6871.42,
+    "end": 6886.42,
+    "text": "<v Speaker 1>find a OK Yeah Yeah."
+  },
+  {
+    "window_id": 457,
+    "start": 6886.42,
+    "end": 6901.42,
+    "text": "<v Speaker 1>I Yeah, There's"
+  },
+  {
+    "window_id": 458,
+    "start": 6901.42,
+    "end": 6916.42,
+    "text": "<v Speaker 1>I Yeah, There's"
+  }
+]

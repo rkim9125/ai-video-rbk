@@ -1,0 +1,50 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      750,
+      751
+    ],
+    "boundary_time": 2832.949,
+    "similarity": 0.25924909114837646,
+    "left_window_end": 2841.639,
+    "right_window_start": 2832.949,
+    "reason": "marker_gated_semantic_and_slide"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      982,
+      983
+    ],
+    "boundary_time": 3713.61,
+    "similarity": 0.4588416516780853,
+    "left_window_end": 3719.86,
+    "right_window_start": 3713.61,
+    "reason": "marker_gated_semantic_and_slide"
+  },
+  {
+    "boundary_index": 2,
+    "between_windows": [
+      1112,
+      1113
+    ],
+    "boundary_time": 4241.77,
+    "similarity": 0.41134122014045715,
+    "left_window_end": 4246.799,
+    "right_window_start": 4241.77,
+    "reason": "marker_gated_semantic_and_slide"
+  },
+  {
+    "boundary_index": 3,
+    "between_windows": [
+      1176,
+      1177
+    ],
+    "boundary_time": 4480.439,
+    "similarity": 0.4800918698310852,
+    "left_window_end": 4486.669,
+    "right_window_start": 4480.439,
+    "reason": "marker_gated_semantic_and_slide"
+  }
+]

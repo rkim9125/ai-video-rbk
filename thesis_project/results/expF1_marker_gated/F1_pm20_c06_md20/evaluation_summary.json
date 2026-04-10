@@ -1,0 +1,72 @@
+{
+  "experiment": "expF1_marker_gated",
+  "setting": "F1_pm20_c06_md20",
+  "macro": {
+    "Setting": "F1_pm20_c06_md20",
+    "marker_window_pm_sec": 20,
+    "semantic_confirm_threshold": 0.6,
+    "min_distance_sec": 20,
+    "Precision": 0.2918,
+    "Recall": 0.3525,
+    "F1": 0.3161,
+    "Predicted Boundaries": 41.5
+  },
+  "lectures": [
+    {
+      "Setting": "F1_pm20_c06_md20",
+      "Lecture": "lecture1",
+      "marker_window_pm_sec": 20,
+      "semantic_confirm_threshold": 0.6,
+      "min_distance_sec": 20.0,
+      "Precision": 0.2955,
+      "Recall": 0.3939,
+      "F1": 0.3377,
+      "Predicted Boundaries": 44,
+      "GT Boundaries": 33,
+      "marker_count_deduped": 41,
+      "semantic_raw_before_gate": 204
+    },
+    {
+      "Setting": "F1_pm20_c06_md20",
+      "Lecture": "lecture2",
+      "marker_window_pm_sec": 20,
+      "semantic_confirm_threshold": 0.6,
+      "min_distance_sec": 20.0,
+      "Precision": 0.3469,
+      "Recall": 0.3469,
+      "F1": 0.3469,
+      "Predicted Boundaries": 49,
+      "GT Boundaries": 49,
+      "marker_count_deduped": 40,
+      "semantic_raw_before_gate": 285
+    },
+    {
+      "Setting": "F1_pm20_c06_md20",
+      "Lecture": "lecture3",
+      "marker_window_pm_sec": 20,
+      "semantic_confirm_threshold": 0.6,
+      "min_distance_sec": 20.0,
+      "Precision": 0.2308,
+      "Recall": 0.375,
+      "F1": 0.2857,
+      "Predicted Boundaries": 39,
+      "GT Boundaries": 24,
+      "marker_count_deduped": 36,
+      "semantic_raw_before_gate": 187
+    },
+    {
+      "Setting": "F1_pm20_c06_md20",
+      "Lecture": "lecture4",
+      "marker_window_pm_sec": 20,
+      "semantic_confirm_threshold": 0.6,
+      "min_distance_sec": 20.0,
+      "Precision": 0.2941,
+      "Recall": 0.2941,
+      "F1": 0.2941,
+      "Predicted Boundaries": 34,
+      "GT Boundaries": 34,
+      "marker_count_deduped": 46,
+      "semantic_raw_before_gate": 176
+    }
+  ]
+}

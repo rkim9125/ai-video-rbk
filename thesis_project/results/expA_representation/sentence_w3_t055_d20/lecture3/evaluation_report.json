@@ -1,0 +1,183 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 24,
+  "pred_count": 87,
+  "TP": 17,
+  "FP": 70,
+  "FN": 7,
+  "precision": 0.19540229885057472,
+  "recall": 0.7083333333333334,
+  "f1": 0.3063063063063063,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 384,
+      "gt_time_str": "00:06:24",
+      "gt_title": "S001\tE2_Minor_QA\tLinear Regression : Minor Clarification",
+      "pred_index": 3,
+      "pred_time": 384.45,
+      "pred_similarity": 0.21519267559051514,
+      "abs_error_sec": 0.44999999999998863
+    },
+    {
+      "gt_index": 1,
+      "gt_time": 504,
+      "gt_time_str": "00:08:24",
+      "gt_title": "S002\tA_Concept_Introduction\tLinear Regression : Concept Definition",
+      "pred_index": 5,
+      "pred_time": 477.13,
+      "pred_similarity": 0.5018190145492554,
+      "abs_error_sec": 26.870000000000005
+    },
+    {
+      "gt_index": 2,
+      "gt_time": 627,
+      "gt_time_str": "00:10:27",
+      "gt_title": "S003\tE2_Minor_QA\tLoss Functions (MSE) : Minor Clarification",
+      "pred_index": 8,
+      "pred_time": 604.52,
+      "pred_similarity": 0.44766324758529663,
+      "abs_error_sec": 22.480000000000018
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 850,
+      "gt_time_str": "00:14:10",
+      "gt_title": "S004\tE1_High_Value_QA\tLoss Functions (MSE) : Technical Clarification",
+      "pred_index": 14,
+      "pred_time": 833.96,
+      "pred_similarity": 0.5433860421180725,
+      "abs_error_sec": 16.039999999999964
+    },
+    {
+      "gt_index": 4,
+      "gt_time": 929,
+      "gt_time_str": "00:15:29",
+      "gt_title": "S005\tE2_Minor_QA\tLoss Functions (MSE) : Minor Clarification",
+      "pred_index": 16,
+      "pred_time": 909.01,
+      "pred_similarity": 0.4897824227809906,
+      "abs_error_sec": 19.99000000000001
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 984,
+      "gt_time_str": "00:16:24",
+      "gt_title": "S006\tB_Worked_Example\tGradient Descent : Worked Example",
+      "pred_index": 17,
+      "pred_time": 956.96,
+      "pred_similarity": 0.5266166925430298,
+      "abs_error_sec": 27.039999999999964
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 1294,
+      "gt_time_str": "00:21:34",
+      "gt_title": "S008\tD_Practical_Important_Point\tGradient Descent : Practical Guidance",
+      "pred_index": 23,
+      "pred_time": 1300.64,
+      "pred_similarity": 0.13695348799228668,
+      "abs_error_sec": 6.6400000000001
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 1340,
+      "gt_time_str": "00:22:20",
+      "gt_title": "S009\tB_Worked_Example\tGradient Descent : Worked Example",
+      "pred_index": 24,
+      "pred_time": 1323.199,
+      "pred_similarity": 0.47904565930366516,
+      "abs_error_sec": 16.80099999999993
+    },
+    {
+      "gt_index": 11,
+      "gt_time": 1864,
+      "gt_time_str": "00:31:04",
+      "gt_title": "S012\tE1_High_Value_QA\tFeature Engineering : AI Definition",
+      "pred_index": 29,
+      "pred_time": 1844.319,
+      "pred_similarity": 0.3776962161064148,
+      "abs_error_sec": 19.68100000000004
+    },
+    {
+      "gt_index": 12,
+      "gt_time": 2514,
+      "gt_time_str": "00:41:54",
+      "gt_title": "S013\tB_Worked_Example\tNeural Networks Intro : Worked Example",
+      "pred_index": 43,
+      "pred_time": 2526.459,
+      "pred_similarity": 0.5065537691116333,
+      "abs_error_sec": 12.458999999999833
+    },
+    {
+      "gt_index": 13,
+      "gt_time": 3003,
+      "gt_time_str": "00:50:03",
+      "gt_title": "S014\tA_Concept_Introduction\tMulti-Layer Perceptrons : Concept Definition",
+      "pred_index": 54,
+      "pred_time": 2997.07,
+      "pred_similarity": 0.4757686257362366,
+      "abs_error_sec": 5.929999999999836
+    },
+    {
+      "gt_index": 17,
+      "gt_time": 3818,
+      "gt_time_str": "01:03:38",
+      "gt_title": "S018\tA_Concept_Introduction\tBackpropagation : Concept Definition",
+      "pred_index": 68,
+      "pred_time": 3803.389,
+      "pred_similarity": 0.31584519147872925,
+      "abs_error_sec": 14.610999999999876
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 3874,
+      "gt_time_str": "01:04:34",
+      "gt_title": "S019\tE1_High_Value_QA\tBackpropagation : Model Training",
+      "pred_index": 69,
+      "pred_time": 3851.62,
+      "pred_similarity": 0.28630581498146057,
+      "abs_error_sec": 22.38000000000011
+    },
+    {
+      "gt_index": 20,
+      "gt_time": 4066,
+      "gt_time_str": "01:07:46",
+      "gt_title": "S021\tB_Worked_Example\tBackpropagation : Worked Example",
+      "pred_index": 71,
+      "pred_time": 4045.159,
+      "pred_similarity": 0.27993863821029663,
+      "abs_error_sec": 20.840999999999894
+    },
+    {
+      "gt_index": 21,
+      "gt_time": 4399,
+      "gt_time_str": "01:13:19",
+      "gt_title": "S022\tE2_Minor_QA\tPython Demo : Minor Clarification",
+      "pred_index": 77,
+      "pred_time": 4392.129,
+      "pred_similarity": 0.29520750045776367,
+      "abs_error_sec": 6.871000000000095
+    },
+    {
+      "gt_index": 22,
+      "gt_time": 4506,
+      "gt_time_str": "01:15:06",
+      "gt_title": "S023\tE2_Minor_QA\tPython Demo : Minor Clarification",
+      "pred_index": 80,
+      "pred_time": 4491.0,
+      "pred_similarity": 0.4061150550842285,
+      "abs_error_sec": 15.0
+    },
+    {
+      "gt_index": 23,
+      "gt_time": 4560,
+      "gt_time_str": "01:16:00",
+      "gt_title": "S024\tD_Practical_Important_Point\tPython Demo : Practical Guidance",
+      "pred_index": 81,
+      "pred_time": 4536.529,
+      "pred_similarity": 0.3982674777507782,
+      "abs_error_sec": 23.47099999999955
+    }
+  ]
+}

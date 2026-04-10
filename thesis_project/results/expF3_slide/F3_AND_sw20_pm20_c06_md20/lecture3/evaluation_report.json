@@ -1,0 +1,33 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 24,
+  "pred_count": 2,
+  "TP": 2,
+  "FP": 0,
+  "FN": 22,
+  "precision": 1.0,
+  "recall": 0.08333333333333333,
+  "f1": 0.15384615384615385,
+  "matches": [
+    {
+      "gt_index": 17,
+      "gt_time": 3818,
+      "gt_time_str": "01:03:38",
+      "gt_title": "S018\tA_Concept_Introduction\tBackpropagation : Concept Definition",
+      "pred_index": 0,
+      "pred_time": 3790.77,
+      "pred_similarity": 0.3728134036064148,
+      "abs_error_sec": 27.230000000000018
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 3874,
+      "gt_time_str": "01:04:34",
+      "gt_title": "S019\tE1_High_Value_QA\tBackpropagation : Model Training",
+      "pred_index": 1,
+      "pred_time": 3851.62,
+      "pred_similarity": 0.28630581498146057,
+      "abs_error_sec": 22.38000000000011
+    }
+  ]
+}

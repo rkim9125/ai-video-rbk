@@ -1,0 +1,83 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 24,
+  "pred_count": 31,
+  "TP": 7,
+  "FP": 24,
+  "FN": 17,
+  "precision": 0.22580645161290322,
+  "recall": 0.2916666666666667,
+  "f1": 0.2545454545454545,
+  "matches": [
+    {
+      "gt_index": 1,
+      "gt_time": 504,
+      "gt_time_str": "00:08:24",
+      "gt_title": "S002\tA_Concept_Introduction\tLinear Regression : Concept Definition",
+      "pred_index": 2,
+      "pred_time": 522.51,
+      "pred_similarity": 0.5237979292869568,
+      "abs_error_sec": 18.50999999999999
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 1557,
+      "gt_time_str": "00:25:57",
+      "gt_title": "S010\tE2_Minor_QA\tFeature Engineering : Minor Clarification",
+      "pred_index": 7,
+      "pred_time": 1557.51,
+      "pred_similarity": 0.5423218607902527,
+      "abs_error_sec": 0.5099999999999909
+    },
+    {
+      "gt_index": 15,
+      "gt_time": 3583,
+      "gt_time_str": "00:59:43",
+      "gt_title": "S016\tE2_Minor_QA\tMulti-Layer Perceptrons : Minor Clarification",
+      "pred_index": 18,
+      "pred_time": 3597.51,
+      "pred_similarity": 0.43823695182800293,
+      "abs_error_sec": 14.510000000000218
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 3874,
+      "gt_time_str": "01:04:34",
+      "gt_title": "S019\tE1_High_Value_QA\tBackpropagation : Model Training",
+      "pred_index": 19,
+      "pred_time": 3867.51,
+      "pred_similarity": 0.4551314413547516,
+      "abs_error_sec": 6.489999999999782
+    },
+    {
+      "gt_index": 20,
+      "gt_time": 4066,
+      "gt_time_str": "01:07:46",
+      "gt_title": "S021\tB_Worked_Example\tBackpropagation : Worked Example",
+      "pred_index": 21,
+      "pred_time": 4047.51,
+      "pred_similarity": 0.5317168235778809,
+      "abs_error_sec": 18.48999999999978
+    },
+    {
+      "gt_index": 21,
+      "gt_time": 4399,
+      "gt_time_str": "01:13:19",
+      "gt_title": "S022\tE2_Minor_QA\tPython Demo : Minor Clarification",
+      "pred_index": 25,
+      "pred_time": 4407.51,
+      "pred_similarity": 0.5145942568778992,
+      "abs_error_sec": 8.510000000000218
+    },
+    {
+      "gt_index": 22,
+      "gt_time": 4506,
+      "gt_time_str": "01:15:06",
+      "gt_title": "S023\tE2_Minor_QA\tPython Demo : Minor Clarification",
+      "pred_index": 27,
+      "pred_time": 4497.51,
+      "pred_similarity": 0.4453948438167572,
+      "abs_error_sec": 8.489999999999782
+    }
+  ]
+}

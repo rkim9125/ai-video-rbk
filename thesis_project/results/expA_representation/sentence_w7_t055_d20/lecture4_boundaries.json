@@ -1,0 +1,50 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      289,
+      290
+    ],
+    "boundary_time": 1154.02,
+    "similarity": 0.47670450806617737,
+    "left_window_end": 1176.599,
+    "right_window_start": 1154.02,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      552,
+      553
+    ],
+    "boundary_time": 2194.61,
+    "similarity": 0.5138197541236877,
+    "left_window_end": 2218.939,
+    "right_window_start": 2194.61,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 2,
+    "between_windows": [
+      901,
+      902
+    ],
+    "boundary_time": 3624.32,
+    "similarity": 0.5177098512649536,
+    "left_window_end": 3643.679,
+    "right_window_start": 3624.32,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 3,
+    "between_windows": [
+      1037,
+      1038
+    ],
+    "boundary_time": 4169.519,
+    "similarity": 0.5329238772392273,
+    "left_window_end": 4196.589,
+    "right_window_start": 4169.519,
+    "reason": "low_similarity_and_local_minimum"
+  }
+]

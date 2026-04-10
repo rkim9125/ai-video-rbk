@@ -1,0 +1,26 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      956,
+      957
+    ],
+    "boundary_time": 3790.77,
+    "similarity": 0.3728134036064148,
+    "left_window_end": 3796.969,
+    "right_window_start": 3790.77,
+    "reason": "marker_gated_semantic_and_slide"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      975,
+      976
+    ],
+    "boundary_time": 3851.62,
+    "similarity": 0.28630581498146057,
+    "left_window_end": 3857.28,
+    "right_window_start": 3851.62,
+    "reason": "marker_gated_semantic_and_slide"
+  }
+]

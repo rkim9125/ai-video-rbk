@@ -1,3 +1,7 @@
 Method,Representation,Window Unit,Window Size,Threshold,Local Minima,Min-Distance,Precision,Recall,F1
-A1,Sentence-based,sentences,5,0.55,Yes,20s,0.0812,0.1765,0.11
-A2,Time-based,seconds,10,0.55,Yes,20s,0.0713,0.2644,0.112
+A1,Sentence-based,sentences,3,0.55,Yes,20s,0.2481,0.7354,0.3702
+A1,Sentence-based,sentences,5,0.55,Yes,20s,0.3323,0.198,0.2456
+A1,Sentence-based,sentences,7,0.55,Yes,20s,0.3333,0.0353,0.0637
+A2,Time-based,seconds,10,0.55,Yes,20s,0.3417,0.3694,0.3523
+A2,Time-based,seconds,15,0.55,Yes,20s,0.3313,0.3745,0.3495
+A2,Time-based,seconds,5,0.55,Yes,20s,0.3385,0.3562,0.3469

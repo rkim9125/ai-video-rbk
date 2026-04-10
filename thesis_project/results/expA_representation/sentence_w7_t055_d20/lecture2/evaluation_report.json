@@ -1,0 +1,33 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 49,
+  "pred_count": 4,
+  "TP": 2,
+  "FP": 2,
+  "FN": 47,
+  "precision": 0.5,
+  "recall": 0.04081632653061224,
+  "f1": 0.07547169811320753,
+  "matches": [
+    {
+      "gt_index": 23,
+      "gt_time": 2815,
+      "gt_time_str": "00:46:55",
+      "gt_title": "S024\tE1_High_Value_QA\tModel Confidence and Prediction Metrics : High-value Clarification",
+      "pred_index": 1,
+      "pred_time": 2832.949,
+      "pred_similarity": 0.547930121421814,
+      "abs_error_sec": 17.94900000000007
+    },
+    {
+      "gt_index": 40,
+      "gt_time": 5041,
+      "gt_time_str": "01:24:01",
+      "gt_title": "S041\tE1_High_Value_QA\tModel Evaluation (ROC/AUC) : Technical Clarification",
+      "pred_index": 2,
+      "pred_time": 5016.859,
+      "pred_similarity": 0.4626268744468689,
+      "abs_error_sec": 24.14099999999962
+    }
+  ]
+}

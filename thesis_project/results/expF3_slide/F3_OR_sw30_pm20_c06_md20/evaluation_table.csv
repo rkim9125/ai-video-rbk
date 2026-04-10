@@ -1,0 +1,5 @@
+Setting,Rule,slide_window_sec,Lecture,marker_window_pm_sec,confirm_threshold,min_distance_sec,Precision,Recall,F1,Predicted Boundaries,GT Boundaries,semantic_after_marker_gate,slide_aux_candidates,candidates_before_min_distance,slide_times_count
+F3_OR_sw30_pm20_c06_md20,OR,30.0,lecture1,20,0.6,20.0,0.2889,0.3939,0.3333,45,33,70,4,74,16
+F3_OR_sw30_pm20_c06_md20,OR,30.0,lecture2,20,0.6,20.0,0.3469,0.3469,0.3469,49,49,83,3,86,21
+F3_OR_sw30_pm20_c06_md20,OR,30.0,lecture3,20,0.6,20.0,0.2308,0.375,0.2857,39,24,60,1,61,7
+F3_OR_sw30_pm20_c06_md20,OR,30.0,lecture4,20,0.6,20.0,0.2857,0.2941,0.2899,35,34,47,2,49,8

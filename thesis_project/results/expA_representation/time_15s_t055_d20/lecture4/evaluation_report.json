@@ -1,0 +1,133 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 34,
+  "pred_count": 30,
+  "TP": 12,
+  "FP": 18,
+  "FN": 22,
+  "precision": 0.4,
+  "recall": 0.35294117647058826,
+  "f1": 0.37500000000000006,
+  "matches": [
+    {
+      "gt_index": 4,
+      "gt_time": 567,
+      "gt_time_str": "00:09:27",
+      "gt_title": "S005\tE2_Minor_QA\tImage Data as Matrices : Minor Clarification",
+      "pred_index": 4,
+      "pred_time": 537.609,
+      "pred_similarity": 0.45963403582572937,
+      "abs_error_sec": 29.390999999999963
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 603,
+      "gt_time_str": "00:10:03",
+      "gt_title": "S006\tC_Explanation_Shift_Major\tImage Data as Matrices : Theory-to-Practice Shift",
+      "pred_index": 5,
+      "pred_time": 582.609,
+      "pred_similarity": 0.47287237644195557,
+      "abs_error_sec": 20.390999999999963
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 964,
+      "gt_time_str": "00:16:04",
+      "gt_title": "S007\tD_Practical_Important_Point\tCNN Introduction : Practical Guidance",
+      "pred_index": 7,
+      "pred_time": 957.609,
+      "pred_similarity": 0.5382449626922607,
+      "abs_error_sec": 6.390999999999963
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 1555,
+      "gt_time_str": "00:25:55",
+      "gt_title": "S009\tB_Worked_Example\tConvolution Operations : Worked Example",
+      "pred_index": 11,
+      "pred_time": 1527.609,
+      "pred_similarity": 0.42297738790512085,
+      "abs_error_sec": 27.391000000000076
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 1597,
+      "gt_time_str": "00:26:37",
+      "gt_title": "S010\tC_Explanation_Shift_Major\tConvolution Operations : Theory-to-Practice Shift",
+      "pred_index": 12,
+      "pred_time": 1602.609,
+      "pred_similarity": 0.5156267881393433,
+      "abs_error_sec": 5.608999999999924
+    },
+    {
+      "gt_index": 10,
+      "gt_time": 1828,
+      "gt_time_str": "00:30:28",
+      "gt_title": "S011\tA_Concept_Introduction\tConvolution Operations : Concept Definition",
+      "pred_index": 14,
+      "pred_time": 1842.609,
+      "pred_similarity": 0.5316593050956726,
+      "abs_error_sec": 14.608999999999924
+    },
+    {
+      "gt_index": 11,
+      "gt_time": 1979,
+      "gt_time_str": "00:32:59",
+      "gt_title": "S012\tB_Worked_Example\tConvolution Operations : Worked Example",
+      "pred_index": 15,
+      "pred_time": 1977.609,
+      "pred_similarity": 0.4905467927455902,
+      "abs_error_sec": 1.3910000000000764
+    },
+    {
+      "gt_index": 12,
+      "gt_time": 2061,
+      "gt_time_str": "00:34:21",
+      "gt_title": "S013\tC_Explanation_Shift_Major\tConvolution Operations : Theory-to-Practice Shift",
+      "pred_index": 16,
+      "pred_time": 2037.609,
+      "pred_similarity": 0.5426782965660095,
+      "abs_error_sec": 23.391000000000076
+    },
+    {
+      "gt_index": 18,
+      "gt_time": 2672,
+      "gt_time_str": "00:44:32",
+      "gt_title": "S019\tA_Concept_Introduction\tPooling Layers : Concept Definition",
+      "pred_index": 18,
+      "pred_time": 2667.609,
+      "pred_similarity": 0.4720022678375244,
+      "abs_error_sec": 4.391000000000076
+    },
+    {
+      "gt_index": 27,
+      "gt_time": 3764,
+      "gt_time_str": "01:02:44",
+      "gt_title": "S028\tC_Explanation_Shift_Major\tFlattening and Fully Connected Layers : Theory-to-Practice Shift",
+      "pred_index": 21,
+      "pred_time": 3762.609,
+      "pred_similarity": 0.5330463647842407,
+      "abs_error_sec": 1.3910000000000764
+    },
+    {
+      "gt_index": 31,
+      "gt_time": 4921,
+      "gt_time_str": "01:22:01",
+      "gt_title": "S032\tC_Explanation_Shift_Major\tModel Building Workflow : Theory-to-Practice Shift",
+      "pred_index": 26,
+      "pred_time": 4902.609,
+      "pred_similarity": 0.5242610573768616,
+      "abs_error_sec": 18.39099999999962
+    },
+    {
+      "gt_index": 33,
+      "gt_time": 5364,
+      "gt_time_str": "01:29:24",
+      "gt_title": "S034\tE2_Minor_QA\tImplementation Tips / Q&A : Minor Clarification",
+      "pred_index": 28,
+      "pred_time": 5352.609,
+      "pred_similarity": 0.47810015082359314,
+      "abs_error_sec": 11.390999999999622
+    }
+  ]
+}

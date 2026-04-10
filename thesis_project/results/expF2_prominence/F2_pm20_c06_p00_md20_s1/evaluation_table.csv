@@ -1,0 +1,5 @@
+Setting,Lecture,marker_window_pm_sec,confirm_threshold,prominence_min,context_span,min_distance_sec,Precision,Recall,F1,Predicted Boundaries,GT Boundaries,semantic_after_prominence
+F2_pm20_c06_p00_md20_s1,lecture1,20,0.6,0.0,1,20.0,0.2955,0.3939,0.3377,44,33,204
+F2_pm20_c06_p00_md20_s1,lecture2,20,0.6,0.0,1,20.0,0.3469,0.3469,0.3469,49,49,285
+F2_pm20_c06_p00_md20_s1,lecture3,20,0.6,0.0,1,20.0,0.2308,0.375,0.2857,39,24,187
+F2_pm20_c06_p00_md20_s1,lecture4,20,0.6,0.0,1,20.0,0.2941,0.2941,0.2941,34,34,176

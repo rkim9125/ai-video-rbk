@@ -1,0 +1,374 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      10,
+      11
+    ],
+    "boundary_time": 177.51,
+    "similarity": 0.5193203687667847,
+    "left_window_end": 177.51,
+    "right_window_start": 177.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      18,
+      19
+    ],
+    "boundary_time": 297.51,
+    "similarity": 0.4674135446548462,
+    "left_window_end": 297.51,
+    "right_window_start": 297.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 2,
+    "between_windows": [
+      33,
+      34
+    ],
+    "boundary_time": 522.51,
+    "similarity": 0.5237979292869568,
+    "left_window_end": 522.51,
+    "right_window_start": 522.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 3,
+    "between_windows": [
+      46,
+      47
+    ],
+    "boundary_time": 717.51,
+    "similarity": 0.4994402825832367,
+    "left_window_end": 717.51,
+    "right_window_start": 717.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 4,
+    "between_windows": [
+      49,
+      50
+    ],
+    "boundary_time": 762.51,
+    "similarity": 0.4895952343940735,
+    "left_window_end": 762.51,
+    "right_window_start": 762.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 5,
+    "between_windows": [
+      52,
+      53
+    ],
+    "boundary_time": 807.51,
+    "similarity": 0.4742472171783447,
+    "left_window_end": 807.51,
+    "right_window_start": 807.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 6,
+    "between_windows": [
+      95,
+      96
+    ],
+    "boundary_time": 1452.51,
+    "similarity": 0.5001907348632812,
+    "left_window_end": 1452.51,
+    "right_window_start": 1452.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 7,
+    "between_windows": [
+      102,
+      103
+    ],
+    "boundary_time": 1557.51,
+    "similarity": 0.5423218607902527,
+    "left_window_end": 1557.51,
+    "right_window_start": 1557.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 8,
+    "between_windows": [
+      108,
+      109
+    ],
+    "boundary_time": 1647.51,
+    "similarity": 0.374374657869339,
+    "left_window_end": 1647.51,
+    "right_window_start": 1647.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 9,
+    "between_windows": [
+      125,
+      126
+    ],
+    "boundary_time": 1902.51,
+    "similarity": 0.471066415309906,
+    "left_window_end": 1902.51,
+    "right_window_start": 1902.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 10,
+    "between_windows": [
+      133,
+      134
+    ],
+    "boundary_time": 2022.51,
+    "similarity": 0.4913727939128876,
+    "left_window_end": 2022.51,
+    "right_window_start": 2022.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 11,
+    "between_windows": [
+      150,
+      151
+    ],
+    "boundary_time": 2277.51,
+    "similarity": 0.4840788245201111,
+    "left_window_end": 2277.51,
+    "right_window_start": 2277.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 12,
+    "between_windows": [
+      173,
+      174
+    ],
+    "boundary_time": 2622.51,
+    "similarity": 0.5020058751106262,
+    "left_window_end": 2622.51,
+    "right_window_start": 2622.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 13,
+    "between_windows": [
+      195,
+      196
+    ],
+    "boundary_time": 2952.51,
+    "similarity": 0.5232279300689697,
+    "left_window_end": 2952.51,
+    "right_window_start": 2952.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 14,
+    "between_windows": [
+      206,
+      207
+    ],
+    "boundary_time": 3117.51,
+    "similarity": 0.5468766093254089,
+    "left_window_end": 3117.51,
+    "right_window_start": 3117.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 15,
+    "between_windows": [
+      224,
+      225
+    ],
+    "boundary_time": 3387.51,
+    "similarity": 0.4877394735813141,
+    "left_window_end": 3387.51,
+    "right_window_start": 3387.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 16,
+    "between_windows": [
+      226,
+      227
+    ],
+    "boundary_time": 3417.51,
+    "similarity": 0.47564154863357544,
+    "left_window_end": 3417.51,
+    "right_window_start": 3417.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 17,
+    "between_windows": [
+      234,
+      235
+    ],
+    "boundary_time": 3537.51,
+    "similarity": 0.5221171975135803,
+    "left_window_end": 3537.51,
+    "right_window_start": 3537.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 18,
+    "between_windows": [
+      238,
+      239
+    ],
+    "boundary_time": 3597.51,
+    "similarity": 0.43823695182800293,
+    "left_window_end": 3597.51,
+    "right_window_start": 3597.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 19,
+    "between_windows": [
+      256,
+      257
+    ],
+    "boundary_time": 3867.51,
+    "similarity": 0.4551314413547516,
+    "left_window_end": 3867.51,
+    "right_window_start": 3867.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 20,
+    "between_windows": [
+      264,
+      265
+    ],
+    "boundary_time": 3987.51,
+    "similarity": 0.4768291115760803,
+    "left_window_end": 3987.51,
+    "right_window_start": 3987.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 21,
+    "between_windows": [
+      268,
+      269
+    ],
+    "boundary_time": 4047.51,
+    "similarity": 0.5317168235778809,
+    "left_window_end": 4047.51,
+    "right_window_start": 4047.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 22,
+    "between_windows": [
+      272,
+      273
+    ],
+    "boundary_time": 4107.51,
+    "similarity": 0.5214576721191406,
+    "left_window_end": 4107.51,
+    "right_window_start": 4107.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 23,
+    "between_windows": [
+      282,
+      283
+    ],
+    "boundary_time": 4257.51,
+    "similarity": 0.49776583909988403,
+    "left_window_end": 4257.51,
+    "right_window_start": 4257.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 24,
+    "between_windows": [
+      289,
+      290
+    ],
+    "boundary_time": 4362.51,
+    "similarity": 0.5352142453193665,
+    "left_window_end": 4362.51,
+    "right_window_start": 4362.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 25,
+    "between_windows": [
+      292,
+      293
+    ],
+    "boundary_time": 4407.51,
+    "similarity": 0.5145942568778992,
+    "left_window_end": 4407.51,
+    "right_window_start": 4407.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 26,
+    "between_windows": [
+      295,
+      296
+    ],
+    "boundary_time": 4452.51,
+    "similarity": 0.4958694577217102,
+    "left_window_end": 4452.51,
+    "right_window_start": 4452.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 27,
+    "between_windows": [
+      298,
+      299
+    ],
+    "boundary_time": 4497.51,
+    "similarity": 0.4453948438167572,
+    "left_window_end": 4497.51,
+    "right_window_start": 4497.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 28,
+    "between_windows": [
+      300,
+      301
+    ],
+    "boundary_time": 4527.51,
+    "similarity": 0.5254132747650146,
+    "left_window_end": 4527.51,
+    "right_window_start": 4527.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 29,
+    "between_windows": [
+      307,
+      308
+    ],
+    "boundary_time": 4632.51,
+    "similarity": 0.5441529154777527,
+    "left_window_end": 4632.51,
+    "right_window_start": 4632.51,
+    "reason": "low_similarity_and_local_minimum"
+  },
+  {
+    "boundary_index": 30,
+    "between_windows": [
+      313,
+      314
+    ],
+    "boundary_time": 4722.51,
+    "similarity": 0.542577862739563,
+    "left_window_end": 4722.51,
+    "right_window_start": 4722.51,
+    "reason": "low_similarity_and_local_minimum"
+  }
+]

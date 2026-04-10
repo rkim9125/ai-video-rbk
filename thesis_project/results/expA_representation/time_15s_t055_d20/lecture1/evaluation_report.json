@@ -1,0 +1,133 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 33,
+  "pred_count": 41,
+  "TP": 12,
+  "FP": 29,
+  "FN": 21,
+  "precision": 0.2926829268292683,
+  "recall": 0.36363636363636365,
+  "f1": 0.32432432432432434,
+  "matches": [
+    {
+      "gt_index": 2,
+      "gt_time": 612,
+      "gt_time_str": "00:10:12",
+      "gt_title": "S003\tB_Worked_Example\tProject Roadmap and Team Formation : Software Engineering Example",
+      "pred_index": 4,
+      "pred_time": 597.489,
+      "pred_similarity": 0.5016226768493652,
+      "abs_error_sec": 14.510999999999967
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 1370,
+      "gt_time_str": "00:22:50",
+      "gt_title": "S007\tE2_Minor_QA\tDesign Principles and MVP Approach : Minor Clarification",
+      "pred_index": 10,
+      "pred_time": 1377.489,
+      "pred_similarity": 0.47422122955322266,
+      "abs_error_sec": 7.489000000000033
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 1797,
+      "gt_time_str": "00:29:57",
+      "gt_title": "S009\tA_Concept_Introduction\tInteractive Discussion and Problem Definition : Concept Definition",
+      "pred_index": 13,
+      "pred_time": 1812.489,
+      "pred_similarity": 0.5347495675086975,
+      "abs_error_sec": 15.489000000000033
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 2097,
+      "gt_time_str": "00:34:57",
+      "gt_title": "S010\tE2_Minor_QA\tInteractive Discussion and Problem Definition : Minor Clarification",
+      "pred_index": 17,
+      "pred_time": 2097.489,
+      "pred_similarity": 0.49962860345840454,
+      "abs_error_sec": 0.48900000000003274
+    },
+    {
+      "gt_index": 16,
+      "gt_time": 2862,
+      "gt_time_str": "00:47:42",
+      "gt_title": "S017\tE2_Minor_QA\tFundamentals of Generative AI : Minor Clarification",
+      "pred_index": 22,
+      "pred_time": 2847.489,
+      "pred_similarity": 0.48829659819602966,
+      "abs_error_sec": 14.510999999999967
+    },
+    {
+      "gt_index": 19,
+      "gt_time": 3649,
+      "gt_time_str": "01:00:49",
+      "gt_title": "S020\tE2_Minor_QA\tMachine Learning Paradigms and Generalization : Minor Clarification",
+      "pred_index": 28,
+      "pred_time": 3672.489,
+      "pred_similarity": 0.47849521040916443,
+      "abs_error_sec": 23.489000000000033
+    },
+    {
+      "gt_index": 20,
+      "gt_time": 3838,
+      "gt_time_str": "01:03:58",
+      "gt_title": "S021\tE2_Minor_QA\tSelf-adaptive Systems and Complexity : Minor Clarification",
+      "pred_index": 29,
+      "pred_time": 3852.489,
+      "pred_similarity": 0.5499051213264465,
+      "abs_error_sec": 14.489000000000033
+    },
+    {
+      "gt_index": 21,
+      "gt_time": 3935,
+      "gt_time_str": "01:05:35",
+      "gt_title": "S022\tC_Explanation_Shift_Major\tSelf-adaptive Systems and Complexity : Theory-to-Practice Shift",
+      "pred_index": 30,
+      "pred_time": 3957.489,
+      "pred_similarity": 0.5104475617408752,
+      "abs_error_sec": 22.489000000000033
+    },
+    {
+      "gt_index": 23,
+      "gt_time": 4180,
+      "gt_time_str": "01:09:40",
+      "gt_title": "S024\tA_Concept_Introduction\tSelf-adaptive Systems and Complexity : Concept Definition",
+      "pred_index": 32,
+      "pred_time": 4152.489,
+      "pred_similarity": 0.4823450446128845,
+      "abs_error_sec": 27.511000000000422
+    },
+    {
+      "gt_index": 28,
+      "gt_time": 4570,
+      "gt_time_str": "01:16:10",
+      "gt_title": "S029\tA_Concept_Introduction\tData Quality and Engineering Judgment : Concept Definition",
+      "pred_index": 36,
+      "pred_time": 4557.489,
+      "pred_similarity": 0.4843766987323761,
+      "abs_error_sec": 12.511000000000422
+    },
+    {
+      "gt_index": 30,
+      "gt_time": 4688,
+      "gt_time_str": "01:18:08",
+      "gt_title": "S031\tE1_High_Value_QA\tData Quality and Engineering Judgment : NumPy Array Operation",
+      "pred_index": 37,
+      "pred_time": 4692.489,
+      "pred_similarity": 0.46344488859176636,
+      "abs_error_sec": 4.488999999999578
+    },
+    {
+      "gt_index": 32,
+      "gt_time": 4905,
+      "gt_time_str": "01:21:45",
+      "gt_title": "S033\tE2_Minor_QA\tData Quality and Engineering Judgment : Minor Clarification",
+      "pred_index": 38,
+      "pred_time": 4887.489,
+      "pred_similarity": 0.5108839273452759,
+      "abs_error_sec": 17.511000000000422
+    }
+  ]
+}

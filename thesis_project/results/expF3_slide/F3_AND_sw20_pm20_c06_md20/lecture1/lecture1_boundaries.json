@@ -1,0 +1,38 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      10,
+      11
+    ],
+    "boundary_time": 56.069,
+    "similarity": 0.5748137831687927,
+    "left_window_end": 62.099000000000004,
+    "right_window_start": 56.069,
+    "reason": "marker_gated_semantic_and_slide"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      444,
+      445
+    ],
+    "boundary_time": 1733.319,
+    "similarity": 0.5861274003982544,
+    "left_window_end": 1742.39,
+    "right_window_start": 1733.319,
+    "reason": "marker_gated_semantic_and_slide"
+  },
+  {
+    "boundary_index": 2,
+    "between_windows": [
+      1189,
+      1190
+    ],
+    "boundary_time": 4575.54,
+    "similarity": 0.3276764750480652,
+    "left_window_end": 4581.5,
+    "right_window_start": 4575.54,
+    "reason": "marker_gated_semantic_and_slide"
+  }
+]
