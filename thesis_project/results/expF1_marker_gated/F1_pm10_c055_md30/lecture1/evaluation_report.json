@@ -1,0 +1,33 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 20,
+  "TP": 2,
+  "FP": 18,
+  "FN": 7,
+  "precision": 0.1,
+  "recall": 0.2222222222222222,
+  "f1": 0.13793103448275865,
+  "matches": [
+    {
+      "gt_index": 6,
+      "gt_time": 3435,
+      "gt_time_str": "00:57:15",
+      "gt_title": "Machine Learning Paradigms and Generalization",
+      "pred_index": 10,
+      "pred_time": 3458.84,
+      "pred_similarity": 0.48890066146850586,
+      "abs_error_sec": 23.840000000000146
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 3819,
+      "gt_time_str": "01:03:39",
+      "gt_title": "Self-adaptive Systems and Complexity",
+      "pred_index": 12,
+      "pred_time": 3822.6,
+      "pred_similarity": 0.4337000250816345,
+      "abs_error_sec": 3.599999999999909
+    }
+  ]
+}

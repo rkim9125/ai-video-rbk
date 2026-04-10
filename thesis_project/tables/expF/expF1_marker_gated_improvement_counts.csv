@@ -1,0 +1,7 @@
+Setting,improved_lectures,worse_lectures,roughly_tied_lectures,notes
+F1_pm5_c055_md30,2,2,0,L3 F1=0 (large drop); L2 worse
+F1_pm5_c06_md30,1,3,0,Only L1 up; L2-L4 down
+F1_pm10_c055_md30,1,3,0,Only L1 up
+F1_pm10_c06_md30,2,2,0,L3 ~flat (-0.0058); L1 L2 up; L4 down
+F1_pm15_c055_md30,2,2,0,L1 L2 up; L3 L4 down
+F1_pm15_c06_md30,3,1,0,Best macro; L4 F1 drops vs baseline (0.0625 vs 0.1124)

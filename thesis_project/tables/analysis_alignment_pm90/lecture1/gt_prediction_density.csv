@@ -1,0 +1,10 @@
+gt_index,gt_time_sec,gt_time_str,gt_title,preds_in_pm90s,pred_indices_in_window,matched_tp
+0,12.0,00:00:12,Introduction and Administrative Overview,1,0,0
+1,336.0,00:05:36,Technical Infrastructure and Prerequisite Review,3,3;4;5,0
+2,584.0,00:09:44,Project Roadmap and Team Formation,1,8,1
+3,930.0,00:15:30,Design Principles and MVP Approach,2,11;12,0
+4,1424.0,00:23:44,Interactive Discussion and Problem Definition,3,19;20;21,1
+5,2769.0,00:46:09,Fundamentals of Generative AI,4,39;40;41;42,1
+6,3435.0,00:57:15,Machine Learning Paradigms and Generalization,4,48;49;50;51,1
+7,3819.0,01:03:39,Self-adaptive Systems and Complexity,3,55;56;57,1
+8,4197.0,01:09:57,Data Quality and Engineering Judgment,3,62;63;64,0

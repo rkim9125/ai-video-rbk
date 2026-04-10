@@ -1,0 +1,78 @@
+{
+  "experiment": "expF2_prominence",
+  "setting": "F2_pm15_c06_p006_md30_s1",
+  "macro": {
+    "Setting": "F2_pm15_c06_p006_md30_s1",
+    "marker_window_pm_sec": 15,
+    "confirm_threshold": 0.6,
+    "prominence_min": 0.06,
+    "context_span": 1,
+    "min_distance_sec": 30,
+    "Precision": 0.097,
+    "Recall": 0.277,
+    "F1": 0.1432,
+    "Predicted Boundaries": 27.5
+  },
+  "lectures": [
+    {
+      "Setting": "F2_pm15_c06_p006_md30_s1",
+      "Lecture": "lecture1",
+      "marker_window_pm_sec": 15,
+      "confirm_threshold": 0.6,
+      "prominence_min": 0.06,
+      "context_span": 1,
+      "min_distance_sec": 30.0,
+      "Precision": 0.1034,
+      "Recall": 0.3333,
+      "F1": 0.1579,
+      "Predicted Boundaries": 29,
+      "GT Boundaries": 9,
+      "semantic_after_prominence": 168
+    },
+    {
+      "Setting": "F2_pm15_c06_p006_md30_s1",
+      "Lecture": "lecture2",
+      "marker_window_pm_sec": 15,
+      "confirm_threshold": 0.6,
+      "prominence_min": 0.06,
+      "context_span": 1,
+      "min_distance_sec": 30.0,
+      "Precision": 0.1143,
+      "Recall": 0.3636,
+      "F1": 0.1739,
+      "Predicted Boundaries": 35,
+      "GT Boundaries": 11,
+      "semantic_after_prominence": 254
+    },
+    {
+      "Setting": "F2_pm15_c06_p006_md30_s1",
+      "Lecture": "lecture3",
+      "marker_window_pm_sec": 15,
+      "confirm_threshold": 0.6,
+      "prominence_min": 0.06,
+      "context_span": 1,
+      "min_distance_sec": 30.0,
+      "Precision": 0.125,
+      "Recall": 0.3,
+      "F1": 0.1765,
+      "Predicted Boundaries": 24,
+      "GT Boundaries": 10,
+      "semantic_after_prominence": 156
+    },
+    {
+      "Setting": "F2_pm15_c06_p006_md30_s1",
+      "Lecture": "lecture4",
+      "marker_window_pm_sec": 15,
+      "confirm_threshold": 0.6,
+      "prominence_min": 0.06,
+      "context_span": 1,
+      "min_distance_sec": 30.0,
+      "Precision": 0.0455,
+      "Recall": 0.1111,
+      "F1": 0.0645,
+      "Predicted Boundaries": 22,
+      "GT Boundaries": 9,
+      "semantic_after_prominence": 149
+    }
+  ]
+}

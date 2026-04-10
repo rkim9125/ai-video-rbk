@@ -1,0 +1,12 @@
+gt_index,gt_time_sec,gt_time_str,gt_title,preds_in_pm30s,pred_indices_in_window,matched_tp
+0,23.0,00:00:23,Recap and Administrative Updates,1,0,1
+1,258.0,00:04:18,Project Team Formation and Collaboration,2,3;4,1
+2,752.0,00:12:32,Engineers' Role in Autonomous Systems,0,,0
+3,950.0,00:15:50,Data Representation and Mathematical Foundations of ML,1,14,1
+4,1489.0,00:24:49,Machine Learning Paradigms (Supervised vs Unsupervised),2,22;23,1
+5,1767.0,00:29:27,Classification and Decision Making,1,27,1
+6,2672.0,00:44:32,Model Confidence and Prediction Metrics,1,39,1
+7,3500.0,00:58:20,Activation Functions and Model Outputs,1,52,1
+8,4617.0,01:16:57,Model Evaluation (ROC/AUC),1,69,1
+9,5382.0,01:29:42,Hyperparameters and Training Process,1,81,1
+10,5660.0,01:34:20,Demonstration and Q&A,1,85,1

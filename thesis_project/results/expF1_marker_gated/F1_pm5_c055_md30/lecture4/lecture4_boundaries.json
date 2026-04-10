@@ -1,0 +1,98 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      491,
+      492
+    ],
+    "boundary_time": 1982.29,
+    "similarity": 0.5362098813056946,
+    "left_window_end": 1987.65,
+    "right_window_start": 1982.29,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      568,
+      569
+    ],
+    "boundary_time": 2258.149,
+    "similarity": 0.4560583233833313,
+    "left_window_end": 2264.55,
+    "right_window_start": 2258.149,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 2,
+    "between_windows": [
+      746,
+      747
+    ],
+    "boundary_time": 2978.709,
+    "similarity": 0.5203301310539246,
+    "left_window_end": 2982.739,
+    "right_window_start": 2978.709,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 3,
+    "between_windows": [
+      783,
+      784
+    ],
+    "boundary_time": 3129.37,
+    "similarity": 0.46226346492767334,
+    "left_window_end": 3138.31,
+    "right_window_start": 3129.37,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 4,
+    "between_windows": [
+      863,
+      864
+    ],
+    "boundary_time": 3475.719,
+    "similarity": 0.5313906073570251,
+    "left_window_end": 3481.36,
+    "right_window_start": 3475.719,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 5,
+    "between_windows": [
+      1020,
+      1021
+    ],
+    "boundary_time": 4097.56,
+    "similarity": 0.4704924523830414,
+    "left_window_end": 4106.859,
+    "right_window_start": 4097.56,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 6,
+    "between_windows": [
+      1037,
+      1038
+    ],
+    "boundary_time": 4169.519,
+    "similarity": 0.5264379978179932,
+    "left_window_end": 4177.04,
+    "right_window_start": 4169.519,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 7,
+    "between_windows": [
+      1194,
+      1195
+    ],
+    "boundary_time": 4800.29,
+    "similarity": 0.518248438835144,
+    "left_window_end": 4806.33,
+    "right_window_start": 4800.29,
+    "reason": "marker_gated_semantic"
+  }
+]

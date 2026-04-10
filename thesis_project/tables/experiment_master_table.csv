@@ -71,3 +71,75 @@ expB_window_size,sentence_w10_t055_d20,lecture1,0,9,0,0,9,0.0,0.0,0.0,30.0,
 expB_window_size,sentence_w10_t055_d20,lecture2,2,11,0,2,11,0.0,0.0,0.0,30.0,
 expB_window_size,sentence_w10_t055_d20,lecture3,2,10,1,1,9,0.5,0.1,0.1667,30.0,
 expB_window_size,sentence_w10_t055_d20,lecture4,1,9,0,1,9,0.0,0.0,0.0,30.0,
+expE_prediction_pruning,sentence_w3_t055_md20,lecture1,97,9,6,91,3,0.0619,0.6667,0.1132,30.0,min_distance=20.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md20,lecture2,138,11,10,128,1,0.0725,0.9091,0.1342,30.0,min_distance=20.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md20,lecture3,87,10,7,80,3,0.0805,0.7,0.1443,30.0,min_distance=20.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md20,lecture4,89,9,5,84,4,0.0562,0.5556,0.102,30.0,min_distance=20.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md30,lecture1,77,9,5,72,4,0.0649,0.5556,0.1163,30.0,min_distance=30.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md30,lecture2,105,11,10,95,1,0.0952,0.9091,0.1724,30.0,min_distance=30.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md30,lecture3,69,10,7,62,3,0.1014,0.7,0.1772,30.0,min_distance=30.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md30,lecture4,80,9,5,75,4,0.0625,0.5556,0.1124,30.0,min_distance=30.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md45,lecture1,55,9,2,53,7,0.0364,0.2222,0.0625,30.0,min_distance=45.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md45,lecture2,80,11,9,71,2,0.1125,0.8182,0.1978,30.0,min_distance=45.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md45,lecture3,55,10,5,50,5,0.0909,0.5,0.1538,30.0,min_distance=45.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md45,lecture4,58,9,3,55,6,0.0517,0.3333,0.0896,30.0,min_distance=45.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md60,lecture1,44,9,1,43,8,0.0227,0.1111,0.0377,30.0,min_distance=60.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md60,lecture2,67,11,5,62,6,0.0746,0.4545,0.1282,30.0,min_distance=60.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md60,lecture3,43,10,3,40,7,0.0698,0.3,0.1132,30.0,min_distance=60.0s; local_minima=yes
+expE_prediction_pruning,sentence_w3_t055_md60,lecture4,47,9,2,45,7,0.0426,0.2222,0.0714,30.0,min_distance=60.0s; local_minima=yes
+expF1_marker_gated,F1_pm5_c055_md30,lecture1,8,9,1,7,8,0.1250,0.1111,0.1176,30.0,marker_pm=5.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm5_c055_md30,lecture2,19,11,2,17,9,0.1053,0.1818,0.1333,30.0,marker_pm=5.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm5_c055_md30,lecture3,13,10,0,13,10,0.0000,0.0000,0.0000,30.0,marker_pm=5.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm5_c055_md30,lecture4,8,9,1,7,8,0.1250,0.1111,0.1176,30.0,marker_pm=5.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm5_c06_md30,lecture1,16,9,2,14,7,0.1250,0.2222,0.1600,30.0,marker_pm=5.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm5_c06_md30,lecture2,23,11,2,21,9,0.0870,0.1818,0.1176,30.0,marker_pm=5.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm5_c06_md30,lecture3,20,10,1,19,9,0.0500,0.1000,0.0667,30.0,marker_pm=5.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm5_c06_md30,lecture4,15,9,1,14,8,0.0667,0.1111,0.0833,30.0,marker_pm=5.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm10_c055_md30,lecture1,20,9,2,18,7,0.1000,0.2222,0.1379,30.0,marker_pm=10.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm10_c055_md30,lecture2,29,11,3,26,8,0.1034,0.2727,0.1500,30.0,marker_pm=10.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm10_c055_md30,lecture3,17,10,2,15,8,0.1176,0.2000,0.1481,30.0,marker_pm=10.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm10_c055_md30,lecture4,16,9,1,15,8,0.0625,0.1111,0.0800,30.0,marker_pm=10.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm10_c06_md30,lecture1,26,9,3,23,6,0.1154,0.3333,0.1714,30.0,marker_pm=10.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm10_c06_md30,lecture2,35,11,5,30,6,0.1429,0.4545,0.2174,30.0,marker_pm=10.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm10_c06_md30,lecture3,25,10,3,22,7,0.1200,0.3000,0.1714,30.0,marker_pm=10.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm10_c06_md30,lecture4,22,9,1,21,8,0.0455,0.1111,0.0645,30.0,marker_pm=10.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm15_c055_md30,lecture1,27,9,4,23,5,0.1481,0.4444,0.2222,30.0,marker_pm=15.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm15_c055_md30,lecture2,34,11,4,30,7,0.1176,0.3636,0.1778,30.0,marker_pm=15.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm15_c055_md30,lecture3,19,10,2,17,8,0.1053,0.2000,0.1379,30.0,marker_pm=15.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm15_c055_md30,lecture4,18,9,1,17,8,0.0556,0.1111,0.0741,30.0,marker_pm=15.0s confirm<0.55 md=30.0
+expF1_marker_gated,F1_pm15_c06_md30,lecture1,33,9,5,28,4,0.1515,0.5556,0.2381,30.0,marker_pm=15.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm15_c06_md30,lecture2,38,11,5,33,6,0.1316,0.4545,0.2041,30.0,marker_pm=15.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm15_c06_md30,lecture3,27,10,4,23,6,0.1481,0.4000,0.2162,30.0,marker_pm=15.0s confirm<0.6 md=30.0
+expF1_marker_gated,F1_pm15_c06_md30,lecture4,23,9,1,22,8,0.0435,0.1111,0.0625,30.0,marker_pm=15.0s confirm<0.6 md=30.0
+expF2_prominence,F2_pm15_c06_p00_md30_s1,lecture1,33,9,5,28,4,0.1515,0.5556,0.2381,30.0,prom_min=0.0 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p00_md30_s1,lecture2,38,11,5,33,6,0.1316,0.4545,0.2041,30.0,prom_min=0.0 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p00_md30_s1,lecture3,27,10,4,23,6,0.1481,0.4000,0.2162,30.0,prom_min=0.0 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p00_md30_s1,lecture4,23,9,1,22,8,0.0435,0.1111,0.0625,30.0,prom_min=0.0 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p002_md30_s1,lecture1,32,9,5,27,4,0.1562,0.5556,0.2439,30.0,prom_min=0.02 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p002_md30_s1,lecture2,37,11,5,32,6,0.1351,0.4545,0.2083,30.0,prom_min=0.02 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p002_md30_s1,lecture3,26,10,3,23,7,0.1154,0.3000,0.1667,30.0,prom_min=0.02 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p002_md30_s1,lecture4,22,9,1,21,8,0.0455,0.1111,0.0645,30.0,prom_min=0.02 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p004_md30_s1,lecture1,30,9,4,26,5,0.1333,0.4444,0.2051,30.0,prom_min=0.04 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p004_md30_s1,lecture2,37,11,5,32,6,0.1351,0.4545,0.2083,30.0,prom_min=0.04 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p004_md30_s1,lecture3,26,10,3,23,7,0.1154,0.3000,0.1667,30.0,prom_min=0.04 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p004_md30_s1,lecture4,22,9,1,21,8,0.0455,0.1111,0.0645,30.0,prom_min=0.04 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p006_md30_s1,lecture1,29,9,3,26,6,0.1034,0.3333,0.1579,30.0,prom_min=0.06 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p006_md30_s1,lecture2,35,11,4,31,7,0.1143,0.3636,0.1739,30.0,prom_min=0.06 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p006_md30_s1,lecture3,24,10,3,21,7,0.1250,0.3000,0.1765,30.0,prom_min=0.06 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p006_md30_s1,lecture4,22,9,1,21,8,0.0455,0.1111,0.0645,30.0,prom_min=0.06 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p008_md30_s1,lecture1,28,9,2,26,7,0.0714,0.2222,0.1081,30.0,prom_min=0.08 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p008_md30_s1,lecture2,35,11,5,30,6,0.1429,0.4545,0.2174,30.0,prom_min=0.08 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p008_md30_s1,lecture3,22,10,3,19,7,0.1364,0.3000,0.1875,30.0,prom_min=0.08 span=1 on F1-best gate
+expF2_prominence,F2_pm15_c06_p008_md30_s1,lecture4,22,9,1,21,8,0.0455,0.1111,0.0645,30.0,prom_min=0.08 span=1 on F1-best gate
+expF3_slide,F3_OR_sw20_pm15_c06_md30,lecture1,34,9,5,29,4,0.1471,0.5556,0.2326,30.0,rule=OR slide_w=20.0s F1-best+slide
+expF3_slide,F3_OR_sw20_pm15_c06_md30,lecture2,38,11,5,33,6,0.1316,0.4545,0.2041,30.0,rule=OR slide_w=20.0s F1-best+slide
+expF3_slide,F3_OR_sw20_pm15_c06_md30,lecture3,27,10,4,23,6,0.1481,0.4000,0.2162,30.0,rule=OR slide_w=20.0s F1-best+slide
+expF3_slide,F3_OR_sw20_pm15_c06_md30,lecture4,24,9,2,22,7,0.0833,0.2222,0.1212,30.0,rule=OR slide_w=20.0s F1-best+slide
+expF3_slide,F3_OR_sw30_pm15_c06_md30,lecture1,34,9,5,29,4,0.1471,0.5556,0.2326,30.0,rule=OR slide_w=30.0s F1-best+slide
+expF3_slide,F3_OR_sw30_pm15_c06_md30,lecture2,38,11,5,33,6,0.1316,0.4545,0.2041,30.0,rule=OR slide_w=30.0s F1-best+slide
+expF3_slide,F3_OR_sw30_pm15_c06_md30,lecture3,27,10,4,23,6,0.1481,0.4000,0.2162,30.0,rule=OR slide_w=30.0s F1-best+slide
+expF3_slide,F3_OR_sw30_pm15_c06_md30,lecture4,24,9,2,22,7,0.0833,0.2222,0.1212,30.0,rule=OR slide_w=30.0s F1-best+slide
+expF3_slide,F3_AND_sw20_pm15_c06_md30,lecture1,2,9,0,2,9,0.0000,0.0000,0.0000,30.0,rule=AND slide_w=20.0s F1-best+slide
+expF3_slide,F3_AND_sw20_pm15_c06_md30,lecture2,3,11,0,3,11,0.0000,0.0000,0.0000,30.0,rule=AND slide_w=20.0s F1-best+slide
+expF3_slide,F3_AND_sw20_pm15_c06_md30,lecture3,1,10,0,1,10,0.0000,0.0000,0.0000,30.0,rule=AND slide_w=20.0s F1-best+slide
+expF3_slide,F3_AND_sw20_pm15_c06_md30,lecture4,3,9,0,3,9,0.0000,0.0000,0.0000,30.0,rule=AND slide_w=20.0s F1-best+slide

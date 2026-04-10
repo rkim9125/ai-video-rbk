@@ -1,0 +1,5 @@
+Lecture,F1_best_F1_ref,deltaF1_vs_F1best_F3_OR_sw20_pm15_c06_md30,deltaF1_vs_F1best_F3_OR_sw30_pm15_c06_md30,deltaF1_vs_F1best_F3_AND_sw20_pm15_c06_md30
+lecture1,0.1802,0.0524,0.0524,-0.1802
+lecture2,0.1802,0.0239,0.0239,-0.1802
+lecture3,0.1802,0.036,0.036,-0.1802
+lecture4,0.1802,-0.059,-0.059,-0.1802

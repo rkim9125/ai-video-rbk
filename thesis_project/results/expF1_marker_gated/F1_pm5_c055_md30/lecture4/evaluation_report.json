@@ -1,0 +1,23 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 8,
+  "TP": 1,
+  "FP": 7,
+  "FN": 8,
+  "precision": 0.125,
+  "recall": 0.1111111111111111,
+  "f1": 0.11764705882352941,
+  "matches": [
+    {
+      "gt_index": 5,
+      "gt_time": 3135,
+      "gt_time_str": "00:52:15",
+      "gt_title": "Flattening and Fully Connected Layers",
+      "pred_index": 3,
+      "pred_time": 3129.37,
+      "pred_similarity": 0.46226346492767334,
+      "abs_error_sec": 5.630000000000109
+    }
+  ]
+}

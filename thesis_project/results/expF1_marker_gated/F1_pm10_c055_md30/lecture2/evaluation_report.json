@@ -1,0 +1,43 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 11,
+  "pred_count": 29,
+  "TP": 3,
+  "FP": 26,
+  "FN": 8,
+  "precision": 0.10344827586206896,
+  "recall": 0.2727272727272727,
+  "f1": 0.15,
+  "matches": [
+    {
+      "gt_index": 1,
+      "gt_time": 258,
+      "gt_time_str": "00:04:18",
+      "gt_title": "Project Team Formation and Collaboration",
+      "pred_index": 3,
+      "pred_time": 273.419,
+      "pred_similarity": 0.5467332601547241,
+      "abs_error_sec": 15.418999999999983
+    },
+    {
+      "gt_index": 4,
+      "gt_time": 1489,
+      "gt_time_str": "00:24:49",
+      "gt_title": "Machine Learning Paradigms (Supervised vs Unsupervised)",
+      "pred_index": 10,
+      "pred_time": 1503.099,
+      "pred_similarity": 0.5360364317893982,
+      "abs_error_sec": 14.098999999999933
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 5382,
+      "gt_time_str": "01:29:42",
+      "gt_title": "Hyperparameters and Training Process",
+      "pred_index": 25,
+      "pred_time": 5389.689,
+      "pred_similarity": 0.5008541941642761,
+      "abs_error_sec": 7.689000000000306
+    }
+  ]
+}

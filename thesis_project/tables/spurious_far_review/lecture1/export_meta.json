@@ -1,0 +1,19 @@
+{
+  "lecture": "lecture1",
+  "bucket": "spurious_far",
+  "sort": "distance_desc",
+  "limit": 25,
+  "snippet_pm_sec": [
+    45.0,
+    45.0
+  ],
+  "pred_path": "thesis_project/results/expE_prediction_pruning/sentence_w3_t055_md30/lecture1/lecture1_boundaries.json",
+  "vtt_path": "ai_video_rbk/transcripts_vtt/lecture1.vtt",
+  "tagging_guide": [
+    "1 Transcript noise / ASR artifact",
+    "2 Minor discourse shift",
+    "3 Example switch / explanation change",
+    "4 Potential true subtopic boundary",
+    "5 Completely spurious"
+  ]
+}

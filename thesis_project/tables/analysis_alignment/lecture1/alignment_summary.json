@@ -1,0 +1,32 @@
+{
+  "lecture": "lecture1",
+  "gt_path": "ai_video_rbk/annotations/lecture1_boundaries.txt",
+  "pred_path": "thesis_project/results/expE_prediction_pruning/sentence_w3_t055_md30/lecture1/lecture1_boundaries.json",
+  "density_window_pm_sec": 30.0,
+  "match_tolerance_sec": 30.0,
+  "fp_mid_band_max_sec": 120.0,
+  "metrics": {
+    "gt_count": 9,
+    "pred_count": 77,
+    "TP": 5,
+    "FP": 72,
+    "FN": 4,
+    "precision": 0.06493506493506493,
+    "recall": 0.5555555555555556,
+    "f1": 0.11627906976744184
+  },
+  "analysis_A_gt_windows": {
+    "mean_preds_per_gt_in_window": 0.778,
+    "max_preds_in_any_single_gt_window": 2
+  },
+  "analysis_B_fp_buckets": {
+    "redundant_near_gt": 2,
+    "offset_near_miss": 25,
+    "spurious_far": 45,
+    "fp_total": 72,
+    "pct_redundant_near_gt": 2.78,
+    "pct_offset_near_miss": 34.72,
+    "pct_spurious_far": 62.5
+  },
+  "interpretation_hint": "If redundant_near_gt dominates FP and mean_preds_per_gt_in_window is high, predictions cluster around true regions but over-fire (granularity/pruning issue). If spurious_far dominates, many predictions are far from any GT (signal quality or task mismatch)."
+}

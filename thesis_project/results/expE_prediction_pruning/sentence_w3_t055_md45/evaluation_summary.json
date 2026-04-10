@@ -1,0 +1,73 @@
+{
+  "experiment": "expE_prediction_pruning",
+  "setting": "sentence_w3_t055_md45",
+  "representation": "sentence",
+  "window_size": 3,
+  "threshold": 0.55,
+  "local_minima": true,
+  "min_distance_sec": 45.0,
+  "controlled_variables": {
+    "threshold": 0.55,
+    "evaluation_tolerance_sec": 30.0
+  },
+  "macro_average": {
+    "precision": 0.0729,
+    "recall": 0.4684,
+    "f1": 0.1259,
+    "predicted_boundaries": 62.0
+  },
+  "lectures": [
+    {
+      "min_distance_sec": 45.0,
+      "Lecture": "lecture1",
+      "Precision": 0.0364,
+      "Recall": 0.2222,
+      "F1": 0.0625,
+      "Predicted Boundaries": 55,
+      "Ground Truth Boundaries": 9,
+      "tp": 2,
+      "fp": 53,
+      "fn": 7,
+      "tolerance_sec": 30.0
+    },
+    {
+      "min_distance_sec": 45.0,
+      "Lecture": "lecture2",
+      "Precision": 0.1125,
+      "Recall": 0.8182,
+      "F1": 0.1978,
+      "Predicted Boundaries": 80,
+      "Ground Truth Boundaries": 11,
+      "tp": 9,
+      "fp": 71,
+      "fn": 2,
+      "tolerance_sec": 30.0
+    },
+    {
+      "min_distance_sec": 45.0,
+      "Lecture": "lecture3",
+      "Precision": 0.0909,
+      "Recall": 0.5,
+      "F1": 0.1538,
+      "Predicted Boundaries": 55,
+      "Ground Truth Boundaries": 10,
+      "tp": 5,
+      "fp": 50,
+      "fn": 5,
+      "tolerance_sec": 30.0
+    },
+    {
+      "min_distance_sec": 45.0,
+      "Lecture": "lecture4",
+      "Precision": 0.0517,
+      "Recall": 0.3333,
+      "F1": 0.0896,
+      "Predicted Boundaries": 58,
+      "Ground Truth Boundaries": 9,
+      "tp": 3,
+      "fp": 55,
+      "fn": 6,
+      "tolerance_sec": 30.0
+    }
+  ]
+}

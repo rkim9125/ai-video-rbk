@@ -1,0 +1,33 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 24,
+  "TP": 2,
+  "FP": 22,
+  "FN": 7,
+  "precision": 0.08333333333333333,
+  "recall": 0.2222222222222222,
+  "f1": 0.12121212121212122,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 12,
+      "gt_time_str": "00:00:12",
+      "gt_title": "Review of Tutorials",
+      "pred_index": 0,
+      "pred_time": 13.0,
+      "pred_similarity": 1.0,
+      "abs_error_sec": 1.0
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 3135,
+      "gt_time_str": "00:52:15",
+      "gt_title": "Flattening and Fully Connected Layers",
+      "pred_index": 13,
+      "pred_time": 3129.37,
+      "pred_similarity": 0.46226346492767334,
+      "abs_error_sec": 5.630000000000109
+    }
+  ]
+}

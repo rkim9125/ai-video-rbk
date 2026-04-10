@@ -1,0 +1,43 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 10,
+  "pred_count": 43,
+  "TP": 3,
+  "FP": 40,
+  "FN": 7,
+  "precision": 0.06976744186046512,
+  "recall": 0.3,
+  "f1": 0.11320754716981132,
+  "matches": [
+    {
+      "gt_index": 5,
+      "gt_time": 2120,
+      "gt_time_str": "00:35:20",
+      "gt_title": "Neural Networks Intro",
+      "pred_index": 18,
+      "pred_time": 2095.877,
+      "pred_similarity": 0.35492753982543945,
+      "abs_error_sec": 24.123000000000047
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 2892,
+      "gt_time_str": "00:48:12",
+      "gt_title": "Multi-Layer Perceptrons",
+      "pred_index": 27,
+      "pred_time": 2907.899,
+      "pred_similarity": 0.43267425894737244,
+      "abs_error_sec": 15.898999999999887
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 4727,
+      "gt_time_str": "01:18:47",
+      "gt_title": "Conclusion",
+      "pred_index": 42,
+      "pred_time": 4750.669,
+      "pred_similarity": 0.2679736912250519,
+      "abs_error_sec": 23.66899999999987
+    }
+  ]
+}

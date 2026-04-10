@@ -1,0 +1,10 @@
+gt_index,gt_time_sec,gt_time_str,gt_title,preds_in_pm30s,pred_indices_in_window,matched_tp
+0,12.0,00:00:12,Review of Tutorials,0,,0
+1,405.0,00:06:45,Image Data as Matrices,1,4,1
+2,920.0,00:15:20,CNN Introduction,1,12,1
+3,1450.0,00:24:10,Convolution Operations,1,19,1
+4,2335.0,00:38:55,Pooling Layers,0,,0
+5,3135.0,00:52:15,Flattening and Fully Connected Layers,1,39,1
+6,3930.0,01:05:30,ReLU Activation,0,,0
+7,4510.0,01:15:10,Model Building Workflow,0,,0
+8,5140.0,01:25:40,Implementation Tips / Q&A,2,70;71,1

@@ -91,17 +91,25 @@ def main() -> None:
     c_lecture = load_csv(tables / "expC_rule_lecture_f1.csv")
     d_summary = load_csv(tables / "expD_model_comparison.csv")
     d_lecture = load_csv(tables / "expD_lecture_level_table.csv")
+    e_summary_path = tables / "expE_pruning_summary.csv"
+    e_lecture_path = tables / "expE_pruning_lecture_f1.csv"
+    e_summary = load_csv(e_summary_path) if e_summary_path.exists() else []
+    e_lecture = load_csv(e_lecture_path) if e_lecture_path.exists() else []
 
     a_best = best_row(a_summary, "F1")
     b_best = best_row(b_summary, "F1")
     c_best = best_row(c_summary, "F1")
     d_best = best_row(d_summary, "F1")
+    e_best = best_row(e_summary, "F1") if e_summary else {}
 
     headline_items = [
         f"A best: {a_best.get('Representation', '-')} (F1={a_best.get('F1', '-')})",
         f"B best: ws={b_best.get('Window Size', '-')} (F1={b_best.get('F1', '-')})",
         f"C best: {c_best.get('Rule', '-')} (F1={c_best.get('F1', '-')})",
         f"D best: {d_best.get('Model', '-')} (F1={d_best.get('F1', '-')})",
+        f"E best: min-distance={e_best.get('Min-distance', '-')} (F1={e_best.get('F1', '-')})"
+        if e_best
+        else "E: (run thesis_project/src/run_experiment_e.py to populate)",
         "Overall: structural/marker cues help, but absolute F1 remains low -> hybrid refinement still needed.",
     ]
 
@@ -110,7 +118,7 @@ def main() -> None:
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Experiment Report (A/B/C/D)</title>
+  <title>Experiment Report (A/B/C/D/E)</title>
   <style>
     body {{
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
@@ -183,7 +191,7 @@ def main() -> None:
 </head>
 <body>
   <h1>Experiment Report</h1>
-  <div class="sub">A/B/C/D results in readable table format (best F1 highlighted in green)</div>
+  <div class="sub">A/B/C/D/E results in readable table format (best F1 highlighted in green)</div>
   <div class="headline">
     <strong>Key Findings</strong>
     <ul>
@@ -192,6 +200,7 @@ def main() -> None:
       <li>{html_escape(headline_items[2])}</li>
       <li>{html_escape(headline_items[3])}</li>
       <li>{html_escape(headline_items[4])}</li>
+      <li>{html_escape(headline_items[5])}</li>
     </ul>
   </div>
 
@@ -221,6 +230,13 @@ def main() -> None:
   <div class="card">
     {table_html(d_summary, "D Summary", highlight_col="F1")}
     {table_html(d_lecture, "D Lecture-level", highlight_col="F1")}
+  </div>
+
+  <h2>Experiment E - Prediction count / min-distance sweep</h2>
+  <div class="bestline">Best setting: min-distance {html_escape(e_best.get('Min-distance', '-'))}, F1={html_escape(e_best.get('F1', '-'))}</div>
+  <div class="card">
+    {table_html(e_summary, "E Summary (pruning)", highlight_col="F1")}
+    {table_html(e_lecture, "E Lecture-level F1", highlight_col="Avg F1")}
   </div>
 </body>
 </html>"""

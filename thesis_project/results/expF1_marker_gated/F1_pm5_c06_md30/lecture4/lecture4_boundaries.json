@@ -1,0 +1,182 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      66,
+      67
+    ],
+    "boundary_time": 271.149,
+    "similarity": 0.5552266836166382,
+    "left_window_end": 277.899,
+    "right_window_start": 271.149,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      353,
+      354
+    ],
+    "boundary_time": 1405.369,
+    "similarity": 0.5867854952812195,
+    "left_window_end": 1411.29,
+    "right_window_start": 1405.369,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 2,
+    "between_windows": [
+      491,
+      492
+    ],
+    "boundary_time": 1982.29,
+    "similarity": 0.5362098813056946,
+    "left_window_end": 1987.65,
+    "right_window_start": 1982.29,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 3,
+    "between_windows": [
+      568,
+      569
+    ],
+    "boundary_time": 2258.149,
+    "similarity": 0.4560583233833313,
+    "left_window_end": 2264.55,
+    "right_window_start": 2258.149,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 4,
+    "between_windows": [
+      665,
+      666
+    ],
+    "boundary_time": 2643.389,
+    "similarity": 0.5632650852203369,
+    "left_window_end": 2651.449,
+    "right_window_start": 2643.389,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 5,
+    "between_windows": [
+      681,
+      682
+    ],
+    "boundary_time": 2709.52,
+    "similarity": 0.5623241662979126,
+    "left_window_end": 2723.729,
+    "right_window_start": 2709.52,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 6,
+    "between_windows": [
+      746,
+      747
+    ],
+    "boundary_time": 2978.709,
+    "similarity": 0.5203301310539246,
+    "left_window_end": 2982.739,
+    "right_window_start": 2978.709,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 7,
+    "between_windows": [
+      783,
+      784
+    ],
+    "boundary_time": 3129.37,
+    "similarity": 0.46226346492767334,
+    "left_window_end": 3138.31,
+    "right_window_start": 3129.37,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 8,
+    "between_windows": [
+      863,
+      864
+    ],
+    "boundary_time": 3475.719,
+    "similarity": 0.5313906073570251,
+    "left_window_end": 3481.36,
+    "right_window_start": 3475.719,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 9,
+    "between_windows": [
+      872,
+      873
+    ],
+    "boundary_time": 3512.449,
+    "similarity": 0.5503944754600525,
+    "left_window_end": 3518.86,
+    "right_window_start": 3512.449,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 10,
+    "between_windows": [
+      1020,
+      1021
+    ],
+    "boundary_time": 4097.56,
+    "similarity": 0.4704924523830414,
+    "left_window_end": 4106.859,
+    "right_window_start": 4097.56,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 11,
+    "between_windows": [
+      1037,
+      1038
+    ],
+    "boundary_time": 4169.519,
+    "similarity": 0.5264379978179932,
+    "left_window_end": 4177.04,
+    "right_window_start": 4169.519,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 12,
+    "between_windows": [
+      1046,
+      1047
+    ],
+    "boundary_time": 4210.549,
+    "similarity": 0.5883903503417969,
+    "left_window_end": 4216.049,
+    "right_window_start": 4210.549,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 13,
+    "between_windows": [
+      1194,
+      1195
+    ],
+    "boundary_time": 4800.29,
+    "similarity": 0.518248438835144,
+    "left_window_end": 4806.33,
+    "right_window_start": 4800.29,
+    "reason": "marker_gated_semantic"
+  },
+  {
+    "boundary_index": 14,
+    "between_windows": [
+      1252,
+      1253
+    ],
+    "boundary_time": 5026.49,
+    "similarity": 0.5640416741371155,
+    "left_window_end": 5034.25,
+    "right_window_start": 5026.49,
+    "reason": "marker_gated_semantic"
+  }
+]

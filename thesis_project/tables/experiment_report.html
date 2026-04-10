@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Experiment Report (A/B/C/D)</title>
+  <title>Experiment Report (A/B/C/D/E)</title>
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
@@ -76,7 +76,7 @@
 </head>
 <body>
   <h1>Experiment Report</h1>
-  <div class="sub">A/B/C/D results in readable table format (best F1 highlighted in green)</div>
+  <div class="sub">A/B/C/D/E results in readable table format (best F1 highlighted in green)</div>
   <div class="headline">
     <strong>Key Findings</strong>
     <ul>
@@ -84,6 +84,7 @@
       <li>B best: ws=3 (F1=0.1234)</li>
       <li>C best: Threshold + Local minima + Min-distance (F1=0.1234)</li>
       <li>D best: Marker (F1=0.1698)</li>
+      <li>E best: min-distance=30s (F1=0.1446)</li>
       <li>Overall: structural/marker cues help, but absolute F1 remains low -&gt; hybrid refinement still needed.</li>
     </ul>
   </div>
@@ -801,6 +802,117 @@
 <td>0.1118</td>
 <td>152</td>
 <td>9</td>
+</tr>
+</tbody></table>
+  </div>
+
+  <h2>Experiment E - Prediction count / min-distance sweep</h2>
+  <div class="bestline">Best setting: min-distance 30s, F1=0.1446</div>
+  <div class="card">
+    <h3>E Summary (pruning)</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>Threshold</th>
+<th>Local Minima</th>
+<th>Min-distance</th>
+<th>Prominence</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+<th>Predicted Boundaries</th>
+<th>Interpretation</th>
+</tr></thead><tbody>
+<tr>
+<td>E1</td>
+<td>0.55</td>
+<td>Yes</td>
+<td>20s</td>
+<td>-</td>
+<td>0.0678</td>
+<td>0.7079</td>
+<td>0.1234</td>
+<td>102.75</td>
+<td>baseline pruning</td>
+</tr>
+<tr>
+<td>E2</td>
+<td>0.55</td>
+<td>Yes</td>
+<td>30s</td>
+<td>-</td>
+<td>0.081</td>
+<td>0.6801</td>
+<td class="best">0.1446</td>
+<td>82.75</td>
+<td>fewer close duplicates</td>
+</tr>
+<tr>
+<td>E3</td>
+<td>0.55</td>
+<td>Yes</td>
+<td>45s</td>
+<td>-</td>
+<td>0.0729</td>
+<td>0.4684</td>
+<td>0.1259</td>
+<td>62.0</td>
+<td>stronger suppression</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>0.55</td>
+<td>Yes</td>
+<td>60s</td>
+<td>-</td>
+<td>0.0524</td>
+<td>0.2719</td>
+<td>0.0876</td>
+<td>50.25</td>
+<td>very strict spacing</td>
+</tr>
+</tbody></table>
+    <h3>E Lecture-level F1</h3>
+<table>
+<thead><tr>
+<th>Setting</th>
+<th>L1 F1</th>
+<th>L2 F1</th>
+<th>L3 F1</th>
+<th>L4 F1</th>
+<th>Avg F1</th>
+</tr></thead><tbody>
+<tr>
+<td>20s</td>
+<td>0.1132</td>
+<td>0.1342</td>
+<td>0.1443</td>
+<td>0.102</td>
+<td>0.1234</td>
+</tr>
+<tr>
+<td>30s</td>
+<td>0.1163</td>
+<td>0.1724</td>
+<td>0.1772</td>
+<td>0.1124</td>
+<td class="best">0.1446</td>
+</tr>
+<tr>
+<td>45s</td>
+<td>0.0625</td>
+<td>0.1978</td>
+<td>0.1538</td>
+<td>0.0896</td>
+<td>0.1259</td>
+</tr>
+<tr>
+<td>60s</td>
+<td>0.0377</td>
+<td>0.1282</td>
+<td>0.1132</td>
+<td>0.0714</td>
+<td>0.0876</td>
 </tr>
 </tbody></table>
   </div>

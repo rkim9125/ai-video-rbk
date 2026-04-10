@@ -1,0 +1,26 @@
+rank,lecture_id,pred_index,pred_time_sec,pred_time_hms,similarity,fp_bucket,nearest_gt_dist_sec,nearest_gt_hms,nearest_gt_title,snippet_block_count,filler_hits_in_snippet,marker_patterns_in_snippet,marker_cue_near_pred,slide_near_pred
+1,lecture1,76,5127.709,01:25:28,0.435245,spurious_far,930.709,01:09:57,Data Quality and Engineering Judgment,17,5,now,no (nearest 32s),yes Δ=28.3s
+2,lecture1,75,5039.37,01:23:59,0.447018,spurious_far,842.37,01:09:57,Data Quality and Engineering Judgment,22,2,now,yes Δ=8.2s,no (nearest 117s)
+3,lecture1,74,4996.279,01:23:16,0.479912,spurious_far,799.279,01:09:57,Data Quality and Engineering Judgment,21,7,,no (nearest 51s),no (nearest 160s)
+4,lecture1,73,4946.58,01:22:27,0.506254,spurious_far,749.58,01:09:57,Data Quality and Engineering Judgment,23,11,,no (nearest 101s),no (nearest 194s)
+5,lecture1,72,4904.709,01:21:45,0.518969,spurious_far,707.709,01:09:57,Data Quality and Engineering Judgment,24,9,,no (nearest 143s),no (nearest 152s)
+6,lecture1,71,4872.6,01:21:13,0.543682,spurious_far,675.6,01:09:57,Data Quality and Engineering Judgment,26,9,,no (nearest 150s),no (nearest 120s)
+7,lecture1,29,2094.83,00:34:55,0.464786,spurious_far,670.83,00:23:44,Interactive Discussion and Problem Definition,29,7,,no (nearest 82s),no (nearest 257s)
+8,lecture1,28,2051.36,00:34:11,0.439676,spurious_far,627.36,00:23:44,Interactive Discussion and Problem Definition,29,4,now,no (nearest 47s),no (nearest 213s)
+9,lecture1,70,4792.93,01:19:53,0.504548,spurious_far,595.93,01:09:57,Data Quality and Engineering Judgment,24,6,,no (nearest 70s),no (nearest 40s)
+10,lecture1,30,2187.989,00:36:28,0.506724,spurious_far,581.011,00:46:09,Fundamentals of Generative AI,28,8,now,yes Δ=10.8s,no (nearest 268s)
+11,lecture1,27,1995.88,00:33:16,0.287742,spurious_far,571.88,00:23:44,Interactive Discussion and Problem Definition,31,12,now;next,yes Δ=8.7s,no (nearest 158s)
+12,lecture1,31,2241.57,00:37:22,0.500713,spurious_far,527.43,00:46:09,Fundamentals of Generative AI,32,11,,no (nearest 64s),no (nearest 214s)
+13,lecture1,69,4722.81,01:18:43,0.36754,spurious_far,525.81,01:09:57,Data Quality and Engineering Judgment,31,9,now,yes Δ=0.0s,no (nearest 30s)
+14,lecture1,32,2280.07,00:38:00,0.474428,spurious_far,488.93,00:46:09,Fundamentals of Generative AI,31,11,,no (nearest 103s),no (nearest 176s)
+15,lecture1,68,4680.41,01:18:00,0.396471,spurious_far,483.41,01:09:57,Data Quality and Engineering Judgment,34,11,now,yes Δ=9.9s,no (nearest 43s)
+16,lecture1,26,1905.579,00:31:46,0.501,spurious_far,481.579,00:23:44,Interactive Discussion and Problem Definition,26,13,now,no (nearest 24s),no (nearest 68s)
+17,lecture1,25,1865.89,00:31:06,0.336904,spurious_far,441.89,00:23:44,Interactive Discussion and Problem Definition,25,14,now,yes Δ=15.8s,yes Δ=27.9s
+18,lecture1,33,2360.05,00:39:20,0.438929,spurious_far,408.95,00:46:09,Fundamentals of Generative AI,30,14,,no (nearest 46s),no (nearest 96s)
+19,lecture1,67,4575.54,01:16:16,0.327676,spurious_far,378.54,01:09:57,Data Quality and Engineering Judgment,29,13,next,yes Δ=16.1s,yes Δ=14.5s
+20,lecture1,24,1777.489,00:29:37,0.346583,spurious_far,353.489,00:23:44,Interactive Discussion and Problem Definition,26,12,,no (nearest 59s),no (nearest 30s)
+21,lecture1,34,2417.8,00:40:18,0.475754,spurious_far,351.2,00:46:09,Fundamentals of Generative AI,32,16,now,yes Δ=12.1s,no (nearest 38s)
+22,lecture1,66,4521.649,01:15:22,0.519114,spurious_far,324.649,01:09:57,Data Quality and Engineering Judgment,31,9,,no (nearest 70s),no (nearest 68s)
+23,lecture1,45,3119.439,00:51:59,0.4748,spurious_far,315.561,00:57:15,Machine Learning Paradigms and Generalization,29,9,now,no (nearest 30s),no (nearest 99s)
+24,lecture1,35,2453.489,00:40:53,0.422441,spurious_far,315.511,00:46:09,Fundamentals of Generative AI,33,17,,no (nearest 48s),yes Δ=2.5s
+25,lecture1,46,3158.34,00:52:38,0.496579,spurious_far,276.66,00:57:15,Machine Learning Paradigms and Generalization,29,10,now;next,yes Δ=8.6s,no (nearest 138s)

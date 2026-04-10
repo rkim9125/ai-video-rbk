@@ -1,0 +1,33 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 16,
+  "TP": 2,
+  "FP": 14,
+  "FN": 7,
+  "precision": 0.125,
+  "recall": 0.2222222222222222,
+  "f1": 0.16,
+  "matches": [
+    {
+      "gt_index": 6,
+      "gt_time": 3435,
+      "gt_time_str": "00:57:15",
+      "gt_title": "Machine Learning Paradigms and Generalization",
+      "pred_index": 7,
+      "pred_time": 3458.84,
+      "pred_similarity": 0.48890066146850586,
+      "abs_error_sec": 23.840000000000146
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 4197,
+      "gt_time_str": "01:09:57",
+      "gt_title": "Data Quality and Engineering Judgment",
+      "pred_index": 10,
+      "pred_time": 4209.609,
+      "pred_similarity": 0.5945364832878113,
+      "abs_error_sec": 12.609000000000378
+    }
+  ]
+}

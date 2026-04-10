@@ -1,0 +1,43 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 10,
+  "pred_count": 22,
+  "TP": 3,
+  "FP": 19,
+  "FN": 7,
+  "precision": 0.13636363636363635,
+  "recall": 0.3,
+  "f1": 0.18749999999999997,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 12,
+      "gt_time_str": "00:00:12",
+      "gt_title": "Data Collection Challenges",
+      "pred_index": 0,
+      "pred_time": 33.88,
+      "pred_similarity": 0.5981138944625854,
+      "abs_error_sec": 21.880000000000003
+    },
+    {
+      "gt_index": 1,
+      "gt_time": 255,
+      "gt_time_str": "00:04:15",
+      "gt_title": "Linear Regression",
+      "pred_index": 1,
+      "pred_time": 277.25,
+      "pred_similarity": 0.593148946762085,
+      "abs_error_sec": 22.25
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 945,
+      "gt_time_str": "00:15:45",
+      "gt_title": "Gradient Descent",
+      "pred_index": 4,
+      "pred_time": 928.869,
+      "pred_similarity": 0.499531626701355,
+      "abs_error_sec": 16.130999999999972
+    }
+  ]
+}

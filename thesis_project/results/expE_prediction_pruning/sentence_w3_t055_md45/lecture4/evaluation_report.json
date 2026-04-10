@@ -1,0 +1,43 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 9,
+  "pred_count": 58,
+  "TP": 3,
+  "FP": 55,
+  "FN": 6,
+  "precision": 0.05172413793103448,
+  "recall": 0.3333333333333333,
+  "f1": 0.08955223880597016,
+  "matches": [
+    {
+      "gt_index": 1,
+      "gt_time": 405,
+      "gt_time_str": "00:06:45",
+      "gt_title": "Image Data as Matrices",
+      "pred_index": 2,
+      "pred_time": 386.369,
+      "pred_similarity": 0.4089530110359192,
+      "abs_error_sec": 18.630999999999972
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 1450,
+      "gt_time_str": "00:24:10",
+      "gt_title": "Convolution Operations",
+      "pred_index": 14,
+      "pred_time": 1454.589,
+      "pred_similarity": 0.5218209028244019,
+      "abs_error_sec": 4.588999999999942
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 5140,
+      "gt_time_str": "01:25:40",
+      "gt_title": "Implementation Tips / Q&A",
+      "pred_index": 50,
+      "pred_time": 5165.89,
+      "pred_similarity": 0.3491058349609375,
+      "abs_error_sec": 25.890000000000327
+    }
+  ]
+}

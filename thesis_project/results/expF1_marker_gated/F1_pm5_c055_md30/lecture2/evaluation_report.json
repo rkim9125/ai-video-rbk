@@ -1,0 +1,33 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 11,
+  "pred_count": 19,
+  "TP": 2,
+  "FP": 17,
+  "FN": 9,
+  "precision": 0.10526315789473684,
+  "recall": 0.18181818181818182,
+  "f1": 0.13333333333333333,
+  "matches": [
+    {
+      "gt_index": 4,
+      "gt_time": 1489,
+      "gt_time_str": "00:24:49",
+      "gt_title": "Machine Learning Paradigms (Supervised vs Unsupervised)",
+      "pred_index": 6,
+      "pred_time": 1503.099,
+      "pred_similarity": 0.5360364317893982,
+      "abs_error_sec": 14.098999999999933
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 5382,
+      "gt_time_str": "01:29:42",
+      "gt_title": "Hyperparameters and Training Process",
+      "pred_index": 15,
+      "pred_time": 5389.689,
+      "pred_similarity": 0.5008541941642761,
+      "abs_error_sec": 7.689000000000306
+    }
+  ]
+}

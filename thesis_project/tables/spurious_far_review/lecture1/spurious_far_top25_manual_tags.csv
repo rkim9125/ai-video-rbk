@@ -1,0 +1,26 @@
+rank,pred_hms,tag_id,tag_name,secondary_tag_id,slide_near,marker_cue_near,notes
+1,01:25:28,3,example_explanation_shift,,yes,no,From model assumptions to recall scores and ML evaluation; heavy fillers and breaks at end.
+2,01:23:59,3,example_explanation_shift,,no,yes,Shifts from domain-math requirements to generic plug-in calculation; discourse marker continues thread.
+3,01:23:16,2,minor_discourse_shift,,no,no,After weekly doc instructions student reaction (understood); same admin context.
+4,01:22:27,1,transcript_disfluency_noise,,no,no,Garbled STT (packaging web); many fillers; mixed Q&A and assignment talk.
+5,01:21:45,2,minor_discourse_shift,,no,no,From textbooks setup to test/unit framing; same admin/Q&A breath.
+6,01:21:13,3,example_explanation_shift,,no,no,From quiz/tutorial advice to textbooks and references.
+7,00:34:55,4,potential_subtopic_boundary,,no,no,From student pitch to feasibility year entrepreneurship; not claiming syllabus-level GT.
+8,00:34:11,3,example_explanation_shift,,no,no,From past examples on slides to creative topic examples (e.g. homelessness).
+9,01:19:53,2,minor_discourse_shift,,no,no,Instructor wrap-up then student question on pairing; speaker role change.
+10,00:36:28,4,potential_subtopic_boundary,,no,yes,From personal ethos/impact to business case philanthropy commercialization.
+11,00:33:16,4,potential_subtopic_boundary,,no,yes,From group chaos to four-person ML project definition; larger instructional pivot.
+12,00:37:22,3,example_explanation_shift,,no,no,From commercialization/team issues to Team Canvas tool walkthrough.
+13,01:18:43,3,example_explanation_shift,,no,yes,From tutorial NumPy to traffic data example and closing for questions.
+14,00:38:00,3,example_explanation_shift,,no,no,From name anecdote to team buy-in presentation soft skills.
+15,01:18:00,3,example_explanation_shift,,no,yes,From tutorial timing to week-one install and coding challenges.
+16,00:31:46,3,example_explanation_shift,,no,no,From admin/teamwork to tutorials as coding upskill and survey context.
+17,00:31:06,1,transcript_disfluency_noise,2,yes,yes,Aside before returning to survey/admin; shift present but noise-dominated.
+18,00:39:20,3,example_explanation_shift,,no,no,From presentation style/impact to assessments Canvas quiz weights.
+19,01:16:16,4,potential_subtopic_boundary,,yes,yes,From traditional+ML wrap to class end and tutorial pointers; large frame change.
+20,00:29:37,2,minor_discourse_shift,,no,no,Within Google form voucher block explaining items and hopes.
+21,00:40:18,3,example_explanation_shift,,no,yes,From reflection to Spark+ peer evaluation tool.
+22,01:15:22,3,example_explanation_shift,,no,no,From black-box complexity to 99.99% space/plane examples.
+23,00:51:59,3,example_explanation_shift,,no,no,From autonomy/cruise examples to noise-cancelling headphones enumeration.
+24,00:40:53,3,example_explanation_shift,,yes,no,From Spark+ to Team Canvas link Slack comms.
+25,00:52:38,3,example_explanation_shift,,no,yes,From power/social recommenders to ChatGPT AGI thread.

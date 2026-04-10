@@ -1,0 +1,5 @@
+min_distance_sec,Lecture,Precision,Recall,F1,Predicted Boundaries,Ground Truth Boundaries,tp,fp,fn,tolerance_sec
+20.0,lecture1,0.0619,0.6667,0.1132,97,9,6,91,3,30.0
+20.0,lecture2,0.0725,0.9091,0.1342,138,11,10,128,1,30.0
+20.0,lecture3,0.0805,0.7,0.1443,87,10,7,80,3,30.0
+20.0,lecture4,0.0562,0.5556,0.102,89,9,5,84,4,30.0

@@ -1,0 +1,366 @@
+[
+  {
+    "boundary_index": 0,
+    "between_windows": [
+      10,
+      11
+    ],
+    "boundary_time": 56.069,
+    "similarity": 0.5748137831687927,
+    "left_window_end": 62.099000000000004,
+    "right_window_start": 56.069,
+    "prominence": 0.117897,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 1,
+    "between_windows": [
+      21,
+      22
+    ],
+    "boundary_time": 95.699,
+    "similarity": 0.4729536473751068,
+    "left_window_end": 100.8,
+    "right_window_start": 95.699,
+    "prominence": 0.193881,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 2,
+    "between_windows": [
+      69,
+      70
+    ],
+    "boundary_time": 252.8,
+    "similarity": 0.40736621618270874,
+    "left_window_end": 257.94,
+    "right_window_start": 252.8,
+    "prominence": 0.292575,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 3,
+    "between_windows": [
+      170,
+      171
+    ],
+    "boundary_time": 595.63,
+    "similarity": 0.531536340713501,
+    "left_window_end": 604.229,
+    "right_window_start": 595.63,
+    "prominence": 0.115718,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 4,
+    "between_windows": [
+      258,
+      259
+    ],
+    "boundary_time": 894.53,
+    "similarity": 0.5339333415031433,
+    "left_window_end": 899.849,
+    "right_window_start": 894.53,
+    "prominence": 0.169053,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 5,
+    "between_windows": [
+      285,
+      286
+    ],
+    "boundary_time": 979.739,
+    "similarity": 0.3900206685066223,
+    "left_window_end": 987.739,
+    "right_window_start": 979.739,
+    "prominence": 0.239915,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 6,
+    "between_windows": [
+      302,
+      303
+    ],
+    "boundary_time": 1036.349,
+    "similarity": 0.544558584690094,
+    "left_window_end": 1045.678,
+    "right_window_start": 1036.349,
+    "prominence": 0.114629,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 7,
+    "between_windows": [
+      312,
+      313
+    ],
+    "boundary_time": 1076.959,
+    "similarity": 0.34141337871551514,
+    "left_window_end": 1082.439,
+    "right_window_start": 1076.959,
+    "prominence": 0.099639,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 8,
+    "between_windows": [
+      364,
+      365
+    ],
+    "boundary_time": 1353.819,
+    "similarity": 0.3672398328781128,
+    "left_window_end": 1357.859,
+    "right_window_start": 1353.819,
+    "prominence": 0.429715,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 9,
+    "between_windows": [
+      389,
+      390
+    ],
+    "boundary_time": 1467.88,
+    "similarity": 0.539155125617981,
+    "left_window_end": 1473.839,
+    "right_window_start": 1467.88,
+    "prominence": 0.164292,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 10,
+    "between_windows": [
+      477,
+      478
+    ],
+    "boundary_time": 1877.17,
+    "similarity": 0.568988561630249,
+    "left_window_end": 1885.16,
+    "right_window_start": 1877.17,
+    "prominence": 0.21166,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 11,
+    "between_windows": [
+      512,
+      513
+    ],
+    "boundary_time": 1995.88,
+    "similarity": 0.28774216771125793,
+    "left_window_end": 2003.469,
+    "right_window_start": 1995.88,
+    "prominence": 0.39106,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 12,
+    "between_windows": [
+      563,
+      564
+    ],
+    "boundary_time": 2187.989,
+    "similarity": 0.5067239999771118,
+    "left_window_end": 2194.389,
+    "right_window_start": 2187.989,
+    "prominence": 0.19032,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 13,
+    "between_windows": [
+      627,
+      628
+    ],
+    "boundary_time": 2417.8,
+    "similarity": 0.4757544994354248,
+    "left_window_end": 2424.59,
+    "right_window_start": 2417.8,
+    "prominence": 0.384137,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 14,
+    "between_windows": [
+      709,
+      710
+    ],
+    "boundary_time": 2706.949,
+    "similarity": 0.4233143627643585,
+    "left_window_end": 2710.909,
+    "right_window_start": 2706.949,
+    "prominence": 0.267728,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 15,
+    "between_windows": [
+      829,
+      830
+    ],
+    "boundary_time": 3158.34,
+    "similarity": 0.49657946825027466,
+    "left_window_end": 3165.169,
+    "right_window_start": 3158.34,
+    "prominence": 0.097937,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 16,
+    "between_windows": [
+      841,
+      842
+    ],
+    "boundary_time": 3199.54,
+    "similarity": 0.42583364248275757,
+    "left_window_end": 3207.25,
+    "right_window_start": 3199.54,
+    "prominence": 0.08939,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 17,
+    "between_windows": [
+      859,
+      860
+    ],
+    "boundary_time": 3268.719,
+    "similarity": 0.5502923130989075,
+    "left_window_end": 3275.889,
+    "right_window_start": 3268.719,
+    "prominence": 0.100583,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 18,
+    "between_windows": [
+      907,
+      908
+    ],
+    "boundary_time": 3458.84,
+    "similarity": 0.48890066146850586,
+    "left_window_end": 3463.52,
+    "right_window_start": 3458.84,
+    "prominence": 0.125731,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 19,
+    "between_windows": [
+      921,
+      922
+    ],
+    "boundary_time": 3510.159,
+    "similarity": 0.5531613826751709,
+    "left_window_end": 3521.379,
+    "right_window_start": 3510.159,
+    "prominence": 0.120402,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 20,
+    "between_windows": [
+      991,
+      992
+    ],
+    "boundary_time": 3786.149,
+    "similarity": 0.4973887801170349,
+    "left_window_end": 3798.56,
+    "right_window_start": 3786.149,
+    "prominence": 0.244296,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 21,
+    "between_windows": [
+      1057,
+      1058
+    ],
+    "boundary_time": 4054.6,
+    "similarity": 0.5266852974891663,
+    "left_window_end": 4059.56,
+    "right_window_start": 4054.6,
+    "prominence": 0.088878,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 22,
+    "between_windows": [
+      1081,
+      1082
+    ],
+    "boundary_time": 4147.04,
+    "similarity": 0.47141340374946594,
+    "left_window_end": 4150.919,
+    "right_window_start": 4147.04,
+    "prominence": 0.087593,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 23,
+    "between_windows": [
+      1128,
+      1129
+    ],
+    "boundary_time": 4328.99,
+    "similarity": 0.38428404927253723,
+    "left_window_end": 4334.919,
+    "right_window_start": 4328.99,
+    "prominence": 0.2859,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 24,
+    "between_windows": [
+      1216,
+      1217
+    ],
+    "boundary_time": 4680.41,
+    "similarity": 0.39647072553634644,
+    "left_window_end": 4687.39,
+    "right_window_start": 4680.41,
+    "prominence": 0.260145,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 25,
+    "between_windows": [
+      1228,
+      1229
+    ],
+    "boundary_time": 4722.81,
+    "similarity": 0.3675398826599121,
+    "left_window_end": 4728.089,
+    "right_window_start": 4722.81,
+    "prominence": 0.361508,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 26,
+    "between_windows": [
+      1292,
+      1293
+    ],
+    "boundary_time": 5039.37,
+    "similarity": 0.44701769948005676,
+    "left_window_end": 5051.43,
+    "right_window_start": 5039.37,
+    "prominence": 0.367942,
+    "reason": "marker_gated_prominence_semantic"
+  },
+  {
+    "boundary_index": 27,
+    "between_windows": [
+      1301,
+      1302
+    ],
+    "boundary_time": 5086.5,
+    "similarity": 0.550210177898407,
+    "left_window_end": 5094.08,
+    "right_window_start": 5086.5,
+    "prominence": 0.080029,
+    "reason": "marker_gated_prominence_semantic"
+  }
+]
