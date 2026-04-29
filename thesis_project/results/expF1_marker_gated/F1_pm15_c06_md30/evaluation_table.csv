@@ -1,5 +1,0 @@
-Setting,Lecture,marker_window_pm_sec,semantic_confirm_threshold,min_distance_sec,Precision,Recall,F1,Predicted Boundaries,GT Boundaries,marker_count_deduped,semantic_raw_before_gate
-F1_pm15_c06_md30,lecture1,15,0.6,30.0,0.3333,0.3333,0.3333,33,33,41,204
-F1_pm15_c06_md30,lecture2,15,0.6,30.0,0.3684,0.2857,0.3218,38,49,40,285
-F1_pm15_c06_md30,lecture3,15,0.6,30.0,0.2593,0.2917,0.2745,27,24,36,187
-F1_pm15_c06_md30,lecture4,15,0.6,30.0,0.3913,0.2647,0.3158,23,34,46,176

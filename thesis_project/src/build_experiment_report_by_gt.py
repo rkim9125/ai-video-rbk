@@ -57,7 +57,7 @@ def table_html(rows: List[Dict[str, str]], title: str, highlight_col: str = "F1"
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Build A-F report for one GT protocol (coarse or fine).")
+    parser = argparse.ArgumentParser(description="Build A-E report for one GT protocol (coarse or fine).")
     parser.add_argument("--repo-root", default=str(Path(__file__).resolve().parents[2]))
     parser.add_argument("--gt-protocol", choices=["coarse", "fine"], required=True)
     parser.add_argument("--out", required=True, help="Output HTML path relative to repo root.")
@@ -74,9 +74,6 @@ def main() -> None:
         ("C", tables / "expC" / f"expC_rule_summary_{tag}.csv"),
         ("D", tables / "expD" / f"expD_model_comparison_{tag}.csv"),
         ("E", tables / "expE" / f"expE_pruning_summary_{tag}.csv"),
-        ("F1", tables / "expF" / f"expF1_marker_gated_summary_{tag}.csv"),
-        ("F2", tables / "expF" / f"expF2_prominence_summary_{tag}.csv"),
-        ("F3", tables / "expF" / f"expF3_slide_summary_{tag}.csv"),
     ]
     data = {k: load_csv(p) for k, p in paths}
 
@@ -118,9 +115,6 @@ def main() -> None:
   <h2>Experiment C</h2><div class="card">{table_html(data['C'], 'C Summary', 'F1')}</div>
   <h2>Experiment D</h2><div class="card">{table_html(data['D'], 'D Summary', 'F1')}</div>
   <h2>Experiment E</h2><div class="card">{table_html(data['E'], 'E Summary', 'F1')}</div>
-  <h2>Experiment F1</h2><div class="card">{table_html(data['F1'], 'F1 Summary', 'F1')}</div>
-  <h2>Experiment F2</h2><div class="card">{table_html(data['F2'], 'F2 Summary', 'F1')}</div>
-  <h2>Experiment F3</h2><div class="card">{table_html(data['F3'], 'F3 Summary', 'F1')}</div>
 </body>
 </html>"""
 

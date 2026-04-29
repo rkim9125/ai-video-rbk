@@ -1,4 +1,0 @@
-Setting,Rule,slide_window_sec,marker_window_pm_sec,confirm_threshold,min_distance_sec,Precision,Recall,F1,Predicted Boundaries
-F3_OR_sw20_pm20_c06_md20,OR,20.0,20,0.6,20,0.2881,0.3525,0.314,42.0
-F3_OR_sw30_pm20_c06_md20,OR,30.0,20,0.6,20,0.2881,0.3525,0.314,42.0
-F3_AND_sw20_pm20_c06_md20,AND,20.0,20,0.6,20,0.5208,0.0437,0.0806,3.0
