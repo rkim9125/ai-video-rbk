@@ -1,0 +1,5 @@
+Fold held-out,Best min-distance (s),Train macro F1 (best md),Held-out F1
+lecture1,30,0.154,0.1163
+lecture2,30,0.1353,0.1724
+lecture3,30,0.1337,0.1772
+lecture4,30,0.1553,0.1124

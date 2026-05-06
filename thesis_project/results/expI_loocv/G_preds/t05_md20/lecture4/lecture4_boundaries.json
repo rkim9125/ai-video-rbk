@@ -1,0 +1,710 @@
+[
+  {
+    "boundary_time": 156.82999999999998,
+    "similarity": 0.4707683324813843,
+    "left_window_end": 167.029,
+    "right_window_start": 156.82999999999998,
+    "between_windows": [
+      34,
+      35
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 0
+  },
+  {
+    "boundary_time": 197.669,
+    "similarity": 0.4683735649808386,
+    "left_window_end": 204.0,
+    "right_window_start": 197.669,
+    "between_windows": [
+      46,
+      47
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 1
+  },
+  {
+    "boundary_time": 238.429,
+    "similarity": 0.2621272958592949,
+    "left_window_end": 244.6,
+    "right_window_start": 238.429,
+    "between_windows": [
+      56,
+      57
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 2
+  },
+  {
+    "boundary_time": 278.23,
+    "similarity": 0.43001800775527954,
+    "left_window_end": 284.589,
+    "right_window_start": 278.23,
+    "between_windows": [
+      68,
+      69
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 3
+  },
+  {
+    "boundary_time": 386.369,
+    "similarity": 0.4089530110359192,
+    "left_window_end": 392.519,
+    "right_window_start": 386.369,
+    "between_windows": [
+      98,
+      99
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 4
+  },
+  {
+    "boundary_time": 475.23,
+    "similarity": 0.31888702511787415,
+    "left_window_end": 480.47,
+    "right_window_start": 475.23,
+    "between_windows": [
+      122,
+      123
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 5
+  },
+  {
+    "boundary_time": 579.859,
+    "similarity": 0.4362701177597046,
+    "left_window_end": 585.25,
+    "right_window_start": 579.859,
+    "between_windows": [
+      146,
+      147
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 6
+  },
+  {
+    "boundary_time": 671.599,
+    "similarity": 0.3777943551540375,
+    "left_window_end": 678.869,
+    "right_window_start": 671.599,
+    "between_windows": [
+      171,
+      172
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 7
+  },
+  {
+    "boundary_time": 722.9,
+    "similarity": 0.4025402548957175,
+    "left_window_end": 729.46,
+    "right_window_start": 722.9,
+    "between_windows": [
+      184,
+      185
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 8
+  },
+  {
+    "boundary_time": 858.64,
+    "similarity": 0.4554305725776467,
+    "left_window_end": 868.059,
+    "right_window_start": 858.64,
+    "between_windows": [
+      216,
+      217
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 9
+  },
+  {
+    "boundary_time": 899.32,
+    "similarity": 0.4570312798023224,
+    "left_window_end": 906.679,
+    "right_window_start": 899.32,
+    "between_windows": [
+      225,
+      226
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 10
+  },
+  {
+    "boundary_time": 990.469,
+    "similarity": 0.4929404854774475,
+    "left_window_end": 995.03,
+    "right_window_start": 990.469,
+    "between_windows": [
+      248,
+      249
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 11
+  },
+  {
+    "boundary_time": 1090.92,
+    "similarity": 0.3351795476889071,
+    "left_window_end": 1098.0,
+    "right_window_start": 1090.92,
+    "between_windows": [
+      272,
+      273
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 12
+  },
+  {
+    "boundary_time": 1172.089,
+    "similarity": 0.46822196624017165,
+    "left_window_end": 1176.599,
+    "right_window_start": 1172.089,
+    "between_windows": [
+      293,
+      294
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 13
+  },
+  {
+    "boundary_time": 1370.199,
+    "similarity": 0.4664303660392761,
+    "left_window_end": 1374.719,
+    "right_window_start": 1370.199,
+    "between_windows": [
+      345,
+      346
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 14
+  },
+  {
+    "boundary_time": 1596.89,
+    "similarity": 0.3399797582614278,
+    "left_window_end": 1602.369,
+    "right_window_start": 1596.89,
+    "between_windows": [
+      402,
+      403
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 15
+  },
+  {
+    "boundary_time": 1632.979,
+    "similarity": 0.4151060480005798,
+    "left_window_end": 1644.0,
+    "right_window_start": 1632.979,
+    "between_windows": [
+      411,
+      412
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 16
+  },
+  {
+    "boundary_time": 1837.43,
+    "similarity": 0.4916214346885681,
+    "left_window_end": 1846.359,
+    "right_window_start": 1837.43,
+    "between_windows": [
+      458,
+      459
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 17
+  },
+  {
+    "boundary_time": 1921.0,
+    "similarity": 0.46489623188972473,
+    "left_window_end": 1928.119,
+    "right_window_start": 1921.0,
+    "between_windows": [
+      478,
+      479
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 18
+  },
+  {
+    "boundary_time": 2026.27,
+    "similarity": 0.4442021515489907,
+    "left_window_end": 2035.209,
+    "right_window_start": 2026.27,
+    "between_windows": [
+      503,
+      504
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 19
+  },
+  {
+    "boundary_time": 2143.489,
+    "similarity": 0.29310412961865245,
+    "left_window_end": 2149.909,
+    "right_window_start": 2143.489,
+    "between_windows": [
+      536,
+      537
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 20
+  },
+  {
+    "boundary_time": 2206.159,
+    "similarity": 0.3724501354962668,
+    "left_window_end": 2213.219,
+    "right_window_start": 2206.159,
+    "between_windows": [
+      555,
+      556
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 21
+  },
+  {
+    "boundary_time": 2237.889,
+    "similarity": 0.37099236249923706,
+    "left_window_end": 2247.659,
+    "right_window_start": 2237.889,
+    "between_windows": [
+      563,
+      564
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 22
+  },
+  {
+    "boundary_time": 2258.149,
+    "similarity": 0.4560583207642031,
+    "left_window_end": 2264.55,
+    "right_window_start": 2258.149,
+    "between_windows": [
+      568,
+      569
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 23
+  },
+  {
+    "boundary_time": 2415.659,
+    "similarity": 0.3589233671977143,
+    "left_window_end": 2424.61,
+    "right_window_start": 2415.659,
+    "between_windows": [
+      609,
+      610
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 24
+  },
+  {
+    "boundary_time": 2534.35,
+    "similarity": 0.4611727572186445,
+    "left_window_end": 2542.389,
+    "right_window_start": 2534.35,
+    "between_windows": [
+      639,
+      640
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 25
+  },
+  {
+    "boundary_time": 2565.57,
+    "similarity": 0.4044535160064697,
+    "left_window_end": 2571.51,
+    "right_window_start": 2565.57,
+    "between_windows": [
+      647,
+      648
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 26
+  },
+  {
+    "boundary_time": 2778.02,
+    "similarity": 0.4918935298919678,
+    "left_window_end": 2784.27,
+    "right_window_start": 2778.02,
+    "between_windows": [
+      696,
+      697
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 27
+  },
+  {
+    "boundary_time": 2945.81,
+    "similarity": 0.46804290819423844,
+    "left_window_end": 2954.209,
+    "right_window_start": 2945.81,
+    "between_windows": [
+      737,
+      738
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 28
+  },
+  {
+    "boundary_time": 2997.35,
+    "similarity": 0.47493594884872437,
+    "left_window_end": 3003.149,
+    "right_window_start": 2997.35,
+    "between_windows": [
+      752,
+      753
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 29
+  },
+  {
+    "boundary_time": 3094.05,
+    "similarity": 0.2769285174523017,
+    "left_window_end": 3100.86,
+    "right_window_start": 3094.05,
+    "between_windows": [
+      773,
+      774
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 30
+  },
+  {
+    "boundary_time": 3251.76,
+    "similarity": 0.3783453106880188,
+    "left_window_end": 3256.8,
+    "right_window_start": 3251.76,
+    "between_windows": [
+      812,
+      813
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 31
+  },
+  {
+    "boundary_time": 3292.939,
+    "similarity": 0.439314603805542,
+    "left_window_end": 3301.959,
+    "right_window_start": 3292.939,
+    "between_windows": [
+      821,
+      822
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 32
+  },
+  {
+    "boundary_time": 3490.919,
+    "similarity": 0.45595771074295044,
+    "left_window_end": 3502.26,
+    "right_window_start": 3490.919,
+    "between_windows": [
+      868,
+      869
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 33
+  },
+  {
+    "boundary_time": 3565.969,
+    "similarity": 0.3344913721084595,
+    "left_window_end": 3571.57,
+    "right_window_start": 3565.969,
+    "between_windows": [
+      885,
+      886
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 34
+  },
+  {
+    "boundary_time": 3624.32,
+    "similarity": 0.4727964981077014,
+    "left_window_end": 3629.81,
+    "right_window_start": 3624.32,
+    "between_windows": [
+      901,
+      902
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 35
+  },
+  {
+    "boundary_time": 3664.889,
+    "similarity": 0.37005162239074707,
+    "left_window_end": 3671.57,
+    "right_window_start": 3664.889,
+    "between_windows": [
+      913,
+      914
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 36
+  },
+  {
+    "boundary_time": 3703.75,
+    "similarity": 0.4680048804286051,
+    "left_window_end": 3712.54,
+    "right_window_start": 3703.75,
+    "between_windows": [
+      923,
+      924
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 37
+  },
+  {
+    "boundary_time": 3899.939,
+    "similarity": 0.4067000150680542,
+    "left_window_end": 3912.959,
+    "right_window_start": 3899.939,
+    "between_windows": [
+      971,
+      972
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 38
+  },
+  {
+    "boundary_time": 4025.26,
+    "similarity": 0.42376705549759003,
+    "left_window_end": 4031.389,
+    "right_window_start": 4025.26,
+    "between_windows": [
+      1002,
+      1003
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 39
+  },
+  {
+    "boundary_time": 4097.56,
+    "similarity": 0.4704924506242544,
+    "left_window_end": 4106.859,
+    "right_window_start": 4097.56,
+    "between_windows": [
+      1020,
+      1021
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 40
+  },
+  {
+    "boundary_time": 4184.83,
+    "similarity": 0.415655220488025,
+    "left_window_end": 4193.629,
+    "right_window_start": 4184.83,
+    "between_windows": [
+      1040,
+      1041
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 41
+  },
+  {
+    "boundary_time": 4405.95,
+    "similarity": 0.41913201922965165,
+    "left_window_end": 4413.35,
+    "right_window_start": 4405.95,
+    "between_windows": [
+      1096,
+      1097
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 42
+  },
+  {
+    "boundary_time": 4541.779,
+    "similarity": 0.3225017189979553,
+    "left_window_end": 4546.0,
+    "right_window_start": 4541.779,
+    "between_windows": [
+      1128,
+      1129
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 43
+  },
+  {
+    "boundary_time": 4626.58,
+    "similarity": 0.40357768535614014,
+    "left_window_end": 4634.02,
+    "right_window_start": 4626.58,
+    "between_windows": [
+      1148,
+      1149
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 44
+  },
+  {
+    "boundary_time": 4670.81,
+    "similarity": 0.4409971237182617,
+    "left_window_end": 4674.14,
+    "right_window_start": 4670.81,
+    "between_windows": [
+      1162,
+      1163
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 45
+  },
+  {
+    "boundary_time": 4706.339,
+    "similarity": 0.41710329055786133,
+    "left_window_end": 4714.229,
+    "right_window_start": 4706.339,
+    "between_windows": [
+      1171,
+      1172
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 46
+  },
+  {
+    "boundary_time": 4744.299,
+    "similarity": 0.4671676754951477,
+    "left_window_end": 4754.83,
+    "right_window_start": 4744.299,
+    "between_windows": [
+      1181,
+      1182
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 47
+  },
+  {
+    "boundary_time": 4900.529,
+    "similarity": 0.4495091736316681,
+    "left_window_end": 4907.419,
+    "right_window_start": 4900.529,
+    "between_windows": [
+      1218,
+      1219
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 48
+  },
+  {
+    "boundary_time": 4945.149,
+    "similarity": 0.3149543294283348,
+    "left_window_end": 4951.45,
+    "right_window_start": 4945.149,
+    "between_windows": [
+      1229,
+      1230
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 49
+  },
+  {
+    "boundary_time": 5058.31,
+    "similarity": 0.38465502858161926,
+    "left_window_end": 5069.18,
+    "right_window_start": 5058.31,
+    "between_windows": [
+      1260,
+      1261
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 50
+  },
+  {
+    "boundary_time": 5165.89,
+    "similarity": 0.3491058349609375,
+    "left_window_end": 5170.879,
+    "right_window_start": 5165.89,
+    "between_windows": [
+      1275,
+      1276
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 51
+  },
+  {
+    "boundary_time": 5219.16,
+    "similarity": 0.27675363740368336,
+    "left_window_end": 5228.729,
+    "right_window_start": 5219.16,
+    "between_windows": [
+      1287,
+      1288
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 52
+  },
+  {
+    "boundary_time": 5277.379,
+    "similarity": 0.16689930856227875,
+    "left_window_end": 5317.89,
+    "right_window_start": 5277.379,
+    "between_windows": [
+      1292,
+      1293
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 53
+  },
+  {
+    "boundary_time": 5334.5,
+    "similarity": 0.4683109521865845,
+    "left_window_end": 5345.549,
+    "right_window_start": 5334.5,
+    "between_windows": [
+      1295,
+      1296
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 54
+  },
+  {
+    "boundary_time": 5420.85,
+    "similarity": 0.43419891595840454,
+    "left_window_end": 5433.22,
+    "right_window_start": 5420.85,
+    "between_windows": [
+      1302,
+      1303
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 55
+  },
+  {
+    "boundary_time": 5542.939,
+    "similarity": 0.39674803614616394,
+    "left_window_end": 5580.14,
+    "right_window_start": 5542.939,
+    "between_windows": [
+      1314,
+      1315
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 56
+  },
+  {
+    "boundary_time": 5621.41,
+    "similarity": 0.3608809924650784,
+    "left_window_end": 5650.479,
+    "right_window_start": 5621.41,
+    "between_windows": [
+      1319,
+      1320
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 57
+  },
+  {
+    "boundary_time": 5754.399,
+    "similarity": 0.4403970432991463,
+    "left_window_end": 5776.04,
+    "right_window_start": 5754.399,
+    "between_windows": [
+      1323,
+      1324
+    ],
+    "reason": "segment_local_resimilarity",
+    "boundary_index": 58
+  }
+]

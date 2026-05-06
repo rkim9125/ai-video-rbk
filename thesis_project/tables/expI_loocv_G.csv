@@ -1,0 +1,5 @@
+Fold held-out,Best Stage2 threshold,Best Stage2 min-distance (s),Train macro F1 (best grid),Held-out F1
+lecture1,0.6,30,0.4249,0.4262
+lecture2,0.6,30,0.3889,0.5342
+lecture3,0.6,30,0.4493,0.3529
+lecture4,0.6,30,0.4378,0.3876

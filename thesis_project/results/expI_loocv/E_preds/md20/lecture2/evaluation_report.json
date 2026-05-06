@@ -1,0 +1,113 @@
+{
+  "tolerance_sec": 30.0,
+  "gt_count": 11,
+  "pred_count": 138,
+  "TP": 10,
+  "FP": 128,
+  "FN": 1,
+  "precision": 0.07246376811594203,
+  "recall": 0.9090909090909091,
+  "f1": 0.1342281879194631,
+  "matches": [
+    {
+      "gt_index": 0,
+      "gt_time": 23,
+      "gt_time_str": "00:00:23",
+      "gt_title": "Recap and Administrative Updates",
+      "pred_index": 0,
+      "pred_time": 51.74,
+      "pred_similarity": 0.38930484652519226,
+      "abs_error_sec": 28.740000000000002
+    },
+    {
+      "gt_index": 1,
+      "gt_time": 258,
+      "gt_time_str": "00:04:18",
+      "gt_title": "Project Team Formation and Collaboration",
+      "pred_index": 6,
+      "pred_time": 239.57,
+      "pred_similarity": 0.3544248938560486,
+      "abs_error_sec": 18.430000000000007
+    },
+    {
+      "gt_index": 3,
+      "gt_time": 950,
+      "gt_time_str": "00:15:50",
+      "gt_title": "Data Representation and Mathematical Foundations of ML",
+      "pred_index": 19,
+      "pred_time": 952.82,
+      "pred_similarity": 0.4224642813205719,
+      "abs_error_sec": 2.82000000000005
+    },
+    {
+      "gt_index": 4,
+      "gt_time": 1489,
+      "gt_time_str": "00:24:49",
+      "gt_title": "Machine Learning Paradigms (Supervised vs Unsupervised)",
+      "pred_index": 29,
+      "pred_time": 1473.8,
+      "pred_similarity": 0.2651771605014801,
+      "abs_error_sec": 15.200000000000045
+    },
+    {
+      "gt_index": 5,
+      "gt_time": 1767,
+      "gt_time_str": "00:29:27",
+      "gt_title": "Classification and Decision Making",
+      "pred_index": 35,
+      "pred_time": 1767.719,
+      "pred_similarity": 0.39006537199020386,
+      "abs_error_sec": 0.7190000000000509
+    },
+    {
+      "gt_index": 6,
+      "gt_time": 2672,
+      "gt_time_str": "00:44:32",
+      "gt_title": "Model Confidence and Prediction Metrics",
+      "pred_index": 50,
+      "pred_time": 2679.82,
+      "pred_similarity": 0.2311561107635498,
+      "abs_error_sec": 7.820000000000164
+    },
+    {
+      "gt_index": 7,
+      "gt_time": 3500,
+      "gt_time_str": "00:58:20",
+      "gt_title": "Activation Functions and Model Outputs",
+      "pred_index": 66,
+      "pred_time": 3484.479,
+      "pred_similarity": 0.48265570402145386,
+      "abs_error_sec": 15.521000000000186
+    },
+    {
+      "gt_index": 8,
+      "gt_time": 4617,
+      "gt_time_str": "01:16:57",
+      "gt_title": "Model Evaluation (ROC/AUC)",
+      "pred_index": 86,
+      "pred_time": 4620.879,
+      "pred_similarity": 0.5161292552947998,
+      "abs_error_sec": 3.8789999999999054
+    },
+    {
+      "gt_index": 9,
+      "gt_time": 5382,
+      "gt_time_str": "01:29:42",
+      "gt_title": "Hyperparameters and Training Process",
+      "pred_index": 106,
+      "pred_time": 5361.93,
+      "pred_similarity": 0.4449078440666199,
+      "abs_error_sec": 20.06999999999971
+    },
+    {
+      "gt_index": 10,
+      "gt_time": 5660,
+      "gt_time_str": "01:34:20",
+      "gt_title": "Demonstration and Q&A",
+      "pred_index": 112,
+      "pred_time": 5636.529,
+      "pred_similarity": 0.39514681696891785,
+      "abs_error_sec": 23.47099999999955
+    }
+  ]
+}

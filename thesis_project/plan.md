@@ -56,63 +56,6 @@ Week 1에 시간 남으면 cross-lecture는 작은 부속 실험으로 추가.
 
 이 framing이 Abstract, Chapter 1, Chapter 5, Chapter 6 — 네 군데에 일관되게 흐르도록.
 
----
-
-## 앞으로 3주 plan
-
-### Week 1 — 4/24 ~ 5/1 (실험 + diagram)
-- Hierarchical 2-stage prediction 구현 (coarse → 각 coarse segment 안에서 fine)
-- 4개 강의 모두 돌리고 precision / recall / F1 계산 (fine GT 기준)
-- Single-stage baseline (Exp E2) 와 비교
-- 핵심 diagram 2개:
-  - Coarse vs fine GT timeline (한 강의, 두 줄로 boundary 비교)
-  - Hierarchical pipeline 아키텍처
-- 시간 남으면 leave-one-lecture-out cross-validation 추가
-
-### Week 2 — 5/2 ~ 5/8 (본문 작성)
-- Chapter 4 Results: A–E coarse, F (fine GT 구축), A–E fine, hierarchical, optional cross-lecture
-- Chapter 5 Discussion: ceiling 진단 + hierarchical lift + 솔직한 한계 + production까지 필요한 것
-- 실험별 schematic (A, B, C, D) 추가 — 예쁘기보다 명확하게
-
-### Week 3 — 5/9 ~ 5/15 (마무리 + 제출)
-- Chapter 6 Conclusion + Future Work
-- Abstract
-- Ch 1–3 terminology pass (첫 등장 시 정의, 이후 일관성)
-- 전체 thesis 소리 내서 읽기 (톤 점검)
-- 5/15 금요일 draft 제출
-
-### Draft 이후
-- 5/15–5/29: Nic 피드백 반영 → final 제출
-- 6/4–6/5: presentation (slide template 이미 project에 있음)
-
----
-
-## 이번 주 액션 리스트 (4/24 → 4/30) — 다음 미팅 대비
-
-### 수요일 미팅에 보여줄 것
-1. **Hierarchical 2-stage prediction이 end-to-end로 작동** — 최소 1개 강의, 가능하면 4개 다. 결과가 엄청나야 하는 게 아니라 pipeline이 돌아야 함.
-2. **결과 표** — single-stage (E2) vs hierarchical, fine GT 기준, 4개 강의, precision / recall / F1.
-3. **Coarse vs fine GT timeline diagram** — thesis 전체의 headline figure.
-4. **Hierarchical pipeline diagram** — 새 실험이 뭘 하는지 시각적으로.
-5. **새 framing 한 단락 plain English** — 소리 내서 읽기 테스트 통과한 버전.
-
-### 일별 목표
-- **목 4/24 (오늘 저녁):** Hierarchical setup 결정 — coarse predictor는 Exp A baseline 재사용? Threshold는? Coarse segment 안에서 fine을 어떻게 돌릴지? 종이에 스케치.
-- **금 4/25:** Coarse stage 구현 (기존 코드에서 min-distance만 늘려서 큰 section break 잡는 방식이 가장 빠를 듯).
-- **토 4/26:** Fine stage를 각 coarse segment 안에서 돌리도록 구현. 두 단계 합치는 로직.
-- **일 4/27:** 4개 강의 다 돌리고 CSV 생성, 숫자 sanity check.
-- **월 4/28:** 핵심 diagram 2개 만들기. 결과 표 draft.
-- **화 4/29:** Plain English 요약 한 단락 작성 + 미팅에서 Nic한테 walk through 할 짧은 script.
-- **수 4/30:** 미팅.
-
-### 이번 주에 안 할 것 (보류)
-- Chapter 4 본문 작성
-- Cross-lecture 실험 (hierarchical 일찍 끝나면 추가)
-- Glossary 섹션
-- Experiment A–D별 schematic
-- Ch 1–3 terminology 다듬기
-
----
 
 ## 글쓰기 규칙 (지금부터 적용)
 
@@ -124,14 +67,6 @@ Week 1에 시간 남으면 cross-lecture는 작은 부속 실험으로 추가.
 6. AI output은 1차 draft로만. 최종 문장은 내 목소리로 직접.
 
 ---
-
-## 수요일 미팅에 Nic한테 물어볼 것
-
-1. Hierarchical 선택이 맞는지, 아니면 cross-lecture도 같이 원하는지?
-2. 새 framing ("ceiling 인정 + 어떻게 올렸는지") 이 Nic이 원했던 방향인지?
-3. Glossary 따로 안 만들고 본문에서 정의하는 걸로 OK인지?
-4. Headline diagram (coarse vs fine timeline) 이 의도한 메시지를 잘 전달하는지?
-5. 다음 checkpoint에서 보고 싶어 하는 건 뭔지?
 
 
 

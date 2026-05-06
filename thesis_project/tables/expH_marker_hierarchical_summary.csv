@@ -1,0 +1,6 @@
+Setting,Stage1,Marker stage3,Stage2 Threshold,Stage2 Min-distance,Precision,Recall,F1,Predicted Boundaries,Stage1 Boundaries,Markers added avg
+Baseline,none,no,0.6,30s,0.2863,0.7877,0.4187,95.5,0.0,0.0
+G2_best,oracle,no,0.6,30s,0.2925,0.7877,0.4252,93.5,9.75,0.0
+G4_best,predicted,no,0.6,30s,0.286,0.7724,0.4161,93.75,8.25,0.0
+H1,oracle,yes,0.6,30s,0.2883,0.8179,0.4248,98.5,9.75,5.0
+H2,predicted,yes,0.6,30s,0.2837,0.81,0.419,99.0,8.25,5.25
